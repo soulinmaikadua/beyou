@@ -2,7 +2,7 @@
 	{
 		"id": "com.beyou.math24",
 		"start_year": 2023,
-		"start_month": 8,
+		"start_month": 9,
 		"start_date": 3
 	},
 	{
@@ -14,13 +14,13 @@
 	{
 		"id": "com.beyou.emoji",
 		"start_year": 2023,
-		"start_month": 8,
+		"start_month": 9,
 		"start_date": 3
 	},
 	{
 		"id": "com.beyou.worldflags",
 		"start_year": 2023,
-		"start_month": 8,
+		"start_month": 9,
 		"start_date": 3
 	}
 ]
