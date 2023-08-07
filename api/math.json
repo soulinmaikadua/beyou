@@ -1,0 +1,377 @@
+[
+	{
+		"question": "What is 10 + 5?",
+		"options": ["15", "20", "12", "8"],
+		"correctAnswer": "15"
+	},
+	{
+		"question": "If a triangle has a base of 8 units and a height of 6 units, what is its area?",
+		"options": ["12", "24", "16", "20"],
+		"correctAnswer": "24"
+	},
+	{
+		"question": "What is 7 × 4?",
+		"options": ["28", "21", "35", "42"],
+		"correctAnswer": "28"
+	},
+	{
+		"question": "If a rectangle has a length of 12 units and a width of 5 units, what is its perimeter?",
+		"options": ["40", "34", "22", "60"],
+		"correctAnswer": "34"
+	},
+	{
+		"question": "What is 25 divided by 5?",
+		"options": ["3", "7", "5", "6"],
+		"correctAnswer": "5"
+	},
+	{
+		"question": "What is 3 × 7?",
+		"options": ["14", "17", "21", "24"],
+		"correctAnswer": "21"
+	},
+	{
+		"question": "If you have 8 apples and you eat 3 of them, how many do you have left?",
+		"options": ["5", "8", "3", "2"],
+		"correctAnswer": "5"
+	},
+	{
+		"question": "What is 18 ÷ 2?",
+		"options": ["7", "8", "9", "10"],
+		"correctAnswer": "9"
+	},
+	{
+		"question": "If a square has a side length of 9 units, what is its area?",
+		"options": ["27", "36", "18", "81"],
+		"correctAnswer": "81"
+	},
+	{
+		"question": "What is 14 - 9?",
+		"options": ["3", "5", "4", "7"],
+		"correctAnswer": "5"
+	},
+	{
+		"question": "If a circle's diameter is 10 units, what is its circumference?",
+		"options": ["20π", "25π", "30π", "40π"],
+		"correctAnswer": "10π"
+	},
+	{
+		"question": "What is 6 squared (6^2)?",
+		"options": ["12", "18", "36", "72"],
+		"correctAnswer": "36"
+	},
+	{
+		"question": "If you have 5 friends and you give each of them 2 stickers, how many stickers did you give in total?",
+		"options": ["7", "10", "8", "9"],
+		"correctAnswer": "10"
+	},
+	{
+		"question": "What is the next number in this sequence: 2, 4, 6, 8, ...?",
+		"options": ["10", "11", "12", "14"],
+		"correctAnswer": "10"
+	},
+	{
+		"question": "If a rectangle's length is twice its width and its perimeter is 24 units, what is its width?",
+		"options": ["4", "6", "3", "8"],
+		"correctAnswer": "4"
+	},
+	{
+		"question": "If a triangle has two sides of 5 units each and an angle of 90 degrees between them, what is the length of the third side?",
+		"options": ["4 units", "7 units", "10 units", "25 units"],
+		"correctAnswer": "7 units"
+	},
+	{
+		"question": "What is the sum of the angles in a triangle?",
+		"options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+		"correctAnswer": "180 degrees"
+	},
+	{
+		"question": "If a rectangle has a length of 12 units and a width of 8 units, what is its area?",
+		"options": ["20 square units", "48 square units", "80 square units", "96 square units"],
+		"correctAnswer": "96 square units"
+	},
+	{
+		"question": "What is the smallest prime number?",
+		"options": ["1", "2", "3", "5"],
+		"correctAnswer": "2"
+	},
+	{
+		"question": "If a clock's hour hand is pointing at 3 and its minute hand is pointing at 12, what time is it?",
+		"options": ["12:15", "3:30", "6:45", "9:00"],
+		"correctAnswer": "3:30"
+	},
+	{
+		"question": "What is the result of 9 + 6 ÷ 3?",
+		"options": ["5", "7", "9", "11"],
+		"correctAnswer": "11"
+	},
+	{
+		"question": "What is the next number in this sequence: 3, 6, 9, 12, ...?",
+		"options": ["14", "15", "18", "21"],
+		"correctAnswer": "15"
+	},
+	{
+		"question": "If you have a square with a side length of 7 units, what is its perimeter?",
+		"options": ["14 units", "21 units", "28 units", "49 units"],
+		"correctAnswer": "28 units"
+	},
+	{
+		"question": "What is the result of 4 × 3 - 5 ÷ 2?",
+		"options": ["8", "10", "11", "12"],
+		"correctAnswer": "11"
+	},
+	{
+		"question": "If a number is divisible by both 2 and 3, what is the smallest positive integer it could be?",
+		"options": ["1", "2", "3", "6"],
+		"correctAnswer": "6"
+	},
+	{
+		"question": "What is the product of 8 × 7?",
+		"options": ["42", "48", "56", "64"],
+		"correctAnswer": "56"
+	},
+	{
+		"question": "What is the area of a square with a side length of 10 units?",
+		"options": ["40 square units", "50 square units", "60 square units", "100 square units"],
+		"correctAnswer": "100 square units"
+	},
+	{
+		"question": "If a number is both even and a multiple of 3, what is the smallest positive integer it could be?",
+		"options": ["2", "4", "6", "8"],
+		"correctAnswer": "6"
+	},
+	{
+		"question": "What is the next number in this sequence: 2, 5, 10, 17, ...?",
+		"options": ["22", "25", "30", "37"],
+		"correctAnswer": "26"
+	},
+	{
+		"question": "If you subtract 15 from 30, what is the result?",
+		"options": ["10", "15", "20", "25"],
+		"correctAnswer": "15"
+	},
+	{
+		"question": "What is the largest two-digit prime number?",
+		"options": ["89", "97", "101", "109"],
+		"correctAnswer": "97"
+	},
+	{
+		"question": "If a rectangle's length is 9 units and its width is 5 units, what is its perimeter?",
+		"options": ["14 units", "18 units", "28 units", "36 units"],
+		"correctAnswer": "28 units"
+	},
+	{
+		"question": "What is the result of 16 ÷ 4 × 3?",
+		"options": ["3", "9", "12", "16"],
+		"correctAnswer": "12"
+	},
+	{
+		"question": "If you have 5 apples and give away 3, how many apples do you have left?",
+		"options": ["2 apples", "3 apples", "5 apples", "8 apples"],
+		"correctAnswer": "2 apples"
+	},
+	{
+		"question": "What is the sum of the first five prime numbers?",
+		"options": ["15", "23", "27", "33"],
+		"correctAnswer": "28"
+	},
+	{
+		"question": "What is the next shape in this pattern: triangle, square, circle, triangle, ...?",
+		"options": ["square", "circle", "pentagon", "hexagon"],
+		"correctAnswer": "circle"
+	},
+	{
+		"question": "What is the result of 25 - 12 + 8?",
+		"options": ["11", "17", "21", "33"],
+		"correctAnswer": "21"
+	},
+	{
+		"question": "What is the area of a triangle with a base of 6 units and a height of 9 units?",
+		"options": ["18 square units", "24 square units", "27 square units", "36 square units"],
+		"correctAnswer": "27 square units"
+	},
+	{
+		"question": "What is the smallest composite number?",
+		"options": ["1", "2", "4", "6"],
+		"correctAnswer": "4"
+	},
+	{
+		"question": "What is the next number in this sequence: 3, 6, 12, 24, ...?",
+		"options": ["32", "36", "48", "60"],
+		"correctAnswer": "48"
+	},
+	{
+		"question": "If you multiply 9 by 7, what is the result?",
+		"options": ["45", "54", "63", "72"],
+		"correctAnswer": "63"
+	},
+	{
+		"question": "What is the perimeter of a rectangle with a length of 15 units and a width of 8 units?",
+		"options": ["30 units", "46 units", "56 units", "64 units"],
+		"correctAnswer": "46 units"
+	},
+	{
+		"question": "If a square has an area of 49 square units, what is the length of each side?",
+		"options": ["4 units", "5 units", "6 units", "7 units"],
+		"correctAnswer": "7 units"
+	},
+	{
+		"question": "What is the result of 18 ÷ 3 + 5?",
+		"options": ["7", "11", "13", "23"],
+		"correctAnswer": "11"
+	},
+	{
+		"question": "If you have 3 cookies and share them equally among 2 friends, how many cookies does each friend get?",
+		"options": ["1 cookie", "1.5 cookies", "2 cookies", "2.5 cookies"],
+		"correctAnswer": "1.5 cookies"
+	},
+	{
+		"question": "If you have 7 pencils and give away 2, how many pencils do you have left?",
+		"options": ["3 pencils", "4 pencils", "5 pencils", "6 pencils"],
+		"correctAnswer": "5 pencils"
+	},
+	{
+		"question": "What is the result of 9 × 8 ÷ 2?",
+		"options": ["18", "32", "36", "72"],
+		"correctAnswer": "36"
+	},
+	{
+		"question": "What is the value of 5 squared?",
+		"options": ["10", "15", "20", "25"],
+		"correctAnswer": "25"
+	},
+	{
+		"question": "What is the sum of 9 and 15?",
+		"options": ["22", "24", "26", "30"],
+		"correctAnswer": "24"
+	},
+	{
+		"question": "If you add 3 to a number and then subtract 5, what is the result?",
+		"options": ["-2", "-1", "0", "1"],
+		"correctAnswer": "-2"
+	},
+	{
+		"question": "What is the next number in this sequence: 1, 3, 6, 10, ...?",
+		"options": ["12", "15", "18", "21"],
+		"correctAnswer": "15"
+	},
+	{
+		"question": "What is the result of 14 - 7 ÷ 2?",
+		"options": ["4", "5", "6", "7"],
+		"correctAnswer": "5"
+	},
+	{
+		"question": "If a rectangle's length is double its width and the width is 4 units, what is the perimeter?",
+		"options": ["12 units", "16 units", "20 units", "24 units"],
+		"correctAnswer": "20 units"
+	},
+	{
+		"question": "What is the product of 11 × 4?",
+		"options": ["34", "44", "54", "64"],
+		"correctAnswer": "44"
+	},
+	{
+		"question": "What is the largest prime number less than 30?",
+		"options": ["23", "26", "29", "31"],
+		"correctAnswer": "29"
+	},
+	{
+		"question": "What is the result of 18 + (4 × 3) ÷ 2?",
+		"options": ["18", "21", "24", "27"],
+		"correctAnswer": "24"
+	},
+	{
+		"question": "What is the area of a rectangle with a length of 12 units and a width of 5 units?",
+		"options": ["48 square units", "55 square units", "60 square units", "72 square units"],
+		"correctAnswer": "60 square units"
+	},
+	{
+		"question": "What is the next shape in this pattern: triangle, square, pentagon, hexagon, ...?",
+		"options": ["heptagon", "octagon", "nonagon", "decagon"],
+		"correctAnswer": "heptagon"
+	},
+	{
+		"question": "If you divide 25 by 5, what is the quotient?",
+		"options": ["3", "4", "5", "6"],
+		"correctAnswer": "5"
+	},
+	{
+		"question": "What is the result of 7 × (10 - 3) + 5?",
+		"options": ["42", "47", "52", "57"],
+		"correctAnswer": "52"
+	},
+	{
+		"question": "What is the perimeter of a triangle with side lengths 6, 8, and 10 units?",
+		"options": ["20 units", "24 units", "30 units", "36 units"],
+		"correctAnswer": "24 units"
+	},
+	{
+		"question": "What is the value of 2 cubed?",
+		"options": ["4", "6", "8", "10"],
+		"correctAnswer": "8"
+	},
+	{
+		"question": "If a rectangle's length is 15 units and its width is 7 units, what is its area?",
+		"options": ["85 square units", "95 square units", "105 square units", "115 square units"],
+		"correctAnswer": "105 square units"
+	},
+	{
+		"question": "What is the result of 16 + 8 - 5?",
+		"options": ["12", "15", "19", "24"],
+		"correctAnswer": "19"
+	},
+	{
+		"question": "If you have 4 marbles and add 7 more, how many marbles do you have?",
+		"options": ["4 marbles", "7 marbles", "11 marbles", "14 marbles"],
+		"correctAnswer": "11 marbles"
+	},
+	{
+		"question": "What is the sum of the first ten even numbers?",
+		"options": ["45", "50", "55", "60"],
+		"correctAnswer": "50"
+	},
+	{
+		"question": "What is the result of 36 ÷ 9?",
+		"options": ["2", "3", "4", "6"],
+		"correctAnswer": "4"
+	},
+	{
+		"question": "If you have 2 dimes and 4 nickels, how much money do you have?",
+		"options": ["15 cents", "20 cents", "25 cents", "30 cents"],
+		"correctAnswer": "30 cents"
+	},
+	{
+		"question": "What is the area of a circle with a radius of 5 units?",
+		"options": ["25 square units", "50 square units", "75 square units", "100 square units"],
+		"correctAnswer": "25 square units"
+	},
+	{
+		"question": "What is the next number in this sequence: 3, 9, 27, 81, ...?",
+		"options": ["121", "243", "324", "729"],
+		"correctAnswer": "243"
+	},
+	{
+		"question": "What is the result of 14 - 3 × 2 + 5?",
+		"options": ["9", "11", "12", "17"],
+		"correctAnswer": "9"
+	},
+	{
+		"question": "If you multiply a number by 4 and then divide by 2, what is the result?",
+		"options": ["2", "3", "4", "6"],
+		"correctAnswer": "2"
+	},
+	{
+		"question": "What is the sum of the first five odd numbers?",
+		"options": ["10", "15", "20", "25"],
+		"correctAnswer": "25"
+	},
+	{
+		"question": "What is the next shape in this pattern: square, triangle, hexagon, octagon, ...?",
+		"options": ["decagon", "nonagon", "pentagon", "dodecagon"],
+		"correctAnswer": "decagon"
+	},
+	{
+		"question": "What is the product of 9 × 6?",
+		"options": ["45", "54", "63", "72"],
+		"correctAnswer": "54"
+	}
+]
