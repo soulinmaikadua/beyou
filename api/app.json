@@ -1,24 +1,24 @@
 [
 	{
-		"game_image": "soulinmaikadua.github.io/beyou/images/app/math24.png",
+		"game_image": "https://soulinmaikadua.github.io/beyou/images/app/math24.png",
 		"game_name": "Math 24",
 		"link": "https://play.google.com/store/apps/details?id=com.beyou.math24",
 		"type": "Education"
 	},
 	{
-		"game_image": "soulinmaikadua.github.io/beyou/images/app/math24.png",
+		"game_image": "https://soulinmaikadua.github.io/beyou/images/app/math24.png",
 		"game_name": "Emoji",
 		"link": "https://play.google.com/store/apps/details?id=com.beyou.emoji",
 		"type": "Puzzle"
 	},
 	{
-		"game_image": "soulinmaikadua.github.io/beyou/images/app/math24.png",
+		"game_image": "https://soulinmaikadua.github.io/beyou/images/app/math24.png",
 		"game_name": "World Flags",
 		"link": "https://play.google.com/store/apps/details?id=com.beyou.worldflags",
 		"type": "Quiz"
 	},
 	{
-		"game_image": "soulinmaikadua.github.io/beyou/images/app/math24.png",
+		"game_image": "https://soulinmaikadua.github.io/beyou/images/app/math24.png",
 		"game_name": "Cards",
 		"link": "https://play.google.com/store/apps/details?id=com.sou.dev3.cards",
 		"type": "Card"
