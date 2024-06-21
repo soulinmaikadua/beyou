@@ -1,0 +1,16 @@
+[
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-pronouns.png",
+		"korean": "대명사에 관한 어휘",
+		"lao": "Vocabularies (ຄຳສັບ)",
+		"route": "/korean-vocabulary-lists",
+		"slug": "vocabularies"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/numeric.png",
+		"korean": "숫자에 관한 단어",
+		"lao": "Phrases / Sentences (ວະລີ / ປະໂຫຍກ)",
+		"route": "/korean-phrases",
+		"slug": "phrases"
+	}
+]
