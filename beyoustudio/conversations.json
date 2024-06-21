@@ -1,0 +1,16 @@
+[
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/greeting-phrases.png",
+		"korean": "인사말 문구",
+		"lao": "ປະໂຫຍກທັກທາຍ",
+		"route": "/conversations/greeting-conversations",
+		"slug": "greeting-conversations"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/introduce-yourself.png",
+		"korean": "인사말 문구",
+		"lao": "ປະໂຫຍກທັກທາຍ",
+		"route": "/conversations/choosing-a-time-to-meet",
+		"slug": "choosing-a-time-to-meet"
+	}
+]

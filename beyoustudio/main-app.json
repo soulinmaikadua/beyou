@@ -12,5 +12,12 @@
 		"lao": "Phrases / Sentences (ວະລີ / ປະໂຫຍກ)",
 		"route": "/korean-phrases",
 		"slug": "phrases"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/numeric.png",
+		"korean": "숫자에 관한 단어",
+		"lao": "Conversations",
+		"route": "/conversations",
+		"slug": "conversations"
 	}
 ]
