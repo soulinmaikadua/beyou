@@ -12,5 +12,33 @@
 		"lao": "ຄໍາສັບກ່ຽວກັບຕົວເລກ",
 		"route": "/korean-vocabulary-lists/numeric",
 		"slug": "numeric"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-maths.png",
+		"korean": "수학에 관한 어휘",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຄະ​ນິດ​ສາດ​",
+		"route": "/korean-vocabulary-lists/about-maths",
+		"slug": "about-maths"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-math-shape.png",
+		"korean": "수학 모양에 관한 어휘",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຮູບ​ຮ່າງ​ຄະ​ນິດ​ສາດ​",
+		"route": "/korean-vocabulary-lists/about-math-shape",
+		"slug": "about-math-shape"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/days.png",
+		"korean": "일에 관한 말",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ວັນ​",
+		"route": "/korean-vocabulary-lists/days",
+		"slug": "days"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/dates.png",
+		"korean": "날짜에 관한 말",
+		"lao": "ຄໍາສັບກ່ຽວກັບວັນທີ",
+		"route": "/korean-vocabulary-lists/dates",
+		"slug": "dates"
 	}
 ]
