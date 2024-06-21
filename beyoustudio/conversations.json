@@ -1,16 +1,44 @@
 [
 	{
-		"image": "https://soulinmaikadua.github.io/beyou/studio/greeting-phrases.png",
+		"image": "https://soulinmaikadua.github.io/beyou/studio/where-you-from.png",
 		"korean": "인사말 문구",
-		"lao": "ປະໂຫຍກທັກທາຍ",
+		"lao": "ເຈົ້າ​ມາ​ຈາກ​ໃສ",
 		"route": "/conversations/greeting-conversations",
 		"slug": "greeting-conversations"
 	},
 	{
-		"image": "https://soulinmaikadua.github.io/beyou/studio/introduce-yourself.png",
-		"korean": "인사말 문구",
-		"lao": "ປະໂຫຍກທັກທາຍ",
-		"route": "/conversations/choosing-a-time-to-meet",
-		"slug": "choosing-a-time-to-meet"
+		"image": "https://soulinmaikadua.github.io/beyou/studio/a-time-to-meet.png",
+		"korean": "만날 시간을 선택하다",
+		"lao": "ເລືອກເວລາທີ່ຈະພົບ",
+		"route": "/conversations/a-time-to-meet",
+		"slug": "a-time-to-meet"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/asking-direction-at-airport.png",
+		"korean": "공항에서",
+		"lao": "ຢູ່ສະໜາມບິນ",
+		"route": "/conversations/asking-direction-at-airport",
+		"slug": "asking-direction-at-airport"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/asking-bus-station.png",
+		"korean": "버스 정류장이 어디에 있습니까",
+		"lao": "ສະຖານີລົດເມຢູ່ໃສ",
+		"route": "/conversations/asking-bus-station",
+		"slug": "asking-bus-station"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/booking-a-restaurant.png",
+		"korean": "버스 정류장이 어디에 있습니까",
+		"lao": "ຈອງຮ້ານອາຫານ",
+		"route": "/conversations/booking-a-restaurant",
+		"slug": "booking-a-restaurant"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/ordering-food-at-restaurant.png",
+		"korean": "레스토랑에서 음식 주문하기",
+		"lao": "ສັ່ງອາຫານຢູ່ຮ້ານອາຫານ",
+		"route": "/korean-conversations/ordering-food-at-restaurant",
+		"slug": "ordering-food-at-restaurant"
 	}
 ]
