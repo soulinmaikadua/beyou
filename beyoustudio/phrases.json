@@ -12,5 +12,26 @@
 		"lao": "ປະໂຫຍກທັກທາຍ",
 		"route": "/korean-phrases/introduce-yourself",
 		"slug": "introduce-yourself"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/daily-routines.png",
+		"korean": "일상에 관한 문장",
+		"lao": "ປະໂຫຍກກ່ຽວກັບກິດຈະວັດປະຈໍາວັນ",
+		"route": "/korean-phrases/daily-routines",
+		"slug": "daily-routines"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/whats-your-reason-for-learning-a-language.png",
+		"korean": "당신이 언어를 배우는 이유는 무엇입니까?",
+		"lao": "ເຫດຜົນຫຍັງທີ່ເຮັດໃຫ້ເຈົ້າຮຽນພາສາ",
+		"route": "/korean-phrases/whats-your-reason-for-learning-a-language",
+		"slug": "whats-your-reason-for-learning-a-language"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/to-say-sorry.png",
+		"korean": "미안하다고 말하는 일반적인 방법",
+		"lao": "ວິທີການຄຳຂໍໂທດ",
+		"route": "/korean-phrases/to-say-sorry",
+		"slug": "to-say-sorry"
 	}
 ]
