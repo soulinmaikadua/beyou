@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "korean": "과일",
+    "read": "gwa-il",
+    "english": "fruit",
+    "lao": "ຫມາກໄມ້",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "나는 아침에 과일을 먹습니다.",
+        "read": "Naneun achim-e gwail-eul meogseumnida.",
+        "english": "I eat fruit in the morning.",
+        "lao": "ຂ້ອຍກິນຜົນໄມ້ໃນຕອນເຊົ້າ."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "korean": "오렌지",
+    "read": "o-ren-ji",
+    "english": "orange",
+    "lao": "ໝາກກ້ຽງ",
+    "speech": "n",
+    "emoji": "🍊",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "잘 익은 오렌지",
+        "read": "jal igeun orenji",
+        "english": "ripe orange",
+        "lao": "ສີສົ້ມສຸກ"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "korean": "바나나",
+    "read": "ba-na-na",
+    "english": "banana",
+    "lao": "ໝາກກ້ວຍ",
+    "speech": "n",
+    "emoji": "🍌",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "잘 익은 바나나와 썩은 바나나",
+        "read": "jal igeun bananawa sseogeun banana",
+        "english": "a ripe banana and a rotten banana",
+        "lao": "ໝາກກ້ວຍສຸກ ແລະ ກ້ວຍເໝັນ"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "korean": "사과",
+    "read": "sa-gwa",
+    "english": "apple",
+    "lao": "ໝາກໂປມ",
+    "speech": "n",
+    "emoji": "🍎",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "사과 주스, 오렌지 주스 그리고 포도 주스",
+        "read": "sagwa juseu, orenji juseu geurigo podo juseu",
+        "english": "apple juice, orange juice, and grape juice",
+        "lao": "ນໍ້າຫມາກໂປ້ມ, ນໍ້າຫມາກກ້ຽງ, ແລະ ນໍ້າຫມາກອະງຸ່ນ"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "korean": "복숭아",
+    "read": "bok-sung-a",
+    "english": "peach",
+    "lao": "ໝາກພີດ",
+    "speech": "n",
+    "emoji": "🍑",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "복숭아와 자른 복숭아",
+        "read": "boksunga-wa jareun boksunga",
+        "english": "peach and a sliced peach",
+        "lao": "ໝາກພີດ ແລະ ພີດຊອຍບາງ"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "korean": "토마토",
+    "read": "to-ma-to",
+    "english": "tomato",
+    "lao": "ຫມາກເລັ່ນ",
+    "speech": "n",
+    "emoji": "🍅",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "토마토는 과일입니다.",
+        "read": "tomatoneun gwairimnida",
+        "english": "Tomatoes are fruit.",
+        "lao": "ໝາກເລັ່ນແມ່ນໝາກໄມ້"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "korean": "수박",
+    "read": "su-bak",
+    "english": "watermelon",
+    "lao": "ໝາກໂມ",
+    "speech": "n",
+    "emoji": "🍉",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "수박 한 통과 수박 한 조각",
+        "read": "subak han tonggwa subak han jogak",
+        "english": "whole watermelon and a slice of watermelon",
+        "lao": "ໝາກໂມທັງໝົດ ແລະໝາກໂມບາງໜ່ວຍ"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "korean": "딸기",
+    "read": "ttal-gi",
+    "english": "strawberry",
+    "lao": "ສະຕໍເບີຣີ",
+    "speech": "n",
+    "emoji": "🍓",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "딸기는 맛있고 몸에도 좋습니다.",
+        "read": "ttalgineun masikko momedo jotsseumnida",
+        "english": "Strawberries are delicious and good for the body.",
+        "lao": "ສະຕໍເບີຣີມີລົດຊາດແຊບ ແລະ ດີຕໍ່ຮ່າງກາຍ."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "korean": "체리",
+    "read": "che-ri",
+    "english": "cherry",
+    "lao": "ໝາກເຊຣີ",
+    "speech": "n",
+    "emoji": "🍒",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "두 개의 체리",
+        "read": "du gaeui cheri",
+        "english": "two cherries",
+        "lao": "ໝາກເຊຣີສອງໜ່ວຍ"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "korean": "포도",
+    "read": "po-do",
+    "english": "grape",
+    "lao": "ໝາກອະງຸ່ນ",
+    "speech": "n",
+    "emoji": "🍇",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "한 송이의 포도와 한 송이의 청포도",
+        "read": "han songiui podowa han songiui cheongpodo",
+        "english": "a bunch of red grapes and a bunch of green grapes",
+        "lao": "ຫນຶ່ງພວນອະງຸ່ນສີແດງ ແລະ ຫນຶ່ງພວນອະງຸ່ນສີຂຽວ"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "korean": "망고",
+    "read": "mang-go",
+    "english": "mango",
+    "lao": "ໝາກມ່ວງ",
+    "speech": "n",
+    "emoji": "🥭",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "잘 익은 망고",
+        "read": "jal igeun mango",
+        "english": "a ripe mango",
+        "lao": "ໝາກມ່ວງສຸກ"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "korean": "파인애플",
+    "read": "pain-ae-peul",
+    "english": "pineapple",
+    "lao": "ໝາກນັດ",
+    "speech": "n",
+    "emoji": "🍍",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "신선한 파인애플",
+        "read": "sinsunhan painaepeul",
+        "english": "fresh pineapple",
+        "lao": "ຫມາກນັດສົດ"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "korean": "레몬",
+    "read": "le-mon",
+    "english": "lemon",
+    "lao": "ໝາກນາວ",
+    "speech": "n",
+    "emoji": "🍋",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "레몬 한 조각",
+        "read": "lemon han jogak",
+        "english": "a slice of lemon",
+        "lao": "ຫນຶ່ງຊີ້ນຫມາກນາວ"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "korean": "코코넛",
+    "read": "ko-ko-neot",
+    "english": "coconut",
+    "lao": "ໝາກພ້າວ",
+    "speech": "n",
+    "emoji": "🥥",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "코코넛 우유",
+        "read": "kokoneot uyu",
+        "english": "coconut milk",
+        "lao": "ນ້ຳກາມຫມາກພ້າວ"
+      }
+    ]
+  }
+]

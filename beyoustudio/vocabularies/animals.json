@@ -1,0 +1,470 @@
+[
+  {
+    "id": 1,
+    "korean": "닭",
+    "read": "dalg",
+    "english": "chicken",
+    "lao": "ໄກ່",
+    "speech": "n",
+    "emoji": "🐓",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "나는 닭고기와 밥을 먹어요.",
+        "read": "Naneun dalg-gogiwa bab-eul meog-eoyo.",
+        "english": "I eat chicken and rice.",
+        "lao": "ຂ້ອຍກິນໄກ່ ແລະ ເຂົ້າ."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "korean": "개",
+    "read": "gae",
+    "english": "dog",
+    "lao": "ໝາ",
+    "speech": "n",
+    "emoji": "🐕",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "저기 개가 짖고 있어요.",
+        "read": "Jeogi gaega jijgo iss-eoyo.",
+        "english": "A dog is barking right there.",
+        "lao": "ໝາກຳລັງເຫົ່າຢູ່ບ່ອນນັ້ນ."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "korean": "고양이",
+    "read": "go-yan-gi",
+    "english": "cat",
+    "lao": "ແມວ",
+    "speech": "n",
+    "emoji": "🐈",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "검고 하얀 고양이",
+        "read": "geomggo hayan goyangi",
+        "english": "black and white cat",
+        "lao": "ແມວສີດໍາ ແລະ ສີຂາວ"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "korean": "오리",
+    "read": "o-li",
+    "english": "duck",
+    "lao": "ເປັດ",
+    "speech": "n",
+    "emoji": "🦆",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "우리는 공원에서 오리들에게 빵을 먹였습니다.",
+        "read": "U-ri-neun gong-won-e-seo o-ri-deul-e-ge ppang-eul meo-gyeot-seum-ni-da.",
+        "english": "We fed the ducks at the park with some bread.",
+        "lao": "ພວກເຮົາໃຫ້ອາຫານເປັດຢູ່ສວນສາທາລະນະດ້ວຍເຂົ້າຈີ່."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "korean": "돼지",
+    "read": "dwae-ji",
+    "english": "pig",
+    "lao": "ຫມູ",
+    "speech": "n",
+    "emoji": "🐖",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "돼지들은 영리한 동물입니다.",
+        "read": "Dwaejideureun yeongnihan dongmurimnida.",
+        "english": "Pigs are intelligent animals.",
+        "lao": "ຫມູເປັນສັດທີ່ສະຫຼາດ."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "korean": "염소",
+    "read": "yeom-so",
+    "english": "goat",
+    "lao": "ແບ້",
+    "speech": "n",
+    "emoji": "🐐",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "농부는 매일 아침 염소들을 젖을 짭니다.",
+        "read": "Nong-bu-neun mae-il a-chim yeom-so-deul-eul jeot-eul jjam-ni-da.",
+        "english": "The farmer milks the goats every morning.",
+        "lao": "ຊາວກະສິກອນໃຫ້ນົມແບ້ທຸກໆເຊົ້າ."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "korean": "말",
+    "read": "mal",
+    "english": "horse",
+    "lao": "ມ້າ",
+    "speech": "n",
+    "emoji": "🐎",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "여자가 말 위에 있습니다.",
+        "read": "Yeojaga mal wie itsseumnida.",
+        "english": "The woman is on the horse.",
+        "lao": "ຜູ້ຍິງຢູ່ເທິງມ້າ."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "korean": "암소",
+    "read": "am-so",
+    "english": "cow",
+    "lao": "ງົວ",
+    "speech": "n",
+    "emoji": "🐂",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "소들이 들판에서 풀을 뜯고 있습니다.",
+        "read": "Sodeuri deulpaneseo pureul tteutkko itsseumnida.",
+        "english": "The cows are grazing in the field.",
+        "lao": "ງົວ​ຢູ່​ທົ່ງ​ຫຍ້າ."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "korean": "물소",
+    "read": "mul-so",
+    "english": "buffalo",
+    "lao": "ຄວາຍ",
+    "speech": "n",
+    "emoji": "🐃",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "물소는 넓은 들판에서 평화롭게 풀을 뜯고 있었습니다.",
+        "read": "Mul-so-neun neol-beun deul-pan-e-seo pyeong-hwa-rop-ge pul-eul tteut-go it-seum-ni-da.",
+        "english": "The buffalo grazed peacefully in the open field.",
+        "lao": "ຄວາຍ​ໄດ້​ກິນ​ຫຍ້າ​ຢ່າງ​ສະຫງົບ​ສຸກ​ໃນ​ທົ່ງ​ນາ."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "korean": "칠면조",
+    "read": "chil-myeon-jo",
+    "english": "turkey",
+    "lao": "ໄກ່ງວງ",
+    "speech": "n",
+    "emoji": "🦃",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "칠면조는 농장에서 걸어 다니며 먹이를 찾고 있습니다.",
+        "read": "Chil-myeon-joneun nong-jang-e-seo geol-eo da-ni-myeo meog-i-reul chaj-ko it-seum-ni-da.",
+        "english": "The turkey is walking around the farm looking for food.",
+        "lao": "ໄກ່ງວງກຳລັງເດີນຢູ່ຮອບຟາມຫາອາຫານ."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "korean": "새",
+    "read": "sae",
+    "english": "bird",
+    "lao": "ນົກ",
+    "speech": "n",
+    "emoji": "🐦‍⬛",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "그녀는 새가 정원에 둥지를 짓는 것을 지켜보았습니다.",
+        "read": "Geu-nyeo-neun sae-ga jeong-won-e dung-ji-reul jit-neun geo-seul ji-kyeo-bo-at-seum-ni-da.",
+        "english": "She watched the bird building its nest in the garden.",
+        "lao": "ນາງໄດ້ເບິ່ງນົກທີ່ສ້າງຮັງຂອງມັນຢູ່ໃນສວນ."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "korean": "원숭이",
+    "read": "won-sung-i",
+    "english": "monkey",
+    "lao": "ລິງ",
+    "speech": "n",
+    "emoji": "🐒",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "우리는 동물원에서 바나나를 먹는 원숭이를 보았습니다.",
+        "read": "U-ri-neun dong-mul-won-e-seo ba-na-na-reul meok-neun won-sung-i-reul bo-at-seum-ni-da.",
+        "english": "We saw a monkey eating bananas at the zoo.",
+        "lao": "ພວກເຮົາເຫັນລີງກິນກ້ວຍຢູ່ສວນສັດ."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "korean": "호랑이",
+    "read": "ho-rang-i",
+    "english": "tiger",
+    "lao": "ເສືອ",
+    "speech": "n",
+    "emoji": "🐅",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "호랑이는 강한 존재감을 드러내며 크게 포효했습니다.",
+        "read": "Ho-rang-i-neun gang-han jon-jae-gam-eul deu-reo-nae-myeo keu-ge po-hyo-haet-seum-ni-da.",
+        "english": "The tiger roared loudly, showing its powerful presence.",
+        "lao": "ເສືອ​ຮ້ອງ​ດັງ​ຂຶ້ນ, ສະ​ແດງ​ໃຫ້​ເຫັນ​ທີ່​ມີ​ພະລັງ​ຂອງ​ມັນ."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "korean": "코끼리",
+    "read": "kok-ki-li",
+    "english": "elephant",
+    "lao": "ຊ້າງ",
+    "speech": "n",
+    "emoji": "🐘",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "우리는 강에서 목욕하는 코끼리들을 구경했습니다.",
+        "read": "U-ri-neun gang-e-seo mog-yok-ha-neun ko-kki-ri-deul-eul gu-kyeong-haet-seum-ni-da.",
+        "english": "We watched the elephants bathing in the river.",
+        "lao": "ພວກ​ເຮົາ​ໄດ້​ເບິ່ງ​ຊ້າງ​ອາບ​ນ​້​ໍາ​."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "korean": "기린",
+    "read": "gi-rin",
+    "english": "giraffe",
+    "lao": "ຈີຣາຟ",
+    "speech": "n",
+    "emoji": "🦒",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "기린은 긴 목을 가지고 있어 나무의 높은 가지에 있는 잎을 먹을 수 있습니다.",
+        "read": "Gi-rin-eun gin mog-eul ga-ji-go iss-eo na-mu-e noh-eun ga-ji-e iss-neun ip-eul meo-geul su iss-seum-ni-da.",
+        "english": "Giraffes have long necks that help them reach high branches for leaves.",
+        "lao": "ຈີຣາຟມີຄໍຍາວທີ່ຊ່ວຍໃຫ້ພວກເຂົາສາມາດບັນລຸກິ່ງງ່າສູງສໍາລັບໃບ."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "korean": "캥거루",
+    "read": "kaeng-geo-ru",
+    "english": "kangaroo",
+    "lao": "ຈິງໂຈ້",
+    "speech": "n",
+    "emoji": "🦘",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "캥거루는 뛰어 다니면서 어린 캥거루를 돌봅니다.",
+        "read": "Kaeng-geo-ru-neun ttwieo da-ni-myeon-seo eo-rin kaeng-geo-ru-reul dol-bom-ni-da.",
+        "english": "Kangaroos hop around while caring for their young.",
+        "lao": "ຈິງໂຈ້ເດິນໄປມາໃນຂະນະທີ່ດູແລລູກຂອງພວກເຂົາ."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "korean": "양",
+    "read": "yang",
+    "english": "sheep",
+    "lao": "ແກະ",
+    "speech": "n",
+    "emoji": "🐑",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "양이 풀을 먹고 있습니다.",
+        "read": "Yangi pureul meokko itsseumnida.",
+        "english": "The sheep is grazing.",
+        "lao": "ແກະກຳລັງກິນຫຍ້າ."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "korean": "생쥐",
+    "read": "saeng-jwi",
+    "english": "mouse",
+    "lao": "ໜູ",
+    "speech": "n",
+    "emoji": "🐁",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "생쥐가 치즈를 먹고 있습니다.",
+        "read": "Saeng-jwi-ga chi-jeu-reul meokko itsseumnida.",
+        "english": "The mouse is eating cheese.",
+        "lao": "ໜູກຳລັງກິນຊີສ."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "korean": "올빼미",
+    "read": "olp-pae-mi",
+    "english": "owl",
+    "lao": "ນົກເຄົ້າ",
+    "speech": "n",
+    "emoji": "🦉",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "올빼미가 밤에 사냥을 합니다.",
+        "read": "Ol-ppae-mi-ga bam-e sa-nyang-eul ham-ni-da.",
+        "english": "The owl hunts at night.",
+        "lao": "ນົກເຄົ້າລ່າສັດໃນຕອນກາງຄືນ."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "korean": "토끼",
+    "read": "tok-ki",
+    "english": "rabbit",
+    "lao": "ກະຕ່າຍ",
+    "speech": "n",
+    "emoji": "🐇",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "하얀 토끼가 풀밭에 있습니다.",
+        "read": "Hayan tokkiga pulbate itsseumnida.",
+        "english": "A white rabbit in the green grass.",
+        "lao": "ກະຕ່າຍສີຂາວຢູ່ໃນຫຍ້າສີຂຽວ."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "korean": "사자",
+    "read": "sa-ja",
+    "english": "lion",
+    "lao": "ສິງ",
+    "speech": "n",
+    "emoji": "🦁",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "사자가 들판에서 쉬고 있습니다.",
+        "read": "Saja-ga deul-pan-e-seo swi-go itsseumnida.",
+        "english": "The lion is resting in the field.",
+        "lao": "ສິງກຳລັງພັກຢູ່ທົ່ງນາ."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "korean": "사슴",
+    "read": "sa-seum",
+    "english": "deer",
+    "lao": "ກວາງ",
+    "speech": "n",
+    "emoji": "🦌",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "사슴이 숲속에서 뛰어다닙니다.",
+        "read": "Saseumi sup-sok-eseo ttwieo-da-nim-ni-da.",
+        "english": "The deer is running in the forest.",
+        "lao": "ກວາງກຳລັງແລ່ນຢູ່ໃນປ່າ."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "korean": "악어",
+    "read": "ag-eo",
+    "english": "crocodile",
+    "lao": "ແຂ້",
+    "speech": "n",
+    "emoji": "🐊",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "악어가 강에서 헤엄칩니다.",
+        "read": "Ag-eo-ga gang-e-seo he-eom-chim-ni-da.",
+        "english": "The crocodile is swimming in the river.",
+        "lao": "ແຂ້ກຳລັງລອຍນ້ຳຢູ່ແມ່ນ້ຳ."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "korean": "거북이",
+    "read": "geo-bug-i",
+    "english": "turtle",
+    "lao": "ເຕົ່າ",
+    "speech": "n",
+    "emoji": "🐢",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "거북이가 천천히 걸어갑니다.",
+        "read": "Geo-bug-i-ga cheon-cheon-hi geol-eo-gam-ni-da.",
+        "english": "The turtle walks slowly.",
+        "lao": "ເຕົ່າກຳລັງຍ່າງຊ້າໆ."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "korean": "뱀",
+    "read": "baem",
+    "english": "snake",
+    "lao": "ງູ",
+    "speech": "n",
+    "emoji": "🐍",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "뱀이 나무 위에 있습니다.",
+        "read": "Baemi namu wie itsseumnida.",
+        "english": "The snake is on the tree.",
+        "lao": "ງູຢູ່ເທິງໄມ້."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "korean": "곰",
+    "read": "gom",
+    "english": "bear",
+    "lao": "ຫມີ",
+    "speech": "n",
+    "emoji": "🐻",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "산에서 곰을 보았습니다.",
+        "read": "San-eseo gom-eul boasimnida.",
+        "english": "I saw a bear in the mountains.",
+        "lao": "ຂ້ອຍເຫັນຫມີໃນພູເຂົາ."
+      }
+    ]
+  }
+]

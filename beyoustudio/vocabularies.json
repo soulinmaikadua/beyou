@@ -1,44 +1,72 @@
 [
-	{
-		"image": "https://soulinmaikadua.github.io/beyou/studio/about-pronouns.png",
-		"korean": "대명사에 관한 어휘",
-		"lao": "ຄຳສັບກ່ຽວກັບຄຳນາມ",
-		"route": "/korean-vocabulary-lists/about-pronouns",
-		"slug": "about-pronouns"
-	},
-	{
-		"image": "https://soulinmaikadua.github.io/beyou/studio/numeric.png",
-		"korean": "숫자에 관한 단어",
-		"lao": "ຄໍາສັບກ່ຽວກັບຕົວເລກ",
-		"route": "/korean-vocabulary-lists/numeric",
-		"slug": "numeric"
-	},
-	{
-		"image": "https://soulinmaikadua.github.io/beyou/studio/about-maths.png",
-		"korean": "수학에 관한 어휘",
-		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຄະ​ນິດ​ສາດ​",
-		"route": "/korean-vocabulary-lists/about-maths",
-		"slug": "about-maths"
-	},
-	{
-		"image": "https://soulinmaikadua.github.io/beyou/studio/about-math-shape.png",
-		"korean": "수학 모양에 관한 어휘",
-		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຮູບ​ຮ່າງ​ຄະ​ນິດ​ສາດ​",
-		"route": "/korean-vocabulary-lists/about-math-shape",
-		"slug": "about-math-shape"
-	},
-	{
-		"image": "https://soulinmaikadua.github.io/beyou/studio/days.png",
-		"korean": "일에 관한 말",
-		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ວັນ​",
-		"route": "/korean-vocabulary-lists/days",
-		"slug": "days"
-	},
-	{
-		"image": "https://soulinmaikadua.github.io/beyou/studio/dates.png",
-		"korean": "날짜에 관한 말",
-		"lao": "ຄໍາສັບກ່ຽວກັບວັນທີ",
-		"route": "/korean-vocabulary-lists/dates",
-		"slug": "dates"
-	}
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/about-pronouns.png",
+    "korean": "대명사에 관한 어휘",
+    "lao": "ຄຳສັບກ່ຽວກັບຄຳນາມ",
+    "route": "/korean-vocabulary-lists/about-pronouns",
+    "slug": "about-pronouns"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/numeric.png",
+    "korean": "숫자에 관한 단어",
+    "lao": "ຄໍາສັບກ່ຽວກັບຕົວເລກ",
+    "route": "/korean-vocabulary-lists/numeric",
+    "slug": "numeric"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/about-maths.png",
+    "korean": "수학에 관한 어휘",
+    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຄະ​ນິດ​ສາດ​",
+    "route": "/korean-vocabulary-lists/about-maths",
+    "slug": "about-maths"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/about-math-shape.png",
+    "korean": "수학 모양에 관한 어휘",
+    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຮູບ​ຮ່າງ​ຄະ​ນິດ​ສາດ​",
+    "route": "/korean-vocabulary-lists/about-math-shape",
+    "slug": "about-math-shape"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/days.png",
+    "korean": "일에 관한 말",
+    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ວັນ​",
+    "route": "/korean-vocabulary-lists/days",
+    "slug": "days"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/dates.png",
+    "korean": "날짜에 관한 말",
+    "lao": "ຄໍາສັບກ່ຽວກັບວັນທີ",
+    "route": "/korean-vocabulary-lists/dates",
+    "slug": "dates"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/months.png",
+    "korean": "개월에 관한 단어",
+    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ເດືອນ​",
+    "route": "/korean-vocabulary-lists/months",
+    "slug": "months"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/jobs.png",
+    "korean": "직업에 관한 말",
+    "lao": "ຄໍາສັບກ່ຽວກັບອາຊີບ",
+    "route": "/korean-vocabulary-lists/jobs",
+    "slug": "jobs"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/fruits.png",
+    "korean": "과일에 관한 말",
+    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຫມາກ​ໄມ້​",
+    "route": "/korean-vocabulary-lists/fruit",
+    "slug": "fruit"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/animals.png",
+    "korean": "동물에 관한 말",
+    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ປະເພດສັດ",
+    "route": "/korean-vocabulary-lists/animals",
+    "slug": "animals"
+  }
 ]

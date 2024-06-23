@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "korean": "일월",
+    "read": "il-wol",
+    "english": "January",
+    "lao": "ເດືອນມັງກອນ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "일월은 한 해의 첫 번째 달입니다.",
+        "read": "Il-wol-eun han hae-ui cheot beon-jjae dal-imnida.",
+        "english": "January is the first month of the year.",
+        "lao": "ເດືອນມັງກອນແມ່ນເດືອນທຳອິດຂອງປີ."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "korean": "이월",
+    "read": "i-wol",
+    "english": "February",
+    "lao": "ເດືອນກຸມພາ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "이월은 28일 또는 29일이 있습니다.",
+        "read": "I-wol-eun i-ship-pal-il tto-neun i-ship-gu-il-i iss-seum-ni-da.",
+        "english": "February has 28 or 29 days.",
+        "lao": "ເດືອນກຸມພາມີ 28 ຫຼື 29 ວັນ."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "korean": "삼월",
+    "read": "sam-wol",
+    "english": "March",
+    "lao": "ເດືອນມີນາ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "삼월은 봄의 시작입니다.",
+        "read": "Sam-wol-eun bom-ui si-jag-imnida.",
+        "english": "March is the beginning of spring.",
+        "lao": "ເດືອນມີນາແມ່ນການເລີ່ມຕົ້ນຂອງດູໃບໄມ້ຜົກ."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "korean": "사월",
+    "read": "sa-wol",
+    "english": "April",
+    "lao": "ເດືອນເມສາ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "사월은 벚꽃이 피는 달입니다.",
+        "read": "Sa-wol-eun beot-ggot-i pi-neun dal-imnida.",
+        "english": "April is the month when cherry blossoms bloom.",
+        "lao": "ເດືອນເມສາແມ່ນເດືອນທີ່ດອກຊະລີບານ."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "korean": "오월",
+    "read": "o-wol",
+    "english": "May",
+    "lao": "ເດືອນພຶດສະພາ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "오월은 따뜻한 날씨입니다.",
+        "read": "O-wol-eun dda-tteu-than nal-ssi-imnida.",
+        "english": "May has warm weather.",
+        "lao": "ເດືອນພຶດສະພາມີອາກາດອົບອຸ່ນ."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "korean": "유월",
+    "read": "yu-wol",
+    "english": "June",
+    "lao": "ເດືອນມິຖຸນາ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "유월은 여름의 시작입니다.",
+        "read": "Yu-wol-eun yeo-reum-ui si-jag-imnida.",
+        "english": "June is the start of summer.",
+        "lao": "ເດືອນມິຖຸນາແມ່ນການເລີ່ມຕົ້ນຂອງດູຮ້ອນ."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "korean": "칠월",
+    "read": "chil-wol",
+    "english": "July",
+    "lao": "ເດືອນກໍລະກົດ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "칠월은 더운 날씨입니다.",
+        "read": "Chil-wol-eun deo-un nal-ssi-imnida.",
+        "english": "July has hot weather.",
+        "lao": "ເດືອນກໍລະກົດມີອາກາດຮ້ອນ."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "korean": "팔월",
+    "read": "pal-wol",
+    "english": "August",
+    "lao": "ເດືອນສິງຫາ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "팔월은 휴가철입니다.",
+        "read": "Pal-wol-eun hyu-ga-cheol-imnida.",
+        "english": "August is the vacation season.",
+        "lao": "ເດືອນສິງຫາແມ່ນລະດູທ່ອງທ່ຽວ."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "korean": "구월",
+    "read": "gu-wol",
+    "english": "September",
+    "lao": "ເດືອນກັນຍາ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "구월은 가을의 시작입니다.",
+        "read": "Gu-wol-eun ga-eul-ui si-jag-imnida.",
+        "english": "September is the beginning of autumn.",
+        "lao": "ເດືອນກັນຍາແມ່ນການເລີ່ມຕົ້ນຂອງດູໃບໄມ້ຫຼົ່ນ."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "korean": "시월",
+    "read": "si-wol",
+    "english": "October",
+    "lao": "ເດືອນຕຸລາ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "시월은 단풍이 아름다워요.",
+        "read": "Si-wol-eun dan-pung-i a-reum-da-weo-yo.",
+        "english": "October has beautiful autumn leaves.",
+        "lao": "ເດືອນຕຸລາມີໃບໄມ້ຫຼົ່ນສວຍງາມ."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "korean": "십일월",
+    "read": "sip-il-wol",
+    "english": "November",
+    "lao": "ເດືອນພະຈິກ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "십일월은 쌀쌀해요.",
+        "read": "Sip-il-wol-eun ssal-ssal-hae-yo.",
+        "english": "November is chilly.",
+        "lao": "ເດືອນພະຈິກອາກາດເຢັນ."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "korean": "십이월",
+    "read": "sip-i-wol",
+    "english": "December",
+    "lao": "ເດືອນທັນວາ",
+    "speech": "n",
+    "examples": [
+      {
+        "id": 1,
+        "korean": "십이월은 연말입니다.",
+        "read": "Sip-i-wol-eun yeon-mal-imnida.",
+        "english": "December is the end of the year.",
+        "lao": "ເດືອນທັນວາແມ່ນທ້າຍປີ."
+      }
+    ]
+  }
+]
