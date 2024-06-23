@@ -68,5 +68,47 @@
     "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ປະເພດສັດ",
     "route": "/korean-vocabulary-lists/animals",
     "slug": "animals"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/sports.png",
+    "korean": "스포츠에 관한 말",
+    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ການ​ກິ​ລາ​",
+    "route": "/korean-vocabulary-lists/sports",
+    "slug": "sports"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/about-football.png",
+    "korean": "축구에 관한 어휘",
+    "lao": "ຄຳສັບກ່ຽວກັບກິລາບານເຕະ​",
+    "route": "/korean-vocabulary-lists/about-football",
+    "slug": "about-football"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/vegetables.png",
+    "korean": "야채에 관한 말",
+    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຜັກ​",
+    "route": "/korean-vocabulary-lists/vegetables",
+    "slug": "vegetables"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/about-house.png",
+    "korean": "날짜에 관한 말",
+    "lao": "ຄໍາສັບກ່ຽວກັບເຮືອນ",
+    "route": "/korean-vocabulary-lists/about-house",
+    "slug": "about-house"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/about-house-bedroom.png",
+    "korean": "침실에 관한 단어",
+    "lao": "ຄຳສັບກ່ຽວກັບຫ້ອງນອນ",
+    "route": "/korean-vocabulary-lists/about-house-bedroom",
+    "slug": "about-house-bedroom"
+  },
+  {
+    "image": "https://soulinmaikadua.github.io/beyou/studio/kitchen.png",
+    "korean": "날짜에 관한 말",
+    "lao": "ຄໍາສັບກ່ຽວກັບເຮືອນຄົວ",
+    "route": "/korean-vocabulary-lists/kitchen",
+    "slug": "kitchen"
   }
 ]
