@@ -1,0 +1,223 @@
+[
+	{
+		"id": 1,
+		"korean": "먹다",
+		"read": "meoktta",
+		"english": "eat",
+		"lao": "ກີນ",
+		"speech": "v",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "나는 아침을 먹습니다.",
+				"read": "na-neun a-chim-eul meok-seum-ni-da.",
+				"english": "I eat breakfast.",
+				"lao": "ຂ້ອຍກິນເຂົ້າເຊົ້າ."
+			}
+		]
+	},
+	{
+		"id": 2,
+		"korean": "요리하다",
+		"read": "yorihada",
+		"english": "cook",
+		"lao": "ຄົວກິນ",
+		"speech": "v",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "저는 저녁을 요리합니다.",
+				"read": "jeoneun jeonyeogeul yorihamnida.",
+				"english": "I cook dinner.",
+				"lao": "ຂ້ອຍຄົວກິນເຂົ້າຂຽງ."
+			}
+		]
+	},
+	{
+		"id": 3,
+		"korean": "가게",
+		"read": "gage",
+		"english": "shop",
+		"lao": "ຮ້ານຄ້າ",
+		"speech": "n",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "나는 가게에서 물건을 샀습니다.",
+				"read": "naneun gageseseo mulguneul satseumnida.",
+				"english": "I bought items at the shop.",
+				"lao": "ຂ້ອຍຊື້ຂອງຢູ່ຮ້ານຄ້າ."
+			}
+		]
+	},
+	{
+		"id": 4,
+		"korean": "샤워를 하다",
+		"read": "syawoereul hada",
+		"english": "shower",
+		"lao": "ອາບນ້ຳ",
+		"speech": "v",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "저는 아침에 샤워를 합니다.",
+				"read": "jeoneun achime syawoereul hamnida.",
+				"english": "I take a shower in the morning.",
+				"lao": "ຂ້ອຍອາບນ້ຳໃນຕອນເຊົ້າ."
+			}
+		]
+	},
+	{
+		"id": 5,
+		"korean": "나가다",
+		"read": "nagada",
+		"english": "go out",
+		"lao": "ອອກໄປ",
+		"speech": "v",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "저는 친구와 나갑니다.",
+				"read": "jeoneun chinguwa nagamnida.",
+				"english": "I go out with my friends.",
+				"lao": "ຂ້ອຍອອກໄປກັບໝູ່ຂອງຂ້ອຍ."
+			}
+		]
+	},
+	{
+		"id": 6,
+		"korean": "일하다",
+		"read": "ilhada",
+		"english": "work",
+		"lao": "ເຮັດວຽກ",
+		"speech": "v",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "저는 회사에서 일합니다.",
+				"read": "jeoneun hoesaseo ilhamnida.",
+				"english": "I work at a company.",
+				"lao": "ຂ້ອຍເຮັດວຽກຢູ່ບໍລິສັດ."
+			}
+		]
+	},
+	{
+		"id": 7,
+		"korean": "쉬다",
+		"read": "swida",
+		"english": "rest",
+		"lao": "ພັກຜ່ອນ",
+		"speech": "v",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "저는 주말에 쉽니다.",
+				"read": "jeoneun jumare swimmida.",
+				"english": "I rest on the weekends.",
+				"lao": "ຂ້ອຍພັກຜ່ອນໃນວັນສຸດສັປດາ."
+			}
+		]
+	},
+	{
+		"id": 8,
+		"korean": "꿈을 꾸다",
+		"read": "kkumeul kkuda",
+		"english": "dream",
+		"lao": "ຝັນ",
+		"speech": "v",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "저는 밤에 꿈을 꿉니다.",
+				"read": "jeoneun bame kkumeul kkumnida.",
+				"english": "I dream at night.",
+				"lao": "ຂ້ອຍຝັນໃນຕອນກາງຄືນ."
+			}
+		]
+	},
+	{
+		"id": 9,
+		"korean": "돌아오다",
+		"read": "doraoda",
+		"english": "return",
+		"lao": "ກັບຄືນ",
+		"speech": "v",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "저는 집에 돌아옵니다.",
+				"read": "jeoneun jibe doraomnida.",
+				"english": "I return home.",
+				"lao": "ຂ້ອຍກັບຄືນບ້ານ."
+			}
+		]
+	},
+	{
+		"id": 10,
+		"korean": "신문을 읽다",
+		"read": "sinmuneul iktta",
+		"english": "read the paper",
+		"lao": "ອ່ານປື້ມ",
+		"speech": "p",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "저는 아침에 신문을 읽습니다.",
+				"read": "jeoneun achime sinmuneul ikseumnida.",
+				"english": "I read the paper in the morning.",
+				"lao": "ຂ້ອຍອ່ານປື້ມໃນຕອນເຊົ້າ."
+			}
+		]
+	},
+	{
+		"id": 11,
+		"korean": "자다",
+		"read": "jada",
+		"english": "sleep",
+		"lao": "ນອນ",
+		"speech": "v",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "저는 밤에 잡니다.",
+				"read": "jeoneun bame jamnida.",
+				"english": "I sleep at night.",
+				"lao": "ຂ້ອຍນອນໃນຕອນກາງຄືນ."
+			}
+		]
+	},
+	{
+		"id": 12,
+		"korean": "잠에서 깨다",
+		"read": "jameseo kkaeda",
+		"english": "wake up",
+		"lao": "ຕື່ນນອນ",
+		"speech": "v",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "저는 아침에 잠에서 깹니다.",
+				"read": "jeoneun achime jameseo kkaemnida.",
+				"english": "I wake up in the morning.",
+				"lao": "ຂ້ອຍຕື່ນນອນໃນຕອນເຊົ້າ."
+			}
+		]
+	},
+	{
+		"id": 13,
+		"korean": "일어나다",
+		"read": "ireonada",
+		"english": "get up",
+		"lao": "ລຸກຂື້ນ",
+		"speech": "v",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "저는 아침에 일어납니다.",
+				"read": "jeoneun achime ileonamnida.",
+				"english": "I get up in the morning.",
+				"lao": "ຂ້ອຍລຸກຂື້ນໃນຕອນເຊົ້າ."
+			}
+		]
+	}
+]

@@ -1,317 +1,324 @@
 [
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-pronouns.png",
-    "korean": "대명사에 관한 어휘",
-    "lao": "ຄຳສັບກ່ຽວກັບຄຳນາມ",
-    "route": "/korean-vocabulary-lists/about-pronouns",
-    "slug": "about-pronouns"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/numeric.png",
-    "korean": "숫자에 관한 단어",
-    "lao": "ຄໍາສັບກ່ຽວກັບຕົວເລກ",
-    "route": "/korean-vocabulary-lists/numeric",
-    "slug": "numeric"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-maths.png",
-    "korean": "수학에 관한 어휘",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຄະ​ນິດ​ສາດ​",
-    "route": "/korean-vocabulary-lists/about-maths",
-    "slug": "about-maths"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-math-shape.png",
-    "korean": "수학 모양에 관한 어휘",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຮູບ​ຮ່າງ​ຄະ​ນິດ​ສາດ​",
-    "route": "/korean-vocabulary-lists/about-math-shape",
-    "slug": "about-math-shape"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/days.png",
-    "korean": "일에 관한 말",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ວັນ​",
-    "route": "/korean-vocabulary-lists/days",
-    "slug": "days"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/dates.png",
-    "korean": "날짜에 관한 말",
-    "lao": "ຄໍາສັບກ່ຽວກັບວັນທີ",
-    "route": "/korean-vocabulary-lists/dates",
-    "slug": "dates"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/months.png",
-    "korean": "개월에 관한 단어",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ເດືອນ​",
-    "route": "/korean-vocabulary-lists/months",
-    "slug": "months"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/jobs.png",
-    "korean": "직업에 관한 말",
-    "lao": "ຄໍາສັບກ່ຽວກັບອາຊີບ",
-    "route": "/korean-vocabulary-lists/jobs",
-    "slug": "jobs"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/fruits.png",
-    "korean": "과일에 관한 말",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຫມາກ​ໄມ້​",
-    "route": "/korean-vocabulary-lists/fruit",
-    "slug": "fruit"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/animals.png",
-    "korean": "동물에 관한 말",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ປະເພດສັດ",
-    "route": "/korean-vocabulary-lists/animals",
-    "slug": "animals"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/sports.png",
-    "korean": "스포츠에 관한 말",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ການ​ກິ​ລາ​",
-    "route": "/korean-vocabulary-lists/sports",
-    "slug": "sports"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-football.png",
-    "korean": "축구에 관한 어휘",
-    "lao": "ຄຳສັບກ່ຽວກັບກິລາບານເຕະ​",
-    "route": "/korean-vocabulary-lists/about-football",
-    "slug": "about-football"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/vegetables.png",
-    "korean": "야채에 관한 말",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຜັກ​",
-    "route": "/korean-vocabulary-lists/vegetables",
-    "slug": "vegetables"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-house.png",
-    "korean": "날짜에 관한 말",
-    "lao": "ຄໍາສັບກ່ຽວກັບເຮືອນ",
-    "route": "/korean-vocabulary-lists/about-house",
-    "slug": "about-house"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-house-bedroom.png",
-    "korean": "침실에 관한 단어",
-    "lao": "ຄຳສັບກ່ຽວກັບຫ້ອງນອນ",
-    "route": "/korean-vocabulary-lists/about-house-bedroom",
-    "slug": "about-house-bedroom"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/kitchen.png",
-    "korean": "날짜에 관한 말",
-    "lao": "ຄໍາສັບກ່ຽວກັບເຮືອນຄົວ",
-    "route": "/korean-vocabulary-lists/kitchen",
-    "slug": "kitchen"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio//about-house-living-dining-room.png",
-    "korean": "거실과 식당에 관한 어휘",
-    "lao": "ຄຳສັບກ່ຽວກັບຫ້ອງຮັບແຂກ ແລະ ຫ້ອງຮັບປະທານອາຫານ",
-    "route": "/korean-vocabulary-lists/about-house-living-dining-room",
-    "slug": "about-house-living-dining-room"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-house-bathroom.png",
-    "korean": "화장실에 관한 단어",
-    "lao": "ຄໍາສັບກ່ຽວກັບຫ້ອງນ້ໍາ",
-    "route": "/korean-vocabulary-lists/about-house-bathroom",
-    "slug": "about-house-bathroom"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-house-garden.png",
-    "korean": "정원에 관한 단어",
-    "lao": "ຄຳສັບກ່ຽວກັບສວນ",
-    "route": "/korean-vocabulary-lists/about-house-garden",
-    "slug": "about-house-garden"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/clothing.png",
-    "korean": "날짜에 관한 말",
-    "lao": "ຄໍາສັບກ່ຽວກັບເຄື່ອງນຸ່ງຫົ່ມ",
-    "route": "/korean-vocabulary-lists/clothing",
-    "slug": "clothing"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/travel-places.png",
-    "korean": "날짜에 관한 말",
-    "lao": "ຄໍາສັບກ່ຽວກັບພາຫະນະ ແລະ ສະຖານທີ",
-    "route": "/korean-vocabulary-lists/travel-and-places",
-    "slug": "travel-and-places"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/handyman.png",
-    "korean": "기계공의 어휘",
-    "lao": "ຄໍາສັບກ່ຽວກັບນາຍຊ່າງ",
-    "route": "/korean-vocabulary-lists/handyman",
-    "slug": "handyman"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-body.png",
-    "korean": "신체에 관한 어휘",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຮ່າງ​ກາຍ​",
-    "route": "/korean-vocabulary-lists/about-body",
-    "slug": "about-body"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-meats.png",
-    "korean": "고기에 관한 용어",
-    "lao": "ຄຳສັບກ່ຽວກັບຊີ້ນ",
-    "route": "/korean-vocabulary-lists/about-meats",
-    "slug": "about-meats"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-schools.png",
-    "korean": "학교에 관한 어휘",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ໂຮງ​ຮຽນ​",
-    "route": "/korean-vocabulary-lists/about-schools",
-    "slug": "about-schools"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-timing.png",
-    "korean": "타이밍에 관한 용어",
-    "lao": "ຄຳສັບກ່ຽວກັບເວລາ",
-    "route": "/korean-vocabulary-lists/about-timing",
-    "slug": "about-timing"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-colors.png",
-    "korean": "색상에 관한 용어",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ສີ​​",
-    "route": "/korean-vocabulary-lists/about-colors",
-    "slug": "about-colors"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-family.png",
-    "korean": "가족에 관한 용어",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຄອບ​ຄົວ​",
-    "route": "/korean-vocabulary-lists/about-family",
-    "slug": "about-family"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-size-beauty-and-more.png",
-    "korean": "크기, 아름다움 등에 관한 어휘",
-    "lao": "ຄໍາສັບກ່ຽວກັບຂະຫນາດ, ຄວາມງາມ ແລະ ອື່ນໆ",
-    "route": "/korean-vocabulary-lists/about-size-beauty-and-more",
-    "slug": "about-size-beauty-and-more"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-renting-apartment.png",
-    "korean": "아파트 임대에 관한 어휘",
-    "lao": "ຄໍາສັບກ່ຽວກັບການເຊົ່າອາພາດເມັນ",
-    "route": "/korean-vocabulary-lists/about-renting-apartment",
-    "slug": "about-renting-apartment"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-airport.png",
-    "korean": "공항에 관한 어휘",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ສະ​ຫນາມ​ບິນ​",
-    "route": "/korean-vocabulary-lists/about-airport",
-    "slug": "about-airport"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-bus-stop-and-station.png",
-    "korean": "버스 정류장과 버스 정류장에 대한 어휘",
-    "lao": "ຄຳສັບກ່ຽວກັບປ້າຍລົດເມ ແລະ ສະຖານີລົດເມ",
-    "route": "/korean-vocabulary-lists/about-bus-stop-and-station",
-    "slug": "about-bus-stop-and-station"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-pharmacy.png",
-    "korean": "약국에 관한 단어",
-    "lao": "ຄຄຳສັບກ່ຽວກັບຮ້ານຂາຍຢາ",
-    "route": "/korean-vocabulary-lists/about-pharmacy",
-    "slug": "about-pharmacy"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-clinic.png",
-    "korean": "진료소에 대한 단어",
-    "lao": "ຄຳສັບກ່ຽວກັບຄລີນິກ",
-    "route": "/korean-vocabulary-lists/about-clinic",
-    "slug": "about-clinic"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-hospital.png",
-    "korean": "병원에 관한 단어",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ໂຮງ​ຫມໍ​",
-    "route": "/korean-vocabulary-lists/about-hospital",
-    "slug": "about-hospital"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-shopping.png",
-    "korean": "쇼핑에 관한 어휘",
-    "lao": "ຄໍາສັບກ່ຽວກັບການຊື້ເຄື່ອງ",
-    "route": "/korean-vocabulary-lists/about-shopping",
-    "slug": "about-shopping"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-park.png",
-    "korean": "공원에 관한 어휘",
-    "lao": "ຄຳສັບກ່ຽວກັບສວນສາທາລະນະ",
-    "route": "/korean-vocabulary-lists/about-park",
-    "slug": "about-park"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-restaurant.png",
-    "korean": "레스토랑에 대한 단어",
-    "lao": "ຄຳສັບກ່ຽວກັບຮ້ານອາຫານ",
-    "route": "/korean-vocabulary-lists/about-restaurant",
-    "slug": "about-restaurant"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-food.png",
-    "korean": "음식에 관한 용어",
-    "lao": "ຄຳສັບກ່ຽວກັບອາຫານ",
-    "route": "/korean-vocabulary-lists/about-food",
-    "slug": "about-food"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-drink.png",
-    "korean": "음료에 관한 단어",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ເຄື່ອງ​ດື່ມ​",
-    "route": "/korean-vocabulary-lists/about-drink",
-    "slug": "about-drink"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-position-direction.png",
-    "korean": "위치 / 방향에 관한 어휘",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຕໍາ​ແຫນ່ງ / ທິດ​ທາງ​",
-    "route": "/korean-vocabulary-lists/about-position-direction",
-    "slug": "about-position-direction"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-river-sea-ocean.png",
-    "korean": "강, 바다, 바다에 관한 어휘",
-    "lao": "ຄໍາສັບກ່ຽວກັບແມ່ນ້ໍາ, ທະເລ, ມະຫາສະຫມຸດ​",
-    "route": "/korean-vocabulary-lists/about-river-sea-ocean",
-    "slug": "about-river-sea-ocean"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-korean-new-year.png",
-    "korean": "한국의 새해에 관한 어휘",
-    "lao": "ຄຳສັບກ່ຽວກັບປີໃໝ່ເກົາຫຼີ​",
-    "route": "/korean-vocabulary-lists/about-korean-new-year",
-    "slug": "about-korean-new-year"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-market.png",
-    "korean": "시장에 관한 어휘",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ການ​ຕະ​ຫຼາດ​",
-    "route": "/korean-vocabulary-lists/about-market",
-    "slug": "about-market"
-  },
-  {
-    "image": "https://soulinmaikadua.github.io/beyou/studio/about-bugs-and-insects.png",
-    "korean": "시장에 관한 어휘",
-    "lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ການ​ຕະ​ຫຼາດ​",
-    "route": "/korean-vocabulary-lists/about-bugs-and-insects",
-    "slug": "about-bugs-and-insects"
-  }
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-pronouns.png",
+		"korean": "대명사에 관한 어휘",
+		"lao": "ຄຳສັບກ່ຽວກັບຄຳນາມ",
+		"route": "/korean-vocabulary-lists/about-pronouns",
+		"slug": "about-pronouns"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/numeric.png",
+		"korean": "숫자에 관한 단어",
+		"lao": "ຄໍາສັບກ່ຽວກັບຕົວເລກ",
+		"route": "/korean-vocabulary-lists/numeric",
+		"slug": "numeric"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-maths.png",
+		"korean": "수학에 관한 어휘",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຄະ​ນິດ​ສາດ​",
+		"route": "/korean-vocabulary-lists/about-maths",
+		"slug": "about-maths"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-math-shape.png",
+		"korean": "수학 모양에 관한 어휘",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຮູບ​ຮ່າງ​ຄະ​ນິດ​ສາດ​",
+		"route": "/korean-vocabulary-lists/about-math-shape",
+		"slug": "about-math-shape"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/days.png",
+		"korean": "일에 관한 말",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ວັນ​",
+		"route": "/korean-vocabulary-lists/days",
+		"slug": "days"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/dates.png",
+		"korean": "날짜에 관한 말",
+		"lao": "ຄໍາສັບກ່ຽວກັບວັນທີ",
+		"route": "/korean-vocabulary-lists/dates",
+		"slug": "dates"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/months.png",
+		"korean": "개월에 관한 단어",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ເດືອນ​",
+		"route": "/korean-vocabulary-lists/months",
+		"slug": "months"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/jobs.png",
+		"korean": "직업에 관한 말",
+		"lao": "ຄໍາສັບກ່ຽວກັບອາຊີບ",
+		"route": "/korean-vocabulary-lists/jobs",
+		"slug": "jobs"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/fruits.png",
+		"korean": "과일에 관한 말",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຫມາກ​ໄມ້​",
+		"route": "/korean-vocabulary-lists/fruit",
+		"slug": "fruit"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/animals.png",
+		"korean": "동물에 관한 말",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ປະເພດສັດ",
+		"route": "/korean-vocabulary-lists/animals",
+		"slug": "animals"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/sports.png",
+		"korean": "스포츠에 관한 말",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ການ​ກິ​ລາ​",
+		"route": "/korean-vocabulary-lists/sports",
+		"slug": "sports"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-football.png",
+		"korean": "축구에 관한 어휘",
+		"lao": "ຄຳສັບກ່ຽວກັບກິລາບານເຕະ​",
+		"route": "/korean-vocabulary-lists/about-football",
+		"slug": "about-football"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/vegetables.png",
+		"korean": "야채에 관한 말",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຜັກ​",
+		"route": "/korean-vocabulary-lists/vegetables",
+		"slug": "vegetables"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-house.png",
+		"korean": "날짜에 관한 말",
+		"lao": "ຄໍາສັບກ່ຽວກັບເຮືອນ",
+		"route": "/korean-vocabulary-lists/about-house",
+		"slug": "about-house"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-house-bedroom.png",
+		"korean": "침실에 관한 단어",
+		"lao": "ຄຳສັບກ່ຽວກັບຫ້ອງນອນ",
+		"route": "/korean-vocabulary-lists/about-house-bedroom",
+		"slug": "about-house-bedroom"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/kitchen.png",
+		"korean": "날짜에 관한 말",
+		"lao": "ຄໍາສັບກ່ຽວກັບເຮືອນຄົວ",
+		"route": "/korean-vocabulary-lists/kitchen",
+		"slug": "kitchen"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio//about-house-living-dining-room.png",
+		"korean": "거실과 식당에 관한 어휘",
+		"lao": "ຄຳສັບກ່ຽວກັບຫ້ອງຮັບແຂກ ແລະ ຫ້ອງຮັບປະທານອາຫານ",
+		"route": "/korean-vocabulary-lists/about-house-living-dining-room",
+		"slug": "about-house-living-dining-room"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-house-bathroom.png",
+		"korean": "화장실에 관한 단어",
+		"lao": "ຄໍາສັບກ່ຽວກັບຫ້ອງນ້ໍາ",
+		"route": "/korean-vocabulary-lists/about-house-bathroom",
+		"slug": "about-house-bathroom"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-house-garden.png",
+		"korean": "정원에 관한 단어",
+		"lao": "ຄຳສັບກ່ຽວກັບສວນ",
+		"route": "/korean-vocabulary-lists/about-house-garden",
+		"slug": "about-house-garden"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/clothing.png",
+		"korean": "날짜에 관한 말",
+		"lao": "ຄໍາສັບກ່ຽວກັບເຄື່ອງນຸ່ງຫົ່ມ",
+		"route": "/korean-vocabulary-lists/clothing",
+		"slug": "clothing"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/travel-places.png",
+		"korean": "날짜에 관한 말",
+		"lao": "ຄໍາສັບກ່ຽວກັບພາຫະນະ ແລະ ສະຖານທີ",
+		"route": "/korean-vocabulary-lists/travel-and-places",
+		"slug": "travel-and-places"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/handyman.png",
+		"korean": "기계공의 어휘",
+		"lao": "ຄໍາສັບກ່ຽວກັບນາຍຊ່າງ",
+		"route": "/korean-vocabulary-lists/handyman",
+		"slug": "handyman"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-body.png",
+		"korean": "신체에 관한 어휘",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຮ່າງ​ກາຍ​",
+		"route": "/korean-vocabulary-lists/about-body",
+		"slug": "about-body"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-meats.png",
+		"korean": "고기에 관한 용어",
+		"lao": "ຄຳສັບກ່ຽວກັບຊີ້ນ",
+		"route": "/korean-vocabulary-lists/about-meats",
+		"slug": "about-meats"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-schools.png",
+		"korean": "학교에 관한 어휘",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ໂຮງ​ຮຽນ​",
+		"route": "/korean-vocabulary-lists/about-schools",
+		"slug": "about-schools"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-timing.png",
+		"korean": "타이밍에 관한 용어",
+		"lao": "ຄຳສັບກ່ຽວກັບເວລາ",
+		"route": "/korean-vocabulary-lists/about-timing",
+		"slug": "about-timing"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-colors.png",
+		"korean": "색상에 관한 용어",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ສີ​​",
+		"route": "/korean-vocabulary-lists/about-colors",
+		"slug": "about-colors"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-family.png",
+		"korean": "가족에 관한 용어",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຄອບ​ຄົວ​",
+		"route": "/korean-vocabulary-lists/about-family",
+		"slug": "about-family"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-size-beauty-and-more.png",
+		"korean": "크기, 아름다움 등에 관한 어휘",
+		"lao": "ຄໍາສັບກ່ຽວກັບຂະຫນາດ, ຄວາມງາມ ແລະ ອື່ນໆ",
+		"route": "/korean-vocabulary-lists/about-size-beauty-and-more",
+		"slug": "about-size-beauty-and-more"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-renting-apartment.png",
+		"korean": "아파트 임대에 관한 어휘",
+		"lao": "ຄໍາສັບກ່ຽວກັບການເຊົ່າອາພາດເມັນ",
+		"route": "/korean-vocabulary-lists/about-renting-apartment",
+		"slug": "about-renting-apartment"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-airport.png",
+		"korean": "공항에 관한 어휘",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ສະ​ຫນາມ​ບິນ​",
+		"route": "/korean-vocabulary-lists/about-airport",
+		"slug": "about-airport"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-bus-stop-and-station.png",
+		"korean": "버스 정류장과 버스 정류장에 대한 어휘",
+		"lao": "ຄຳສັບກ່ຽວກັບປ້າຍລົດເມ ແລະ ສະຖານີລົດເມ",
+		"route": "/korean-vocabulary-lists/about-bus-stop-and-station",
+		"slug": "about-bus-stop-and-station"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-pharmacy.png",
+		"korean": "약국에 관한 단어",
+		"lao": "ຄຄຳສັບກ່ຽວກັບຮ້ານຂາຍຢາ",
+		"route": "/korean-vocabulary-lists/about-pharmacy",
+		"slug": "about-pharmacy"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-clinic.png",
+		"korean": "진료소에 대한 단어",
+		"lao": "ຄຳສັບກ່ຽວກັບຄລີນິກ",
+		"route": "/korean-vocabulary-lists/about-clinic",
+		"slug": "about-clinic"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-hospital.png",
+		"korean": "병원에 관한 단어",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ໂຮງ​ຫມໍ​",
+		"route": "/korean-vocabulary-lists/about-hospital",
+		"slug": "about-hospital"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-shopping.png",
+		"korean": "쇼핑에 관한 어휘",
+		"lao": "ຄໍາສັບກ່ຽວກັບການຊື້ເຄື່ອງ",
+		"route": "/korean-vocabulary-lists/about-shopping",
+		"slug": "about-shopping"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-park.png",
+		"korean": "공원에 관한 어휘",
+		"lao": "ຄຳສັບກ່ຽວກັບສວນສາທາລະນະ",
+		"route": "/korean-vocabulary-lists/about-park",
+		"slug": "about-park"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-restaurant.png",
+		"korean": "레스토랑에 대한 단어",
+		"lao": "ຄຳສັບກ່ຽວກັບຮ້ານອາຫານ",
+		"route": "/korean-vocabulary-lists/about-restaurant",
+		"slug": "about-restaurant"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-food.png",
+		"korean": "음식에 관한 용어",
+		"lao": "ຄຳສັບກ່ຽວກັບອາຫານ",
+		"route": "/korean-vocabulary-lists/about-food",
+		"slug": "about-food"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-drink.png",
+		"korean": "음료에 관한 단어",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ເຄື່ອງ​ດື່ມ​",
+		"route": "/korean-vocabulary-lists/about-drink",
+		"slug": "about-drink"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-position-direction.png",
+		"korean": "위치 / 방향에 관한 어휘",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ຕໍາ​ແຫນ່ງ / ທິດ​ທາງ​",
+		"route": "/korean-vocabulary-lists/about-position-direction",
+		"slug": "about-position-direction"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-river-sea-ocean.png",
+		"korean": "강, 바다, 바다에 관한 어휘",
+		"lao": "ຄໍາສັບກ່ຽວກັບແມ່ນ້ໍາ, ທະເລ, ມະຫາສະຫມຸດ​",
+		"route": "/korean-vocabulary-lists/about-river-sea-ocean",
+		"slug": "about-river-sea-ocean"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-korean-new-year.png",
+		"korean": "한국의 새해에 관한 어휘",
+		"lao": "ຄຳສັບກ່ຽວກັບປີໃໝ່ເກົາຫຼີ​",
+		"route": "/korean-vocabulary-lists/about-korean-new-year",
+		"slug": "about-korean-new-year"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-market.png",
+		"korean": "시장에 관한 어휘",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ການ​ຕະ​ຫຼາດ​",
+		"route": "/korean-vocabulary-lists/about-market",
+		"slug": "about-market"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-bugs-and-insects.png",
+		"korean": "버그에 관한 용어",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ແມງ​ໄມ້​",
+		"route": "/korean-vocabulary-lists/about-bugs-and-insects",
+		"slug": "about-bugs-and-insects"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-daily-life-action.png",
+		"korean": "시장에 관한 어휘",
+		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ການ​ຕະ​ຫຼາດ​",
+		"route": "/korean-vocabulary-lists/about-daily-life-action",
+		"slug": "about-daily-life-action"
+	}
 ]
