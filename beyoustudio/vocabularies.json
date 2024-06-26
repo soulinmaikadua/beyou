@@ -320,5 +320,12 @@
 		"lao": "ຄໍາ​ສັບ​ຕ່າງໆ​ກ່ຽວ​ກັບ​ການ​ຕະ​ຫຼາດ​",
 		"route": "/korean-vocabulary-lists/about-daily-life-action",
 		"slug": "about-daily-life-action"
+	},
+	{
+		"image": "https://soulinmaikadua.github.io/beyou/studio/about-season-weather.png",
+		"korean": "계절, 날씨에 대한 어휘",
+		"lao": "ຄໍາສັບກ່ຽວກັບລະດູການ, ສະພາບອາກາດ",
+		"route": "/korean-vocabulary-lists/about-season-weather",
+		"slug": "about-season-weather"
 	}
 ]

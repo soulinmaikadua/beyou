@@ -1,0 +1,172 @@
+[
+	{
+		"id": 1,
+		"korean": "봄",
+		"read": "bom",
+		"english": "spring",
+		"lao": "ລະດູໃບໄມ້ຜົດ",
+		"speech": "n",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "봄은 따뜻한 계절입니다.",
+				"read": "bom-eun ttatteushan gyejeorimnida.",
+				"english": "Spring is a warm season.",
+				"lao": "ລະດູໃບໄມ້ຜົດເປັນລະດູທີ່ອົບອຸ່ນ."
+			}
+		]
+	},
+	{
+		"id": 2,
+		"korean": "여름",
+		"read": "yeoreum",
+		"english": "summer",
+		"lao": "ລະດູຮ້ອນ",
+		"speech": "n",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "여름에는 날씨가 덥습니다.",
+				"read": "yeoreum-eneun nalssi-ga deopseumnida.",
+				"english": "The weather is hot in summer.",
+				"lao": "ໃນລະດູຮ້ອນອາກາດຮ້ອນ."
+			}
+		]
+	},
+	{
+		"id": 3,
+		"korean": "가을",
+		"read": "gaeul",
+		"english": "autumn",
+		"lao": "ລະດູໃບໄມ້ລົ່ນ",
+		"speech": "n",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "가을은 시원한 계절입니다.",
+				"read": "gaeul-eun siwonhan gyejeorimnida.",
+				"english": "Autumn is a cool season.",
+				"lao": "ລະດູໃບໄມ້ລົ່ນເປັນລະດູທີ່ເຢັນສະບາຍ."
+			}
+		]
+	},
+	{
+		"id": 4,
+		"korean": "겨울",
+		"read": "gyeoul",
+		"english": "winter",
+		"lao": "ລະດູຫນາວ",
+		"speech": "n",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "겨울에는 눈이 많이 옵니다.",
+				"read": "gyeoul-eneun nuni mani omnida.",
+				"english": "It snows a lot in winter.",
+				"lao": "ໃນລະດູຫນາວມີຫິມະຕົກຫຼາຍ."
+			}
+		]
+	},
+	{
+		"id": 5,
+		"korean": "비",
+		"read": "bi",
+		"english": "rain",
+		"lao": "ຝົນ",
+		"speech": "n",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "오늘은 비가 많이 내립니다.",
+				"read": "oneureun biga mani naerimnida.",
+				"english": "It is raining a lot today.",
+				"lao": "ມື້ນີ້ຝົນຕົກຫຼາຍ."
+			}
+		]
+	},
+	{
+		"id": 6,
+		"korean": "눈",
+		"read": "nun",
+		"english": "snow",
+		"lao": "ຫິມະ",
+		"speech": "n",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "겨울에는 눈이 자주 옵니다.",
+				"read": "gyeoul-eneun nuni jaju omnida.",
+				"english": "It often snows in winter.",
+				"lao": "ໃນລະດູຫນາວຫິມະຕົກບ່ອຍໆ."
+			}
+		]
+	},
+	{
+		"id": 7,
+		"korean": "햇빛",
+		"read": "haetbit",
+		"english": "sunlight",
+		"lao": "ແສງແດດ",
+		"speech": "n",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "여름에는 햇빛이 강합니다.",
+				"read": "yeoreum-eneun haetbiti ganghamnida.",
+				"english": "The sunlight is strong in summer.",
+				"lao": "ໃນລະດູຮ້ອນແສງແດດແຮງ."
+			}
+		]
+	},
+	{
+		"id": 8,
+		"korean": "바람",
+		"read": "baram",
+		"english": "wind",
+		"lao": "ລົມ",
+		"speech": "n",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "가을에는 바람이 시원합니다.",
+				"read": "gaeul-eneun barami siwonhamnida.",
+				"english": "The wind is cool in autumn.",
+				"lao": "ໃນລະດູໃບໄມ້ລົ່ນລົມເຢັນສະບາຍ."
+			}
+		]
+	},
+	{
+		"id": 9,
+		"korean": "구름",
+		"read": "gureum",
+		"english": "cloud",
+		"lao": "ເມກ",
+		"speech": "n",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "하늘에 구름이 많이 있습니다.",
+				"read": "haneure gureumi mani isseumnida.",
+				"english": "There are many clouds in the sky.",
+				"lao": "ມີເມກຫຼາຍຢູ່ທ້ອງຟ້າ."
+			}
+		]
+	},
+	{
+		"id": 10,
+		"korean": "안개",
+		"read": "angae",
+		"english": "fog",
+		"lao": "ຫມອກ",
+		"speech": "n",
+		"examples": [
+			{
+				"id": 1,
+				"korean": "아침에는 안개가 자욱합니다.",
+				"read": "achim-eneun angaega jaukhamnida.",
+				"english": "The fog is thick in the morning.",
+				"lao": "ຕອນເຊົ້າມີຫມອກຫນາ."
+			}
+		]
+	}
+]
