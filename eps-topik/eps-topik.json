@@ -1,0 +1,162 @@
+[
+	{
+		"id": 1,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/bag.png",
+		"english": "Bag",
+		"question": "",
+		"choice": "가방",
+		"answers": ["가방", "공책", "수첩", "안경"]
+	},
+	{
+		"id": 2,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/scissors.png",
+		"english": "Scissors",
+		"question": "",
+		"choice": "가위",
+		"answers": ["칼", "가위", "젓가락", "숟가락"]
+	},
+	{
+		"id": 3,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/calculator.png",
+		"english": "Calculator",
+		"question": "",
+		"choice": "계산기",
+		"answers": ["공책", "수첩", "컴퓨터", "계산기"]
+	},
+	{
+		"id": 4,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/express-bus.png",
+		"english": "Express Bus",
+		"question": "",
+		"choice": "고속버스",
+		"answers": ["기차", "자전거", "비행기", "고속버스"]
+	},
+	{
+		"id": 5,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/payphone.png",
+		"english": "Payphone",
+		"question": "",
+		"choice": "공중전화",
+		"answers": ["쓰레기통", "공중전화", "자동판매기", "자동인출기"]
+	},
+	{
+		"id": 6,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/refrigerator.png",
+		"english": "Refrigerator",
+		"question": "",
+		"choice": "냉장고",
+		"answers": ["자동차", "세탁기", "전화기", "냉장고"]
+	},
+	{
+		"id": 7,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/calendar.png",
+		"english": "Calendar",
+		"question": "",
+		"choice": "달력",
+		"answers": ["신문", "수첩", "공책", "달력"]
+	},
+	{
+		"id": 8,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/money.png",
+		"english": "Money",
+		"question": "",
+		"choice": "돈",
+		"answers": ["돈", "카드", "우표", "공책"]
+	},
+	{
+		"id": 9,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/radio.png",
+		"english": "Radio",
+		"question": "",
+		"choice": "라디오",
+		"answers": ["컴퓨터", "라디오", "카메라", "텔레비전"]
+	},
+	{
+		"id": 10,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/business-card.png",
+		"english": "Business card",
+		"question": "",
+		"choice": "명함",
+		"answers": ["명함", "수첩", "달력", "여권"]
+	},
+	{
+		"id": 11,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/hat.png",
+		"english": "Hat",
+		"question": "",
+		"choice": "모자",
+		"answers": ["안경", "우산", "모자", "장갑"]
+	},
+	{
+		"id": 12,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/pants.png",
+		"english": "Pants",
+		"question": "",
+		"choice": "바지",
+		"answers": ["바지", "치마", "티셔츠", "와이셔츠"]
+	},
+	{
+		"id": 13,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/airplane.png",
+		"english": "Airplane",
+		"question": "",
+		"choice": "비행기",
+		"answers": ["기차", "자전거", "비행기", "자동차"]
+	},
+	{
+		"id": 14,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/employee-id-card.png",
+		"english": "Employee ID card",
+		"question": "",
+		"choice": "사원증",
+		"answers": ["학생증", "사원증", "운전면허증", "건강보험증"]
+	},
+	{
+		"id": 15,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/fan.png",
+		"english": "Fan",
+		"question": "",
+		"choice": "선풍기",
+		"answers": ["선풍기", "냉장고", "온도계", "청소기"]
+	},
+	{
+		"id": 16,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/note.png",
+		"english": "note",
+		"question": "",
+		"choice": "수첩",
+		"answers": ["수첩", "가방", "사진", "거울"]
+	},
+	{
+		"id": 17,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/clock.png",
+		"english": "clock",
+		"question": "",
+		"choice": "시계",
+		"answers": ["달력", "시계", "거울", "지도"]
+	},
+	{
+		"id": 18,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/newspaper.png",
+		"english": "Newspaper",
+		"question": "",
+		"choice": "신문",
+		"answers": ["사전", "수첩", "공책", "신문"]
+	},
+	{
+		"id": 19,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/trash-can.png",
+		"english": "Trash can",
+		"question": "",
+		"choice": "쓰레기통",
+		"answers": ["서류함", "보관함", "우체통", "쓰레기통"]
+	},
+	{
+		"id": 20,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/glasses.png",
+		"english": "Glasses",
+		"question": "",
+		"choice": "안경",
+		"answers": ["안경", "거울", "열쇠", "모자"]
+	}
+]
