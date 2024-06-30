@@ -173,7 +173,7 @@
     "english": "receipt",
     "question": "",
     "answer": "영수증",
-    "answers": ["명함", "지폐", "영화표", "영수증"]
+    "choices": ["명함", "지폐", "영화표", "영수증"]
   },
   {
     "id": 23,
@@ -181,7 +181,7 @@
     "english": "closet",
     "question": "",
     "answer": "옷장",
-    "answers": ["옷장", "책장", "침대", "책상"]
+    "choices": ["옷장", "책장", "침대", "책상"]
   },
   {
     "id": 24,
@@ -189,7 +189,7 @@
     "english": "stamp",
     "question": "",
     "answer": "우표",
-    "answers": ["우표", "수표", "영수증", "기차표"]
+    "choices": ["우표", "수표", "영수증", "기차표"]
   },
   {
     "id": 25,
@@ -197,6 +197,6 @@
     "english": "running shoes",
     "question": "",
     "answer": "운동화",
-    "answers": ["양말", "모자", "바지", "운동화"]
+    "choices": ["양말", "모자", "바지", "운동화"]
   }
 ]
