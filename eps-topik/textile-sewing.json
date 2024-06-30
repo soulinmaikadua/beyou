@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "image": "",
+      "english": "machining",
+      "question": "‘목화’라는 식물에서 채취해서 만든 섬유는?",
+      "answer": "프레스 작업(Pressing)",
+      "choices": [
+        "양모",
+        "마",
+        "면",
+        "견"
+      ]
+    }
+]
