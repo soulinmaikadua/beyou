@@ -66,7 +66,7 @@
   },
   {
     "id": 6,
-    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine.png",
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine1.png",
     "english": "What device is used in the machining center in the picture below?",
     "question": "아래 그림은 어떤 공작기계에서 사용되는 장치인가?",
     "answer": "밀링머신(Milling machine)",
@@ -123,11 +123,140 @@
     "question": "공작기계 안내면에 관한 설명 중 틀린 것은?",
     "answer": "내마모성을 높이기 위해 풀림(annealing)을 실시한다.",
     "answers": [
-        "가공이 용이해야 한다.",
-        "정밀도 유지를 위해 틈새(clearance)를 가능한 적게 한다.",
-        "내마모성이 크고 미끄럼(sliding)이 원활해야 한다.",
-        "내마모성을 높이기 위해 풀림(annealing)을 실시한다."
+      "가공이 용이해야 한다.",
+      "정밀도 유지를 위해 틈새(clearance)를 가능한 적게 한다.",
+      "내마모성이 크고 미끄럼(sliding)이 원활해야 한다.",
+      "내마모성을 높이기 위해 풀림(annealing)을 실시한다."
     ]
-}
-
+  },
+  {
+    "id": 11,
+    "image": "",
+    "english": "Which statement about the body of machine tools is incorrect?",
+    "question": "공작기계의 몸체(body)에 관한 설명 중 틀린 것은?",
+    "answer": "응력변형을 방지하기 위해 전체 담금질(quenching)을 한다.",
+    "answers": [
+      "진동을 흡수할 수 있는 구조여야 한다.",
+      "외력에 견딜 수 있는 강성이 있어야 된다.",
+      "응력변형을 방지하기 위해 전체 담금질(quenching)을 한다.",
+      "몸체의 재료는 주로 인장강도가 높은 고급 주철을 사용한다."
+    ]
+  },
+  {
+    "id": 12,
+    "image": "",
+    "english": "Which is not closely related to the basic movements of machine tools?",
+    "question": "공작기계의 기본운동과 거리가 먼 것은?",
+    "answer": "위치조정운동(positioning motion)",
+    "answers": [
+      "회전운동(rotation motion)",
+      "이송운동(feed motion)",
+      "절삭운동(cutting motion)",
+      "위치조정운동(positioning motion)"
+    ]
+  },
+  {
+    "id": 13,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine2.png",
+    "english": "What type of machining does the image below represent?",
+    "question": "아래 그림은 어떤 가공을 나타낸 것인가?",
+    "answer": "리밍(reaming)",
+    "answers": [
+      "보링(boring)",
+      "밀링(milling)",
+      "리밍(reaming)",
+      "드릴링(drilling)"
+    ]
+  },
+  {
+    "id": 14,
+    "image": "",
+    "english": "What type of machine is created by combining a lathe, milling machine, drilling machine, etc. into one machine?",
+    "question": "선반, 밀링머신, 드릴링머신 등의 기계를 한 대로 조합하여 제작한 공작기계는?",
+    "answer": "만능 공작기계(universal purpose machine)",
+    "answers": [
+      "범용 공작기계(general purpose machine)",
+      "전용 공작기계(special machine)",
+      "만능 공작기계(universal purpose machine)",
+      "표준 공작기계(standard machine)"
+    ]
+  },
+  {
+    "id": 15,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine3.png",
+    "english": "Which machine tool can perform the processing shown in the picture?",
+    "question": "그림과 같은 가공을 할 수 있는 공작기계는?",
+    "answer": "밀링머신(milling machine)",
+    "answers": [
+      "선반(lathe)",
+      "밀링머신(milling machine)",
+      "드릴링머신(drilling machine)",
+      "슈퍼피니싱(super finishing)"
+    ]
+  },
+  {
+    "id": 16,
+    "image": "",
+    "english": "Which statement about the purpose of using cutting fluids is incorrect?",
+    "question": "절삭유(cutting fluids)의 사용 목적에 관한 설명 중 틀린 것은?",
+    "answer": "안내면(slide way)에 윤활작용을 한다.",
+    "answers": [
+      "공구의 인선을 냉각시켜 공구의 경도저하를 방지한다.",
+      "가공물을 냉각시켜 열에 의한 정밀도 저하 방지한다.",
+      "칩(chip)을 씻어주고 가공표면을 양호하게 한다.",
+      "안내면(slide way)에 윤활작용을 한다."
+    ]
+  },
+  {
+    "id": 17,
+    "image": "",
+    "english": "Which statement about the conditions that cutting fluids must meet is incorrect?",
+    "question": "절삭유의 구비조건에 관한 설명 중 틀린 것은?",
+    "answer": "인화점 및 발화점이 낮아야 한다.",
+    "answers": [
+      "방청 및 방식성이 좋아야 한다.",
+      "인화점 및 발화점이 낮아야 한다.",
+      "냉각성, 유동성, 윤활성이 우수해야 한다.",
+      "인체에 해가 없고 악취가 나지 않아야 한다."
+    ]
+  },
+  {
+    "id": 18,
+    "image": "",
+    "english": "Which cutting fluid, used by mixing with water and having low viscosity and excellent cooling effect, is often used for high-speed cutting and grinding processing?",
+    "question": "물과 원액을 혼합하여 사용하며 점성이 낮고 냉각효과가 우수하여 고속절삭 및 연삭가공액으로 많이 사용되는 절삭유는?",
+    "answer": "수용성 절삭유(soluble oil)",
+    "answers": [
+      "광유(mineral oil)",
+      "유화유(emulsion oil)",
+      "수용성 절삭유(soluble oil)",
+      "지방질유(fatty oil)"
+    ]
+  },
+  {
+    "id": 19,
+    "image": "",
+    "english": "Which of the following incorrectly describes a method for measuring cutting temperature?",
+    "question": "다음 중 절삭온도 측정방법에 대해 잘못 설명한 것은?",
+    "answer": "절삭유의 온도에 의한 측정",
+    "answers": [
+      "칩(chip)의 색깔에 의한 측정",
+      "절삭유의 온도에 의한 측정",
+      "칼로리메터(calorimeter)에 의한 측정",
+      "열전대(thermo-couple)에 의한 측정"
+    ]
+  },
+  {
+    "id": 20,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine4.png",
+    "english": "What is the name of the machine tool used to process the gear as shown in the picture below?",
+    "question": "아래 그림과 같이 기어(gear)를 가공하는 공작기계의 명칭은 무엇인가?",
+    "answer": "호빙머신(hobing machine)",
+    "answers": [
+      "셰이퍼(shaping machine)",
+      "호빙머신(hobing machine)",
+      "호닝머신(honing machine)",
+      "브로우칭머신(broaching machine)"
+    ]
+  }
 ]
