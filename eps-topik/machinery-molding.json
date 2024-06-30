@@ -5,7 +5,7 @@
     "english": "machining",
     "question": "다음 중 절삭가공에 해당되지 않는 것은?",
     "answer": "프레스 작업(Pressing)",
-    "answers": [
+    "choices": [
       "선반 작업(Turning)",
       "밀링 작업(Milling)",
       "프레스 작업(Pressing)",
@@ -18,7 +18,7 @@
     "english": "machining",
     "question": "다음 중 회전 공구에 의한 가공이 아닌 것은?",
     "answer": "밀링(Milling)",
-    "answers": [
+    "choices": [
       "선삭(Turning)",
       "밀링(Milling)",
       "보링(Boring)",
@@ -31,7 +31,7 @@
     "english": "condition of machine tools",
     "question": "공작기계의 구비조건으로 거리가 먼 것은?",
     "answer": "가격이 비싸고 운전비용이 저렴할 것",
-    "answers": [
+    "choices": [
       "높은 정밀도를 가질 것",
       "가공능력이 클 것",
       "고장이 적고 효율이 좋을 것",
@@ -44,7 +44,7 @@
     "english": "Machining by fixed particles",
     "question": "다음 중 고정입자에 의한 가공은?",
     "answer": "액체 호닝(Liquid honing)",
-    "answers": [
+    "choices": [
       "호닝(Honing)",
       "래핑(Lapping)",
       "액체 호닝(Liquid honing)",
@@ -57,7 +57,7 @@
     "english": "What is the machine in the picture below?",
     "question": "아래 그림의 공작기계는 무엇인가?",
     "answer": "선반(Lathe)",
-    "answers": [
+    "choices": [
       "선반(Lathe)",
       "밀링머신(Milling machine)",
       "보링머신(Boring machine)",
@@ -70,7 +70,7 @@
     "english": "What device is used in the machining center in the picture below?",
     "question": "아래 그림은 어떤 공작기계에서 사용되는 장치인가?",
     "answer": "밀링머신(Milling machine)",
-    "answers": [
+    "choices": [
       "선반(Lathe)",
       "밀링머신(Milling machine)",
       "보링머신(Boring machine)",
@@ -83,7 +83,7 @@
     "english": "Which machine has both the workpiece and cutting tool moving in straight-line motion?",
     "question": "공작물과 절삭공구가 모두 직선운동을 하는 공작기계는?",
     "answer": "플레이너(Planer)",
-    "answers": [
+    "choices": [
       "선반(Lathe)",
       "보링머신(Boring machine)",
       "호닝머신(Honing machine)",
@@ -96,7 +96,7 @@
     "english": "Which machine does not generate chips during processing?",
     "question": "가공 시 칩(Chip)을 발생시키지 않는 공작기계는?",
     "answer": "프레스기(Press machine)",
-    "answers": [
+    "choices": [
       "연삭기(Grinding machine)",
       "호닝머신(Honing machine)",
       "밀링머신(Milling machine)",
@@ -109,7 +109,7 @@
     "english": "Which statement about cutting temperature is incorrect?",
     "question": "절삭온도에 관한 설명 중 틀린 것은?",
     "answer": "가공물의 경도가 높을수록 높아진다.",
-    "answers": [
+    "choices": [
       "가공물의 경도가 높을수록 높아진다.",
       "온도가 높아지면 공구수명이 단축된다.",
       "공구와 공작물의 마찰이 적을수록 높아진다.",
@@ -122,7 +122,7 @@
     "english": "Which statement about the guide surface of machine tools is incorrect?",
     "question": "공작기계 안내면에 관한 설명 중 틀린 것은?",
     "answer": "내마모성을 높이기 위해 풀림(annealing)을 실시한다.",
-    "answers": [
+    "choices": [
       "가공이 용이해야 한다.",
       "정밀도 유지를 위해 틈새(clearance)를 가능한 적게 한다.",
       "내마모성이 크고 미끄럼(sliding)이 원활해야 한다.",
@@ -135,7 +135,7 @@
     "english": "Which statement about the body of machine tools is incorrect?",
     "question": "공작기계의 몸체(body)에 관한 설명 중 틀린 것은?",
     "answer": "응력변형을 방지하기 위해 전체 담금질(quenching)을 한다.",
-    "answers": [
+    "choices": [
       "진동을 흡수할 수 있는 구조여야 한다.",
       "외력에 견딜 수 있는 강성이 있어야 된다.",
       "응력변형을 방지하기 위해 전체 담금질(quenching)을 한다.",
@@ -148,7 +148,7 @@
     "english": "Which is not closely related to the basic movements of machine tools?",
     "question": "공작기계의 기본운동과 거리가 먼 것은?",
     "answer": "위치조정운동(positioning motion)",
-    "answers": [
+    "choices": [
       "회전운동(rotation motion)",
       "이송운동(feed motion)",
       "절삭운동(cutting motion)",
@@ -161,7 +161,7 @@
     "english": "What type of machining does the image below represent?",
     "question": "아래 그림은 어떤 가공을 나타낸 것인가?",
     "answer": "리밍(reaming)",
-    "answers": [
+    "choices": [
       "보링(boring)",
       "밀링(milling)",
       "리밍(reaming)",
@@ -174,7 +174,7 @@
     "english": "What type of machine is created by combining a lathe, milling machine, drilling machine, etc. into one machine?",
     "question": "선반, 밀링머신, 드릴링머신 등의 기계를 한 대로 조합하여 제작한 공작기계는?",
     "answer": "만능 공작기계(universal purpose machine)",
-    "answers": [
+    "choices": [
       "범용 공작기계(general purpose machine)",
       "전용 공작기계(special machine)",
       "만능 공작기계(universal purpose machine)",
@@ -187,7 +187,7 @@
     "english": "Which machine tool can perform the processing shown in the picture?",
     "question": "그림과 같은 가공을 할 수 있는 공작기계는?",
     "answer": "밀링머신(milling machine)",
-    "answers": [
+    "choices": [
       "선반(lathe)",
       "밀링머신(milling machine)",
       "드릴링머신(drilling machine)",
@@ -200,7 +200,7 @@
     "english": "Which statement about the purpose of using cutting fluids is incorrect?",
     "question": "절삭유(cutting fluids)의 사용 목적에 관한 설명 중 틀린 것은?",
     "answer": "안내면(slide way)에 윤활작용을 한다.",
-    "answers": [
+    "choices": [
       "공구의 인선을 냉각시켜 공구의 경도저하를 방지한다.",
       "가공물을 냉각시켜 열에 의한 정밀도 저하 방지한다.",
       "칩(chip)을 씻어주고 가공표면을 양호하게 한다.",
@@ -213,7 +213,7 @@
     "english": "Which statement about the conditions that cutting fluids must meet is incorrect?",
     "question": "절삭유의 구비조건에 관한 설명 중 틀린 것은?",
     "answer": "인화점 및 발화점이 낮아야 한다.",
-    "answers": [
+    "choices": [
       "방청 및 방식성이 좋아야 한다.",
       "인화점 및 발화점이 낮아야 한다.",
       "냉각성, 유동성, 윤활성이 우수해야 한다.",
@@ -226,7 +226,7 @@
     "english": "Which cutting fluid, used by mixing with water and having low viscosity and excellent cooling effect, is often used for high-speed cutting and grinding processing?",
     "question": "물과 원액을 혼합하여 사용하며 점성이 낮고 냉각효과가 우수하여 고속절삭 및 연삭가공액으로 많이 사용되는 절삭유는?",
     "answer": "수용성 절삭유(soluble oil)",
-    "answers": [
+    "choices": [
       "광유(mineral oil)",
       "유화유(emulsion oil)",
       "수용성 절삭유(soluble oil)",
@@ -239,7 +239,7 @@
     "english": "Which of the following incorrectly describes a method for measuring cutting temperature?",
     "question": "다음 중 절삭온도 측정방법에 대해 잘못 설명한 것은?",
     "answer": "절삭유의 온도에 의한 측정",
-    "answers": [
+    "choices": [
       "칩(chip)의 색깔에 의한 측정",
       "절삭유의 온도에 의한 측정",
       "칼로리메터(calorimeter)에 의한 측정",
@@ -252,11 +252,306 @@
     "english": "What is the name of the machine tool used to process the gear as shown in the picture below?",
     "question": "아래 그림과 같이 기어(gear)를 가공하는 공작기계의 명칭은 무엇인가?",
     "answer": "호빙머신(hobing machine)",
-    "answers": [
+    "choices": [
       "셰이퍼(shaping machine)",
       "호빙머신(hobing machine)",
       "호닝머신(honing machine)",
       "브로우칭머신(broaching machine)"
+    ]
+  },
+  {
+    "id": 21,
+    "image": "",
+    "english": "Which operation cannot be performed on a lathe?",
+    "question": "선반에서 가공할 수 없는 작업은?",
+    "answer": "기어(gear) 절삭",
+    "choices": [
+      "테이퍼(taper) 절삭",
+      "나사(thread) 절삭",
+      "기어(gear) 절삭",
+      "편심(eccentricity) 절삭"
+    ]
+  },
+  {
+    "id": 22,
+    "image": "",
+    "english": "Which method does not correctly indicate the size of an engine lathe?",
+    "question": "보통선반의 크기를 나타내는 방법 중 틀린 것은?",
+    "answer": "왕복대 위의 스윙",
+    "choices": [
+      "베드(bed) 상의 스윙(swing)",
+      "왕복대 위의 스윙",
+      "양 센터(center) 사이의 거리",
+      "바닥에서 센터까지의 높이"
+    ]
+  },
+  {
+    "id": 23,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine5.png",
+    "english": "Which correctly describes the chuck in the image?",
+    "question": "아래 그림에서 척(chuck)에 대해 바르게 설명한 것은?",
+    "answer": "1개의 조(jaw)를 돌리면 4개의 조가 동시에 움직인다.",
+    "choices": [
+      "연동척(universal chuck)이다",
+      "편심(eccentricity)가공을 할 수 있다",
+      "1개의 조(jaw)를 돌리면 4개의 조가 동시에 움직인다.",
+      "초보자도 쉽고 빠르게 가공물의 중심을 맞출 수 있다."
+    ]
+  },
+  {
+    "id": 24,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine6.png",
+    "english": "Which description of the tool in the image is incorrect?",
+    "question": "아래 그림의 공구(tool)에 대한 설명으로 맞지 않는 것은?",
+    "answer": "인서트 팁(insert tip)의 교환이 불가능하다.",
+    "choices": [
+      "선반(lathe)에서 사용된다.",
+      "주로 내경가공에 사용된다.",
+      "엔드밀이라고 한다.",
+      "인서트 팁(insert tip)의 교환이 불가능하다."
+    ]
+  },
+  {
+    "id": 25,
+    "image": "",
+    "english": "What is the correct unit for cutting speed?",
+    "question": "절삭속도(cutting speed)의 단위를 바르게 나타낸 것은?",
+    "answer": "m/min",
+    "choices": ["m/min", "mm/min", "mm/rev", "rpm"]
+  },
+  {
+    "id": 26,
+    "image": "",
+    "english": "What is the cutting speed when machining carbon steel with a diameter of 30mm at 1200rpm on a lathe?",
+    "question": "선반에서 지름이 30mm인 탄소강을 1200rpm으로 가공할 때 절삭속도는?",
+    "answer": "1130 mm/min",
+    "choices": ["113 m/min", "113 mm/min", "1130 m/min", "1130 mm/min"]
+  },
+  {
+    "id": 27,
+    "image": "",
+    "english": "What is used to break chips into shorter pieces during lathe machining?",
+    "question": "선반가공시 연속적으로 생성되는 칩(chip)을 짧게 끊어지도록 하기 위해 만든 것은?",
+    "answer": "칩 브레이커(chip breaker)",
+    "choices": [
+      "노즈(nose) 반경",
+      "여유각(clearance angle)",
+      "치핑(chipping)",
+      "칩 브레이커(chip breaker)"
+    ]
+  },
+  {
+    "id": 28,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine7.png",
+    "english": "Which statement about the accessories for lathe shown in the picture is incorrect?",
+    "question": "사진 속 선반용 부속품에 관해 설명한 것 중 틀린 것은?",
+    "answer": "길이가 긴 공작물을 지지할 때 사용된다.",
+    "choices": [
+      "회전센터(live center)라고 한다.",
+      "센터의 자루(shank)는 모스테이퍼(morse taper)로 제작한다.",
+      "길이가 긴 공작물을 지지할 때 사용된다.",
+      "심압축(tail stock)에 꽂아서 사용한다."
+    ]
+  },
+  {
+    "id": 29,
+    "image": "",
+    "english": "Which statement about the conditions preventing the built-up edge is incorrect?",
+    "question": "구성인선(built-up edge)이 발생하지 않는 조건에 대한 설명으로 틀린 것은?",
+    "answer": "공구의 윗면 경사각(rake angle)을 크게 한다.",
+    "choices": [
+      "절삭 속도를 크게 한다.",
+      "절삭 깊이(depth of cut)를 크게 한다.",
+      "공구의 날 끝을 예리하게 한다.",
+      "공구의 윗면 경사각(rake angle)을 크게 한다."
+    ]
+  },
+  {
+    "id": 30,
+    "image": "",
+    "english": "What accessory is used when machining thin and long workpieces on a lathe?",
+    "question": "선반에서 가늘고 긴 공작물을 가공할 때 사용하는 부속장치는?",
+    "answer": "맨드릴(mandrel)",
+    "choices": [
+      "면판(face plate)",
+      "돌림판(driving plate)",
+      "방진구(work rest)",
+      "맨드릴(mandrel)"
+    ]
+  },
+  {
+    "id": 31,
+    "image": "",
+    "english": "What is the spindle speed when machining a workpiece with a diameter of 80mm on a lathe at a cutting speed of 302m/min?",
+    "question": "선반에서 지름이 80mm인 공작물을 절삭속도 302m/min으로 가공하고 있다면 이때의 주축 회전수는 얼마인가?",
+    "answer": "1000rpm",
+    "choices": ["1000rpm", "1200rpm", "1400rpm", "1600rpm"]
+  },
+  {
+    "id": 32,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine8.png",
+    "english": "What machining operation is depicted in the illustration on the lathe?",
+    "question": "그림은 선반에서 무슨 가공을 하는 것인가?",
+    "answer": "널링(knurling) 가공",
+    "choices": [
+      "널링(knurling) 가공",
+      "테이퍼(taper) 가공",
+      "릴리빙(relieving) 가공",
+      "보링(boring) 가공"
+    ]
+  },
+  {
+    "id": 33,
+    "image": "",
+    "english": "Which statement about internal diameter boring on a lathe is incorrect?",
+    "question": "선반의 내경절삭(boring)에 관한 설명 중 틀린 것은?",
+    "answer": "외경바이트에 비해 진동이 심하다.",
+    "choices": [
+      "외경바이트에 비해 진동이 심하다.",
+      "바이트를 최대한 길게 고정한다.",
+      "외경절삭에 비해 이송을 느리게 한다.",
+      "생크(shank)는 가능한 굵은 것을 사용한다."
+    ]
+  },
+  {
+    "id": 34,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine9.png",
+    "english": "What is the taper amount when machining the taper as shown in the drawing using a tailstock?",
+    "question": "심압대를 이용하여 아래 도면과 같은 가공물 테이퍼를 가공할 때의 편위량은?",
+    "answer": "8mm",
+    "choices": ["5mm", "6mm", "7mm", "8mm"]
+  },
+  {
+    "id": 35,
+    "image": "",
+    "english": "Which method is not used for machining a taper on a lathe?",
+    "question": "선반에서 테이퍼를 가공하는 방법이 아닌 것은?",
+    "answer": "왕복대(carriage)를 회전시키는 방법",
+    "choices": [
+      "복식 공구대(compound tool post)를 경사시키는 방법",
+      "심압대(tail stock)를 편위시키는 방법",
+      "테이퍼 절삭장치(taper attachment)를 이용하는 방법",
+      "왕복대(carriage)를 회전시키는 방법"
+    ]
+  },
+  {
+    "id": 36,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine10.png",
+    "english": "Which statement about eccentric turning is incorrect?",
+    "question": "그림과 같이 편심(eccentricity) 가공을 할 때 가공방법에 관한 설명 중 틀린 것은?",
+    "answer": "충격절삭이 이루어지므로 공작물을 견고하게 고정한다",
+    "choices": [
+      "연동척에서 가공할 수 있다.",
+      "이송을 천천히 하고 절삭속도를 느리게 한다.",
+      "다이얼 게이지의 이동량은 편심량 X 2로 맞춘다.",
+      "충격절삭이 이루어지므로 공작물을 견고하게 고정한다."
+    ]
+  },
+  {
+    "id": 37,
+    "image": "",
+    "english": "How long does it take to process a carbon steel workpiece with a diameter of 50mm, length of 50mm, at a spindle speed of 1000rpm, and a feed rate of 0.2mm/rev on a lathe?",
+    "question": "선반에서 지름 50mm의 탄소강재를 회전수 1000rpm, 이송 0.2mm/rev, 길이 50mm를 1회 가공할 때 소요되는 시간은?",
+    "answer": "40초",
+    "choices": ["20초", "40초", "60초", "80초"]
+  },
+  {
+    "id": 38,
+    "image": "",
+    "english": "Which of the following does not correspond to the body of a milling machine?",
+    "question": "다음 중 밀링머신의 몸체(body)에 해당되지 않는 것은?",
+    "answer": "왕복대(carriage)",
+    "choices": ["컬럼(column)", "테이블(table)", "니(knee)", "왕복대(carriage)"]
+  },
+  {
+    "id": 39,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine11.png",
+    "english": "Which of the following is correct about the device?",
+    "question": "아래 장치에 대한 설명으로 바른 것은?",
+    "answer": "회전테이블(circular table)이라 한다.",
+    "choices": [
+      "선반(lathe)에서 사용되는 장치이다.",
+      "회전테이블(circular table)이라 한다.",
+      "원주분할, 기어가공 등을 할 수 있다.",
+      "편심(eccentricity)가공을 할 수 있다."
+    ]
+  },
+  {
+    "id": 40,
+    "image": "",
+    "english": "Which statement about down cutting in milling machines is incorrect?",
+    "question": "밀링머신에서 하향절삭(down cutting)에 관한 설명 중 틀린 것은?",
+    "answer": "백 래시(back lash)의 영향을 받지 않는다.",
+    "choices": [
+      "백 래시(back lash)의 영향을 받지 않는다.",
+      "상향절삭(up cutting)에 비해 공구수명이 길다.",
+      "가공면이 깨끗하고 고정밀 절삭이 가능하다.",
+      "절삭가공시 마찰력은 적으나 큰 충격력이 발생된다."
+    ]
+  },
+  {
+    "id": 41,
+    "image": "",
+    "english": "Which statement about selecting cutting speed in milling operations is incorrect?",
+    "question": "밀링가공시 절삭속도 선정방법에 관한 설명 중 틀린 것은?",
+    "answer": "커터의 수명을 연장하기 위해서 추천 절삭속도보다 약간 높게 설정한다.",
+    "choices": [
+      "커터의 수명을 연장하기 위해서 추천 절삭속도보다 약간 높게 설정한다.",
+      "공작물의 경도, 강도, 인성 등의 기계적 성질을 고려한다.",
+      "거친 절삭에서는 절삭 속도를 느리게, 이송 속도를 빠르게, 절삭 깊이를 크게 한다.",
+      "커터의 날이 빠르게 마멸되거나 손상이 되면 절삭속도를 좀 더 낮게 한다."
+    ]
+  },
+  {
+    "id": 42,
+    "image": "",
+    "english": "Which method is not effective in reducing chatter during milling operations?",
+    "question": "밀링작업에서 떨림(chattering)을 줄일 수 있는 방법이 아닌 것은?",
+    "answer": "공구는 최대한 길게 고정시킨다.",
+    "choices": [
+      "공작물을 단단히 고정한다.",
+      "백 래시(back lash)를 최대한 줄인다.",
+      "공구는 최대한 길게 고정시킨다.",
+      "절삭 깊이를 적게 한다."
+    ]
+  },
+  {
+    "id": 43,
+    "image": "",
+    "english": "Which statement about grinding operations is incorrect?",
+    "question": "연삭가공의 특징에 관한 설명 중 틀린 것은?",
+    "answer": "절삭속도가 대단히 느리다.",
+    "choices": [
+      "경화된 강과 같은 단단한 재료를 가공할 수 있다.",
+      "정밀도가 높고 표면거칠기가 우수한 다듬질면을 얻을 수 있다.",
+      "절삭속도가 대단히 느리다.",
+      "연삭점의 온도가 매우 높다."
+    ]
+  },
+  {
+    "id": 44,
+    "image": "",
+    "english": "Identify the correct pairing of the three elements of a grinding wheel.",
+    "question": "연삭숫돌의 3요소를 바르게 짝지은 것은?",
+    "answer": "입자(abrasive)-결합제(bond)-기공(pore)",
+    "choices": [
+      "입자(abrasive)-결합제(bond)-기공(pore)",
+      "입도(grain size)-결합도(grade)-기공(pore)",
+      "입자(abrasive)-결합도(grade)-기공(pore)",
+      "입도(grain size)-결합제(bond)-기공(pore)"
+    ]
+  },
+  {
+    "id": 45,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine12.png",
+    "english": "What is the process of machining where the head of a bolt or nut is recessed into the workpiece?",
+    "question": "아래 그림과 같이 볼트 또는 너트의 머리 부분이 가공물 안으로 묻히도록 가공하는 방법을 무엇이라 하는가?",
+    "answer": "카운터 싱킹(counter sinking)",
+    "choices": [
+      "리밍(reaming)",
+      "보링(boring)",
+      "카운터 보링(counter boring)",
+      "카운터 싱킹(counter sinking)"
     ]
   }
 ]
