@@ -1,0 +1,133 @@
+[
+  {
+    "id": 1,
+    "image": "",
+    "english": "machining",
+    "question": "다음 중 절삭가공에 해당되지 않는 것은?",
+    "answer": "프레스 작업(Pressing)",
+    "answers": [
+      "선반 작업(Turning)",
+      "밀링 작업(Milling)",
+      "프레스 작업(Pressing)",
+      "드릴링 작업(Drilling)"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "",
+    "english": "machining",
+    "question": "다음 중 회전 공구에 의한 가공이 아닌 것은?",
+    "answer": "밀링(Milling)",
+    "answers": [
+      "선삭(Turning)",
+      "밀링(Milling)",
+      "보링(Boring)",
+      "드릴링(Drilling)"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "",
+    "english": "condition of machine tools",
+    "question": "공작기계의 구비조건으로 거리가 먼 것은?",
+    "answer": "가격이 비싸고 운전비용이 저렴할 것",
+    "answers": [
+      "높은 정밀도를 가질 것",
+      "가공능력이 클 것",
+      "고장이 적고 효율이 좋을 것",
+      "가격이 비싸고 운전비용이 저렴할 것"
+    ]
+  },
+  {
+    "id": 4,
+    "image": "",
+    "english": "Machining by fixed particles",
+    "question": "다음 중 고정입자에 의한 가공은?",
+    "answer": "액체 호닝(Liquid honing)",
+    "answers": [
+      "호닝(Honing)",
+      "래핑(Lapping)",
+      "액체 호닝(Liquid honing)",
+      "배럴 가공(Barrel working)"
+    ]
+  },
+  {
+    "id": 5,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine.png",
+    "english": "What is the machine in the picture below?",
+    "question": "아래 그림의 공작기계는 무엇인가?",
+    "answer": "선반(Lathe)",
+    "answers": [
+      "선반(Lathe)",
+      "밀링머신(Milling machine)",
+      "보링머신(Boring machine)",
+      "드릴링머신(Drilling machine)"
+    ]
+  },
+  {
+    "id": 6,
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine.png",
+    "english": "What device is used in the machining center in the picture below?",
+    "question": "아래 그림은 어떤 공작기계에서 사용되는 장치인가?",
+    "answer": "밀링머신(Milling machine)",
+    "answers": [
+      "선반(Lathe)",
+      "밀링머신(Milling machine)",
+      "보링머신(Boring machine)",
+      "드릴링머신(Drilling machine)"
+    ]
+  },
+  {
+    "id": 7,
+    "image": "",
+    "english": "Which machine has both the workpiece and cutting tool moving in straight-line motion?",
+    "question": "공작물과 절삭공구가 모두 직선운동을 하는 공작기계는?",
+    "answer": "플레이너(Planer)",
+    "answers": [
+      "선반(Lathe)",
+      "보링머신(Boring machine)",
+      "호닝머신(Honing machine)",
+      "플레이너(Planer)"
+    ]
+  },
+  {
+    "id": 8,
+    "image": "",
+    "english": "Which machine does not generate chips during processing?",
+    "question": "가공 시 칩(Chip)을 발생시키지 않는 공작기계는?",
+    "answer": "프레스기(Press machine)",
+    "answers": [
+      "연삭기(Grinding machine)",
+      "호닝머신(Honing machine)",
+      "밀링머신(Milling machine)",
+      "프레스기(Press machine)"
+    ]
+  },
+  {
+    "id": 9,
+    "image": "",
+    "english": "Which statement about cutting temperature is incorrect?",
+    "question": "절삭온도에 관한 설명 중 틀린 것은?",
+    "answer": "가공물의 경도가 높을수록 높아진다.",
+    "answers": [
+      "가공물의 경도가 높을수록 높아진다.",
+      "온도가 높아지면 공구수명이 단축된다.",
+      "공구와 공작물의 마찰이 적을수록 높아진다.",
+      "온도가 상승하면 열팽창으로 인해 치수변화가 발생된다."
+    ]
+  },
+  {
+    "id": 10,
+    "image": "",
+    "english": "Which statement about the guide surface of machine tools is incorrect?",
+    "question": "공작기계 안내면에 관한 설명 중 틀린 것은?",
+    "answer": "내마모성을 높이기 위해 풀림(annealing)을 실시한다.",
+    "answers": [
+        "가공이 용이해야 한다.",
+        "정밀도 유지를 위해 틈새(clearance)를 가능한 적게 한다.",
+        "내마모성이 크고 미끄럼(sliding)이 원활해야 한다.",
+        "내마모성을 높이기 위해 풀림(annealing)을 실시한다."
+    ]
+}
+
+]
