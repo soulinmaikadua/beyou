@@ -1,0 +1,23 @@
+[
+	{
+		"korean": "대명사에 관한 어휘",
+		"english": "Reading",
+		"lao": "ການອ່ານ",
+		"slug": "reading",
+		"icon": "Icons.menu_book_rounded"
+	},
+	{
+		"korean": "대명사에 관한 어휘",
+		"english": "English",
+		"lao": "Vocabularies (ຄຳສັບ)",
+		"slug": "machinery-molding",
+		"icon": "Icons.menu_book_rounded"
+	},
+	{
+		"korean": "대명사에 관한 어휘",
+		"english": "English",
+		"lao": "Vocabularies (ຄຳສັບ)",
+		"slug": "textile-sewing",
+		"icon": "Icons.menu_book_rounded"
+	}
+]
