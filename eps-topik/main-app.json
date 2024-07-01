@@ -4,6 +4,7 @@
 		"english": "Reading",
 		"lao": "ການອ່ານ",
 		"slug": "reading",
+		"db": "readings",
 		"icon": "Icons.menu_book_rounded"
 	},
 	{
@@ -11,6 +12,7 @@
 		"english": "English",
 		"lao": "Vocabularies (ຄຳສັບ)",
 		"slug": "machinery-molding",
+		"db": "machines",
 		"icon": "Icons.menu_book_rounded"
 	},
 	{
@@ -18,6 +20,7 @@
 		"english": "English",
 		"lao": "Vocabularies (ຄຳສັບ)",
 		"slug": "textile-sewing",
+		"db": "textiles",
 		"icon": "Icons.menu_book_rounded"
 	}
 ]
