@@ -1,0 +1,804 @@
+[
+	{
+		"id": 1,
+		"image": "",
+		"english": "What is the designation for a 300/500 V single-core vinyl insulated wire for equipment wiring?",
+		"question": "300/500 V 기기 배선용 단심 비닐절연전선의 약호는?",
+		"answer": "NRI",
+		"choices": ["NRF", "CV", "NRI", "FTC"]
+	},
+	{
+		"id": 2,
+		"image": "",
+		"english": "According to Joule's law, when current flows through a wire, heat is generated. What is the formula for Joule's law expressed in calories (cal)?",
+		"question": "줄(Joule)의 법칙에 의하여 전선에 전류가 흐르면 열이 발생한다. 줄의 법칙을 칼로리(cal)로 표현한 공식은?",
+		"answer": "   ",
+		"choices": ["H = 0.24 I2 Rt", "H = 0.24 IRt", "H = I2 Rt", "H = I Rt"]
+	},
+
+	{
+		"id": 3,
+		"image": "",
+		"english": "The movement of electric charge is called current. What is the unit of current?",
+		"question": "전하의 이동을 전류라고 한다. 전류의 단위는 무엇인가?",
+		"answer": "A",
+		"choices": ["V", "A", "W", "Ω"]
+	},
+	{
+		"id": 4,
+		"image": "",
+		"english": "Which cable is most commonly used as a power cable?",
+		"question": "전력케이블로 가장 많이 사용되고 있는 케이블은?",
+		"answer": "CV",
+		"choices": ["NR", "NF", "EV", "CV"]
+	},
+	{
+		"id": 5,
+		"image": "",
+		"english": "If a charge of 5 c moves between two points and does 100 J of work, what is the potential difference between the two points?",
+		"question": "어느 두 점 사이를 5 c의 전하가 이동하여 외부에 대해 100 J의 일을 했다면, 두 점 사이의 전위차는 몇 V 인가?",
+		"answer": "20",
+		"choices": ["10", "20", "30", "40"]
+	},
+	{
+		"id": 6,
+		"image": "",
+		"english": "If a heating element has a voltage of 100 V and a current of 10 A, what is the power P(kW) of the heating element?",
+		"question": "100 V의 전압을 인가할 때 10 A의 전류가 흐르는 전열기가 있다. 이 전열기의 전력 P(kW)는 얼마인가?",
+		"answer": "1",
+		"choices": ["1", "2", "3", "4"]
+	},
+	{
+		"id": 7,
+		"image": "",
+		"english": "If a heating element with a voltage of 100 V and a current of 10 A is used for 2 hours a day for 30 days, what is the power P(kW) of the heating element and the total energy consumption (kWh) over 30 days?",
+		"question": "100 V의 전압을 인가할 때 10 A의 전류가 흐르는 전열기가 있다. 이 전열기를 하루에 2시간씩 30일간 사용한다면, 이 전열기의 전력 P(kW) 및 30일간의 전력량(kWh)은 얼마인가?",
+		"answer": "1, 60",
+		"choices": ["4, 30", "3, 40", "2, 50", "1, 60"]
+	},
+
+	{
+		"id": 8,
+		"image": "",
+		"english": "Ohm's law states that 'the current flowing through a conductor is directly proportional to the applied voltage and inversely proportional to the resistance.' What is the equation and the unit for resistance?",
+		"question": "옴(Ohm’s)의 법칙은 '도체에 흐르는 전류는 인가된 전압에 반비례한다.' 이때의 비례상수를 저항이라 하고 R로 표시한다. 수식과 저항의 단위는?",
+		"answer": "    , ",
+		"choices": ["   , ", "    , ", "    , ", "    ,"]
+	},
+	{
+		"id": 9,
+		"image": "",
+		"english": "What is the current flowing through a circuit if a wire with resistance of 22Ω is connected to a 220V power supply?",
+		"question": "220V인 선로에서 전선의 저항이 22Ω이면 이 선로에 흐르는 전류는 몇 A인가?",
+		"answer": "10",
+		"choices": ["1", "5", "10", "15"]
+	},
+	{
+		"id": 10,
+		"image": "",
+		"english": "Which of the following is not a correct condition for selecting a wire material?",
+		"question": "전선 재료로서 구비하여야 할 조건 중 틀린 것은?",
+		"answer": "인장강도가 비교적 적을 것",
+		"choices": ["도전율이 클 것", "접속이 쉬울 것", "가요성이 풍부할 것", "인장강도가 비교적 적을 것"]
+	},
+	{
+		"id": 11,
+		"image": "",
+		"english": "What does CV signify in cable markings?",
+		"question": "케이블의 약호 표시 중 CV가 뜻하는 것은?",
+		"answer": "가교폴리에틸렌절연 비닐시스 케이블",
+		"choices": ["폴리에틸렌절연 부틸고무시스 케이블", "비닐절연 가교폴리에틸렌시스 케이블", "클로로플렌고무절연 비닐시스 케이블", "가교폴리에틸렌절연 비닐시스 케이블"]
+	},
+	{
+		"id": 12,
+		"image": "",
+		"english": "Which essential basic tool is not necessary to have at all times for cutting wires or bending them at right angles?",
+		"question": "전선을 자르거나 직각으로 구부릴 때 사용하며, 모든 작업시 항상 갖추고 있어야 하는 필수적인 기본공구가 아닌 것은?",
+		"answer": "롱노우즈",
+		"choices": ["펜치", "니퍼", "스트리퍼", "롱노우즈"]
+	},
+	{
+		"id": 13,
+		"image": "",
+		"english": "Which tool is used to verify whether the circuit is properly wired after completing the work?",
+		"question": "작업을 완료한 후 회로를 정상적으로 결선하였는지 여부를 확인하기 위하여 사용하는 공구는?",
+		"answer": "벨테스터",
+		"choices": ["벨테스터", "스트리퍼", "니퍼", "롱노우즈"]
+	},
+	{
+		"id": 14,
+		"image": "",
+		"english": "Which tool is convenient for stripping the insulation of wires vertically?",
+		"question": "전선의 피복을 수직으로 벗기는데 편리한 공구는?",
+		"answer": "오리스트리퍼",
+		"choices": ["펜치", "오리스트리퍼", "니퍼", "롱노우즈"]
+	},
+	{
+		"id": 15,
+		"image": "",
+		"english": "Which method of connecting wires based on their shape is not correct?",
+		"question": "형상에 따른 전선의 접속방법이 아닌 것은?",
+		"answer": "종단접속",
+		"choices": ["직선접속", "분기접속", "종단접속", "박스접속"]
+	},
+	{
+		"id": 16,
+		"image": "",
+		"english": "What is the method of connecting wires less than 2.6 mm in diameter in a straight line connection?",
+		"question": "전선을 직선 접속할 때 2.6 mm 이하의 단선에 적용하는 접속방법은?",
+		"answer": "단권 직선접속",
+		"choices": ["브리타니어 직선접속", "권선 직선접속", "트위스트 직선접속", "단권 직선접속"]
+	},
+	{
+		"id": 17,
+		"image": "",
+		"english": "In connecting wires, it is important not to increase the (___) of the wire and not to reduce the (___) intensity by more than (___) %.",
+		"question": "“전선을 접속하는 경우에는 전선의 (___)을 증가시키지 않도록 접속하여야 하며, 전선의 세기를 (___) % 이상 감소시키지 않아야 한다.”에서 (___) 안에 들어갈 적합한 말은?",
+		"answer": "저항, 20, 저항",
+		"choices": ["전류, 20, 전류", "저항, 20, 저항", "전압, 10, 전압", "전력, 10, 전력"]
+	},
+	{
+		"id": 18,
+		"image": "",
+		"english": "Which of the following is not suitable for wire connection using wire connectors?",
+		"question": "와이어 커넥터를 이용한 접속 방법으로 적합하지 않은 것은?",
+		"answer": "커넥터 접속을 위하여 박스 내에서 전선의 여유는 5 ㎝ 정도 되도록 한다.",
+		"choices": ["외피는 자기소화성 난연 재질이다.", "커넥터의 색상에는 황색, 적색, 청색, 회색이 있으며, 색상 별로 규격이 정해져 있다.", "커넥터 접속을 위하여 박스 내에서 전선의 여유는 5 ㎝ 정도 되도록 한다.", "접속하려는 전선의 심선이 2∼3 가닥인 경우, 전선의 피복을 10 mm 정도 벗기고 심선을 나란히 합쳐 소형 커넥터를 사용하여 접속한다."]
+	},
+	{
+		"id": 19,
+		"image": "",
+		"english": "Which method is suitable for connecting wires to stud terminals?",
+		"question": "전선과 스터드 단자의 접속 방법으로 적합한 것은?",
+		"answer": "압축 또는 납땜에 의해 전선과 접속한다.",
+		"choices": ["전선을 고리형으로 만들고 나사를 죄어 접속한다.", "전선을 직접 밀어 넣고 나사를 죄어 접속한다.", "누름 금구가 있으면 전선에는 납땜을 하지 않아도 된다.", "압축 또는 납땜에 의해 전선과 접속한다."]
+	},
+	{
+		"id": 20,
+		"image": "",
+		"english": "When connecting the lighting circuit in an outlet box, what is the most suitable connection material?",
+		"question": "아우트렛 박스에서 전등 선로를 연결하고 있다. 접속 재료로서 가장 적합한 것은?",
+		"answer": "와이어 커넥터",
+		"choices": ["비닐 테이블", "압칙단자", "와이어 커넥터", "레이진"]
+	},
+	{
+		"id": 21,
+		"image": "",
+		"english": "What is used as an intermediate connection material for wires and cables?",
+		"question": "전선 및 케이블의 중간 접속재로 사용되는 것은?",
+		"answer": "압착 터미널",
+		"choices": ["링 슬리브", "압착 터미널", "와이어 커넥터", "칼 브럭"]
+	},
+	{
+		"id": 22,
+		"image": "",
+		"english": "What metal terminal is used as a straight terminal for wires?",
+		"question": "전선의 직선단자로 사용되는 금속 단자는?",
+		"answer": "스터드 단자",
+		"choices": ["링 슬리브", "스터드 단자", "와이어 커넥터", "고리형 단자"]
+	},
+	{
+		"id": 23,
+		"image": "",
+		"english": "Which wire is suitable for storage in a resin duct installed in a distribution box?",
+		"question": "분전함 내에 설치하는 수지제 덕트에 수납하기에 적합한 전선은?",
+		"answer": "케이블",
+		"choices": ["와이어", "코드", "케이블", "캡타이어 케이블"]
+	},
+	{
+		"id": 24,
+		"image": "",
+		"english": "Which wire is suitable for synthetic resin pipe construction?",
+		"question": "합성수지관 공사에 적합한 전선은?",
+		"answer": "케이블",
+		"choices": ["나전선", "절연전선", "코드", "케이블"]
+	},
+	{
+		"id": 25,
+		"image": "",
+		"english": "In synthetic resin pipe construction, how many meters or less should piping support be maintained?",
+		"question": "합성수지관 공사에서 배관의 지지는 몇 m 이하로 하여야 하는가?",
+		"answer": "2.0",
+		"choices": ["0.5", "1.0", "1.5", "2.0"]
+	},
+	{
+		"id": 26,
+		"image": "",
+		"english": "In synthetic resin pipe and metal pipe construction, what does 16 mm indicate?",
+		"question": "합성수지관 및 금속관 공사에서 16 mm 라고 표기되어 있다. 무엇을 의미하는가?",
+		"answer": "내경",
+		"choices": ["두께 중심과 두께 중심의 사이", "외경", "내경", "나사 피치와 피치 사이"]
+	},
+	{
+		"id": 27,
+		"image": "",
+		"english": "What is used to prevent cable sheath damage when using metal pipes?",
+		"question": "금속관을 사용할 때 케이블 피복 손상 방지용으로 사용되는 것은?",
+		"answer": "부싱",
+		"choices": ["로크너트", "커플링", "엘보", "부싱"]
+	},
+	{
+		"id": 28,
+		"image": "",
+		"english": "What material is used at the end of the inlet pipe in metal pipe construction?",
+		"question": "금속관 공사의 인입구관 끝에 사용하는 재료는?",
+		"answer": "엔트런스 캡",
+		"choices": ["엔트런스 캡", "링 리듀서", "엘보", "부싱"]
+	},
+	{
+		"id": 29,
+		"image": "",
+		"english": "In wire duct construction, when the spacing is too long or there are many bends making conduit threading difficult, what is the intermediate box used for purposes other than wire connection?",
+		"question": "전선관 공사를 할 경우 경간이 너무 길거나 구부러지는 개소가 많아 배관 입선이 용이하지 않을 경우, 전선의 접속이 아닌 입선 목적에만 사용하는 중간박스는?",
+		"answer": "조인트박스",
+		"choices": ["조인트박스", "풀박스", "엘보", "부싱"]
+	},
+	{
+		"id": 30,
+		"image": "",
+		"english": "In wire duct construction, when spacing is too long or there are many bends making conduit threading difficult, which box is used to create wire connection points when there is no problem with the installation?",
+		"question": "전선관 공사를 할 경우 경간이 너무 길거나 구부러지는 개소가 많아 배관 입선이 용이하지 않을 경우 전선의 접속점을 만들어도 문제가 없는 경우에 사용하는 박스는?",
+		"answer": "조인트박스",
+		"choices": ["엘보", "풀박스", "조인트박스", "부싱"]
+	},
+	{
+		"id": 31,
+		"image": "",
+		"english": "What type of conduit construction involves installing hangers from the ceiling with toggle bolts, fixing brackets on the hangers, and fixing them to the wall to install brackets?",
+		"question": "금속재 사다리형 전선 관로로서 천장으로부터 달대볼트로 행거를 설치, 행거 위에 고정시키거나 벽면에 가대를 하여 브라켓을 설치 ․ 사용하는 관로공사는?",
+		"answer": "케이블트레이 공사",
+		"choices": ["플로어덕트 공사", "금속덕트 공사", "버스덕트 공사", "케이블트레이 공사"]
+	},
+	{
+		"id": 32,
+		"image": "",
+		"english": "Which wire cannot be used in cable tray construction?",
+		"question": "케이블트레이 공사에 사용할 수 없는 전선은?",
+		"answer": "F-CV",
+		"choices": ["HFIX", "FR-8", "FR-3", "F-CV"]
+	},
+	{
+		"id": 33,
+		"image": "",
+		"english": "This conduit construction is mainly used indoors in places like electrical rooms and generator rooms, where general access by the public is limited. It involves digging trenches in the floor and covering them with lids.",
+		"question": "주로 전기실, 발전기실 등의 일반인의 출입이 적은 실내에 사용되며, 바닥에 홈을 파고 홈에 덮개를 덮어 사용하는 관로공사는?",
+		"answer": "플로어덕트 공사",
+		"choices": ["플로어덕트 공사", "배선용피트 공사", "버스덕트 공사", "금속덕트 공사"]
+	},
+	{
+		"id": 34,
+		"image": "",
+		"english": "Which duct is most suitable for use in a feeder duct where there are no branch joints between indoor transformers and distribution panels?",
+		"question": "실내의 변압기와 배전반 사이의 간선에서 분기접점이 없는 전선로에 사용하는 가장 적합한 덕트는?",
+		"answer": "피더 버스덕트",
+		"choices": ["트롤리 버스덕트", "플러그인 버스덕트", "피더 버스덕트", "와이어덕트"]
+	},
+	{
+		"id": 35,
+		"image": "",
+		"english": "As a flexible synthetic resin conduit used mainly for underground piping such as streetlight piping, which conduit is it?",
+		"question": "연질합성수지관으로서 가로등 배관 등 주로 지중 배관에 사용하는 전선관은?",
+		"answer": "플렉시블 전선관",
+		"choices": ["금속 전선관", "플렉시블 전선관", "PVC 전선관", "폴리에틸렌(PE) 전선관"]
+	},
+	{
+		"id": 36,
+		"image": "",
+		"english": "What is the standard temperature used to determine the allowable current for underground conduit?",
+		"question": "지중전선관로의 허용전류를 결정할 때 기준온도는?",
+		"answer": "20 ℃",
+		"choices": ["20 ℃", "30 ℃", "40 ℃", "50 ℃"]
+	},
+	{
+		"id": 37,
+		"image": "",
+		"english": "What is the maximum distance between support points for metal conduit construction?",
+		"question": "금속덕트 공사의 지지점간의 거리는 몇 m 이하로 하여야 하는가?",
+		"answer": "3.0",
+		"choices": ["1.5", "3.0", "4.0", "5.0"]
+	},
+	{
+		"id": 38,
+		"image": "",
+		"english": "Which installation method is not suitable for floor duct construction?",
+		"question": "플로어덕트 공사의 시설방법으로 적합하지 않은 것은?",
+		"answer": "전선은 옥외용 비닐 절연전선을 사용할 것.",
+		"choices": ["전선은 연선을 사용할 것.", "전선은 절연전선을 사용할 것.", "전선은 옥외용 비닐 절연전선을 사용할 것.", "플로어덕트 안에는 전선에 접속점이 없도록 할 것."]
+	},
+	{
+		"id": 39,
+		"image": "",
+		"english": "Which description is appropriate for a molded case circuit breaker (MCCB) as an overcurrent protection device?",
+		"question": "과전류차단기로서 배선용차단기(MCCB)에 대한 설명으로 적합한 것은?",
+		"answer": "정격전류에 1.25배의 전류로 자동적으로 즉시 동작할 것",
+		"choices": ["정격전류에 1.25배의 전류로 자동적으로 즉시 동작할 것", "정격전류에 2배의 전류로 융단 될 것", "정격전류에 1.1배의 전류에 견딜 것", "정격전류에 1배의 전류로 자동적으로 동작하지 아니할 것"]
+	},
+	{
+		"id": 40,
+		"image": "",
+		"english": "Which component is not part of a residual current circuit breaker (ELB)?",
+		"question": "누전차단기(ELB)의 내부 구성요소가 아닌 것은?",
+		"answer": "영상변류기",
+		"choices": ["동작부", "검출부", "영상변류기", "차단부"]
+	},
+	{
+		"id": 41,
+		"image": "",
+		"english": "Which switch uses electromagnetic attraction to operate its contacts for controlling AC or DC motors?",
+		"question": "교류 또는 직류 전동기의 제어에 사용되는 것으로서 전자석의 흡입력을 이용하여 접촉부를 동작시키는 개폐기는?",
+		"answer": "전자접촉기(MC)",
+		"choices": ["배선용차단기(MCCB)", "전자접촉기(MC)", "누전차단기(ELB)", "과전류계전기(OCR)"]
+	},
+	{
+		"id": 42,
+		"image": "",
+		"english": "Which type of fuse is used for high voltage and is encapsulated?",
+		"question": "고압에 사용하는 퓨즈 중에서 포장퓨즈는?",
+		"answer": "통형 퓨즈",
+		"choices": ["실 퓨즈", "훅 퓨즈", "통형 퓨즈", "판형 퓨즈"]
+	},
+	{
+		"id": 43,
+		"image": "",
+		"english": "How many strands of wire are required for a switch with 3 poles?",
+		"question": "3로 스위치 1개에는 몇 가닥의 전선이 필요한가?",
+		"answer": "6",
+		"choices": ["6", "5", "4", "3"]
+	},
+	{
+		"id": 44,
+		"image": "",
+		"english": "In the case of a single-pole switch, how many wires are there in a 3-gang switch?",
+		"question": "단극 스위치인 경우 3구 스위치의 전선 가닥수는?",
+		"answer": "6",
+		"choices": ["4", "5", "6", "7"]
+	},
+	{
+		"id": 45,
+		"image": "",
+		"english": "What grounding should be applied to the secondary side of a transformer?",
+		"question": "변압기 2차 측에는 어떤 접지를 하여야 하는가?",
+		"answer": "제1종 접지공사",
+		"choices": ["제1종 접지공사", "제2종 접지공사", "제3종 접지공사", "특별 제3종 접지공사"]
+	},
+	{
+		"id": 46,
+		"image": "",
+		"english": "What is the maximum permissible grounding resistance for Type 1 grounding work?",
+		"question": "제1종 접지공사의 접지 저항치는 몇 오옴 이하이어야 하는가?",
+		"answer": "5 Ω",
+		"choices": ["5 Ω", "10 Ω", "30 Ω", "100 Ω"]
+	},
+	{
+		"id": 47,
+		"image": "",
+		"english": "What is the maximum permissible grounding resistance for Special Type 3 grounding work?",
+		"question": "특별 제3종 접지공사의 접지 저항치는 몇 오옴 이하이어야 하는가?",
+		"answer": "10 Ω",
+		"choices": ["5 Ω", "10 Ω", "30 Ω", "100 Ω"]
+	},
+	{
+		"id": 48,
+		"image": "",
+		"english": "What is the surge protection device in lightning protection equipment?",
+		"question": "피뢰설비에서 서지보호장치는 무엇인가?",
+		"answer": "SPD",
+		"choices": ["CB", "TR", "SPD", "L.A"]
+	},
+	{
+		"id": 49,
+		"image": "",
+		"english": "Which of the following is not a purpose of grounding work?",
+		"question": "접지공사의 목적으로 적합하지 않은 것은?",
+		"answer": "전로의 대지전압 상승",
+		"choices": ["감전 방지", "이상전압의 억제", "전로의 대지전압 상승", "보호계전기의 동작확보"]
+	},
+	{
+		"id": 50,
+		"image": "",
+		"english": "What is the code for grounding wire used in grounding work?",
+		"question": "접지공사에 적용하는 접지선의 약호는?",
+		"answer": "EV",
+		"choices": ["GV", "HIV", "CV", "EV"]
+	},
+	{
+		"id": 51,
+		"image": "",
+		"english": "What is the electric charge [C] carried by a single electron?",
+		"question": "1개의 전자가 가지고 있는 전기량[C]은?",
+		"answer": "1.602×10⁻¹⁹",
+		"choices": ["1.602×10⁻¹⁹", "9.109×10⁻³¹", "1.602×10²⁰", "9.109×10⁻²⁸"]
+	},
+	{
+		"id": 52,
+		"image": "",
+		"english": "When two capacitors of 2 μF and 3 μF are connected in parallel, what is the equivalent capacitance [μF]?",
+		"question": "2[㎌]과 3[㎌]의 콘덴서 2개를 병렬로 연결하였다. 합성 정전 용량[㎌]은?",
+		"answer": "5",
+		"choices": ["1.2", "2", "3", "5"]
+	},
+	{
+		"id": 53,
+		"image": "",
+		"english": "When two resistors of 3 Ω and 6 Ω are connected in parallel, what is the equivalent resistance [Ω]?",
+		"question": "3[Ω]과 6[Ω]의 저항 2개를 병렬로 연결하였다. 합성 저항[Ω]은?",
+		"answer": "1.2",
+		"choices": ["1.2", "2", "3", "9"]
+	},
+	{
+		"id": 54,
+		"image": "",
+		"english": "10 is micro (μ). What is the symbol for 10?",
+		"question": "10⁻³ 은 μ(micro)이다. 10 의 기호는? Need fixed",
+		"answer": "M(mega)",
+		"choices": ["k(kilo)", "T(tera)", "M(mega)", "P(peta)"]
+	},
+	{
+		"id": 55,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric.png",
+		"english": "The following image shows a resistance measurement on a circuit tester. If the measurement terminals were set to the ×10 terminal, what would be the resistance value [Ω]?",
+		"question": "다음 그림은 회로 시험기(Tester)로 저항을 측정하였더니 측정된 눈금이다. 측정 단자를 ×10 단자에 선택을 하고 측정하였다면 저항값[Ω]은 얼마인가?",
+		"answer": "400",
+		"choices": ["40", "50", "400", "500"]
+	},
+	{
+		"id": 56,
+		"image": "",
+		"english": "If the resistance color codes are yellow, violet, and red in order, what is the resistance value [Ω]?",
+		"question": "저항의 색상이 순서대로 노랑, 보라, 빨강 순으로 되어 있다면 이 저항의 저항값[Ω]은?",
+		"answer": "4700",
+		"choices": ["47", "470", "4700", "47000"]
+	},
+	{
+		"id": 57,
+		"image": "",
+		"english": "Which type of condenser has polarity?",
+		"question": "콘덴서(condenser)의 종류 중 극성이 있는 것은?",
+		"answer": "전해 콘덴서",
+		"choices": ["세라믹 콘덴서", "마일러 콘덴서", "전해 콘덴서", "종이 콘덴서"]
+	},
+	{
+		"id": 58,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric1.png",
+		"english": "In the following circuit, if R1 = 5[Ω], R2 = 5[Ω], and R3 = 10[Ω], what is the equivalent resistance [Ω]?",
+		"question": "다음 회로에서 R1 = 5[Ω], R2 = 5[Ω], R3 = 10[Ω]이다. 합성 저항[Ω]은?",
+		"answer": "10",
+		"choices": ["10", "12.5", "20", "250"]
+	},
+	{
+		"id": 59,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric2.png",
+		"english": "In the following diagram, if C1 = 4[㎌] and C2 = 6[㎌], what is the equivalent capacitance [㎌]?",
+		"question": "그림에서 C1 = 4[㎌], C2 = 6[㎌]이다. 합성 정전 용량[㎌]은?",
+		"answer": "10",
+		"choices": ["2.4", "4", "6", "10"]
+	},
+	{
+		"id": 60,
+		"image": "",
+		"english": "When measuring the insulation resistance of indoor wiring, switches, and outlets, open all switches to the (㉠) state and measure using a (㉡). What are the correct words for ㉠ and ㉡?",
+		"question": "옥내 배선, 스위치 및 콘센트 등의 절연 저항을 측정할 경우는 모든 스위치를 열어 ( ㉠ )상태로 한 다음 ( ㉡ )를 이용하여 측정한다. 에서 ㉠, ㉡에 들어갈 말로 옳은 것은?",
+		"answer": "㉠ - 무부하, ㉡ - 절연 저항계",
+		"choices": ["㉠ - 부하, ㉡ - 접지 저항계", "㉠ - 부하, ㉡ - 절연 저항계", "㉠ - 무부하, ㉡ - 접지 저항계", "㉠ - 무부하, ㉡ - 절연 저항계"]
+	},
+	{
+		"id": 61,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric3.png",
+		"english": "What does the symbol in the picture represent?",
+		"question": "그림의 기호는 무엇을 의미하는가?",
+		"answer": "직류 전원",
+		"choices": ["직류 전원", "교류 전원", "접속", "접지"]
+	},
+	{
+		"id": 62,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric4.png",
+		"english": "What does the symbol in the picture represent?",
+		"question": "그림의 기호는 무엇을 의미하는가?",
+		"answer": "배선용 차단기",
+		"choices": ["배선용 차단기", "누전 차단기", "분전반", "배전반"]
+	},
+	{
+		"id": 63,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric5.png",
+		"english": "In the circuit, R1 = 2[Ω], R2 = 5[Ω], and V = 10[V]. What is the current I1 through R1 in [A]?",
+		"question": "그림에서 R1 =2[Ω], R2 =5[Ω]이며, V=10[V]이다. R1에 흐르는 전류 I1은 몇 [A]인가?",
+		"answer": "2",
+		"choices": ["2", "3", "5", "7"]
+	},
+	{
+		"id": 64,
+		"image": "",
+		"english": "What is the unit of frequency, defined as the number of cycles per second?",
+		"question": "교류의 1회 변화를 1사이클이라 하며, 1사이클 변화하는데 걸리는 시간을 주기라 한다. 또한 1초 동안에 반복되는 사이클의 수를 주파수라 하는데, 이 주파수의 단위는?",
+		"answer": "Hz",
+		"choices": ["[Hz]", "[A]", "[V]", "[Ω]"]
+	},
+	{
+		"id": 65,
+		"image": "",
+		"english": "Which material has a resistivity of 10  to 10 [Ω․m]?",
+		"question": "다음 중 고유 저항이 10  (10-4) ~ 10 (10^6) [Ω․m]인 재료를 무엇이라 하는가?",
+		"answer": "절연체",
+		"choices": ["도체", "절연체", "반도체", "초전도체"]
+	},
+	{
+		"id": 66,
+		"image": "",
+		"english": "In an electrical circuit, when connecting a voltmeter and an ammeter to measure voltage and current, what is the correct connection method for each?",
+		"question": "전기 회로에서 전압과 전류를 측정하고자 전압계와 전류계를 연결하였다. 이 때, 전압계와 전류계의 연결 방법이 옳게 된 것은?",
+		"answer": "전압계-병렬, 전류계-직렬",
+		"choices": ["전압계-직렬, 전류계-병렬", "전압계-병렬, 전류계-직렬", "전압계-병렬, 전류계-병렬", "전압계-직렬, 전류계-직렬"]
+	},
+	{
+		"id": 67,
+		"image": "",
+		"english": "When measuring balanced 3-phase power using the two-wattmeter method, the wattmeters indicate 500W and 1000W. What is the total power consumption?",
+		"question": "2전력계법에 의해 평형 3상 전력을 측정하였더니 전력계가 500[W], 1000[W]를 지시하였다. 이 때 소비전력[W]은?",
+		"answer": "1500",
+		"choices": ["500", "1000", "1500", "2000"]
+	},
+	{
+		"id": 68,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric6.png",
+		"english": "In an electrical diagram, what does the symbol shown represent?",
+		"question": "전기 도면에서 그림과 같은 기호는 무엇을 나타내는가?",
+		"answer": "천장 은폐 배선",
+		"choices": ["천장 은폐 배선", "바닥 은폐 배선", "노출 배선", "바닥 노출 배선"]
+	},
+	{
+		"id": 69,
+		"image": "",
+		"english": "What is defined as the work done by an electric current in one second?",
+		"question": "전류가 1초 동안에 한 일을 무엇이라 하는가?",
+		"answer": "전력",
+		"choices": ["전압", "저항", "임피던스", "전력"]
+	},
+	{
+		"id": 70,
+		"image": "",
+		"english": "In an electrical circuit, when a voltage is applied across a resistor, the current flowing through it is inversely proportional to the resistance and directly proportional to the applied voltage. Which law describes this?",
+		"question": "전기 회로에서 저항의 양단에 전압을 가했을 때 흐르는 전류의 크기는 저항에 반비례하고 가해진 전압에 비례한다는 것은 어느 법칙인가?",
+		"answer": "오옴의 법칙",
+		"choices": ["주울의 법칙", "오옴의 법칙", "키르히호프의 법칙", "패러데이의 법칙"]
+	},
+	{
+		"id": 71,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric7.png",
+		"english": "In the circuit shown, if 100[V] is supplied, what is the current [A] flowing through the circuit?",
+		"question": "그림과 같은 회로에서 양단에 100[V]를 공급하였다. 회로에 흐르는 전류[A]는 얼마인가?",
+		"answer": "10",
+		"choices": ["1", "2", "4", "10"]
+	},
+	{
+		"id": 72,
+		"image": "",
+		"english": "In a circuit where 3[Ω] and 6[Ω] are connected in parallel with a 20[V] voltage applied, which pairing of composite resistance and total current [A] is correct?",
+		"question": "3[Ω]과 6[Ω]를 병렬로 연결하고 20[V]의 전압을 가하였다. 이 때, 합성 저항과 전체 흐르는 전류[A]가 옳게 짝지어진 것은?",
+		"answer": "합성저항 : 2[Ω], 전류 : 10[A]",
+		"choices": ["합성저항 : 2[Ω], 전류 : 10[A]", "합성저항 : 3[Ω], 전류 : 6.6[A]", "합성저항 : 6[Ω], 전류 : 3.3[A]", "합성저항 : 9[Ω], 전류 : 2.2[A]"]
+	},
+	{
+		"id": 73,
+		"image": "",
+		"english": "If two capacitors have capacities of 10[㎌] and 15[㎌] respectively, what is the composite capacitance [㎌] when they are connected in series?",
+		"question": "콘덴서의 용량이 10[㎌], 15[㎌] 두 개가 있다. 이 두 콘덴서를 직렬로 연결하면 합성 정전 용량[㎌]은?",
+		"answer": "6",
+		"choices": ["6", "10", "15", "20"]
+	},
+	{
+		"id": 74,
+		"image": "",
+		"english": "Which of the following capacitors allows variable capacitance?",
+		"question": "다음 콘덴서 중 용량을 가변할 수 있는 것은?",
+		"answer": "바리콘(varicon)",
+		"choices": ["전해 콘덴서", "세라믹 콘덴서", "마일러 콘덴서", "바리콘(varicon)"]
+	},
+	{
+		"id": 75,
+		"image": "",
+		"english": "If two capacitors have capacities of 4[㎌] and 6[㎌] respectively, what is the composite capacitance [㎌] when they are connected in parallel?",
+		"question": "콘덴서의 용량이 4[㎌], 6[㎌] 두 개가 있다. 이 두 콘덴서를 병렬로 연결하면 합성정전용량[㎌]은?",
+		"answer": "10",
+		"choices": ["2.4", "4", "6", "10"]
+	},
+	{
+		"id": 76,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric8.png",
+		"english": "What does the symbol in the diagram represent?",
+		"question": "그림과 같은 기호는 무엇을 의미하는가?",
+		"answer": "트랜지스터(transistor)",
+		"choices": ["다이오드(diode)", "실리콘 제어 정류기(SCR)", "트랜지스터(transistor)", "다이액(diac)"]
+	},
+	{
+		"id": 77,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric9.png",
+		"english": "What does the symbol in the diagram represent?",
+		"question": "그림과 같은 기호는 어떤 게이트(Gate)를 의미하는가?",
+		"answer": "NOT",
+		"choices": ["AND", "NOT", "OR", "NAND"]
+	},
+	{
+		"id": 78,
+		"image": "",
+		"english": "The stored electrical energy (W) in a capacitor with capacitance C and supply voltage V is represented as which of the following?",
+		"question": "콘덴서의 용량이 C이고 공급 전압이 V일 때 저장되는 정전 에너지(W)는 얼마인가?",
+		"answer": "CV[J]",
+		"choices": ["① CV[J]", "②   [J]", "③     [J]", "④    [J]"]
+	},
+	{
+		"id": 79,
+		"image": "",
+		"english": "Even for the same type of wire, as the cross-sectional area (㉠) increases, more free electrons pass through the cross-section per unit time, so the resistance decreases and current flows easily. As the length of the wire (㉡) increases, free electrons collide more frequently with atoms, resulting in higher resistance and less current flow. Which of the following correctly pairs the statements in the parentheses?",
+		"question": "같은 종류의 도선이라도 도선의 단면적이 ( ㉠ ) 단위 시간에 그 단면을 지나는 자유 전자의 수가 많아지므로 저항이 작아 전류가 잘 흐르고, 도선의 길이가 ( ㉡ ) 자유 전자가 원자들과 충돌하는 횟수가 많아지므로 저항이 커서 전류가 잘 흐르지 못한다. ( )안에 들어갈 말로 옳게 짝지어진 것은?",
+		"answer": "㉠ - 넓을수록, ㉡ - 길수록",
+		"choices": ["㉠ - 넓을수록, ㉡ - 길수록", "㉠ - 넓을수록, ㉡ - 짧을수록", "㉠ - 작을수록, ㉡ - 길수록", "㉠ - 작을수록, ㉡ - 짧을수록"]
+	},
+	{
+		"id": 80,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric10.png",
+		"english": "In the diagram, if C1 = 10[㎌], C2 = 20[㎌], C3 = 30[㎌], what is the total capacitance [㎌]?",
+		"question": "그림에서 C1 = 10[㎌], C2 = 20[㎌], C3 = 30[㎌]일 때 합성 정전 용량[㎌]은?",
+		"answer": "",
+		"choices": ["8", "8", "11", "66"]
+	},
+	{
+		"id": 81,
+		"image": "",
+		"english": "When measuring AC voltage with a circuit tester in an outlet, the RMS value indicated was 200[V]. What is the approximate peak value [V]?",
+		"question": "콘센트에 회로 시험기를 이용하여 교류 전압을 측정하였더니 실효값 200[V]를 지시하였다. 이 때, 최대값 [V]은 약 얼마인가?",
+		"answer": "283",
+		"choices": ["110", "200", "283", "380"]
+	},
+	{
+		"id": 82,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric11.png",
+		"english": "In the circuit shown, R1 = 20[Ω], R2 = 30[Ω], and the voltage V = 120[V] is applied. What is the total current I[A] flowing through the circuit?",
+		"question": "그림에서 R1 = 20[Ω], R2 = 30[Ω]이고, 전압 V = 120[V]를 가하였다면 회로에 흐르는 전체 전류 I[A]는 얼마인가?",
+		"answer": "2",
+		"choices": ["1", "2", "5", "10"]
+	},
+	{
+		"id": 83,
+		"image": "",
+		"english": "If 10 batteries with internal resistance of 0.1[Ω] and voltage of 1.5[V] each are connected in series, and then connected to a 2[Ω] resistor, what is the current[A] flowing through the circuit?",
+		"question": "내부 저항이 0.1[Ω], 전압이 1.5[V]인 건전지 10개를 직렬로 연결한 후, 2[Ω]의 저항과 연결하였다. 흐르는 전류[A]는?",
+		"answer": "3",
+		"choices": ["1", "3", "5", "7"]
+	},
+	{
+		"id": 84,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric12.png",
+		"english": "What is the current[A] flowing through the 3[Ω] resistor in the circuit shown in the diagram?",
+		"question": "그림에서 3[Ω]에 흐르는 전류[A]는 얼마인가?",
+		"answer": "4",
+		"choices": ["2", "4", "6", "8"]
+	},
+	{
+		"id": 85,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric13.png",
+		"english": "The diagram shows a symbol from the scale of measuring instruments. Which type does it represent?",
+		"question": "그림은 계측기 눈금판의 기호이다. 다음 중에서 해당되는 것은?",
+		"answer": "가동 코일형",
+		"choices": ["유도형", "전류력계형", "가동 코일형", "가동 철편형"]
+	},
+	{
+		"id": 86,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric14.png",
+		"english": "A capacitor is labeled as shown in the figure. What is the capacitance value of this capacitor in microfarads?",
+		"question": "어느 콘덴서에 그림과 같이 적혀 있었다. 이 콘덴서의 용량[㎌]은?",
+		"answer": "0.01[㎌]",
+		"choices": ["10[㎌]", "1[㎌]", "0.1[㎌]", "0.01[㎌]"]
+	},
+	{
+		"id": 87,
+		"image": "",
+		"english": "Five resistors of 10[Ω] each are connected in parallel. What is the equivalent resistance [Ω]?",
+		"question": "10[Ω]의 저항 5개를 병렬로 연결하였다. 합성 저항[Ω]은?",
+		"answer": "2",
+		"choices": ["2", "5", "10", "50"]
+	},
+	{
+		"id": 88,
+		"image": "",
+		"english": "If a current of 2.5[A] flows through a 10[Ω] resistor, what is the required voltage [V]?",
+		"question": "10[Ω]의 저항에 2.5[A]의 전류를 흐르게 하려면 몇[V]의 전압이 필요한가?",
+		"answer": "25",
+		"choices": ["10", "20", "25", "30"]
+	},
+	{
+		"id": 89,
+		"image": "",
+		"english": "Using a circuit tester, various measurements were taken. Which of the following cannot be directly measured?",
+		"question": "회로 시험기(Tester)를 이용하여 여러 가지 사항들을 측정하였다. 다음 중 직접적으로 측정할 수 없는 것은?",
+		"answer": "전력",
+		"choices": ["전압", "전류", "전력", "저항"]
+	},
+	{
+		"id": 90,
+		"image": "",
+		"english": "Five resistors of 3[Ω], five resistors of 5[Ω], and two resistors of 10[Ω] are connected in series. What is the total resistance [Ω]?",
+		"question": "3[Ω] 저항이 5개, 5[Ω] 저항이 5개, 10[Ω] 저항 2개를 전부 직렬로 연결하였다. 합성 저항[Ω]은?",
+		"answer": "50",
+		"choices": ["20", "40", "50", "60"]
+	},
+	{
+		"id": 91,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric15.png",
+		"english": "In the circuit shown, R1 = 20[Ω], R2 = 30[Ω], R3 = 50[Ω], R4 = 100[Ω], and a voltage of 200[V] is applied. What is the voltage V1 [V] across R3?",
+		"question": "다음 그림에서 R1 =20[Ω], R2 =30[Ω], R3 =50[Ω], R4 =100[Ω]이고 전압을 200[V] 인가하였다. R3에 걸리는 전압 V1 [V]는?",
+		"answer": "100",
+		"choices": ["20", "30", "50", "100"]
+	},
+	{
+		"id": 92,
+		"image": "",
+		"english": "What is the correct unit for electric energy?",
+		"question": "전력량의 단위로 옳은 것은?",
+		"answer": "[Wh]",
+		"choices": ["[Wh]", "[V]", "[A]", "[W]"]
+	},
+	{
+		"id": 93,
+		"image": "",
+		"english": "0.1[A] is how many [mA]?",
+		"question": "0.1[A]는 몇[㎃]인가?",
+		"answer": "100",
+		"choices": ["10", "100", "1000", "10000"]
+	},
+	{
+		"id": 94,
+		"image": "",
+		"english": "When applying a voltage V[V] to the series circuit of C1 and C2, which is the correct voltage across C1 and C2?",
+		"question": "C과 C의 직렬 회로에 V[V]의 전압을 가할 때 C, C에 걸리는 전압으로 옳은 것은?",
+		"answer": "V = ＋ ×V, V = ＋ ×V",
+		"choices": ["V = ＋ ×V, V = ＋ ×V", "V = ＋ ×V, V = ＋ ×V", "V = ＋ ×V, V = ＋ ×V", "V = ＋ ×V, V = ＋ ×V"]
+	},
+	{
+		"id": 95,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric16.png",
+		"english": "The diagram shows the symbol of a transistor. Which of the following is not a part of it?",
+		"question": "그림은 트랜지스터의 기호이다. 다음 중 해당되지 않는 것은?",
+		"answer": "캐소드(cathode)",
+		"choices": ["캐소드(cathode)", "이미터(emitter)", "베이스(base)", "컬렉터(collector)"]
+	},
+	{
+		"id": 96,
+		"image": "",
+		"english": "Generally, the power in an AC circuit is represented by the average power P=VIcosθ[W]. What does cosθ signify?",
+		"question": "일반적으로 교류 회로의 전력은 평균 전력 P=VIcosθ[W]로 나타낸다. 여기서 cosθ가 의미하는 것은?",
+		"answer": "역률(power factor)",
+		"choices": ["전압(voltage)", "전류(electric current)", "역률(power factor)", "주파수(frequency)"]
+	},
+	{
+		"id": 97,
+		"image": "",
+		"english": "How many degrees is 3.14 radians when converted into degrees?",
+		"question": "호도법으로  [rad]를 도수법으로 환산하면 얼마인가?",
+		"answer": "60°",
+		"choices": ["30°", "45°", "60°", "90°"]
+	},
+	{
+		"id": 98,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric17.png",
+		"english": "In the circuit diagram, when 20[V] is applied across its terminals, which statement is incorrect?",
+		"question": "그림의 회로에서 양단에 20[V]를 가하였다. 틀린 것은?",
+		"answer": "10[Ω]에 흐르는 전류는 0.8[A]이다.",
+		"choices": ["합성 저항 R = 5[Ω]이다.", "회로에 흐르는 전체 전류는 4[A]이다.", "10[Ω]에 흐르는 전류는 0.8[A]이다.", "2.5[Ω]에 흐르는 전류는 2.2[A]이다."]
+	},
+	{
+		"id": 99,
+		"image": "",
+		"english": "What does the symbol in the diagram represent in an electrical circuit?",
+		"question": "그림의 기호는 전기 회로에서 무엇을 의미하는가?",
+		"answer": "교류 전원",
+		"choices": ["직류 전원", "교류 전원", "전동기", "발전기"]
+	},
+	{
+		"id": 100,
+		"image": "",
+		"english": "Which of the following is not a type of resistor?",
+		"question": "다음 중 저항의 종류로 옳지 않은 것은?",
+		"answer": "마일러 저항기",
+		"choices": ["탄소 피막 저항기", "솔리드 저항기", "금속 피막 저항기", "마일러 저항기"]
+	}
+]

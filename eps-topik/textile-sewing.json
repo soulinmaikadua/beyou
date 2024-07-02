@@ -238,5 +238,205 @@
 		"question": "소면공정에서 이루어지는 일이 아닌 것은?",
 		"answer": "꼬임주기",
 		"choices": ["섬유 1올씩 분리", "불순물 제거", "꼬임주기", "슬라이버 생산"]
+	},
+	{
+		"id": 31,
+		"image": "",
+		"english": "What operation involves pulling tension on solidified fibers from an extrusion nozzle to align and orient molecular chains, thereby increasing tensile strength or controlling elongation?",
+		"question": "섬유를 이루는 사슬 분자의 배열과 배향을 잘 해주어서 인장 강도를 높이거나, 신장도를 조절해 주기 위하여 방사 노즐부로부터 압출, 고화된 상태의 섬유에 장력을 주어 끌어당기는 조작은?",
+		"options": ["연신(draw)", "압출(pressing out)", "꼬임(twisting)", "카딩(carding)"],
+		"answer": "연신(draw)"
+	},
+	{
+		"id": 32,
+		"image": "",
+		"english": "What process involves laying the warp onto the loom and interlacing it with the weft at right angles?",
+		"question": "경사를 직기에 걸어서 여기에 위사를 직각으로 교착시켜 짜는 작업은?",
+		"options": ["편성", "제직", "정경", "통경"],
+		"answer": "편성"
+	},
+	{
+		"id": 33,
+		"image": "",
+		"english": "Which process is not part of the preparatory processes for weaving?",
+		"question": "경사 준비공정에 속하지 않는 것은?",
+		"options": ["정경", "실감기", "풀먹이기(가호)", "검단"],
+		"answer": "검단"
+	},
+	{
+		"id": 34,
+		"image": "",
+		"english": "Which process in the preparatory processes for weaving involves saturating the warp with sizing to improve weaving ability and enhance the appearance and feel of the fabric?",
+		"question": "경사 준비공정 중 제직 능력을 향상시키고 직물의 겉모양과 촉감을 개선하기 위하여 날실에 풀액을 침투시켜 흡착하는 공정은?",
+		"options": ["풀먹이기(가호)", "실감기", "틀걸기", "정경"],
+		"answer": "풀먹이기(가호)"
+	},
+	{
+		"id": 35,
+		"image": "",
+		"english": "Which type of loom belongs to the category of shuttle looms?",
+		"question": "역직기의 종류 중 shuttle loom(북직기)에 속하는 것은?",
+		"options": ["에어젯 직기", "그리퍼 직기", "면직기", "워터젯 직기"],
+		"answer": "면직기"
+	},
+	{
+		"id": 36,
+		"image": "",
+		"english": "Which is not a purpose of sizing (gaeho) in weaving?",
+		"question": "가호의 목적에 해당되지 않는 것은?",
+		"options": ["실의 잔털 발생 방지", "실의 평활성 부여", "실의 강신도 증가", "실의 색상 부여"],
+		"answer": "실의 강신도 증가"
+	},
+	{
+		"id": 37,
+		"image": "",
+		"english": "Which of the following is not a natural sizing material used in gaeho process?",
+		"question": "가호 공정의 풀 재료에서 점착제 중 천연 풀 재료에 속하지 않는 것은?",
+		"options": ["밀가루", "점토", "아교", "녹말"],
+		"answer": "점토"
+	},
+	{
+		"id": 38,
+		"image": "",
+		"english": "In a typical shuttle loom, how many revolutions does the bottom shaft make while the crank shaft completes one full rotation?",
+		"question": "일반 면직기에서 크랭크축이 1회전 하는 동안 보텀축의 회전수는?",
+		"options": ["0.5회전", "1회전", "2회전", "4회전"],
+		"answer": "2회전"
+	},
+	{
+		"id": 39,
+		"image": "",
+		"english": "In a typical shuttle loom, how many ends are woven while the crank shaft completes 4 revolutions?",
+		"question": "일반 면직기에서 크랭크축이 4회전하는 동안 몇 올의 위사가 제직되는가?",
+		"options": ["2올", "3올", "4올", "5올"],
+		"answer": "3올"
+	},
+	{
+		"id": 40,
+		"image": "",
+		"english": "Which of the following is not a primary motion of weaving, which interlaces warp and weft yarns to weave fabric?",
+		"question": "경사와 위사를 서로 교착시켜서 직물을 짜는데 필요한 기본적 운동에 해당되지 않는 것은?",
+		"options": ["권취운동", "개구운동", "북침운동", "바디침운동"],
+		"answer": "바디침운동"
+	},
+	{
+		"id": 41,
+		"image": "",
+		"english": "What is the motion in weaving that divides the warp threads on the loom into upper and lower layers to facilitate the insertion of the weft threads?",
+		"question": "직기의 운동 중 직기 위에 걸려 있는 경사를 위, 아래로 나누어 위사를 넣을 수 있도록하는 것을 무엇이라 하는가?",
+		"options": ["송출운동", "개구운동", "북침운동", "권취운동"],
+		"answer": "개구운동"
+	},
+	{
+		"id": 42,
+		"image": "",
+		"english": "What motion in weaving involves pushing the shuttle containing the weft yarn across the loom to complete the fabric structure?",
+		"question": "개구 속에 가로 놓인 씨실을 클로스 펠(cloth fell)까지 밀어 쳐서 직물 조직을 완성시키는 운동은?",
+		"options": ["개구운동(shedding motion)", "바디침운동(beating motion)", "북침운동(picking motion)", "송출운동(let-off motion)"],
+		"answer": "바디침운동(beating motion)"
+	},
+	{
+		"id": 43,
+		"image": "",
+		"english": "What is the term for a type of graph paper used to illustrate fabric weave patterns for easier understanding?",
+		"question": "직물 조직을 알기 쉽게 그림으로 나타내기 위하여 쓰이는 일종의 모눈종이를 무엇이라 하는가?",
+		"options": ["도화지(drawing paper)", "원고지(manuscript paper)", "의장지(design paper)", "패턴지(pattern paper)"],
+		"answer": "의장지(design paper)"
+	},
+	{
+		"id": 44,
+		"image": "",
+		"english": "In a 3-end weave, where the warp and weft alternate over and under with 1 end per unit, forming complete structures with 2 ends each of warp and weft, what type of weave is this?",
+		"question": "3원 조직중 경사와 1올씩 서로 교대로 위와 아래로 교착하며 경사와 위사 각각2올로 완전조직이 구성되는 것은?",
+		"options": ["평조직(plain weave)", "사문조직(twill weave)", "주자조직(satin weave)", "변화조직"],
+		"answer": "주자조직(satin weave)"
+	},
+	{
+		"id": 45,
+		"image": "",
+		"english": "Twill weave consists of interlacing the warp and weft for a complete weave with 3 or more ends, creating a line that appears continuously in a diagonal direction. What is this line called?",
+		"question": "사문조직은 경사와 위사를 각각 3올 이상으로 교착시켜 완전조직을 구성하며, 조직점이 빗금 방향으로 연속되어 나타나는 선이 생긴다. 이 선을 무엇이라 하는가?",
+		"options": ["주자선(satin line)", "능선(twill line)", "직선", "곡선"],
+		"answer": "능선(twill line)"
+	},
+	{
+		"id": 46,
+		"image": "",
+		"english": "How many repeats are there in a 5-end satin weave?",
+		"question": "5매 주자조직의 뜀수는 몇 개인가?",
+		"options": ["1개", "2개", "3개", "4개"],
+		"answer": "3개"
+	},
+	{
+		"id": 47,
+		"image": "",
+		"english": "Among the following, which has the highest number of repeats?",
+		"question": "다음 중 뜀수의 개수가 가장 많은 것은?",
+		"options": ["5매", "6매", "7매", "8매"],
+		"answer": "8매"
+	},
+	{
+		"id": 48,
+		"image": "",
+		"english": "The length of the warp yarn extracted from a fabric sample with a width of 100mm was 107mm. What is the warp yarn shrinkage (%)? (Round to the nearest hundredth)",
+		"question": "직물의 폭이 100mm인 직물 견본에서 풀어 낸 위사의 길이가 107mm였다. 이 위사의 직축률(%)은 얼마인가?",
+		"options": ["6.0%", "6.5%", "7.0%", "7.5%"],
+		"answer": "7.5%"
+	},
+	{
+		"id": 49,
+		"image": "",
+		"english": "For a density ratio of 2:1 between warp and weft, which design paper size is used?",
+		"question": "경사와 위사의 밀도 비가 2:1 경우에 사용하는 의장지에 해당되는 것은?",
+		"options": ["16×16", "8×16", "4×8", "24×12"],
+		"answer": "8×16"
+	},
+	{
+		"id": 50,
+		"image": "",
+		"english": "Among the following, which auxiliary device protects the edges of the fabric and maintains a consistent fabric width?",
+		"question": "직기의 보조 장치 중 직물의 가장자리를 보호하고 직물의 폭을 일정하게 잡아주는 장치는?",
+		"options": ["제동장치", "템플장치", "기동장치", "경사보호장치"],
+		"answer": "경사보호장치"
+	},
+	{
+		"id": 51,
+		"image": "",
+		"english": "Which statement does not describe dyeing?",
+		"question": "다음 중에서 침염에 대한 설명이 아닌 것은?",
+		"options": ["염색액에 섬유를 넣어 같은 색깔로 착색하는 공정이다.", "섬유에 여러 가지 색상과 무늬를 넣는 공정이다.", "섬유의 종류에 따라 염색법이 다르다.", "염색액에 섬유를 넣어 일정한 시간동안 열을 가한다."],
+		"answer": "섬유에 여러 가지 색상과 무늬를 넣는 공정이다."
+	},
+	{
+		"id": 52,
+		"image": "",
+		"english": "Which machine is not classified based on the form of dye used?",
+		"question": "침염에 사용되는 기계를 염색물의 형태에 따라 나눈 것이 아닌 것은?",
+		"options": ["톱 염색기", "사 염색기", "의류 염색기", "빔 염색기"],
+		"answer": "의류 염색기"
+	},
+	{
+		"id": 53,
+		"image": "",
+		"english": "Among the following, which method is different for dyeing thread?",
+		"question": "다음 중에서 실을 염색하는 방법이 다른 하나는?",
+		"options": ["타래", "치즈", "콘", "케이크"],
+		"answer": "콘"
+	},
+	{
+		"id": 54,
+		"image": "",
+		"english": "What type of dyeing machine consists of two rollers for winding the fabric and several guide rollers to guide the fabric while it runs forward and backward in a spread-out state?",
+		"question": "원단을 감을 수 있는 2개의 롤러와 원단을 유도해 주는 몇 개의 가이드 롤러로 구성되어, 원단이 확포상태로 정방향과 역방향으로 주행하면서 염색하는 염색기는?",
+		"options": ["윈치 염색기", "지거 염색기", "치즈 염색기", "액류 염색기"],
+		"answer": "지거 염색기"
+	},
+	{
+		"id": 55,
+		"image": "",
+		"english": "Among the following, which dyeing machine does not dye the fabric in a spread-out state?",
+		"question": "다음 중에서 원단을 펼친 상태로 염색하는 염색기가 아닌 것은?",
+		"options": ["지거", "윈치", "빔", "패드 롤"],
+		"answer": "윈치"
 	}
 ]
