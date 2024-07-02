@@ -435,10 +435,298 @@
 	},
 	{
 		"id": 55,
-		"image": "",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric.png",
 		"english": "The following image shows a resistance measurement on a circuit tester. If the measurement terminals were set to the ×10 terminal, what would be the resistance value [Ω]?",
 		"question": "다음 그림은 회로 시험기(Tester)로 저항을 측정하였더니 측정된 눈금이다. 측정 단자를 ×10 단자에 선택을 하고 측정하였다면 저항값[Ω]은 얼마인가?",
 		"answer": "400",
 		"choices": ["40", "50", "400", "500"]
+	},
+	{
+		"id": 56,
+		"image": "",
+		"english": "If the resistance color codes are yellow, violet, and red in order, what is the resistance value [Ω]?",
+		"question": "저항의 색상이 순서대로 노랑, 보라, 빨강 순으로 되어 있다면 이 저항의 저항값[Ω]은?",
+		"answer": "4700",
+		"choices": ["47", "470", "4700", "47000"]
+	},
+	{
+		"id": 57,
+		"image": "",
+		"english": "Which type of condenser has polarity?",
+		"question": "콘덴서(condenser)의 종류 중 극성이 있는 것은?",
+		"answer": "전해 콘덴서",
+		"choices": ["세라믹 콘덴서", "마일러 콘덴서", "전해 콘덴서", "종이 콘덴서"]
+	},
+	{
+		"id": 58,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric1.png",
+		"english": "In the following circuit, if R1 = 5[Ω], R2 = 5[Ω], and R3 = 10[Ω], what is the equivalent resistance [Ω]?",
+		"question": "다음 회로에서 R1 = 5[Ω], R2 = 5[Ω], R3 = 10[Ω]이다. 합성 저항[Ω]은?",
+		"answer": "10",
+		"choices": ["10", "12.5", "20", "250"]
+	},
+	{
+		"id": 59,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric2.png",
+		"english": "In the following diagram, if C1 = 4[㎌] and C2 = 6[㎌], what is the equivalent capacitance [㎌]?",
+		"question": "그림에서 C1 = 4[㎌], C2 = 6[㎌]이다. 합성 정전 용량[㎌]은?",
+		"answer": "10",
+		"choices": ["2.4", "4", "6", "10"]
+	},
+	{
+		"id": 60,
+		"image": "",
+		"english": "When measuring the insulation resistance of indoor wiring, switches, and outlets, open all switches to the (㉠) state and measure using a (㉡). What are the correct words for ㉠ and ㉡?",
+		"question": "옥내 배선, 스위치 및 콘센트 등의 절연 저항을 측정할 경우는 모든 스위치를 열어 ( ㉠ )상태로 한 다음 ( ㉡ )를 이용하여 측정한다. 에서 ㉠, ㉡에 들어갈 말로 옳은 것은?",
+		"answer": "㉠ - 무부하, ㉡ - 절연 저항계",
+		"choices": ["㉠ - 부하, ㉡ - 접지 저항계", "㉠ - 부하, ㉡ - 절연 저항계", "㉠ - 무부하, ㉡ - 접지 저항계", "㉠ - 무부하, ㉡ - 절연 저항계"]
+	},
+	{
+		"id": 61,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric3.png",
+		"english": "What does the symbol in the picture represent?",
+		"question": "그림의 기호는 무엇을 의미하는가?",
+		"answer": "직류 전원",
+		"choices": ["직류 전원", "교류 전원", "접속", "접지"]
+	},
+	{
+		"id": 62,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric4.png",
+		"english": "What does the symbol in the picture represent?",
+		"question": "그림의 기호는 무엇을 의미하는가?",
+		"answer": "배선용 차단기",
+		"choices": ["배선용 차단기", "누전 차단기", "분전반", "배전반"]
+	},
+	{
+		"id": 63,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric5.png",
+		"english": "In the circuit, R1 = 2[Ω], R2 = 5[Ω], and V = 10[V]. What is the current I1 through R1 in [A]?",
+		"question": "그림에서 R1 =2[Ω], R2 =5[Ω]이며, V=10[V]이다. R1에 흐르는 전류 I1은 몇 [A]인가?",
+		"answer": "2",
+		"choices": ["2", "3", "5", "7"]
+	},
+	{
+		"id": 64,
+		"image": "",
+		"english": "What is the unit of frequency, defined as the number of cycles per second?",
+		"question": "교류의 1회 변화를 1사이클이라 하며, 1사이클 변화하는데 걸리는 시간을 주기라 한다. 또한 1초 동안에 반복되는 사이클의 수를 주파수라 하는데, 이 주파수의 단위는?",
+		"answer": "Hz",
+		"choices": ["[Hz]", "[A]", "[V]", "[Ω]"]
+	},
+	{
+		"id": 65,
+		"image": "",
+		"english": "Which material has a resistivity of 10  to 10 [Ω․m]?",
+		"question": "다음 중 고유 저항이 10  (10-4) ~ 10 (10^6) [Ω․m]인 재료를 무엇이라 하는가?",
+		"answer": "절연체",
+		"choices": ["도체", "절연체", "반도체", "초전도체"]
+	},
+	{
+		"id": 66,
+		"image": "",
+		"english": "In an electrical circuit, when connecting a voltmeter and an ammeter to measure voltage and current, what is the correct connection method for each?",
+		"question": "전기 회로에서 전압과 전류를 측정하고자 전압계와 전류계를 연결하였다. 이 때, 전압계와 전류계의 연결 방법이 옳게 된 것은?",
+		"answer": "전압계-병렬, 전류계-직렬",
+		"choices": ["전압계-직렬, 전류계-병렬", "전압계-병렬, 전류계-직렬", "전압계-병렬, 전류계-병렬", "전압계-직렬, 전류계-직렬"]
+	},
+	{
+		"id": 67,
+		"image": "",
+		"english": "When measuring balanced 3-phase power using the two-wattmeter method, the wattmeters indicate 500W and 1000W. What is the total power consumption?",
+		"question": "2전력계법에 의해 평형 3상 전력을 측정하였더니 전력계가 500[W], 1000[W]를 지시하였다. 이 때 소비전력[W]은?",
+		"answer": "1500",
+		"choices": ["500", "1000", "1500", "2000"]
+	},
+	{
+		"id": 68,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric6.png",
+		"english": "In an electrical diagram, what does the symbol shown represent?",
+		"question": "전기 도면에서 그림과 같은 기호는 무엇을 나타내는가?",
+		"answer": "천장 은폐 배선",
+		"choices": ["천장 은폐 배선", "바닥 은폐 배선", "노출 배선", "바닥 노출 배선"]
+	},
+	{
+		"id": 69,
+		"image": "",
+		"english": "What is defined as the work done by an electric current in one second?",
+		"question": "전류가 1초 동안에 한 일을 무엇이라 하는가?",
+		"answer": "전력",
+		"choices": ["전압", "저항", "임피던스", "전력"]
+	},
+	{
+		"id": 70,
+		"image": "",
+		"english": "In an electrical circuit, when a voltage is applied across a resistor, the current flowing through it is inversely proportional to the resistance and directly proportional to the applied voltage. Which law describes this?",
+		"question": "전기 회로에서 저항의 양단에 전압을 가했을 때 흐르는 전류의 크기는 저항에 반비례하고 가해진 전압에 비례한다는 것은 어느 법칙인가?",
+		"answer": "오옴의 법칙",
+		"choices": ["주울의 법칙", "오옴의 법칙", "키르히호프의 법칙", "패러데이의 법칙"]
+	},
+	{
+		"id": 71,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric7.png",
+		"english": "In the circuit shown, if 100[V] is supplied, what is the current [A] flowing through the circuit?",
+		"question": "그림과 같은 회로에서 양단에 100[V]를 공급하였다. 회로에 흐르는 전류[A]는 얼마인가?",
+		"answer": "10",
+		"choices": ["1", "2", "4", "10"]
+	},
+	{
+		"id": 72,
+		"image": "",
+		"english": "In a circuit where 3[Ω] and 6[Ω] are connected in parallel with a 20[V] voltage applied, which pairing of composite resistance and total current [A] is correct?",
+		"question": "3[Ω]과 6[Ω]를 병렬로 연결하고 20[V]의 전압을 가하였다. 이 때, 합성 저항과 전체 흐르는 전류[A]가 옳게 짝지어진 것은?",
+		"answer": "합성저항 : 2[Ω], 전류 : 10[A]",
+		"choices": ["합성저항 : 2[Ω], 전류 : 10[A]", "합성저항 : 3[Ω], 전류 : 6.6[A]", "합성저항 : 6[Ω], 전류 : 3.3[A]", "합성저항 : 9[Ω], 전류 : 2.2[A]"]
+	},
+	{
+		"id": 73,
+		"image": "",
+		"english": "If two capacitors have capacities of 10[㎌] and 15[㎌] respectively, what is the composite capacitance [㎌] when they are connected in series?",
+		"question": "콘덴서의 용량이 10[㎌], 15[㎌] 두 개가 있다. 이 두 콘덴서를 직렬로 연결하면 합성 정전 용량[㎌]은?",
+		"answer": "6",
+		"choices": ["6", "10", "15", "20"]
+	},
+	{
+		"id": 74,
+		"image": "",
+		"english": "Which of the following capacitors allows variable capacitance?",
+		"question": "다음 콘덴서 중 용량을 가변할 수 있는 것은?",
+		"answer": "바리콘(varicon)",
+		"choices": ["전해 콘덴서", "세라믹 콘덴서", "마일러 콘덴서", "바리콘(varicon)"]
+	},
+	{
+		"id": 75,
+		"image": "",
+		"english": "If two capacitors have capacities of 4[㎌] and 6[㎌] respectively, what is the composite capacitance [㎌] when they are connected in parallel?",
+		"question": "콘덴서의 용량이 4[㎌], 6[㎌] 두 개가 있다. 이 두 콘덴서를 병렬로 연결하면 합성정전용량[㎌]은?",
+		"answer": "10",
+		"choices": ["2.4", "4", "6", "10"]
+	},
+	{
+		"id": 76,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric8.png",
+		"english": "What does the symbol in the diagram represent?",
+		"question": "그림과 같은 기호는 무엇을 의미하는가?",
+		"answer": "트랜지스터(transistor)",
+		"choices": ["다이오드(diode)", "실리콘 제어 정류기(SCR)", "트랜지스터(transistor)", "다이액(diac)"]
+	},
+	{
+		"id": 77,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric9.png",
+		"english": "What does the symbol in the diagram represent?",
+		"question": "그림과 같은 기호는 어떤 게이트(Gate)를 의미하는가?",
+		"answer": "NOT",
+		"choices": ["AND", "NOT", "OR", "NAND"]
+	},
+	{
+		"id": 78,
+		"image": "",
+		"english": "The stored electrical energy (W) in a capacitor with capacitance C and supply voltage V is represented as which of the following?",
+		"question": "콘덴서의 용량이 C이고 공급 전압이 V일 때 저장되는 정전 에너지(W)는 얼마인가?",
+		"answer": "CV[J]",
+		"choices": ["① CV[J]", "②   [J]", "③     [J]", "④    [J]"]
+	},
+	{
+		"id": 79,
+		"image": "",
+		"english": "Even for the same type of wire, as the cross-sectional area (㉠) increases, more free electrons pass through the cross-section per unit time, so the resistance decreases and current flows easily. As the length of the wire (㉡) increases, free electrons collide more frequently with atoms, resulting in higher resistance and less current flow. Which of the following correctly pairs the statements in the parentheses?",
+		"question": "같은 종류의 도선이라도 도선의 단면적이 ( ㉠ ) 단위 시간에 그 단면을 지나는 자유 전자의 수가 많아지므로 저항이 작아 전류가 잘 흐르고, 도선의 길이가 ( ㉡ ) 자유 전자가 원자들과 충돌하는 횟수가 많아지므로 저항이 커서 전류가 잘 흐르지 못한다. ( )안에 들어갈 말로 옳게 짝지어진 것은?",
+		"answer": "㉠ - 넓을수록, ㉡ - 길수록",
+		"choices": ["㉠ - 넓을수록, ㉡ - 길수록", "㉠ - 넓을수록, ㉡ - 짧을수록", "㉠ - 작을수록, ㉡ - 길수록", "㉠ - 작을수록, ㉡ - 짧을수록"]
+	},
+	{
+		"id": 80,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric10.png",
+		"english": "In the diagram, if C1 = 10[㎌], C2 = 20[㎌], C3 = 30[㎌], what is the total capacitance [㎌]?",
+		"question": "그림에서 C1 = 10[㎌], C2 = 20[㎌], C3 = 30[㎌]일 때 합성 정전 용량[㎌]은?",
+		"answer": "",
+		"choices": ["8", "8", "11", "66"]
+	},
+	{
+		"id": 81,
+		"image": "",
+		"english": "When measuring AC voltage with a circuit tester in an outlet, the RMS value indicated was 200[V]. What is the approximate peak value [V]?",
+		"question": "콘센트에 회로 시험기를 이용하여 교류 전압을 측정하였더니 실효값 200[V]를 지시하였다. 이 때, 최대값 [V]은 약 얼마인가?",
+		"answer": "283",
+		"choices": ["110", "200", "283", "380"]
+	},
+	{
+		"id": 82,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric11.png",
+		"english": "In the circuit shown, R1 = 20[Ω], R2 = 30[Ω], and the voltage V = 120[V] is applied. What is the total current I[A] flowing through the circuit?",
+		"question": "그림에서 R1 = 20[Ω], R2 = 30[Ω]이고, 전압 V = 120[V]를 가하였다면 회로에 흐르는 전체 전류 I[A]는 얼마인가?",
+		"answer": "2",
+		"choices": ["1", "2", "5", "10"]
+	},
+	{
+		"id": 83,
+		"image": "",
+		"english": "If 10 batteries with internal resistance of 0.1[Ω] and voltage of 1.5[V] each are connected in series, and then connected to a 2[Ω] resistor, what is the current[A] flowing through the circuit?",
+		"question": "내부 저항이 0.1[Ω], 전압이 1.5[V]인 건전지 10개를 직렬로 연결한 후, 2[Ω]의 저항과 연결하였다. 흐르는 전류[A]는?",
+		"answer": "3",
+		"choices": ["1", "3", "5", "7"]
+	},
+	{
+		"id": 84,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric12.png",
+		"english": "What is the current[A] flowing through the 3[Ω] resistor in the circuit shown in the diagram?",
+		"question": "그림에서 3[Ω]에 흐르는 전류[A]는 얼마인가?",
+		"answer": "4",
+		"choices": ["2", "4", "6", "8"]
+	},
+	{
+		"id": 85,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric13.png",
+		"english": "The diagram shows a symbol from the scale of measuring instruments. Which type does it represent?",
+		"question": "그림은 계측기 눈금판의 기호이다. 다음 중에서 해당되는 것은?",
+		"answer": "가동 코일형",
+		"choices": ["유도형", "전류력계형", "가동 코일형", "가동 철편형"]
+	},
+	{
+		"id": 86,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric14.png",
+		"english": "A capacitor is labeled as shown in the figure. What is the capacitance value of this capacitor in microfarads?",
+		"question": "어느 콘덴서에 그림과 같이 적혀 있었다. 이 콘덴서의 용량[㎌]은?",
+		"answer": "0.01[㎌]",
+		"choices": ["10[㎌]", "1[㎌]", "0.1[㎌]", "0.01[㎌]"]
+	},
+	{
+		"id": 87,
+		"image": "",
+		"english": "Five resistors of 10[Ω] each are connected in parallel. What is the equivalent resistance [Ω]?",
+		"question": "10[Ω]의 저항 5개를 병렬로 연결하였다. 합성 저항[Ω]은?",
+		"answer": "2",
+		"choices": ["2", "5", "10", "50"]
+	},
+	{
+		"id": 88,
+		"image": "",
+		"english": "If a current of 2.5[A] flows through a 10[Ω] resistor, what is the required voltage [V]?",
+		"question": "10[Ω]의 저항에 2.5[A]의 전류를 흐르게 하려면 몇[V]의 전압이 필요한가?",
+		"answer": "25",
+		"choices": ["10", "20", "25", "30"]
+	},
+	{
+		"id": 89,
+		"image": "",
+		"english": "Using a circuit tester, various measurements were taken. Which of the following cannot be directly measured?",
+		"question": "회로 시험기(Tester)를 이용하여 여러 가지 사항들을 측정하였다. 다음 중 직접적으로 측정할 수 없는 것은?",
+		"answer": "전력",
+		"choices": ["전압", "전류", "전력", "저항"]
+	},
+	{
+		"id": 90,
+		"image": "",
+		"english": "Five resistors of 3[Ω], five resistors of 5[Ω], and two resistors of 10[Ω] are connected in series. What is the total resistance [Ω]?",
+		"question": "3[Ω] 저항이 5개, 5[Ω] 저항이 5개, 10[Ω] 저항 2개를 전부 직렬로 연결하였다. 합성 저항[Ω]은?",
+		"answer": "50",
+		"choices": ["20", "40", "50", "60"]
+	},
+	{
+		"id": 91,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric15.png",
+		"english": "In the circuit shown, R1 = 20[Ω], R2 = 30[Ω], R3 = 50[Ω], R4 = 100[Ω], and a voltage of 200[V] is applied. What is the voltage V1 [V] across R3?",
+		"question": "다음 그림에서 R1 =20[Ω], R2 =30[Ω], R3 =50[Ω], R4 =100[Ω]이고 전압을 200[V] 인가하였다. R3에 걸리는 전압 V1 [V]는?",
+		"answer": "100",
+		"choices": ["20", "30", "50", "100"]
 	}
 ]
