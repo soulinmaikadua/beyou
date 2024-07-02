@@ -728,5 +728,77 @@
 		"question": "다음 그림에서 R1 =20[Ω], R2 =30[Ω], R3 =50[Ω], R4 =100[Ω]이고 전압을 200[V] 인가하였다. R3에 걸리는 전압 V1 [V]는?",
 		"answer": "100",
 		"choices": ["20", "30", "50", "100"]
+	},
+	{
+		"id": 92,
+		"image": "",
+		"english": "What is the correct unit for electric energy?",
+		"question": "전력량의 단위로 옳은 것은?",
+		"answer": "[Wh]",
+		"choices": ["[Wh]", "[V]", "[A]", "[W]"]
+	},
+	{
+		"id": 93,
+		"image": "",
+		"english": "0.1[A] is how many [mA]?",
+		"question": "0.1[A]는 몇[㎃]인가?",
+		"answer": "100",
+		"choices": ["10", "100", "1000", "10000"]
+	},
+	{
+		"id": 94,
+		"image": "",
+		"english": "When applying a voltage V[V] to the series circuit of C1 and C2, which is the correct voltage across C1 and C2?",
+		"question": "C과 C의 직렬 회로에 V[V]의 전압을 가할 때 C, C에 걸리는 전압으로 옳은 것은?",
+		"answer": "V = ＋ ×V, V = ＋ ×V",
+		"choices": ["V = ＋ ×V, V = ＋ ×V", "V = ＋ ×V, V = ＋ ×V", "V = ＋ ×V, V = ＋ ×V", "V = ＋ ×V, V = ＋ ×V"]
+	},
+	{
+		"id": 95,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric16.png",
+		"english": "The diagram shows the symbol of a transistor. Which of the following is not a part of it?",
+		"question": "그림은 트랜지스터의 기호이다. 다음 중 해당되지 않는 것은?",
+		"answer": "캐소드(cathode)",
+		"choices": ["캐소드(cathode)", "이미터(emitter)", "베이스(base)", "컬렉터(collector)"]
+	},
+	{
+		"id": 96,
+		"image": "",
+		"english": "Generally, the power in an AC circuit is represented by the average power P=VIcosθ[W]. What does cosθ signify?",
+		"question": "일반적으로 교류 회로의 전력은 평균 전력 P=VIcosθ[W]로 나타낸다. 여기서 cosθ가 의미하는 것은?",
+		"answer": "역률(power factor)",
+		"choices": ["전압(voltage)", "전류(electric current)", "역률(power factor)", "주파수(frequency)"]
+	},
+	{
+		"id": 97,
+		"image": "",
+		"english": "How many degrees is 3.14 radians when converted into degrees?",
+		"question": "호도법으로  [rad]를 도수법으로 환산하면 얼마인가?",
+		"answer": "60°",
+		"choices": ["30°", "45°", "60°", "90°"]
+	},
+	{
+		"id": 98,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/electric17.png",
+		"english": "In the circuit diagram, when 20[V] is applied across its terminals, which statement is incorrect?",
+		"question": "그림의 회로에서 양단에 20[V]를 가하였다. 틀린 것은?",
+		"answer": "10[Ω]에 흐르는 전류는 0.8[A]이다.",
+		"choices": ["합성 저항 R = 5[Ω]이다.", "회로에 흐르는 전체 전류는 4[A]이다.", "10[Ω]에 흐르는 전류는 0.8[A]이다.", "2.5[Ω]에 흐르는 전류는 2.2[A]이다."]
+	},
+	{
+		"id": 99,
+		"image": "",
+		"english": "What does the symbol in the diagram represent in an electrical circuit?",
+		"question": "그림의 기호는 전기 회로에서 무엇을 의미하는가?",
+		"answer": "교류 전원",
+		"choices": ["직류 전원", "교류 전원", "전동기", "발전기"]
+	},
+	{
+		"id": 100,
+		"image": "",
+		"english": "Which of the following is not a type of resistor?",
+		"question": "다음 중 저항의 종류로 옳지 않은 것은?",
+		"answer": "마일러 저항기",
+		"choices": ["탄소 피막 저항기", "솔리드 저항기", "금속 피막 저항기", "마일러 저항기"]
 	}
 ]
