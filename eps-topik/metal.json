@@ -1,0 +1,282 @@
+[
+	{
+		"id": 1,
+		"english": "Which of the following is not a non-ferrous metal element?",
+		"question": "다음 중 비철금속 원소가 아닌 것은?",
+		"choices": ["Mg", "Al", "Fe", "Cu"],
+		"answer": "Cu",
+		"image": ""
+	},
+	{
+		"id": 2,
+		"english": "Which of the following is not a steel material?",
+		"question": "다음 중 철강 재료가 아닌 것은?",
+		"choices": ["순철", "탄소강", "주철", "티타늄합금"],
+		"answer": "티타늄합금",
+		"image": ""
+	},
+	{
+		"id": 3,
+		"english": "Correct description about the characteristics of metals is?",
+		"question": "금속의 특성에 대한 설명 중 올바른 것은?",
+		"choices": ["열과 전기의 부도체이다.", "금속적 무광택성을 가지고 있다.", "상온에서 고체이다.", "액체 상태에서 결정구조를 가지고 있다."],
+		"answer": "상온에서 고체이다.",
+		"image": ""
+	},
+	{
+		"id": 4,
+		"english": "Physical characteristic of metallic materials corresponds to?",
+		"question": "금속재료의 물리적 특성에 해당하는 것은?",
+		"choices": ["비중", "경도", "자성", "부식성"],
+		"answer": "비중",
+		"image": ""
+	},
+	{
+		"id": 5,
+		"english": "Which of the following is not a crystal structure of metals?",
+		"question": "다음 중 금속의 결정구조가 아닌 것은?",
+		"choices": ["조밀입방격자", "조밀육방격자", "체심입방격자", "면심입방격자"],
+		"answer": "면심입방격자",
+		"image": ""
+	},
+	{
+		"id": 6,
+		"english": "What is the phenomenon of fracture that occurs after long-term repeated application of tensile and compressive stresses?",
+		"question": "인장과 압축응력을 오랜 시간에 걸쳐 연속적으로 반복 작용시켜서 일어나는 파단현상은?",
+		"choices": ["강도", "경도", "인성", "피로"],
+		"answer": "피로",
+		"image": ""
+	},
+	{
+		"id": 7,
+		"english": "In the transformation of steel, what is the metallographic term for the ⍺-phase?",
+		"question": "강의 변태에서 ⍺고용체의 금속 조직학상 용어는?",
+		"choices": ["페라이트(ferrite)", "오스테나이트(austenite)", "펄라이트(pearlite)", "시멘타이트(cementite)"],
+		"answer": "펄라이트(pearlite)",
+		"image": ""
+	},
+	{
+		"id": 8,
+		"english": "Which of the following is not a solid-state transformation?",
+		"question": "다음 중 고상변태(고체에서 고상으로 변화)가 아닌 것은?",
+		"choices": ["공정", "공석", "포석", "편석"],
+		"answer": "공정",
+		"image": ""
+	},
+	{
+		"id": 9,
+		"english": "When two or more metal elements combine in simple atomic ratios to form an independent crystal lattice with different properties from the original constituent metals, what is this called?",
+		"question": "2종 이상의 금속원소가 간단한 원자비로 결합되어 본래의 성분 금속과는 다른 성질을 가지는 독립된 결정격자를 형성하는데, 이것은?",
+		"choices": ["고용체합금", "금속간화합물", "포정합금", "한율고용체"],
+		"answer": "금속간화합물",
+		"image": ""
+	},
+	{
+		"id": 10,
+		"english": "Among the strengthening mechanisms of metals, which phenomenon is formed by second phases through methods such as powder metallurgy or internal oxidation?",
+		"question": "금속의 강화기구 중 제2상이 분말야금이나 내부산화법에 의해 형성되는 강화현상은?",
+		"choices": ["고용체강화", "석출강화", "분산강화", "입자미세화강화"],
+		"answer": "석출강화",
+		"image": ""
+	},
+	{
+		"id": 11,
+		"english": "Which of the following is not a metal forming process based on plastic deformation?",
+		"question": "금속의 소성변형을 응용한 소성가공법이 아닌 것은?",
+		"choices": ["압연가공", "단조가공", "프레스가공", "주조가공"],
+		"answer": "주조가공",
+		"image": ""
+	},
+	{
+		"id": 12,
+		"english": "Metal forming processes are classified into hot working and cold working based on which criterion?",
+		"question": "금속의 소성가공은 열간가공과 냉간가공으로 나누는데, 그 기준점은?",
+		"choices": ["재결정온도", "용융온도", "탄성변형온도", "응고온도"],
+		"answer": "재결정온도",
+		"image": ""
+	},
+	{
+		"id": 13,
+		"english": "Which of the following lists only non-ferrous metals?",
+		"question": "다음 중 경금속으로만 나열된 것은?",
+		"choices": ["Al, V", "Cr, Zn", "Fe, Mg", "Al, Mg"],
+		"answer": "Al, V",
+		"image": ""
+	},
+	{
+		"id": 14,
+		"english": "What can be determined through tensile strength testing?",
+		"question": "다음 중 인장강도 시험을 통해서 알 수 있는 것은?",
+		"choices": ["연신율", "경도", "용융점", "열전도도"],
+		"answer": "연신율",
+		"image": ""
+	},
+	{
+		"id": 15,
+		"english": "In the Fe-C equilibrium diagram, what is the carbon content that distinguishes steel from cast iron?",
+		"question": "Fe-C평형상태도에서 강과 주철을 구분하는 탄소함유량은?",
+		"choices": ["4.3%", "2.0%", "0.8%", "0.025%"],
+		"answer": "0.8%",
+		"image": ""
+	},
+	{
+		"id": 16,
+		"english": "Which of the following structures has the highest carbon content?",
+		"question": "다음 조직 중 탄소함유량이 가장 많은 조직은?",
+		"choices": ["시멘타이트(cementite)", "오스테나이트(austenite)", "펄라이트(pearlite)", "페라이트(ferrite)"],
+		"answer": "시멘타이트(cementite)",
+		"image": ""
+	},
+	{
+		"id": 17,
+		"english": "Which of the following is not one of the big five elements in carbon steel?",
+		"question": "탄소강 중의 5대 원소가 아닌 것은?",
+		"choices": ["Al", "Si", "Mn", "P"],
+		"answer": "Al",
+		"image": ""
+	},
+	{
+		"id": 18,
+		"english": "What is the purpose of annealing in the heat treatment of carbon steel?",
+		"question": "탄소강의 열처리에서 담금질을 하는 목적은?",
+		"choices": ["조직의 표준화", "내부 응력의 제거", "경도 향상", "탈탄 촉진"],
+		"answer": "내부 응력의 제거",
+		"image": ""
+	},
+	{
+		"id": 19,
+		"english": "Which of the following is not an application of alloy tool steel?",
+		"question": "다음 중 합금공구강의 용도가 아닌 것은?",
+		"choices": ["내식용", "절삭용", "내충격용", "열간가공용"],
+		"answer": "열간가공용",
+		"image": ""
+	},
+	{
+		"id": 20,
+		"english": "Which type of steel significantly improves corrosion resistance by adding a large amount of Cr?",
+		"question": "Cr을 다량 첨가하여 내식성을 현저하게 향상시킨 강은?",
+		"choices": ["구조용 특수강", "공구용 합금강", "스테인레스강", "고속도 공구강"],
+		"answer": "스테인레스강",
+		"image": ""
+	},
+	{
+		"id": 21,
+		"english": "What is the typical structure of white cast iron?",
+		"question": "백주철의 조직으로 맞는 것은?",
+		"choices": ["페라이트+시멘타이트", "페라이트+시멘타이트+흑연", "펄라이트+흑연", "펄라이트+페라이트+흑연"],
+		"answer": "페라이트+시멘타이트",
+		"image": ""
+	},
+	{
+		"id": 22,
+		"english": "Which type of alloy cast iron is not appropriate?",
+		"question": "합금주철의 종류로서 부적당한 것은?",
+		"choices": ["칠드주철", "내마모성주철", "기계구조용 합금주철", "내열 및 내산주철"],
+		"answer": "칠드주철",
+		"image": ""
+	},
+	{
+		"id": 23,
+		"english": "Which factor does not influence the casting properties of cast iron?",
+		"question": "주철의 주조성을 좌우하는 인자가 아닌 것은?",
+		"choices": ["용탕의 산화도", "유동성", "수축률", "흑연화"],
+		"answer": "흑연화",
+		"image": ""
+	},
+	{
+		"id": 24,
+		"english": "What are the alloying elements of brass?",
+		"question": "황동(brass)의 합금성분은?",
+		"choices": ["Cu+Zn", "Cu+Sn", "Cu+Ni", "Cu+Fe"],
+		"answer": "Cu+Zn",
+		"image": ""
+	},
+	{
+		"id": 25,
+		"english": "Compared to bronze or brass, which material is suitable for parts in chemical industry equipment, aircraft, and automotive components due to its superior mechanical properties such as strength, hardness, wear resistance, as well as heat and corrosion resistance?",
+		"question": "황동 또는 청동에 비해 강도, 경도, 내마모성 등의 기계적 성질 및 내열성, 내식성이 우수하여 화학공업용 기기, 항공기, 자동차 등의 부품으로 적당한 재료는?",
+		"choices": ["알루미늄청동", "인청동", "연청동", "규소청동"],
+		"answer": "알루미늄청동",
+		"image": ""
+	},
+	{
+		"id": 26,
+		"english": "Which type of aluminum alloy is precipitation hardenable?",
+		"question": "다음 알루미늄 합금 중 시효경화형 합금은?",
+		"choices": ["Al-Si", "Al-Cu", "Al-Mn", "Al-Mg"],
+		"answer": "Al-Cu",
+		"image": ""
+	},
+	{
+		"id": 27,
+		"english": "At what temperature is the quenching temperature to form supersaturated solid solution in aluminum alloys?",
+		"question": "알루미늄 합금에서 과포화 고용체를 만드는 용체화 처리 온도는 몇 도인가?",
+		"choices": ["100℃", "300℃", "500℃", "700℃"],
+		"answer": "500℃",
+		"image": ""
+	},
+	{
+		"id": 28,
+		"english": "What is the identification code of the 5000 series in the classification of aluminum alloys by AA (Aluminum Association)?",
+		"question": "미국 AA(Aluminum and Aluminum alloy)에서 분류한 가공용 알루미늄 합금의 식별부호 중 5000계열은?",
+		"choices": ["Al-Cu계 합금", "Al-Mn계 합금", "Al-Si계 합금", "Al-Mg계 합금"],
+		"answer": "Al-Mg계 합금",
+		"image": ""
+	},
+	{
+		"id": 29,
+		"english": "What are the alloying elements of practical alloys like invar, elinvar, and nickalloy?",
+		"question": "니켈의 실용합금인 인바(invar), 엘린바(elinvar), 니켈로이(nickalloy) 등의 합금성분은?",
+		"choices": ["Ni-Fe 합금", "Ni-Cr 합금", "Ni-Cu 합금", "Ni-Al 합금"],
+		"answer": "Ni-Fe 합금",
+		"image": ""
+	},
+	{
+		"id": 30,
+		"english": "Among various types of bearing alloys such as tin-based, lead-based, copper-based, and zinc-based alloys, what is the name of the copper-based bearing alloy?",
+		"question": "베어링 합금은 주석계, 납계, 구리계, 아연계 등 여러 종류가 있는데 그 중 구리계 베어링 합금의 명칭은?",
+		"choices": ["kelmet", "duralumin", "babbit metal", "monel metal"],
+		"answer": "babbit metal",
+		"image": ""
+	},
+	{
+		"id": 31,
+		"english": "What is the gold content in 18 karat gold (18K)?",
+		"question": "18금(18K)의 순금 함유량은?",
+		"choices": ["95%", "85%", "75%", "65%"],
+		"answer": "75%",
+		"image": ""
+	},
+	{
+		"id": 32,
+		"english": "Which of the following is not a composite forming method for fiber-reinforced composite materials with high elastic modulus and very high specific strength compared to metal materials?",
+		"question": "섬유강화형 복합재료는 탄성률이 높은 섬유재로 모재금속을 강화시켜 금속재료보다 비강도, 비탄성이 극히 높은 재료이다. 이 재료의 복합화 성형법으로 액상법이 아닌 것은?",
+		"choices": ["고온압출법", "용침법", "가압주조법", "진공주조법"],
+		"answer": "진공주조법",
+		"image": ""
+	},
+	{
+		"id": 33,
+		"english": "Among alloys, a novel metal material that disperses oxide particles such as oxides to exhibit very high heat resistance, with a metal matrix showing superior ductility compared to ceramics, showing both heat resistance and ductility, is called what?",
+		"question": "합금 중에 산화물 등의 내열입자를 분산시켜 대단히 높은 내열성을 가지며, 기지는 금속이므로 세라믹보다 우수한 연성을 나타내어 내열성과 연성 양방향의 특성을 지닌 신금속재료는?",
+		"choices": ["열전재료", "핵융합로 구조재료", "입자분산 복합재료", "초내열합금"],
+		"answer": "초내열합금",
+		"image": ""
+	},
+	{
+		"id": 34,
+		"english": "Which of the following is not a functional advanced metal material?",
+		"question": "다음 중 기능성 신금속재료가 아닌 것은?",
+		"choices": ["자성재료", "반도체재료", "비정질금속재료", "섬유강화금속재료"],
+		"answer": "섬유강화금속재료",
+		"image": ""
+	},
+	{
+		"id": 35,
+		"english": "A material that exhibits a special phenomenon where metal materials stretch like rubber is called?",
+		"question": "금속재료가 유리질처럼 늘어나는 특수한 현상을 나타내는 재료는?",
+		"choices": ["초탄성재료", "초소성재료", "전극재료", "초강력강"],
+		"answer": "초탄성재료",
+		"image": ""
+	}
+]
