@@ -244,7 +244,7 @@
 		"image": "",
 		"english": "What operation involves pulling tension on solidified fibers from an extrusion nozzle to align and orient molecular chains, thereby increasing tensile strength or controlling elongation?",
 		"question": "섬유를 이루는 사슬 분자의 배열과 배향을 잘 해주어서 인장 강도를 높이거나, 신장도를 조절해 주기 위하여 방사 노즐부로부터 압출, 고화된 상태의 섬유에 장력을 주어 끌어당기는 조작은?",
-		"options": ["연신(draw)", "압출(pressing out)", "꼬임(twisting)", "카딩(carding)"],
+		"choices": ["연신(draw)", "압출(pressing out)", "꼬임(twisting)", "카딩(carding)"],
 		"answer": "연신(draw)"
 	},
 	{
@@ -252,7 +252,7 @@
 		"image": "",
 		"english": "What process involves laying the warp onto the loom and interlacing it with the weft at right angles?",
 		"question": "경사를 직기에 걸어서 여기에 위사를 직각으로 교착시켜 짜는 작업은?",
-		"options": ["편성", "제직", "정경", "통경"],
+		"choices": ["편성", "제직", "정경", "통경"],
 		"answer": "편성"
 	},
 	{
@@ -260,7 +260,7 @@
 		"image": "",
 		"english": "Which process is not part of the preparatory processes for weaving?",
 		"question": "경사 준비공정에 속하지 않는 것은?",
-		"options": ["정경", "실감기", "풀먹이기(가호)", "검단"],
+		"choices": ["정경", "실감기", "풀먹이기(가호)", "검단"],
 		"answer": "검단"
 	},
 	{
@@ -268,7 +268,7 @@
 		"image": "",
 		"english": "Which process in the preparatory processes for weaving involves saturating the warp with sizing to improve weaving ability and enhance the appearance and feel of the fabric?",
 		"question": "경사 준비공정 중 제직 능력을 향상시키고 직물의 겉모양과 촉감을 개선하기 위하여 날실에 풀액을 침투시켜 흡착하는 공정은?",
-		"options": ["풀먹이기(가호)", "실감기", "틀걸기", "정경"],
+		"choices": ["풀먹이기(가호)", "실감기", "틀걸기", "정경"],
 		"answer": "풀먹이기(가호)"
 	},
 	{
@@ -276,7 +276,7 @@
 		"image": "",
 		"english": "Which type of loom belongs to the category of shuttle looms?",
 		"question": "역직기의 종류 중 shuttle loom(북직기)에 속하는 것은?",
-		"options": ["에어젯 직기", "그리퍼 직기", "면직기", "워터젯 직기"],
+		"choices": ["에어젯 직기", "그리퍼 직기", "면직기", "워터젯 직기"],
 		"answer": "면직기"
 	},
 	{
@@ -284,7 +284,7 @@
 		"image": "",
 		"english": "Which is not a purpose of sizing (gaeho) in weaving?",
 		"question": "가호의 목적에 해당되지 않는 것은?",
-		"options": ["실의 잔털 발생 방지", "실의 평활성 부여", "실의 강신도 증가", "실의 색상 부여"],
+		"choices": ["실의 잔털 발생 방지", "실의 평활성 부여", "실의 강신도 증가", "실의 색상 부여"],
 		"answer": "실의 강신도 증가"
 	},
 	{
@@ -292,7 +292,7 @@
 		"image": "",
 		"english": "Which of the following is not a natural sizing material used in gaeho process?",
 		"question": "가호 공정의 풀 재료에서 점착제 중 천연 풀 재료에 속하지 않는 것은?",
-		"options": ["밀가루", "점토", "아교", "녹말"],
+		"choices": ["밀가루", "점토", "아교", "녹말"],
 		"answer": "점토"
 	},
 	{
@@ -300,7 +300,7 @@
 		"image": "",
 		"english": "In a typical shuttle loom, how many revolutions does the bottom shaft make while the crank shaft completes one full rotation?",
 		"question": "일반 면직기에서 크랭크축이 1회전 하는 동안 보텀축의 회전수는?",
-		"options": ["0.5회전", "1회전", "2회전", "4회전"],
+		"choices": ["0.5회전", "1회전", "2회전", "4회전"],
 		"answer": "2회전"
 	},
 	{
@@ -308,7 +308,7 @@
 		"image": "",
 		"english": "In a typical shuttle loom, how many ends are woven while the crank shaft completes 4 revolutions?",
 		"question": "일반 면직기에서 크랭크축이 4회전하는 동안 몇 올의 위사가 제직되는가?",
-		"options": ["2올", "3올", "4올", "5올"],
+		"choices": ["2올", "3올", "4올", "5올"],
 		"answer": "3올"
 	},
 	{
@@ -316,7 +316,7 @@
 		"image": "",
 		"english": "Which of the following is not a primary motion of weaving, which interlaces warp and weft yarns to weave fabric?",
 		"question": "경사와 위사를 서로 교착시켜서 직물을 짜는데 필요한 기본적 운동에 해당되지 않는 것은?",
-		"options": ["권취운동", "개구운동", "북침운동", "바디침운동"],
+		"choices": ["권취운동", "개구운동", "북침운동", "바디침운동"],
 		"answer": "바디침운동"
 	},
 	{
@@ -324,7 +324,7 @@
 		"image": "",
 		"english": "What is the motion in weaving that divides the warp threads on the loom into upper and lower layers to facilitate the insertion of the weft threads?",
 		"question": "직기의 운동 중 직기 위에 걸려 있는 경사를 위, 아래로 나누어 위사를 넣을 수 있도록하는 것을 무엇이라 하는가?",
-		"options": ["송출운동", "개구운동", "북침운동", "권취운동"],
+		"choices": ["송출운동", "개구운동", "북침운동", "권취운동"],
 		"answer": "개구운동"
 	},
 	{
@@ -332,7 +332,7 @@
 		"image": "",
 		"english": "What motion in weaving involves pushing the shuttle containing the weft yarn across the loom to complete the fabric structure?",
 		"question": "개구 속에 가로 놓인 씨실을 클로스 펠(cloth fell)까지 밀어 쳐서 직물 조직을 완성시키는 운동은?",
-		"options": ["개구운동(shedding motion)", "바디침운동(beating motion)", "북침운동(picking motion)", "송출운동(let-off motion)"],
+		"choices": ["개구운동(shedding motion)", "바디침운동(beating motion)", "북침운동(picking motion)", "송출운동(let-off motion)"],
 		"answer": "바디침운동(beating motion)"
 	},
 	{
@@ -340,7 +340,7 @@
 		"image": "",
 		"english": "What is the term for a type of graph paper used to illustrate fabric weave patterns for easier understanding?",
 		"question": "직물 조직을 알기 쉽게 그림으로 나타내기 위하여 쓰이는 일종의 모눈종이를 무엇이라 하는가?",
-		"options": ["도화지(drawing paper)", "원고지(manuscript paper)", "의장지(design paper)", "패턴지(pattern paper)"],
+		"choices": ["도화지(drawing paper)", "원고지(manuscript paper)", "의장지(design paper)", "패턴지(pattern paper)"],
 		"answer": "의장지(design paper)"
 	},
 	{
@@ -348,7 +348,7 @@
 		"image": "",
 		"english": "In a 3-end weave, where the warp and weft alternate over and under with 1 end per unit, forming complete structures with 2 ends each of warp and weft, what type of weave is this?",
 		"question": "3원 조직중 경사와 1올씩 서로 교대로 위와 아래로 교착하며 경사와 위사 각각2올로 완전조직이 구성되는 것은?",
-		"options": ["평조직(plain weave)", "사문조직(twill weave)", "주자조직(satin weave)", "변화조직"],
+		"choices": ["평조직(plain weave)", "사문조직(twill weave)", "주자조직(satin weave)", "변화조직"],
 		"answer": "주자조직(satin weave)"
 	},
 	{
@@ -356,7 +356,7 @@
 		"image": "",
 		"english": "Twill weave consists of interlacing the warp and weft for a complete weave with 3 or more ends, creating a line that appears continuously in a diagonal direction. What is this line called?",
 		"question": "사문조직은 경사와 위사를 각각 3올 이상으로 교착시켜 완전조직을 구성하며, 조직점이 빗금 방향으로 연속되어 나타나는 선이 생긴다. 이 선을 무엇이라 하는가?",
-		"options": ["주자선(satin line)", "능선(twill line)", "직선", "곡선"],
+		"choices": ["주자선(satin line)", "능선(twill line)", "직선", "곡선"],
 		"answer": "능선(twill line)"
 	},
 	{
@@ -364,7 +364,7 @@
 		"image": "",
 		"english": "How many repeats are there in a 5-end satin weave?",
 		"question": "5매 주자조직의 뜀수는 몇 개인가?",
-		"options": ["1개", "2개", "3개", "4개"],
+		"choices": ["1개", "2개", "3개", "4개"],
 		"answer": "3개"
 	},
 	{
@@ -372,7 +372,7 @@
 		"image": "",
 		"english": "Among the following, which has the highest number of repeats?",
 		"question": "다음 중 뜀수의 개수가 가장 많은 것은?",
-		"options": ["5매", "6매", "7매", "8매"],
+		"choices": ["5매", "6매", "7매", "8매"],
 		"answer": "8매"
 	},
 	{
@@ -380,7 +380,7 @@
 		"image": "",
 		"english": "The length of the warp yarn extracted from a fabric sample with a width of 100mm was 107mm. What is the warp yarn shrinkage (%)? (Round to the nearest hundredth)",
 		"question": "직물의 폭이 100mm인 직물 견본에서 풀어 낸 위사의 길이가 107mm였다. 이 위사의 직축률(%)은 얼마인가?",
-		"options": ["6.0%", "6.5%", "7.0%", "7.5%"],
+		"choices": ["6.0%", "6.5%", "7.0%", "7.5%"],
 		"answer": "7.5%"
 	},
 	{
@@ -388,7 +388,7 @@
 		"image": "",
 		"english": "For a density ratio of 2:1 between warp and weft, which design paper size is used?",
 		"question": "경사와 위사의 밀도 비가 2:1 경우에 사용하는 의장지에 해당되는 것은?",
-		"options": ["16×16", "8×16", "4×8", "24×12"],
+		"choices": ["16×16", "8×16", "4×8", "24×12"],
 		"answer": "8×16"
 	},
 	{
@@ -396,7 +396,7 @@
 		"image": "",
 		"english": "Among the following, which auxiliary device protects the edges of the fabric and maintains a consistent fabric width?",
 		"question": "직기의 보조 장치 중 직물의 가장자리를 보호하고 직물의 폭을 일정하게 잡아주는 장치는?",
-		"options": ["제동장치", "템플장치", "기동장치", "경사보호장치"],
+		"choices": ["제동장치", "템플장치", "기동장치", "경사보호장치"],
 		"answer": "경사보호장치"
 	},
 	{
@@ -404,7 +404,7 @@
 		"image": "",
 		"english": "Which statement does not describe dyeing?",
 		"question": "다음 중에서 침염에 대한 설명이 아닌 것은?",
-		"options": ["염색액에 섬유를 넣어 같은 색깔로 착색하는 공정이다.", "섬유에 여러 가지 색상과 무늬를 넣는 공정이다.", "섬유의 종류에 따라 염색법이 다르다.", "염색액에 섬유를 넣어 일정한 시간동안 열을 가한다."],
+		"choices": ["염색액에 섬유를 넣어 같은 색깔로 착색하는 공정이다.", "섬유에 여러 가지 색상과 무늬를 넣는 공정이다.", "섬유의 종류에 따라 염색법이 다르다.", "염색액에 섬유를 넣어 일정한 시간동안 열을 가한다."],
 		"answer": "섬유에 여러 가지 색상과 무늬를 넣는 공정이다."
 	},
 	{
@@ -412,7 +412,7 @@
 		"image": "",
 		"english": "Which machine is not classified based on the form of dye used?",
 		"question": "침염에 사용되는 기계를 염색물의 형태에 따라 나눈 것이 아닌 것은?",
-		"options": ["톱 염색기", "사 염색기", "의류 염색기", "빔 염색기"],
+		"choices": ["톱 염색기", "사 염색기", "의류 염색기", "빔 염색기"],
 		"answer": "의류 염색기"
 	},
 	{
@@ -420,7 +420,7 @@
 		"image": "",
 		"english": "Among the following, which method is different for dyeing thread?",
 		"question": "다음 중에서 실을 염색하는 방법이 다른 하나는?",
-		"options": ["타래", "치즈", "콘", "케이크"],
+		"choices": ["타래", "치즈", "콘", "케이크"],
 		"answer": "콘"
 	},
 	{
@@ -428,7 +428,7 @@
 		"image": "",
 		"english": "What type of dyeing machine consists of two rollers for winding the fabric and several guide rollers to guide the fabric while it runs forward and backward in a spread-out state?",
 		"question": "원단을 감을 수 있는 2개의 롤러와 원단을 유도해 주는 몇 개의 가이드 롤러로 구성되어, 원단이 확포상태로 정방향과 역방향으로 주행하면서 염색하는 염색기는?",
-		"options": ["윈치 염색기", "지거 염색기", "치즈 염색기", "액류 염색기"],
+		"choices": ["윈치 염색기", "지거 염색기", "치즈 염색기", "액류 염색기"],
 		"answer": "지거 염색기"
 	},
 	{
@@ -436,7 +436,607 @@
 		"image": "",
 		"english": "Among the following, which dyeing machine does not dye the fabric in a spread-out state?",
 		"question": "다음 중에서 원단을 펼친 상태로 염색하는 염색기가 아닌 것은?",
-		"options": ["지거", "윈치", "빔", "패드 롤"],
+		"choices": ["지거", "윈치", "빔", "패드 롤"],
 		"answer": "윈치"
+	},
+	{
+		"id": 56,
+		"image": "",
+		"english": "Which of the following dyeing machines generally has the lowest liquor ratio for fibers and water?",
+		"question": "다음 중에서 일반적으로 섬유와 용수의 액비가 가장 낮은 염색기는?",
+		"choices": ["지거", "윈치", "빔", "액류 염색기"],
+		"answer": "액류 염색기"
+	},
+	{
+		"id": 57,
+		"image": "",
+		"english": "Which of the following dyeing machines is not capable of continuous dyeing?",
+		"question": "다음 중에서 연속염색이 가능한 염색기가 아닌 것은?",
+		"choices": ["패드 스팀", "서모솔", "지거", "패드 롤"],
+		"answer": "지거"
+	},
+	{
+		"id": 58,
+		"image": "",
+		"english": "Which of the following is not a dyeing method using reactive dyes?",
+		"question": "다음 중에서 반응성 염료에 의한 염색방법이 아닌 것은?",
+		"choices": ["반응성 염료는 섬유와 이온결합 한다.", "중성염 용액으로부터 섬유내부 표면에 물리적으로 흡착한다.", "알칼리 첨가에 의해 염료-섬유의 결합이 진행된다.", "반응성 염료의 화학구조는 발색기와 반응기로 나타낼 수 있다."],
+		"answer": "중성염 용액으로부터 섬유내부 표면에 물리적으로 흡착한다."
+	},
+	{
+		"id": 59,
+		"image": "",
+		"english": "Which of the following is not used when dyeing cotton with reactive dyes?",
+		"question": "다음 중에서 반응성 염료로 면(Cotton)을 염색할 때 사용하지 않는 것은?",
+		"choices": ["망초", "소다회", "소핑제", "환원제"],
+		"answer": "환원제"
+	},
+	{
+		"id": 60,
+		"image": "",
+		"english": "Vat dyes show excellent fastness when dyeing cellulose fibers. The vat dyes, which have an insoluble ( ) structure, are converted into a soluble ( ) salt by adding a reducing agent and alkali before dyeing. Which of the following is correct to fill in the blanks?",
+		"question": "배트 염료는 셀룰로오스 섬유에 염색할 경우 매우 뛰어난 견뢰도를 나타낸다. 물에 녹지 않는 ( )형 구조인 배트 염료는 염색하기에 앞서 환원제와 알칼리를 첨가하여 물에 녹는 ( )염을 만든다. ( )안에 알맞은 것은?",
+		"choices": ["분산 – 중성", "아조 – 무기", "퀴논 – 류코", "금속 – 알칼리"],
+		"answer": "퀴논 – 류코"
+	},
+	{
+		"id": 61,
+		"image": "",
+		"english": "Which of the dyeing methods for anthraquinone-type vat dyes is performed at the lowest temperature?",
+		"question": "안트라퀴논(Anthraquinone)계 배트 염료의 염색방법 중 가장 낮은 온도에서 염색하는방법은?",
+		"choices": ["일반법(IN 법)", "온염법(IW 법)", "냉염법(IK 법)", "특일반법(IN 특별법)"],
+		"answer": "냉염법(IK 법)"
+	},
+	{
+		"id": 62,
+		"image": "",
+		"english": "Which of the following pairs of auxiliaries and their uses in dyeing cotton fabrics with reactive dyes is incorrectly matched?",
+		"question": "반응성 염료로 면직물을 염색할 때 사용되는 조제와 사용방법이 잘못 연결된 것은?",
+		"choices": ["염소산나트륨 - 환원방지제", "황산나트륨 - 흡착제", "탄산나트륨 - 고착제", "중크롬산칼륨 – 소핑제"],
+		"answer": "중크롬산칼륨 – 소핑제"
+	},
+	{
+		"id": 63,
+		"image": "",
+		"english": "Which fiber has both acidic and basic groups and ionizes as an anion or cation depending on the pH of the treatment solution?",
+		"question": "산성기와 염기성기를 동시에 가지고 있어서 처리액의 pH에 따라 음이온 또는 양이온으로 전리되는 섬유는?",
+		"choices": ["면", "나일론", "아크릴", "양모"],
+		"answer": "나일론"
+	},
+	{
+		"id": 64,
+		"image": "",
+		"english": "Which statement is incorrect about dyeing silk fibers?",
+		"question": "견(silk)섬유의 염색에 대한 내용 중 맞지 않는 것은?",
+		"choices": ["산성염료의 견섬유에 대한 친화력은 양모(wool)에 비해 높다.", "세탁견뢰도는 양모에 비해 낮은 편이다.", "고온에서 염색하면 광택이 나빠진다.", "산성 염료와 이온결합 한다."],
+		"answer": "산성염료의 견섬유에 대한 친화력은 양모(wool)에 비해 높다."
+	},
+	{
+		"id": 65,
+		"image": "",
+		"english": "Which dye type and pH combination is correct for dyeing Nylon fibers?",
+		"question": "나일론(Nylon)섬유 염색 시 염료의 염색성과 사용하는 pH가 맞게 연결된 것은?",
+		"choices": ["1:2 금속 착염 염료 - 약산성", "밀링형 산성 염료 – 중성", "균염성 산성 염료 - 약알칼리성", "반균염성 산성 염료 – 산성"],
+		"answer": "1:2 금속 착염 염료 - 약산성"
+	},
+	{
+		"id": 66,
+		"image": "",
+		"english": "What is the term for the property where a leveling acid dye migrates well from high concentration to low concentration, commonly used in dyeing Nylon?",
+		"question": "균염성 산성염료는 염료가 고농도에서 저농도로 이동하는 성질이 좋아서 나일론 염색에 주로 사용된다. 이러한 성질을 무엇이라고 하나?",
+		"choices": ["블로킹(blocking)", "커버링(covering)", "엔딩(ending)", "리스팅(listing)"],
+		"answer": "커버링(covering)"
+	},
+	{
+		"id": 67,
+		"image": "",
+		"english": "How much acid dye is used to dye 100g of Nylon fabric with a concentration of 1.5% o.w.f in 2 liters (L) of water at a liquor ratio of 1:20?",
+		"question": "나일론 직물 100g을 산성염료를 이용하여 1.5 % o.w.f 의 농도로 액비 1 : 20인 2리터(L)의 물에서 염색하고자 한다. 여기에 사용되는 산성염료의 양은 얼마인가?",
+		"choices": ["30g", "3g", "1.5g", "15g"],
+		"answer": "1.5g"
+	},
+	{
+		"id": 68,
+		"image": "",
+		"english": "Which of the following statements is incorrect regarding the dyeing of polyester fibers?",
+		"question": "폴리에스테르 섬유의 염색에 대한 설명으로 맞지 않는 것은?",
+		"choices": ["분산염료로 염색한다.", "고온고압에서 염색된다.", "환원세정은 표면에 부착되어 있는 염료를 제거하기 위한 것이다.", "서모솔 염색은 폴리에스테르 섬유의 염색법이 아니다."],
+		"answer": "서모솔 염색은 폴리에스테르 섬유의 염색법이 아니다."
+	},
+	{
+		"id": 69,
+		"image": "",
+		"english": "Which fiber should be most carefully dyed because it is mainly dyed at high temperature and high pressure, thus posing a risk of burns or pressure accidents?",
+		"question": "섬유염색법 중에서 주로 고온고압에서 염색하므로 화상 또는 압력에 의한 사고 위험이 있으므로, 염색시 가장 주의해야 되는 섬유는?",
+		"choices": ["면(cotton)", "나일론(nylon)", "양모(wool)", "폴리에스테르(polyester)"],
+		"answer": "폴리에스테르(polyester)"
+	},
+	{
+		"id": 70,
+		"image": "",
+		"english": "What is the method of printing directly on fabric dyed in white or light colors?",
+		"question": "흰색 또는 옅은 색으로 염색된 원단 위에 직접 날염하는 방법은?",
+		"choices": ["본염", "발염", "방염", "방발염"],
+		"answer": "본염"
+	},
+	{
+		"id": 71,
+		"image": "",
+		"english": "What is the printing method where patterns are created by using a discharge paste on dyed fabric, causing the base color to be removed and forming a pattern?",
+		"question": "염색된 원단에 날염풀을 이용하여 무늬를 찍으면, 무늬가 찍힌 부분의 바탕색이 빠져나가면서 무늬를 나타내는 날염법은?",
+		"choices": ["직접 날염", "발염 날염", "방염 날염", "착색 방염"],
+		"answer": "발염 날염"
+	},
+	{
+		"id": 72,
+		"image": "",
+		"english": "Among the following mechanical printing methods, which one uses a different technique?",
+		"question": "다음은 기계식 날염 방법이다. 이중에서 날염방식이 다른 것은?",
+		"choices": ["롤러 날염", "평판 자동 스크린 날염", "로터리 스크린 날염", "전사 날염"],
+		"answer": "전사 날염"
+	},
+	{
+		"id": 73,
+		"image": "",
+		"english": "Which of the following correctly lists the steps of the printing process in order?",
+		"question": "다음 중 날염공정을 순서대로 나열한 것은?",
+		"choices": ["제도-날인-제판-증열-수세-건조-검사", "제도-제판-증열-날인-건조-수세-검사", "제도-제판-날인-증열-수세-건조-검사", "제도-날인-증열-제판-건조-수세-검사"],
+		"answer": "제도-제판-날인-증열-수세-건조-검사"
+	},
+	{
+		"id": 74,
+		"image": "",
+		"english": "Which of the following is not an agent used in screen coating during the screen making process?",
+		"question": "다음 중 제판공정에서 스크린 막을 만들 때 사용되는 약제가 아닌 것은?",
+		"choices": ["젤라틴", "카세인", "PVA", "중크롬산염"],
+		"answer": "중크롬산염"
+	},
+	{
+		"id": 75,
+		"image": "",
+		"english": "The following are explanations about exposure in the screen making process. Which explanation is incorrect?",
+		"question": "다음은 제판공정 중 노광(exposure)에 대한 설명이다. 설명이 맞지 않는 것은?",
+		"choices": ["감광액을 도포한 스크린을 빛에 노출시키는 작업이다.", "광원은 청색광이 좋다.", "무늬가 많은 경우 노광시간은 짧아야 한다.", "빛에 노출된 감광액은 불용화 된다."],
+		"answer": "광원은 청색광이 좋다."
+	},
+	{
+		"id": 76,
+		"image": "",
+		"english": "Which of the following agents used in the screen making process requires the highest washing temperature for undeveloped photosensitive emulsion during development?",
+		"question": "제판공정에서 조막제로 사용되는 약제 중 현상 작업시에 미고착된 감광액의 수세 온도가 가장 높은 것은?",
+		"choices": ["PVA", "젤라틴", "밀크 카세인", "디아조 수지"],
+		"answer": "젤라틴"
+	},
+	{
+		"id": 77,
+		"image": "",
+		"english": "Which of the following is not a condition that must be met by the printing paste for rotary printing?",
+		"question": "날염용 풀감이 갖추어야 할 조건이 아닌 것은?",
+		"choices": ["알맞은 끈기와 굳기를 가지고 있으며, 염료나 조제와의 혼합이 잘 되어야 한다.", "섬유에 화학변화를 일으키고, 가공 중에 균열이 생기기 않아야 한다.", "염료를 섬유에 잘 옮겨주고, 무늬가 번지지 않아야 한다.", "물로 씻으면 쉽게 제거되고 풀 자국이 뻣뻣하지 않아야 한다."],
+		"answer": "섬유에 화학변화를 일으키고, 가공 중에 균열이 생기기 않아야 한다."
+	},
+	{
+		"id": 78,
+		"image": "",
+		"english": "Which of the following is incorrectly matched with its role in the dyeing paste for printing?",
+		"question": "다음 중 날염용 색풀에 사용되는 조제와 그 역할이 잘못 연결된 것은?",
+		"choices": ["알긴산나트륨(sodium alginate) - 풀감", "요소(urea) - 흡습제", "폴리글리콜(polyglycol) - 염료 용해제", "롱가리트(ronglite-c) - 산화제"],
+		"answer": "롱가리트(ronglite-c) - 산화제"
+	},
+	{
+		"id": 79,
+		"image": "",
+		"english": "Which of the following is not a precaution to be taken when preparing the printing paste?",
+		"question": "다음 중 날염풀을 만들 때 주의사항으로 맞지 않는 것은?",
+		"choices": ["가열과 냉각은 천천히 하여 풀의 물성변화를 방지해야 한다.", "날염풀의 점도가 높으면 풀감이 스크린의 눈을 막는다.", "알긴산나트륨은 60℃ 이상으로 가열하면 점성이 올라간다.", "염료의 용해가 불충분하면 작은 반점이 나타난다."],
+		"answer": "알긴산나트륨은 60℃ 이상으로 가열하면 점성이 올라간다."
+	},
+	{
+		"id": 80,
+		"image": "",
+		"english": "Which of the following is not a type of squeegee used in rotary screen printing machines?",
+		"question": "로터리 스크린 날염기에 사용하는 스퀴즈가 아닌 것은?",
+		"choices": ["블레이드 스퀴즈", "반원형 단면 스퀴즈", "에어플로 스퀴즈", "롤러 스퀴즈"],
+		"answer": "롤러 스퀴즈"
+	},
+	{
+		"id": 81,
+		"image": "",
+		"english": "Which of the following screen squeezing methods reduces paste and dye consumption, provides a soft texture during pigment printing, and increases production speed?",
+		"question": "다음의 스크린 인날 방식 중 풀감과 염료가 절감되며, 안료 날염시에 부드러운 촉감을 가질 수 있고 생산속도가 증가되는 스퀴즈 방식은?",
+		"choices": ["블레이드 스퀴즈", "거품 날인 스퀴즈", "에어플로 스퀴즈", "롤러 스퀴즈"],
+		"answer": "에어플로 스퀴즈"
+	},
+	{
+		"id": 82,
+		"image": "",
+		"english": "Which printing method allows for obtaining realistic and delicate patterns compared to other printing methods?",
+		"question": "다른 날염 방식에 비해 섬세한 무늬의 사실적인 날염 제품을 얻을 수 있는 날염방법은?",
+		"choices": ["롤라 날염", "평판 스크린 날염", "로타리 스크린 날염", "전사 날염"],
+		"answer": "로타리 스크린 날염"
+	},
+	{
+		"id": 83,
+		"image": "",
+		"english": "Which dyeing method uses an inkjet plotter to apply patterns directly onto fabric?",
+		"question": "잉크젯 플로터를 이용하여 원단위에 무늬를 나타내는 날염법은?",
+		"choices": ["디지털 날염", "전사 날염", "로터리 스크린 날염", "평판 스크린 날염"],
+		"answer": "디지털 날염"
+	},
+	{
+		"id": 84,
+		"image": "",
+		"english": "Which description about printing equipment is incorrectly matched?",
+		"question": "날염설비에 대한 설명이 틀리게 연결된 것은?",
+		"choices": ["평판 스크린 날염 – 승강운동을 하는 스크린틀과 직물을 부착하는 앤드리스 벨트가 있다.", "로터리 스크린 날염 – 원통모양의 스크린을 회전시켜 날인한다.", "전사 날염 – 종이에 미리 인쇄하여 다시 섬유로 염료 또는 안료를 옮긴다.", "디지털 날염 – 고화질의 이미지를 표현할 수 있으나, 너무 느려 생산에 사용할 수 없다."],
+		"answer": "디지털 날염 – 고화질의 이미지를 표현할 수 있으나, 너무 느려 생산에 사용할 수 없다."
+	},
+	{
+		"id": 85,
+		"image": "",
+		"english": "Among the direct dyeing methods for cotton fibers using reactive dyes, which method differs in approach?",
+		"question": "반응성 염료에 의한 면섬유의 직접 날염법이다. 이 중에서 방식이 다른 것은?",
+		"choices": ["증열법", "플래시 에이지법", "알칼리 쇼크법", "콜드 픽스법"],
+		"answer": "플래시 에이지법"
+	},
+	{
+		"id": 86,
+		"image": "",
+		"english": "Which of the following is not used as a mordant in the development of direct dyeing on cotton fabrics?",
+		"question": "직접염료에 의한 면직물의 발염에서 발염제로 사용되지 않는 것은?",
+		"choices": ["롱가리트-C", "아연가루", "나프톨 AS", "주석염"],
+		"answer": "롱가리트-C"
+	},
+	{
+		"id": 87,
+		"image": "",
+		"english": "Which of the following is not used as a mordant in the development of azo dyes for dyeing?",
+		"question": "아조익 염료에 의한 방염에서 방염제로 사용되지 않는 것은?",
+		"choices": ["염화제일주석", "타르타르산", "요소", "황산알루미늄"],
+		"answer": "요소"
+	},
+	{
+		"id": 88,
+		"image": "",
+		"english": "Which method is not used as a dye fixation method in direct dyeing of polyester fibers?",
+		"question": "폴리에스테르 섬유의 직접 날염에서 염료 고착법으로 사용되지 않는 것은?",
+		"choices": ["증열법", "환원세정법", "건열고착법", "캐리어법"],
+		"answer": "캐리어법"
+	},
+	{
+		"id": 89,
+		"image": "",
+		"english": "Which formulation and its purpose used in the prescription of high-temperature fixation dyeing bath for polyester fibers are incorrectly matched?",
+		"question": "폴리에스테르 섬유의 고온 증열용 날염 풀의 처방에 사용되는 조제와 그 용도가 잘못 연결된 것은?",
+		"choices": ["유기산 – pH 조절제", "알긴산나트륨 – 환원 방지제", "에틸렌글리콜 – 번짐 방지제", "요소 – 흡습제"],
+		"answer": "요소 – 흡습제"
+	},
+	{
+		"id": 90,
+		"image": "",
+		"english": "When mixing 40 parts of sodium alginate with a P.V.I (Printing viscosity index) of 0.7 and 60 parts of guargum with a P.V.I of 0.6, what is the mixed P.V.I value?",
+		"question": "P.V.I(Printing viscosity index)가 0.7인 알긴산나트륨 40 파트와 P.V.I가 0.6인 구아검 60 파트를 혼합하였을 때 혼합한 호의 P.V.I 값은?",
+		"choices": ["0.54", "0.62", "0.64", "0.67"],
+		"answer": "0.62"
+	},
+	{
+		"id": 91,
+		"image": "",
+		"english": "Dehydration process is an essential process to save energy required for heat in the drying process. Which method does not belong to dehydration methods?",
+		"question": "탈수공정은 건조공정에 필요한 열에너지를 절약하기 위한 보조 공정으로 꼭 필요한 공정이다. 탈수방법에 속하지 않는 것은?",
+		"choices": ["원심 탈수", "압착 탈수", "진공 탈수", "플라즈마 탈수"],
+		"answer": "플라즈마 탈수"
+	},
+	{
+		"id": 92,
+		"image": "",
+		"english": "Among the following, which type of hot-air dryer has the function of fixing the width of the fabric?",
+		"question": "다음 중에서 직물의 폭을 고정시키는 폭출의 기능을 가진 열풍식 건조기는?",
+		"choices": ["실린더 건조기", "텐터", "네트 건조기", "텀블러 건조기"],
+		"answer": "텐터"
+	},
+	{
+		"id": 93,
+		"image": "",
+		"english": "Which dryer is often used to improve the feel by preserving the volume of the fabric without applying tension during drying? (However, it may cause wrinkles or lint)",
+		"question": "건조할 때 장력이 걸리지 않아 직물의 볼륨감을 살려주는 장점이 있어서 만짐새 개선을 위해 많이 사용되는 건조기는? (단점으로 주름이나 털이 일어나기도 한다)",
+		"choices": ["편면 실린더 건조기", "가스식 텐터", "네트 건조기", "텀블러 건조기"],
+		"answer": "네트 건조기"
+	},
+	{
+		"id": 94,
+		"image": "",
+		"english": "Cotton fabrics have a tendency to shrink when washed. What processing method is used to compress the fabric in the warp direction using a rubber belt or felt to minimize shrinkage?",
+		"question": "면직물은 세탁하면 줄어드는 성질을 가진다. 이러한 단점을 해결하기 위해 고무벨트나 부직포 펠트를 이용하여 경사방향으로 강제로 압축시켜, 면직물의 수축을 최대한 제거하는 가공방법은?",
+		"choices": ["산포라이징 가공(Sanforizing 가공)", "머서화 가공(Mercerized 가공)", "모소 가공(Mossing 가공)", "듀어러블 프레스 가공(Durable press 가공)"],
+		"answer": "산포라이징 가공(Sanforizing 가공)"
+	},
+	{
+		"id": 95,
+		"image": "",
+		"english": "Which of the following is not used as a flame retardant treatment agent for cotton?",
+		"question": "면의 방염가공제로 사용되지 않는 것은?",
+		"choices": ["인산암모늄", "붕산", "수산화나트륨", "THPC"],
+		"answer": "수산화나트륨"
+	},
+	{
+		"id": 96,
+		"image": "",
+		"english": "A processing method that improves the softness of the fabric surface and enhances insulation by using brushing to raise fibers on the fabric surface is called?",
+		"question": "원단의 표면에 침포를 이용하여 긁어 일으킴으로써 촉감을 부드럽게 하고 보온성을 좋게 하는 가공 방법은?",
+		"choices": ["기모 가공", "브러쉬 가공", "샌드 가공", "전모 가공"],
+		"answer": "브러쉬 가공"
+	},
+	{
+		"id": 97,
+		"image": "",
+		"english": "Heat setting in synthetic fibers alters the microstructure of the fibers. Which of the following is not a purpose of heat setting?",
+		"question": "합성섬유는 열 고정을 통해 섬유의 미세구조에 변화를 주게 된다. 열 고정의 목적이 아닌 것은?",
+		"choices": ["치수안정성의 향상", "형태의 고정", "광택의 부여", "겉모양의 향상"],
+		"answer": "광택의 부여"
+	},
+	{
+		"id": 98,
+		"image": "",
+		"english": "To enhance the hydrophilicity of synthetic fibers with low moisture absorption and prevent static electricity generation on the fiber surface, what processing method is used?",
+		"question": "흡습성이 낮은 합성섬유의 친수성을 향상시켜 섬유표면에 정전기가 발생하는 것을 막아주는 가공 방법은?",
+		"choices": ["형태 안정 가공", "대전 방지 가공", "유연 가공", "방축 가공"],
+		"answer": "대전 방지 가공"
+	},
+	{
+		"id": 99,
+		"image": "",
+		"english": "Flexible agents are used to impart flexibility to fibers. Which of the following is not used as a flexible agent?",
+		"question": "섬유에 유연성을 부여하기 위해 유연제를 사용하는데, 다음 중 유연제로 사용되지 않는 것은?",
+		"choices": ["오일", "계면활성제", "실리콘 수지", "우레탄 수지"],
+		"answer": "우레탄 수지"
+	},
+	{
+		"id": 100,
+		"image": "",
+		"english": "The amount of sodium hydroxide required for complete decomposition of 192g of polyester fiber is 80g. The theoretical amount of sodium hydroxide required to reduce the weight of 1kg fabric by 20% is?",
+		"question": "폴리에스테르 섬유 192g의 완전분해에 필요한 수산화나트륨의 양은 80g이다. 이론적으로 원단 1kg을 20% 감량하는데 필요한 수산화나트륨의 양은 얼마인가?",
+		"choices": ["83.3g", "8.3g", "17.3g", "173.6g"],
+		"answer": "8.3g"
+	},
+	{
+		"id": 101,
+		"image": "",
+		"english": "Among the following, the strongest sewing stitch method is?",
+		"question": "다음 중 가장 튼튼한 바느질 방법은?",
+		"choices": ["가름솔", "홑솔", "쌈솔", "뉨솔"],
+		"answer": "뉨솔"
+	},
+	{
+		"id": 102,
+		"image": "",
+		"english": "Arrange the sewing machine needles in order from thin to thick?",
+		"question": "재봉기 바늘 중 바늘의 굵기가 가는 것부터 굵은 순서대로 나열한 것은?",
+		"choices": ["14호 → 11호 → 9호 → 8호", "8호 → 9호 → 11호 → 14호", "14호 → 9호 → 11호 → 8호", "9호 → 11호 → 14호 → 8호"],
+		"answer": "14호 → 11호 → 9호 → 8호"
+	},
+	{
+		"id": 103,
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/textile.png",
+		"english": "Among the symbols used in drafting, what is the name of the line shown in the following figure?",
+		"question": "제도에서 사용되는 부호 중 다음 그림의 명칭은?",
+		"choices": ["기초선", "완성선", "안단선", "꺾임선"],
+		"answer": "안단선"
+	},
+	{
+		"id": 104,
+		"image": "",
+		"english": "Among the parts of a sewing machine structure, what is the component that fixes the fabric on the feed plate and applies pressure to the fabric according to the movement of gears?",
+		"question": "재봉기의 구조 중 옷감을 미끄럼판 위에 고정시키고 톱니의 움직임에 따라 옷감이 함께 움직일 수 있을 만큼의 압력으로 옷감을 눌러 주는 것은?",
+		"choices": ["실가이드", "노루발", "바늘", "북과 북집"],
+		"answer": "노루발"
+	},
+	{
+		"id": 105,
+		"image": "",
+		"english": "What is the cause of the bobbin thread breaking?",
+		"question": "밑실이 끊어지는 원인은?",
+		"choices": ["북에 결함이 있다.", "보내기 기구에 결함이 있다.", "실 안내에 결함이 있다.", "실채기 스프링에 결함이 있다."],
+		"answer": "실 안내에 결함이 있다."
+	},
+	{
+		"id": 106,
+		"image": "",
+		"english": "When decorating a seam neatly without showing the thread on the surface, what sewing technique is used?",
+		"question": "시접을 예쁘게 장식할 때 사용되며 겉으로 실이 나타나지 않게 하는 바느질 방법은?",
+		"choices": ["새발뜨기", "공그르기", "휘감치기", "반박음질"],
+		"answer": "반박음질"
+	},
+	{
+		"id": 107,
+		"image": "",
+		"english": "When making clothes, what is it called when you measure horizontally across the chest passing through the nipples?",
+		"question": "옷을 만들 때 필요한 치수로 유두를 지나 가슴을 수평으로 재는 것은 무엇인가?",
+		"choices": ["허리둘레", "엉덩이둘레", "가슴둘레", "바지길이"],
+		"answer": "가슴둘레"
+	},
+	{
+		"id": 108,
+		"image": "",
+		"english": "When threading the upper thread on a sewing machine, where is the last place to insert the thread?",
+		"question": "재봉기 윗실을 걸 때 마지막에 실을 끼우는 곳은?",
+		"choices": ["실채기", "바늘", "북", "실조절기"],
+		"answer": "실채기"
+	},
+	{
+		"id": 109,
+		"image": "",
+		"english": "When sewing, what component adjusts the pressure applied depending on the type of fabric?",
+		"question": "바느질할 때 천의 종류에 따라 강약의 압력을 주는 것은?",
+		"choices": ["바늘", "압력조절기", "노루발", "바늘대"],
+		"answer": "압력조절기"
+	},
+	{
+		"id": 110,
+		"image": "",
+		"english": "Regarding the temporary disassembly and cleaning of a sewing machine, what is the correct frequency?",
+		"question": "재봉틀 임시 분해 청소에 관해 맞는 것은?",
+		"choices": ["1주 1회", "매일", "15일에 1회", "1개월에 1회"],
+		"answer": "1개월에 1회"
+	},
+	{
+		"id": 111,
+		"english": "Which of the following is not a cause of noisy machine rotation or heavy operation?",
+		"question": "기계의 회전음이 요란하거나 사용이 무거운 원인이 아닌 것은?",
+		"choices": ["기름이 없을 때", "북가마에 먼지가 끼었을 때", "나사가 헐거울 때", "바늘보다 실이 가늘 때"],
+		"answer": "바늘보다 실이 가늘 때",
+		"image": ""
+	},
+	{
+		"id": 112,
+		"english": "What is a common cause of sewing machine needles breaking easily?",
+		"question": "재봉틀 바늘이 잘 부러지는 원인은?",
+		"choices": ["침판의 침통이 너무 넓다.", "윗실이 너무 강하다.", "천에 풀기가 너무 세다.", "바늘대가 휘었거나 북통을 잘못 끼웠다."],
+		"answer": "바늘대가 휘었거나 북통을 잘못 끼웠다.",
+		"image": ""
+	},
+	{
+		"id": 113,
+		"english": "Which of the following is not a cause of needle breakage?",
+		"question": "바늘이 부러지는 원인이 아닌 것은?",
+		"choices": ["옷감이 두꺼울 때", "바늘이 나쁘거나 굽었을 때", "감을 무리하게 당길 때", "바늘의 호수가 맞을 때"],
+		"answer": "바늘의 호수가 맞을 때",
+		"image": ""
+	},
+	{
+		"id": 114,
+		"english": "Which statement about sewing needle sizes is correct?",
+		"question": "재봉바늘의 호수에 대한 설명으로 맞는 것은 무엇인가?",
+		"choices": ["숫자가 클수록 바늘이 굵어진다.", "숫자가 클수록 바늘이 가늘어진다.", "숫자가 작을수록 바늘이 굵어진다.", "숫자와 상관없다."],
+		"answer": "숫자가 클수록 바늘이 굵어진다.",
+		"image": ""
+	},
+	{
+		"id": 115,
+		"english": "When inspecting a needle, what is the most appropriate action?",
+		"question": "바늘을 점검하려고 한다. 가장 적당한 것은?",
+		"choices": ["끝이 무디고 휘어지지 않았는지 살펴본다.", "바늘이 좋은 것인지 나쁜 것인지 살펴본다.", "천이 박혀지는 바늘인가 살펴본다.", "바늘의 상표를 살펴본다."],
+		"answer": "끝이 무디고 휘어지지 않았는지 살펴본다.",
+		"image": ""
+	},
+	{
+		"id": 116,
+		"english": "Which sewing needle size is commonly used for thick winter outerwear?",
+		"question": "두꺼운 겨울 동복지에 일반적으로 많이 사용하는 재봉바늘 호수는?",
+		"choices": ["7번", "9번", "11번", "14번"],
+		"answer": "14번",
+		"image": ""
+	},
+	{
+		"id": 117,
+		"english": "Which seam requires the least amount of stitching?",
+		"question": "시접분량이 가장 적은 것은?",
+		"choices": ["목둘레", "옆선", "어깨", "스커트단"],
+		"answer": "목둘레",
+		"image": ""
+	},
+	{
+		"id": 118,
+		"english": "What type of thread is used for sewing buttonholes?",
+		"question": "시침바느질에 사용하는 실은?",
+		"choices": ["면사", "견사", "나일론사", "폴리에스테르사"],
+		"answer": "폴리에스테르사",
+		"image": ""
+	},
+	{
+		"id": 119,
+		"english": "What is the most suitable sewing machine for sewing fabrics together?",
+		"question": "옷감을 봉제할 때 가장 적절한 재봉기는?",
+		"choices": ["지그재그봉", "본봉", "이중환봉", "편평봉"],
+		"answer": "본봉",
+		"image": ""
+	},
+	{
+		"id": 120,
+		"english": "In skirt drafting, what is the most critical measurement?",
+		"question": "스커트 제도에서 가장 중요한 항목은?",
+		"choices": ["엉덩이둘레", "허리둘레", "스커트길이", "엉덩이길이"],
+		"answer": "허리둘레",
+		"image": ""
+	},
+	{
+		"id": 121,
+		"english": "Which definition correctly describes grading?",
+		"question": "그레이딩(grading) 정의를 맞게 설명한 것은 무엇인가?",
+		"choices": ["디자인 종류를 부분별로 구별하는 작업", "재단작업에서 봉제작업으로 이동하는 작업", "심플화, 불량품을 분리하는 작업", "사이즈별 치수를 조절하는 작업"],
+		"answer": "사이즈별 치수를 조절하는 작업",
+		"image": ""
+	},
+	{
+		"id": 122,
+		"english": "In the typical process of making clothing, what should be done first?",
+		"question": "다음 중 옷을 만드는 일반적인 과정에서 가장 먼저 해야 하는 것은?",
+		"choices": ["치수설정", "의복설계", "패턴제작", "재단"],
+		"answer": "의복설계",
+		"image": ""
+	},
+	{
+		"id": 123,
+		"english": "In sewing machines, what is responsible for pushing the fabric forward to match the given seam length?",
+		"question": "재봉기에서 주어진 땀 길이에 맞게 천을 앞으로 밀어주는 역할을 하는 것은?",
+		"choices": ["노루발", "침판", "톱니", "실채기"],
+		"answer": "톱니",
+		"image": ""
+	},
+	{
+		"id": 124,
+		"english": "Among the following sewing machine needles, which is the thickest?",
+		"question": "다음 재봉기 바늘 중 가장 굵은 것은?",
+		"choices": ["9번", "11번", "12번", "14번"],
+		"answer": "14번",
+		"image": ""
+	},
+	{
+		"id": 125,
+		"english": "Among the following measurements for skirt drafting, which one is not necessary?",
+		"question": "다음 중에서 스커트 제도에 가장 필요 없는 치수는?",
+		"choices": ["허리둘레", "엉덩이둘레", "엉덩이길이", "밑위길이"],
+		"answer": "밑위길이",
+		"image": ""
+	},
+	{
+		"id": 126,
+		"english": "Which efficient sewing machine prevents unraveling and efficiently sews shoulders and sleeves together when sewing a garment?",
+		"question": "올의 풀림을 방지하고 어깨와 소매를 이을 때 완전하게 감침질되는 능률적인 재봉기는?",
+		"choices": ["인터로크", "단추달이", "본봉", "두줄스티치"],
+		"answer": "본봉",
+		"image": ""
+	},
+	{
+		"id": 127,
+		"english": "What does the size number of a sewing needle represent?",
+		"question": "재봉바늘 호수는 무엇을 뜻하는가?",
+		"choices": ["바늘 강도", "길이", "바늘 굵기", "바늘 종류"],
+		"answer": "바늘 굵기",
+		"image": ""
+	},
+	{
+		"id": 128,
+		"english": "What is the method of joining two pieces of fabric using a sewing machine?",
+		"question": "재봉틀을 사용하여 두 장의 천을 합하는 방법은?",
+		"choices": ["마킹", "연단", "재단", "봉제"],
+		"answer": "봉제",
+		"image": ""
+	},
+	{
+		"id": 129,
+		"english": "Which statement about pattern layout is correct?",
+		"question": "패턴 배치 방법 중 맞는 것은?",
+		"choices": ["패턴은 작은 것부터 배치한다.", "옷감의 겉면이 밖으로 되도록 반 접는다.", "짧은 털이 있는 옷감은 털의 결방향이 위로 가게 한다.", "긴 털이 있는 옷감은 털의 결방향이 위로 가게 한다."],
+		"answer": "긴 털이 있는 옷감은 털의 결방향이 위로 가게 한다.",
+		"image": ""
+	},
+	{
+		"id": 130,
+		"english": "What sewing method is shown in the following picture?",
+		"question": "다음 그림은 손바느질 방법 중 어떤 것인가?",
+		"choices": ["감침질", "박음질", "홈질", "새발뜨기"],
+		"answer": "새발뜨기",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/textile1.png"
 	}
 ]
