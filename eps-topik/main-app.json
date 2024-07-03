@@ -30,5 +30,13 @@
 		"slug": "electric",
 		"db": "electric",
 		"icon": "Icons.menu_book_rounded"
+	},
+	{
+		"korean": "전자, 전기",
+		"english": "food related",
+		"lao": "ເອເລັກໂຕຣນິກ, ໄຟຟ້າ",
+		"slug": "food",
+		"db": "food",
+		"icon": "Icons.menu_book_rounded"
 	}
 ]
