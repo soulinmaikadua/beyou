@@ -278,5 +278,805 @@
 		"choices": ["초탄성재료", "초소성재료", "전극재료", "초강력강"],
 		"answer": "초탄성재료",
 		"image": ""
+	},
+	{
+		"id": 36,
+		"english": "Which of the following is not a type of safety and health sign?",
+		"question": "다음 중 안전보건표지의 종류가 아닌 것은?",
+		"choices": ["금지표지", "경고표지", "지시표지", "도로표지"],
+		"answer": "도로표지",
+		"image": ""
+	},
+	{
+		"id": 37,
+		"english": "Which of the following safety and health signs indicates 'no boarding'?",
+		"question": "다음 안전보건표지 중 탑승금지 표지인 것은?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/metal.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal1.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal2.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal3.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal2.png",
+		"image": ""
+	},
+	{
+		"id": 38,
+		"english": "Which of the following safety and health signs indicates 'flammable material warning'?",
+		"question": "다음 안전보건표지 중 인화성물질경고 표지인 것은?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/metal4.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal5.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal6.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal7.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal4.png",
+		"image": ""
+	},
+	{
+		"id": 39,
+		"english": "Which of the following safety and health signs indicates 'emergency aid'?",
+		"question": "다음 안전보건표지 중 응급구호 표지인 것은?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/metal8.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal9.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal10.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal11.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/metal10.png",
+		"image": ""
+	},
+	{
+		"id": 40,
+		"english": "Which of the following is incorrect as a first aid measure during an accident?",
+		"question": "재해발생시 응급처치 요령으로 잘못된 것은?",
+		"choices": ["환자의 체온유지에 힘쓴다", "구급차를 부른다", "환자에게 음료수를 준다", "변, 구토물 등의 증거품을 보존한다"],
+		"answer": "환자에게 음료수를 준다",
+		"image": ""
+	},
+	{
+		"id": 41,
+		"english": "Which of the following is not one of the four steps of first aid?",
+		"question": "응급처치 구명 4단계가 아닌 것은?",
+		"choices": ["지혈", "기도유지", "보온유지", "운반준비"],
+		"answer": "운반준비",
+		"image": ""
+	},
+	{
+		"id": 42,
+		"english": "Which of the following is incorrect in the safety color code?",
+		"question": "안전색상 표시법으로 잘못된 것은?",
+		"choices": ["적색-긴급정지누름단추, 소방시설", "황색-압축기 공기파이프, 최소한의 안전표시", "황색과 흑색줄무늬-위험물, 장애물표시", "녹색과 백색줄무늬-방사선 장비구역표시"],
+		"answer": "황색-압축기 공기파이프, 최소한의 안전표시",
+		"image": ""
+	},
+	{
+		"id": 43,
+		"english": "Which of the following is incorrect as a safety rule for drilling work?",
+		"question": "드릴작업 안전수칙으로 옳지 않은 것은?",
+		"choices": ["시동 후에 드릴이 올바르게 고정되어 있는지 확인한다.", "장갑을 끼고 작업하지 않는다.", "드릴 회전 중에는 칩을 입으로 불지 않는다.", "전기드릴을 사용 할 때는 반드시 접지하도록 한다."],
+		"answer": "시동 후에 드릴이 올바르게 고정되어 있는지 확인한다.",
+		"image": ""
+	},
+	{
+		"id": 44,
+		"english": "Which of the following is a correct safety rule for grinding machine operations?",
+		"question": "연삭기 작업 안전수칙으로 올바른 것은?",
+		"choices": ["연삭숫돌 교체시 시운전은 불필요한 동작이다.", "연삭숫돌에 미세한 균열이 있어도 작업에는 지장이 없다.", "연삭숫돌 정면에서 150도 정도 옆으로 비켜서서 작업한다.", "가공물은 연삭숫돌에 급격하게 접촉시킨다."],
+		"answer": "연삭숫돌 정면에서 150도 정도 옆으로 비켜서서 작업한다.",
+		"image": ""
+	},
+	{
+		"id": 45,
+		"english": "Which of the following is incorrect as a welding work safety rule?",
+		"question": "용접작업 안전수칙으로 옳지 않은 것은?",
+		"choices": ["용접기 주변에 물을 뿌려서 먼지가 나지 않도록 한다.", "용접기 어스선의 접속상태를 확인한다.", "용접작업 중단시 전원을 차단시킨다.", "탱크 등 좁은 공간에서 용접작업시 물체에 기대지 않도록 주의한다."],
+		"answer": "용접기 주변에 물을 뿌려서 먼지가 나지 않도록 한다.",
+		"image": ""
+	},
+	{
+		"id": 46,
+		"english": "Which of the following is incorrect as a safety rule for chemical equipment dismantling?",
+		"question": "화학설비 해체작업시 안전수칙으로 틀린 것은?",
+		"choices": ["화학설비 부속품을 세정할 때는 휘발성 세정액이 묻은 걸레를 사용하여야 한다.", "화학설비 해체시 고압에 의한 유해물질의 분출이 없도록 내부 압력을 제거한다.", "화학설비 해체시 유해물질 비산에 대비하여 안전보호구를 반드시 착용한다.", "잔류물이 다른 물질과 반응하지 않는 가스 또는 액체로 치환해 두어야 한다."],
+		"answer": "화학설비 부속품을 세정할 때는 휘발성 세정액이 묻은 걸레를 사용하여야 한다.",
+		"image": ""
+	},
+	{
+		"id": 47,
+		"english": "Which of the following tasks does not require a work permit under safety rules for dangerous places?",
+		"question": "위험장소 작업안전 수칙상 작업허가서가 필요하지 않는 작업은?",
+		"choices": ["유해위험물질 취급작업", "중량물이동 작업", "고소작업", "도금작업"],
+		"answer": "도금작업",
+		"image": ""
+	},
+	{
+		"id": 48,
+		"english": "Which of the following statements about types of industrial waste is incorrect?",
+		"question": "산업폐기물 종류에 대한 설명으로 올바르지 않은 것은?",
+		"choices": ["폐기물에는 산업폐기물, 일반폐기물 및 방사성폐기물이 있으며, 산업폐기물은 19종으로 분류한다.", "펄프제조업, 제지업, 종이 가공품 제조업에서 발생되는 산업폐기물을 종이쓰레기라고 한다.", "의류, 기타 섬유제품 제조업에서 발생되는 산업폐기물을 섬유쓰레기라고 한다.", "가축의 분뇨와 사체는 산업폐기물의 종류로 분류하지 않는다."],
+		"answer": "가축의 분뇨와 사체는 산업폐기물의 종류로 분류하지 않는다.",
+		"image": ""
+	},
+	{
+		"id": 49,
+		"english": "The sludge-like industrial waste generated from various manufacturing processes is called sludge. What is the most appropriate moisture content for its treatment?",
+		"question": "각종 제조업의 제조공정에서 발생하는 진흙 모양의 산업폐기물을 오니라고 하는데, 이의 처리 시 가장 적당한 함수율은 몇%입니까?",
+		"choices": ["90%이하", "85%이하", "80%이하", "75%이하"],
+		"answer": "80%이하",
+		"image": ""
+	},
+	{
+		"id": 50,
+		"english": "Which of the following is incorrect as an industrial waste disposal standard?",
+		"question": "산업폐기물 처리기준으로 옳지 않은 것은?",
+		"choices": ["폐산, 폐알칼리-매립 처분", "유기성오니-소각 처분", "고무쓰레기-용융가공 또는 소각처분", "폐플라스틱류-용융가공 또는 소각처분"],
+		"answer": "폐산, 폐알칼리-매립 처분",
+		"image": ""
+	},
+	{
+		"id": 51,
+		"english": "What is the purpose of improving the strength and permeability of a mold and preventing defects caused by moisture?",
+		"question": "주형의 강도와 통기도 및 습기에 의한 결함 방지를 목적으로 하는 것은?",
+		"choices": ["건조", "냉각", "체질", "혼련"],
+		"answer": "건조",
+		"image": ""
+	},
+	{
+		"id": 52,
+		"english": "Which of the following is not a surface drying method for molds?",
+		"question": "주형의 표면 건조 방법에 속하지 않는 것은?",
+		"choices": ["연소 도형제법", "화염 건조법", "적외선 건조법", "건조로 건조법"],
+		"answer": "연소 도형제법",
+		"image": ""
+	},
+	{
+		"id": 53,
+		"english": "Where is the molten metal poured into from the outside of the mold?",
+		"question": "주형의 외부로부터 용탕을 주입하는 곳은?",
+		"choices": ["주입컵(Pouring Cup)", "탕구(Sprue)", "탕도(Runner)", "주입구(Gate)"],
+		"answer": "주입컵(Pouring Cup)",
+		"image": ""
+	},
+	{
+		"id": 54,
+		"english": "Where does the molten metal enter the mold from the runner?",
+		"question": "탕도에서 용탕이 주형에 들어가는 곳은?",
+		"choices": ["탕구(Sprue)", "주입컵(Pouring Cup)", "주입구(Gate)", "탕도(Runner)"],
+		"answer": "주입구(Gate)",
+		"image": ""
+	},
+	{
+		"id": 55,
+		"english": "What is the direct gate to the part of the mold that becomes the product?",
+		"question": "주형의 제품으로 되는 부분에 직접 주입구를 만드는 것은?",
+		"choices": ["휠 주입구(Wheel gate)", "직접 주입구(Direct gate)", "샤워 주입구(Shower gate)", "나이프 주입구(knife gate)"],
+		"answer": "직접 주입구(Direct gate)",
+		"image": ""
+	},
+	{
+		"id": 56,
+		"english": "What is the ratio of sprue to runner to gate area if the sprue is 25㎠, the runner is 50㎠, and the gate is 50㎠?",
+		"question": "탕구비라 함은 탕구, 탕도, 주입구의 단면적의 비를 말하는데 탕구가 25㎠, 탕도단면적이 50㎠, 주입구가 50㎠ 일 때 탕구비는 얼마인가?",
+		"choices": ["1 : 1 : 1", "2 : 2 : 2", "1 : 2 : 2", "2 : 2 : 1"],
+		"answer": "1 : 2 : 2",
+		"image": ""
+	},
+	{
+		"id": 57,
+		"english": "What is the molding method called where a rotating plate with the same cross-sectional shape as the radius of the casting is rotated around a central axis to create the mold?",
+		"question": "주물의 반지름의 단면과 같은 형상으로 된 회전판을 일정한 중심축 주위에 회전시켜 주형을 만드는 조형법은?",
+		"choices": ["현형(Solid Pattern)", "회전형(Sweep Pattern)", "골격형(Skeleton Pattern)", "부분형(Section Pattern)"],
+		"answer": "회전형(Sweep Pattern)",
+		"image": ""
+	},
+	{
+		"id": 58,
+		"english": "What is the special pattern called that is used to create large and medium-sized castings by molding the upper and lower parts separately on a single side of two plates, unlike match plates?",
+		"question": "두 개의 플레이트의 한쪽에만 맞붙여서 상·하 주형을 각개의 조형기로 조형하는 것으로 매치플레이트의 경우보다 큰 대형, 중형을 제작하는 특수원형은?",
+		"choices": ["마스터 패턴(Master Pattern)", "매치플레이트(Match plate)", "패턴플레이트(Pattern Plate)", "부분형(Section Pattern)"],
+		"answer": "패턴플레이트(Pattern Plate)",
+		"image": ""
+	},
+	{
+		"id": 59,
+		"english": "What is the molding method called where molding sand is spread horizontally on the ground, compacted with a rammer, and then a pattern is pressed vertically into it?",
+		"question": "바닥에 주물사를 깔고 수평으로 만든 다음 다짐봉으로 다져서 여기에 원형을 수직으로 눌러서 만드는 조형법은?",
+		"choices": ["개방 주형법(Open sand moulding)", "주형 상자 주형법(Flask moulding)", "토간 주형법(Bed in moulding)", "표면 건조형법(Roast sand moulding)"],
+		"answer": "토간 주형법(Bed in moulding)",
+		"image": ""
+	},
+	{
+		"id": 60,
+		"english": "Which of the following is incorrect as a property that a coating agent should have?",
+		"question": "도형제가 구비해야 할 성질 중 틀린 것은?",
+		"choices": ["도포성이 양호할 것", "침투성이 양호할 것", "소착현상이 양호할 것", "열전도성이 낮을 것"],
+		"answer": "소착현상이 양호할 것",
+		"image": ""
+	},
+	{
+		"id": 61,
+		"english": "Which casting method is characterized by lower voltage compared to melting in the atmosphere and lower partial pressure of gas in contact with the molten metal?",
+		"question": "대기 중에서 용해하는 것에 비하여 전압이 낮고 용탕에 접하는 가스의 분압이 낮은 것이 특징인 주조법은?",
+		"choices": ["마그네틱 주조법", "자경성 주조법", "진공 주조법", "CO₂ 주조법"],
+		"answer": "진공 주조법",
+		"image": ""
+	},
+	{
+		"id": 62,
+		"english": "Which casting method involves injecting air or inert gas at a pressure of about 0.2 to 1.0 kg/㎠ onto the molten metal maintained in a crucible, pushing the molten metal upward against gravity through a riser tube into a mold placed at the top of the riser tube?",
+		"question": "도가니 중에 가열 유지된 용탕 위에 공기 또는 불활성 가스를 0.2 ~ 1.0 kg/㎠ 정도의 압력으로 압입시켜 도가니 안에 장치된 급탕관을 통하여 용탕을 중력과 반대 방향으로 밀어 올려서 급탕관 상단에 설치된 주형에 주입하는 주조법은?",
+		"choices": ["진공 주조법", "저압 주조법", "고압응고 주조법", "원심 주조법"],
+		"answer": "저압 주조법",
+		"image": ""
+	},
+	{
+		"id": 63,
+		"english": "Which casting method involves applying mechanical high pressure to the metal injected into the mold from the molten or semi-molten state until solidification is complete to form the product?",
+		"question": "주형 내에 주입된 금속에 용융 또는 반 용융 상태로부터 응고가 완료될 때까지 기계적인 고압력을 가하면서 제품을 성형하는 주조방법은?",
+		"choices": ["고압 응고 주조법", "저압 응고 주조법", "원심 주조법", "정밀 주조법"],
+		"answer": "고압 응고 주조법",
+		"image": ""
+	},
+	{
+		"id": 64,
+		"english": "Which casting method uses centrifugal force by rotating the mold to cast high-quality castings inexpensively?",
+		"question": "주형을 회전시켜 주입된 용탕에 원심력을 이용하여 품질이 좋은 주물을 값싸게 주조하는 주조법은?",
+		"choices": ["금형 주조법", "정밀 주조법", "CO₂ 주조법", "원심 주조법"],
+		"answer": "원심 주조법",
+		"image": ""
+	},
+	{
+		"id": 65,
+		"english": "Which casting method involves rotating a symmetrical axis like gears, wheels, or pulleys around an axis of rotation and injecting molten metal into a sprue located at the center of the axis to create castings?",
+		"question": "원판상의 기어, 차륜, 풀리 등의 대칭축을 회전축으로 하여 축의 둘레로 주형을 회전시키면서 회전축 중상의 탕구에 용탕을 주입시켜 주조품을 만드는 주조법은?",
+		"choices": ["진원심주조(True centrifugal casting)", "반원심주조(Semi centrifugal casting)", "원심가압주조(Centrifuged casting)", "인베스트먼트주조(Investment casting process)"],
+		"answer": "반원심주조(Semi centrifugal casting)",
+		"image": ""
+	},
+	{
+		"id": 66,
+		"english": "Which casting method involves pouring molten alloys into a metal mold to create products?",
+		"question": "금속으로 만든 주형에 각종 합금의 용탕을 주입하여 제품을 만드는 주조법은?",
+		"choices": ["마그네틱 주조법", "시멘트계 주조법", "원심주조법", "금형주조법"],
+		"answer": "금형주조법",
+		"image": ""
+	},
+	{
+		"id": 67,
+		"english": "Which casting method involves continuously working on billets directly from molten metal and rolling simultaneously?",
+		"question": "용융 금속에서 직접 압연과 동시에 빌릿(billet)을 연속적으로 작업하는 주조법은?",
+		"choices": ["진공 주조법", "연속 주조법", "CO₂주조법", "석고 주조법"],
+		"answer": "연속 주조법",
+		"image": ""
+	},
+	{
+		"id": 68,
+		"english": "Which method involves heating a mixture of dried silica sand and resin binder of about 100-200 mesh at 200-300℃ to harden it into a thin shell-like mold?",
+		"question": "건조 규사와 100 ~ 200 메시(mesh) 정도의 수지 점결제를 배합한 합성사를 200 ~ 300℃로 가열 경화시켜 얇은 조개 껍질상의 주형을 만드는 방법은?",
+		"choices": ["셸몰드 주조법(Shell mould process)", "다이캐스팅 주조법(Die casting machine)", "인베스트먼트 주조법(Investment casting process)", "풀몰드법(Full mould process)"],
+		"answer": "셸몰드 주조법(Shell mould process)",
+		"image": ""
+	},
+	{
+		"id": 69,
+		"english": "What material is used for the pattern in the investment casting process?",
+		"question": "인베스트먼트 주조법에서 사용되는 원형의 재료는?",
+		"choices": ["금속", "왁스", "모래", "산화철"],
+		"answer": "왁스",
+		"image": ""
+	},
+	{
+		"id": 70,
+		"english": "Which casting method uses expendable patterns made of expandable polystyrene?",
+		"question": "소모성 원형인 발포성 폴리스티렌 원형을 사용하는 주조 방법은?",
+		"choices": ["쇼 프로세스", "석고 주형법", "풀몰드법", "칠주물 주조법"],
+		"answer": "풀몰드법",
+		"image": ""
+	},
+	{
+		"id": 71,
+		"english": "Which melting furnace uses coke as a heat source?",
+		"question": "코크스(coke)를 열원으로 하는 용해로는?",
+		"choices": ["반사로", "아크로", "유도로", "큐폴라"],
+		"answer": "큐폴라",
+		"image": ""
+	},
+	{
+		"id": 72,
+		"english": "Which melting furnace is primarily used for melting non-ferrous metals?",
+		"question": "주로 비철 금속 용해에 사용되는 용해로는?",
+		"choices": ["도가니로", "전기로", "반사로", "용광로"],
+		"answer": "도가니로",
+		"image": ""
+	},
+	{
+		"id": 73,
+		"english": "Which melting furnace is classified by the weight (kg) of copper that can be melted at one time?",
+		"question": "용해로에서 1회에 용해할 수 있는 구리의 중량(kg)으로 규격을 표시하는 용해로는?",
+		"choices": ["도가니로", "용선로", "용광로", "전기로"],
+		"answer": "도가니로",
+		"image": ""
+	},
+	{
+		"id": 74,
+		"english": "Which furnace uses electricity as a heat source to melt metals?",
+		"question": "전기를 열원으로 하여 금속을 용해하는 로는?",
+		"choices": ["용광로", "도가니로", "전기로", "용선로"],
+		"answer": "전기로",
+		"image": ""
+	},
+	{
+		"id": 75,
+		"english": "Which high-temperature thermometer is portable and measures temperature indirectly by measuring brightness?",
+		"question": "휴대할 수 있도록 만들어져 있으며 광도를 측정하여 간접적으로 온도를 측정할 수 있는 고온계는?",
+		"choices": ["광 고온계", "열전쌍 고온계", "복사 고온계", "풍압계"],
+		"answer": "광 고온계",
+		"image": ""
+	},
+	{
+		"id": 76,
+		"english": "Which device is used to pour molten metal into molds as a pouring instrument?",
+		"question": "주입용 기구로써 용융 금속을 주형에 주입하는 기구는?",
+		"choices": ["레이들", "중추", "송풍기", "고온계"],
+		"answer": "레이들",
+		"image": ""
+	},
+	{
+		"id": 77,
+		"english": "What is the method of improving the quality of cast iron by adding Si, Fe-Si, Ca-Si, etc., before pouring the molten metal into the mold?",
+		"question": "용탕을 주형에 주입하기 전에 Si, Fe-Si, Ca-Si 등을 첨가하여 주철의 재질을 개선하는 방법은?",
+		"choices": ["탈황", "접종", "탈산", "탈가스"],
+		"answer": "접종",
+		"image": ""
+	},
+	{
+		"id": 78,
+		"english": "What temperature (℃) is required to fully exert the effect of inoculation in molten metal?",
+		"question": "용탕에서 접종의 효과를 충분히 발휘하기 위한 온도는 몇 ℃ 인가?",
+		"choices": ["600℃ 이상", "800℃ 이상", "1000℃ 이상", "1400℃ 이상"],
+		"answer": "1400℃ 이상",
+		"image": ""
+	},
+	{
+		"id": 79,
+		"english": "Which of the following is not a method for cleaning the surface of castings?",
+		"question": "주물 표면의 청정 방법이 아닌 것은?",
+		"choices": ["펀치아웃머신(Punchout machine)", "쇼트 블라스트(Shot blast)", "샌드 블라스트(Sand blast)", "하이드로 블라스트(Hydro blast)"],
+		"answer": "펀치아웃머신(Punchout machine)",
+		"image": ""
+	},
+	{
+		"id": 80,
+		"english": "Which repair method involves filling defects in the surface of castings that are not machined, using various fillers or pastes, and hardening the special material in the defect area to remain in the casting?",
+		"question": "기계 가공을 하지 않는 주물 표면에 나타나는 많은 주물 결함은 각종 충전재나 페이스트로 보수할 수 있고, 결함 장소에 경화되어 주물 내에 남을 수 있는 특수 소재를 메꾸어 넣는 방법의 보수법은?",
+		"choices": ["용접에 의한 보수", "충전재에 의한 보수", "침투법에 의한 보수", "메탈라이징에 의한 보수"],
+		"answer": "충전재에 의한 보수",
+		"image": ""
+	},
+	{
+		"id": 81,
+		"english": "What is the defect called when the molten metal injected into the mold starts to cool and solidify from the outer wall of the mold, gradually progressing inward or upward, and due to shrinkage during solidification, a cavity forms at the final solidification point?",
+		"question": "주형에 주입된 용탕은 주형 외벽으로부터 냉각, 응고되기 시작하여 점차 내부 또는 상부로 응고가 진행된다. 응고될 때 수축에 의해서 용탕이 부족해지고 최종 응고 부위에 공동(空洞)이 생기는 주물의 결함은?",
+		"choices": ["균열(Crack)", "개재물(Inclusion)", "미세공(Pinhole)", "수축공(Shrinkage cavity)"],
+		"answer": "수축공(Shrinkage cavity)",
+		"image": ""
+	},
+	{
+		"id": 82,
+		"english": "What is the defect called when the boundary surface of the molten metal does not completely melt when the molten metal joins in the mold, resulting in an incomplete shape?",
+		"question": "주형 내에 용탕이 합류될 때 그 경계면이 완전히 용융되지 않아 형태가 생기는 주물의 결함은?",
+		"choices": ["소착(Sand burning)", "파임(Scab)", "용탕경계(Cold shut)", "열간균열(Hot tear crack)"],
+		"answer": "용탕경계(Cold shut)",
+		"image": ""
+	},
+	{
+		"id": 83,
+		"english": "What is the defect called when the mold sand adheres to the casting surface due to the reaction between the mold and the molten metal, causing a rough surface, particularly when the mold sand has low refractoriness or the mold density is low?",
+		"question": "주형과 용탕 간의 반응에 의해 주물사가 주물 표면에 융착되어 표면이 거칠어지는 현상으로 주물사의 내화도가 낮거나 주형의 밀도가 낮을 경우에 발생하는 주물의 결함은?",
+		"choices": ["기공(Blow hole)", "파임(Scab)", "꾸김(Buckle)", "소착(Sand burning)"],
+		"answer": "소착(Sand burning)",
+		"image": ""
+	},
+	{
+		"id": 84,
+		"english": "Which of the following is an incorrect countermeasure to prevent misrun, where the molten metal fails to completely fill the mold and solidifies?",
+		"question": "용탕이 주형을 완전히 채우지 못하고 응고된 주탕불량(misrun)의 방지대책 중 틀린 것은?",
+		"choices": ["탕구방안을 개선한다.", "주입온도를 낮춘다.", "주입속도를 빠르게 한다.", "충분한 압탕을 준다."],
+		"answer": "주입온도를 낮춘다.",
+		"image": ""
+	},
+	{
+		"id": 85,
+		"english": "Which of the following is an incorrect countermeasure to prevent hot tear cracks, which occur when solidification shrinkage is restrained at high temperatures during casting solidification?",
+		"question": "주물이 응고될 때 고온에서 응고 수축이 저지되어 발생되는 열간균열(Hot tear crack)의 방지대책 중 틀린 것은?",
+		"choices": ["합금의 함량을 조절한다.", "주형은 열팽창계수가 높도록 한다.", "주물 두께의 급격한 변화가 없도록 주형을 설계한다.", "최종 응고 부위에 냉금(Chill metal)을 부착시켜 응력 발생을 방지한다."],
+		"answer": "주형은 열팽창계수가 높도록 한다.",
+		"image": ""
+	},
+	{
+		"id": 86,
+		"english": "Which of the following is not part of an external inspection of castings?",
+		"question": "주물의 검사 중에서 외형 검사에 속하지 않는 것은?",
+		"choices": ["표면의 거칠기 검사", "부분적 변형 검사", "합형의 틀림 검사", "길이 검사"],
+		"answer": "길이 검사",
+		"image": ""
+	},
+	{
+		"id": 87,
+		"english": "Which of the following is not part of dimensional inspection of castings?",
+		"question": "주물의 검사에서 치수 검사에 속하지 않는 것은?",
+		"choices": ["두께 검사", "길이 검사", "기울기 검사", "화학 성분 검사"],
+		"answer": "화학 성분 검사",
+		"image": ""
+	},
+	{
+		"id": 88,
+		"english": "Which of the following is not part of the internal defect inspection of castings?",
+		"question": "주물의 내부 결함 검사에 속하지 않는 것은?",
+		"choices": ["자기 탐상 검사", "초음파 탐상 검사", "기울기 검사", "방사선 투과 검사"],
+		"answer": "기울기 검사",
+		"image": ""
+	},
+	{
+		"id": 89,
+		"english": "Which inspection method uses the principle that the transmission state of X-rays or gamma rays through the casting varies depending on the thickness, density, and material of the inspection area to detect defects inside the casting?",
+		"question": "X선이나 γ 선 등의 방사선을 주물에 투과시키면 검사 부위의 두께나 밀도, 재질 등에 따라서 투과 상태가 달라지는 원리를 이용하여 주물 내의 결함 부위를 검사하는 방법은?",
+		"choices": ["초음파 탐상 검사", "방사선 투과 검사", "자기 탐상 검사", "형광 침투 탐상 검사"],
+		"answer": "방사선 투과 검사",
+		"image": ""
+	},
+	{
+		"id": 90,
+		"english": "Which inspection method involves determining the shrinkage rate based on the material and shape of the casting during the pattern making process?",
+		"question": "원형 제작 시 주물의 재질, 모양을 고려하여 수축률을 결정하여 검사를 하는 방법은?",
+		"choices": ["두께 검사", "길이 검사", "기울기 검사", "중량 검사"],
+		"answer": "중량 검사",
+		"image": ""
+	},
+	{
+		"id": 91,
+		"english": "Which material is often used for pattern making because it is easy to process and lightweight?",
+		"question": "원형 제작 시 가공이 쉽고 가벼워서 원형용 재료에 많이 사용되는 것은?",
+		"choices": ["주철", "주강", "석고", "목재"],
+		"answer": "목재",
+		"image": ""
+	},
+	{
+		"id": 92,
+		"english": "Which of the following is incorrect as a reason why wood is often used as a pattern material?",
+		"question": "원형재료로 목재가 많이 사용되는 이유로서 틀린 것은?",
+		"choices": ["금속에 비하여 재료비가 저렴하다.", "합성수지에 비하여 가공비가 저렴하다.", "금속, 석고보다 가볍고 가공성이 좋다.", "대량 생산과 특별한 정밀도를 고려하는 경우에 유리하다."],
+		"answer": "대량 생산과 특별한 정밀도를 고려하는 경우에 유리하다.",
+		"image": ""
+	},
+	{
+		"id": 93,
+		"english": "Which of the following is not part of the classification by structure of patterns?",
+		"question": "원형의 종류 중 구조에 따른 분류에 속하지 않는 것은?",
+		"choices": ["현형(Solid pattern)", "회전형(Sweep pattern)", "풀몰드형(Full mould pattern)", "긁기형(Strickle pattern)"],
+		"answer": "풀몰드형(Full mould pattern)",
+		"image": ""
+	},
+	{
+		"id": 94,
+		"english": "What is the term for making the pattern larger than the actual casting because the molten metal shrinks and the casting becomes smaller than the mold during cooling and solidification?",
+		"question": "용융 금속은 주형 속에서 냉각, 응고 시에 수축이 생겨 주물이 주형보다 작아지는 현상이 생기므로 실제 주물보다 크게 만들어 주는 것은?",
+		"choices": ["가공 여유", "수축 여유", "보정 여유", "빼기 기울기"],
+		"answer": "수축 여유",
+		"image": ""
+	},
+	{
+		"id": 95,
+		"english": "What is the term for adding extra material to the casting surface in the design drawing to allow for future machining?",
+		"question": "설계 도면에서 기계 절삭 가공을 위하여 미리 주물 표면에 그 만큼의 여유를 붙인 것은?",
+		"choices": ["보정 여유", "주물 여유", "가공 여유", "라운딩"],
+		"answer": "가공 여유",
+		"image": ""
+	},
+	{
+		"id": 96,
+		"english": "What is the term for giving a taper in the direction of removing the pattern to prevent mold damage when removing a pattern with a vertical surface, especially when the surface is large and long?",
+		"question": "주형에서 수직인 면을 가진 원형을 빼낼 때 그 면이 클수록, 길이가 길수록 작업이 곤란하여 주형이 파손되기 쉬우므로 원형을 빼내는 방향에 구배를 주는 것은?",
+		"choices": ["라운딩(Rounding)", "가공 여유(Finishing allowance)", "수축 여유(Shrinkage allowance)", "빼기 기울기(Pattern draft)"],
+		"answer": "빼기 기울기(Pattern draft)",
+		"image": ""
+	},
+	{
+		"id": 97,
+		"english": "What is installed in areas where the pattern is thin or easily damaged?",
+		"question": "원형의 두께가 얇거나 파손되기 쉬운 부분에 설치해 주는 것은?",
+		"choices": ["덧붙임", "라운딩", "수축 여유", "주물 여유"],
+		"answer": "덧붙임",
+		"image": ""
+	},
+	{
+		"id": 98,
+		"english": "If a pattern made of wood with a specific gravity of 0.6 weighs 10 kg, what is the weight of the cast iron product with a specific gravity of 7.2?",
+		"question": "비중이 0.6인 목재로 원형을 제작하였더니 무게가 10kg이었다면 비중이 7.2인 주철 제품의 무게는 몇 kg인가?",
+		"choices": ["100 kg", "120 kg", "140 kg", "160 kg"],
+		"answer": "120 kg",
+		"image": ""
+	},
+	{
+		"id": 99,
+		"english": "If the weight of a pattern made of aluminum is 40kg, how much weight of molten cast iron is needed? (Given: Al specific gravity 2.7, cast iron specific gravity 7.8, coefficient 0.3)",
+		"question": "알루미늄으로 만든 원형의 무게가 40kg 일 때 주철 용탕의 무게는 몇 kg 준비하면 되는가? (단, Al 비중 2.7, 주철 비중 7.8, 계수는 0.3)",
+		"choices": ["5 kg", "15 kg", "25 kg", "35 kg"],
+		"answer": "35 kg",
+		"image": ""
+	},
+	{
+		"id": 100,
+		"english": "If a wooden material shrinks from 100㎜ to 70㎜ during drying, what is the shrinkage rate?",
+		"question": "목재의 건조 시 100㎜인 재료가 70㎜로 수축하였다면 수축률은 얼마인가?",
+		"choices": ["10 %", "20 %", "30 %", "40 %"],
+		"answer": "30 %",
+		"image": ""
+	},
+	{
+		"id": 101,
+		"english": "What is the carbon content of carbon steel, the basic material for carburization heat treatment?",
+		"question": "침탄 열처리(Carburization)를 하기 위한 기본 소재인 탄소강(Carbon steel)의 탄소 함유량은?",
+		"choices": ["0.2% C 이하", "0.4% C 이하", "0.6% C 이하", "0.8% C 이하"],
+		"answer": "0.2% C 이하",
+		"image": ""
+	},
+	{
+		"id": 102,
+		"english": "What is the surface hardness (HRC) when carbon steel containing 0.45% carbon is flame hardened?",
+		"question": "탄소가 0.45% 함유된 탄소강(Carbon steel)을 화염담금질(Flame hardening) 하였을 때 표면경도(HRC)는?",
+		"choices": ["HRC 50", "HRC 55", "HRC 60", "HRC 65"],
+		"answer": "HRC 60",
+		"image": ""
+	},
+	{
+		"id": 103,
+		"english": "What is the process called in atmosphere heat-treatment where soot accumulated in a reforming furnace or carburizing furnace is removed by combustion with air?",
+		"question": "분위기열처리(Atmosphere Heat-Treatment)에서 변성로(Reforming furnace)나 참탄로(Carburizing furnace)내에 쌓인 그을음(Sooting)을 공기와 함께 연소시켜 제거하는 작업은?",
+		"choices": ["노점(Dew point)", "화염 커튼(Flame curtain)", "변성(Carrier)", "번 아웃(Burn out)"],
+		"answer": "번 아웃(Burn out)",
+		"image": ""
+	},
+	{
+		"id": 104,
+		"english": "Induction hardening uses the phenomenon where high frequency current flowing between the induction coil and the object to be heated is concentrated on the surface of the coil and the object. What is this effect called?",
+		"question": "고주파 담금질(Induction hardening)은 유도코일(Induction coil)과 가열할 물체 사이를 흐르는 고주파 전류(High frequency current)가 코일과 가열할 물체의 표면부에 집중되는 현상을 이용한 것이다. 이러한 효과는?",
+		"choices": ["전류 효과(Electric current effect)", "근접 효과(Proximity effect)", "표피 효과(Skin effect)", "고주파 효과(High frequency effect)"],
+		"answer": "표피 효과(Skin effect)",
+		"image": ""
+	},
+	{
+		"id": 105,
+		"english": "What heat treatment method is used to transform retained austenite to martensite after quenching carbon steel?",
+		"question": "탄소강(Carbon steel)을 담금질(Quenching)한 후 잔류 오스테나이트(Retained austenite)를 마텐자이트(Martensite)로 변태(Transformation)시키기 위한 열처리 방법은?",
+		"choices": ["오스템퍼링(Austempering)", "심냉처리(Sub-zero treatment)", "질화처리(Nitriding)", "침탄처리(Carburizing)"],
+		"answer": "심냉처리(Sub-zero treatment)",
+		"image": ""
+	},
+	{
+		"id": 106,
+		"english": "Which of the following is not one of the three stages of cooling in the quenching heat treatment of steel?",
+		"question": "강을 담금질(Quenching) 열처리할 때 냉각의 3단계에 해당하지 않는 것은?",
+		"choices": ["비산(Splash) 단계", "증기막(Vapour barrier) 단계", "비등(Boiling) 단계", "대류(Convection) 단계"],
+		"answer": "비산(Splash) 단계",
+		"image": ""
+	},
+	{
+		"id": 107,
+		"english": "What microstructure forms when carbon steel containing 0.8% carbon is heated above the A1 transformation point and then cooled in water?",
+		"question": "탄소를 0.8% 함유한 탄소강(Carbon steel)을 A1 변태점 이상으로 가열한 후 물에 냉각하면 나타나는 조직은?",
+		"choices": ["트루스타이트(Troostite)", "마텐자이트(Martensite)", "소르바이트(Sorbite)", "펄라이트(Pearlite)"],
+		"answer": "마텐자이트(Martensite)",
+		"image": ""
+	},
+	{
+		"id": 108,
+		"english": "When Cr carbides precipitate at the grain boundaries during heat treatment of Ni-Cr steel (SNC steel), a structural alloy steel, the hardness decreases. What heat treatment method can prevent this?",
+		"question": "구조용합금강(Structural alloy steel)인 SNC강(Ni-Cr강)을 열처리할 때 Cr 탄화물이 결정입계(Grain boundary)에 석출(Precipitation)하면 경도가 떨어지는 현상이 일어나는데 이것을 방지하는 열처리 방법은?",
+		"choices": ["830~880℃에서 유냉(Oil quenching)한다.", "650~700℃에서 풀림(Annealing)한다.", "550~650℃에서 뜨임(Tempering)한다.", "250~350℃에서 항온담금질(Isothermal quenching)한다."],
+		"answer": "550~650℃에서 뜨임(Tempering)한다.",
+		"image": ""
+	},
+	{
+		"id": 109,
+		"english": "Which of the following statements about the heat treatment of maraging steel is incorrect?",
+		"question": "마레이징강(Maraging steel)의 열처리에 대한 설명 중 잘못된 것은?",
+		"choices": ["마레이징강은 재가열하여도 뜨임(Tempering) 반응이 일어나지 않는다.", "마레이징강은 용체화처리(Solution heat treatment)나 시효(Aging)에 의해 강화시킨다.", "마레이징강의 기본적인 열처리는 850℃에서 1시간 용체화처리한 후 공냉 또는 수냉한다.", "마레이징강은 담금질은 잘 되지만 뜨임이 되지 않는다."],
+		"answer": "마레이징강은 담금질은 잘 되지만 뜨임이 되지 않는다.",
+		"image": ""
+	},
+	{
+		"id": 110,
+		"english": "In the heat treatment of carbon tool steel, spheroidizing annealing is used to spheroidize which microstructure to increase toughness?",
+		"question": "탄소공구강(Carbon tool steel)의 열처리에서 구상화풀림(Spheroidizing annealing)은 어떤 조직을 구상화시켜 강인성을 증가시키기 위한 것인가?",
+		"choices": ["Cementite", "Pearlite", "Austenite", "Ferrite"],
+		"answer": "Cementite",
+		"image": ""
+	},
+	{
+		"id": 111,
+		"english": "When high speed steel is tempered at 540-580℃, hardness increases. What is this phenomenon called?",
+		"question": "고속도공구강(High speed steel)을 540~580℃로 뜨임처리(Tempering)를 하면 경도가 증가하는 현상이 발생하는데 이 현상은?",
+		"choices": ["자경성 효과(Self hardening effect)", "제2차 경화 효과(Secondary hardening effect)", "질량 효과(Mass effect)", "열간 효과(Hot effect)"],
+		"answer": "제2차 경화 효과(Secondary hardening effect)",
+		"image": ""
+	},
+	{
+		"id": 112,
+		"english": "Ductile cast iron may develop cracks due to the white cast iron effect by Mg, so it needs to be annealed. What is the annealing temperature for this process?",
+		"question": "구상흑연주철(Ductile cast iron)은 Mg에 의한 백선화(White cast iron) 작용에 의해 균열(Crack)이 발생할 수 있으므로 풀림처리(Annealing)를 해야 한다. 이때 풀림처리 온도는?",
+		"choices": ["850~870℃", "740~750℃", "520~550℃", "250~500℃"],
+		"answer": "850~870℃",
+		"image": ""
+	},
+	{
+		"id": 113,
+		"english": "Aluminum alloys in the Al-Cu series achieve maximum hardness when solution heat treated, water quenched, and held at 150-180℃ for 5-10 hours. What is this heat treatment called?",
+		"question": "Al-Cu계열의 알루미늄 합금은 용체화처리(Solution heat treatment) 후 수냉하여 150~180℃에서 5~10시간 유지하면 최대 경도를 얻을 수 있는데 이 열처리는?",
+		"choices": ["뜨임(Tempering)", "풀림(Annealing)", "불림(Normalizing)", "시효(Aging)"],
+		"answer": "시효(Aging)",
+		"image": ""
+	},
+	{
+		"id": 114,
+		"english": "Cu-Be alloy (beryllium bronze) is hardened by quenching and tempering. What is the tempering temperature?",
+		"question": "Cu-Be 합금(베릴륨 청동 : Beryllium bronze)을 경화(Hardening)시키기 위해 담금질(Quenching)하고 뜨임처리(Tempering)를 하는데 뜨임처리 온도는?",
+		"choices": ["310~330℃", "460~520℃", "580~600℃", "760~780℃"],
+		"answer": "310~330℃",
+		"image": ""
+	},
+	{
+		"id": 115,
+		"english": "Which of the following is incorrect as a measure to prevent explosions caused by atmosphere gas in an atmosphere heat-treatment furnace?",
+		"question": "분위기 열처리로(Atmosphere Heat-Treatment Furnace)에서 노기 가스(Atmosphere gas)에 의한 폭발을 예방하기 위한 것으로 틀린 것은?",
+		"choices": ["노기 가스가 중단되었을 때는 즉시 가스 밸브를 닫는다.", "노가 고장났을 경우 즉시 산소를 공급하여 산화시킨다.", "노가 고장났을 경우 안전범위 내에서 분위기 가스를 번아웃(Burn out)한다.", "노기 가스의 압력에 이상이 있을 경우 즉시 가스 밸브를 닫는다."],
+		"answer": "노가 고장났을 경우 즉시 산소를 공급하여 산화시킨다.",
+		"image": ""
+	},
+	{
+		"id": 116,
+		"english": "Which of the following is not an advantage of copper cyanide plating?",
+		"question": "시안화구리(Copper Cyanide) 도금(Plating)의 장점이 아닌 것은?",
+		"choices": ["철강 재료에 직접 도금을 할 수 있다.", "도금 상태는 황산구리(Cupric sulfate)보다 양호하다.", "석출(precipitation)되는 구리의 결정이 매우 작다.", "시안을 함유하기 때문에 독성이 크다."],
+		"answer": "시안을 함유하기 때문에 독성이 크다.",
+		"image": ""
+	},
+	{
+		"id": 117,
+		"english": "What is the composition of cupric sulfate used in cupric sulfate plating?",
+		"question": "황산구리(Cupric sulfate) 도금(Plating)에 사용하는 황산구리의 조성은?",
+		"choices": ["60~80 g/ℓ", "40~100 g/ℓ", "150~250 g/ℓ", "250~350 g/ℓ"],
+		"answer": "150~250 g/ℓ",
+		"image": ""
+	},
+	{
+		"id": 118,
+		"english": "Which of the following is not a component of the plating solution in gloss nickel plating?",
+		"question": "광택 니켈 도금(Gloss nickel plating)에서 도금 용액의 성분이 아닌 것은?",
+		"choices": ["황산니켈(Nickel sulfate)", "염화암모늄(Ammonium Chloride)", "염화니켈(Nickel chloride)", "붕산(Boric acid)"],
+		"answer": "염화암모늄(Ammonium Chloride)",
+		"image": ""
+	},
+	{
+		"id": 119,
+		"english": "What is the effect on plating if aluminum impurities are present in the nickel plating solution?",
+		"question": "니켈 도금(Nickel plating)에서 도금 용액 중에 알루미늄 불순물이 함유되어 있을 경우 도금에 미치는 영향은?",
+		"choices": ["거친 도금이 된다.", "피복력이 불량하고 음극 효율이 저하한다.", "피복력이 불량하고 구름이 낀다.", "구름이 끼고 전류밀도가 높은 곳이 탄다."],
+		"answer": "피복력이 불량하고 음극 효율이 저하한다.",
+		"image": ""
+	},
+	{
+		"id": 120,
+		"english": "In chromium plating, if the theoretical deposition rate of chromium is 0.323g per 1Ah and the current efficiency is 15%, what is the actual deposition rate?",
+		"question": "크롬 도금(Chromium plating)에서 크롬의 이론 석출량이 1Ah에서 0.323g이며, 전류효율이 15%이었다면 실제 석출량은?",
+		"choices": ["0.0485g", "0.485g", "4.85g", "48.5g"],
+		"answer": "0.0485g",
+		"image": ""
+	},
+	{
+		"id": 121,
+		"english": "What acts as a catalyst in chromium plating?",
+		"question": "크롬 도금(Chromium plating)에서 촉매 작용(Catalysis)을 하는 것은?",
+		"choices": ["무수크롬산(Chromic acid)", "3가 크롬(trivalent chromium)", "황산(Sulfuric acid)", "질산(Nitric acid)"],
+		"answer": "황산(Sulfuric acid)",
+		"image": ""
+	},
+	{
+		"id": 122,
+		"english": "Which of the following is not an advantage of using an acidic plating solution in gold plating?",
+		"question": "금도금(Gold plating)에서 산성 도금 용액을 사용하였을 경우 장점이 아닌 것은?",
+		"choices": ["전착물(Electrodeposit)이 치밀하다.", "음극 분극이 크고 균일 전착성(Equal Electroless)이 좋다.", "핀홀(Pin hole)이 거의 없다.", "내식성(corrosion resistance)이 좋은 평활한 도금(smooth plating)이 얻어진다."],
+		"answer": "음극 분극이 크고 균일 전착성(Equal Electroless)이 좋다.",
+		"image": ""
+	},
+	{
+		"id": 123,
+		"english": "What is the method of zinc plating where zinc dust is heated in contact with iron to penetrate the zinc?",
+		"question": "아연 도금(Zinc plating)의 방식 중에서 아연분말(Zinc dust)과 철을 접촉 가열시켜서 아연을 침투(Penetration)시키는 방법은?",
+		"choices": ["용융도금법(Hot plating)", "전기도금법(Electroplating)", "세라다이징(Sheradizing)", "크로마이징(Chromizing)"],
+		"answer": "세라다이징(Sheradizing)",
+		"image": ""
+	},
+	{
+		"id": 124,
+		"english": "What is the optimal rotation speed for a barrel in barrel plating to achieve the best uniform electroless deposition?",
+		"question": "베럴 도금(Barrel plating)에서 균일 전착성(Equal Electroless)이 가장 좋은 베럴(Barrel)의 회전수는?",
+		"choices": ["15~20 rpm", "12~15 rpm", "10~12 rpm", "6~8 rpm"],
+		"answer": "6~8 rpm",
+		"image": ""
+	},
+	{
+		"id": 125,
+		"english": "Which of the following is incorrect as a first aid measure when an accident occurs due to plating chemicals?",
+		"question": "도금(Plating) 약품에 의한 사고가 발생하였을 때 응급처치(First aid)로 틀린 것은?",
+		"choices": ["즉시 119에 신고를 한다.", "도금액이 옷에 묻었을 경우 옷을 즉시 벗는다.", "황산구리가 피부에 묻었을 때 물로 충분히 씻는다.", "수산화칼슘이 피부에 묻었을 경우 염산으로 중화시킨다."],
+		"answer": "수산화칼슘이 피부에 묻었을 경우 염산으로 중화시킨다.",
+		"image": ""
+	},
+	{
+		"id": 126,
+		"english": "What is the method called where metals or non-metals are partially heated and joined in a molten or semi-molten state?",
+		"question": "금속이나 비금속 등을 부분 가열하여 용융(Melting) 또는 반용융(Semi melting) 상태에서 접합(Joining)하는 방법은?",
+		"choices": ["용접(Welding)", "합금(Alloy)", "프레스(Press)", "주조(Casting)"],
+		"answer": "용접(Welding)",
+		"image": ""
+	},
+	{
+		"id": 127,
+		"english": "Which of the following is not an advantage of welding?",
+		"question": "다음 중 용접(Welding)의 장점이 아닌 것은?",
+		"choices": ["재료가 절약된다.", "결합 효율(Coupling efficiency)이 향상된다.", "기계적 결합(Mechanical coupling)보다 결합력이 우수하다.", "용접부(Weld zone)가 열영향(Heat influence)으로 모재(Base metal)의 재질이 변한다."],
+		"answer": "용접부(Weld zone)가 열영향(Heat influence)으로 모재(Base metal)의 재질이 변한다.",
+		"image": ""
+	},
+	{
+		"id": 128,
+		"english": "What is the method called where the joining parts are heated to an appropriate temperature or subjected to pressure in a cold state to join them?",
+		"question": "접합되는 부분에 적당한 온도로 가열하거나 냉간 상태(Cold state)에서 압력을 주어 접합하는 방법은?",
+		"choices": ["융접(Fusion welding)", "압접(Pressure welding)", "납땜(Soldering)", "주조(Casting)"],
+		"answer": "압접(Pressure welding)",
+		"image": ""
+	},
+	{
+		"id": 129,
+		"english": "What is the welding heat input if the arc current is 100A, arc voltage is 20V, and welding speed is 20cm/min?",
+		"question": "아크 전류(Arc current)가 100A, 아크 전압(Arc voltage)이 20V, 용접속도(Weld speed)가 20cm/min이었을 경우 용접입열(Welding heat)은?",
+		"choices": ["2,000 J/cm", "4,000 J/cm", "6,000 J/cm", "8,000 J/cm"],
+		"answer": "6,000 J/cm",
+		"image": ""
+	},
+	{
+		"id": 130,
+		"english": "Which of the following is not a function of a coated electrode in arc welding?",
+		"question": "피복아크 용접봉(Coated electrode)의 작용이 아닌 것은?",
+		"choices": ["아크(Arc)를 안정하게 한다.", "용융점이 낮은 슬래그(Slag)를 형성한다.", "용접금속의 정련작용(Refining)을 한다.", "용접금속의 산화작용(Oxidation)을 한다."],
+		"answer": "용접금속의 산화작용(Oxidation)을 한다.",
+		"image": ""
+	},
+	{
+		"id": 131,
+		"english": "What is the welding position called where the base metal is placed horizontally and the electrode is pointed downward?",
+		"question": "모재(Base metal)를 수평(Horizontal)으로 놓고 용접봉(Electrode)은 아래로 향하여 용접하는 자세는?",
+		"choices": ["아래보기 자세", "수평 자세", "수직 자세", "위보기 자세"],
+		"answer": "아래보기 자세",
+		"image": ""
+	},
+	{
+		"id": 132,
+		"english": "Which mixture of gases is most commonly used in gas welding?",
+		"question": "가스 용접(Gas welding)에 가장 많이 사용하는 혼합 가스(Mix gas)는?",
+		"choices": ["산소 가스와 질소 가스", "산소 가스와 아세틸렌 가스", "산소 가스와 아르곤 가스", "질소 가스와 LPG 가스"],
+		"answer": "산소 가스와 아세틸렌 가스",
+		"image": ""
+	},
+	{
+		"id": 133,
+		"english": "If oxygen gas used in gas welding is compressed and charged into a 40ℓ container at 35℃ and 200 atmospheres, what is the amount of oxygen in the container?",
+		"question": "가스 용접(Gas welding)에 사용하는 산소 가스를 내용적 40ℓ의 용기에 35℃에서 200기압으로 압축하여 충전하였을 때 용기 속의 산소량은?",
+		"choices": ["2,000", "4,000", "6,000", "8,000"],
+		"answer": "8,000",
+		"image": ""
+	},
+	{
+		"id": 134,
+		"english": "Which of the following is incorrect as a precaution when handling an oxygen cylinder used in gas welding?",
+		"question": "가스 용접(Gas welding)에 사용하는 산소 용기를 취급할 때 주의사항으로 틀린 것은?",
+		"choices": ["산소 용기를 보관할 때는 눕혀서 보관한다.", "산소 용기를 운반할 때 충격을 주지 않아야 한다.", "산소 용기는 화기(불)로부터 멀리 두어야 한다.", "산소 용기는 직사광선을 피하여 그늘진 곳에 놓아야 한다."],
+		"answer": "산소 용기를 보관할 때는 눕혀서 보관한다.",
+		"image": ""
+	},
+	{
+		"id": 135,
+		"english": "Which of the following is not one of the three important factors in spot welding?",
+		"question": "점용접(Spot welding)의 3가지 중요한 요소가 아닌 것은?",
+		"choices": ["용접전류(Welding current)", "가압력(Pressure)", "용접자세(Welding position)", "통전시간(Resistance time)"],
+		"answer": "용접자세(Welding position)",
+		"image": ""
 	}
 ]
