@@ -34,9 +34,17 @@
 	{
 		"korean": "전자, 전기",
 		"english": "food related",
-		"lao": "ເອເລັກໂຕຣນິກ, ໄຟຟ້າ",
+		"lao": "​ກ່ຽວ​ຂ້ອງກັບ​ອາ​ຫານ​",
 		"slug": "food",
 		"db": "food",
+		"icon": "Icons.menu_book_rounded"
+	},
+	{
+		"korean": "전자, 전기",
+		"english": "metal",
+		"lao": "ໂລ​ຫະ",
+		"slug": "metal",
+		"db": "metal",
 		"icon": "Icons.menu_book_rounded"
 	}
 ]
