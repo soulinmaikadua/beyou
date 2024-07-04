@@ -958,5 +958,646 @@
 		"choices": ["드립", "건조", "해동", "염장"],
 		"answer": "드립",
 		"image": ""
+	},
+	{
+		"id": 121,
+		"english": "The rice variety that is 6.0-7.0mm long, has a high amylose content, and originates from India, China, and Thailand is?",
+		"question": "쌀의 길이가 6.0 ~7.0mm 정도이고, 아밀로스 함량이 높으며 인도, 중국, 태국이 원산지인 쌀의 품종은?",
+		"choices": ["장립종", "중립종", "단립종", "마치종"],
+		"answer": "장립종",
+		"image": ""
+	},
+	{
+		"id": 122,
+		"english": "Which of the following is not a cause of quality degradation during the drying process of rice?",
+		"question": "다음 미곡의 건조과정 중 쌀의 품질을 저하시키는 원인이 아닌 것은?",
+		"choices": ["급격한 건조에 의한 동할미 발생", "건조지연으로 인한 고수분 벼의 변질", "과도한 가열에 의한 열손상립 발생", "벼의 알맞은 수분 유지"],
+		"answer": "벼의 알맞은 수분 유지",
+		"image": ""
+	},
+	{
+		"id": 123,
+		"english": "The process of removing the rice bran layer from brown rice to improve digestibility and appearance is?",
+		"question": "현미의 쌀겨층을 제거하여 소화와 빛깔을 좋게 하고 기호에 알맞게 하는 공정은?",
+		"choices": ["도정", "호정", "호화", "노화"],
+		"answer": "도정",
+		"image": ""
+	},
+	{
+		"id": 124,
+		"english": "The oil extracted and refined from the germ in rice bran, which contains a high amount of fat, is?",
+		"question": "쌀겨의 배아에는 다량의 지방이 함유되어 있다. 이를 추출하여 정제한 기름은?",
+		"choices": ["대두유", "옥배유", "미강유", "해바라기유"],
+		"answer": "미강유",
+		"image": ""
+	},
+	{
+		"id": 125,
+		"english": "The correct ratio of brown rice to husk in paddy rice is?",
+		"question": "벼의 현미와 왕겨의 구성비(현미 : 왕겨)로 맞는 것은?",
+		"choices": ["50 : 50", "80 : 20", "70 : 30", "40 : 60"],
+		"answer": "70 : 30",
+		"image": ""
+	},
+	{
+		"id": 126,
+		"english": "The milling rate of 70% polished rice is?",
+		"question": "７분도미의 도감률은?",
+		"choices": ["6%", "5%", "4%", "3%"],
+		"answer": "4%",
+		"image": ""
+	},
+	{
+		"id": 127,
+		"english": "Which of the following is not a cereal processed product?",
+		"question": "다음 중 곡류 가공품이 아닌 것은?",
+		"choices": ["미숫가루", "엿류", "떡류", "햄류"],
+		"answer": "햄류",
+		"image": ""
+	},
+	{
+		"id": 128,
+		"english": "Which type of flour is used for frying, baking, and making biscuits?",
+		"question": "다음 중 튀김, 제과, 비스켓 등의 용도로 쓰이는 밀가루는?",
+		"choices": ["강력분", "중력분", "박력분", "가루분"],
+		"answer": "중력분",
+		"image": ""
+	},
+	{
+		"id": 129,
+		"english": "Which of the following noodle products is made using starch from corn or sweet potatoes?",
+		"question": "다음 중 옥수수, 고구마 등 전분을 이용하여 만드는 면류 가공품은?",
+		"choices": ["국수", "당면", "스파게티면", "라면"],
+		"answer": "당면",
+		"image": ""
+	},
+	{
+		"id": 130,
+		"english": "Which processed product is made by kneading wheat flour and saltwater, forming dough sheets, and deep-frying them to improve preservation?",
+		"question": "다음 중 소맥분과 식염수로 반죽하고 면대를 형성하여 기름에 튀겨 보존성을 향상시킨 가공품은?",
+		"choices": ["라면", "당면", "국수", "냉면"],
+		"answer": "라면",
+		"image": ""
+	},
+	{
+		"id": 131,
+		"english": "Which of the following is not a precaution during the cutting and processing of tubers (potatoes, sweet potatoes)?",
+		"question": "서류(감자, 고구마) 절단 가공과정 중 주의해야 하는 사항이 아닌 것은?",
+		"choices": ["절단 공정 중 작업 안전 사항에 주의한다.", "작업 매뉴얼을 숙지한다.", "작업 전 설비 이상 유무를 점검한다.", "급하게 빨리 작업한다."],
+		"answer": "급하게 빨리 작업한다.",
+		"image": ""
+	},
+	{
+		"id": 132,
+		"english": "What is the oil temperature during the potato chip frying process?",
+		"question": "감자칩 튀김 공정 중 기름의 온도는?",
+		"choices": ["176 ~ 190 ℃", "50 ~ 70 ℃", "90 ~ 100℃", "80 ~ 90℃"],
+		"answer": "176 ~ 190 ℃",
+		"image": ""
+	},
+	{
+		"id": 133,
+		"english": "Which of the following is not a raw material for starch production?",
+		"question": "다음 중 전분이 생산되는 원료가 아닌 것은?",
+		"choices": ["옥수수", "고구마", "감자", "사탕수수"],
+		"answer": "사탕수수",
+		"image": ""
+	},
+	{
+		"id": 134,
+		"english": "Which of the following is a processed soy product?",
+		"question": "다음 중 콩 가공식품인 것은?",
+		"choices": ["국수", "냉면", "두부", "라면"],
+		"answer": "두부",
+		"image": ""
+	},
+	{
+		"id": 135,
+		"english": "Which of the following is not a processed product made from soybeans?",
+		"question": "다음 중 콩을 원료로 한 가공식품이 아닌 것은?",
+		"choices": ["콩기름", "두부", "된장", "물엿"],
+		"answer": "물엿",
+		"image": ""
+	},
+	{
+		"id": 136,
+		"english": "What is the processed food made by frying tofu in oil?",
+		"question": "두부를 기름에 튀겨 가공한 식품은?",
+		"choices": ["연두부", "전두부", "유부", "경두부"],
+		"answer": "유부",
+		"image": ""
+	},
+	{
+		"id": 137,
+		"english": "Which of the following is not a fermented soybean product?",
+		"question": "다음 중 콩을 이용한 제품 중 장류가 아닌 것은?",
+		"choices": ["된장", "청국장", "간장", "어장"],
+		"answer": "어장",
+		"image": ""
+	},
+	{
+		"id": 138,
+		"english": "What is the ingredient used to make traditional soy sauce and soybean paste?",
+		"question": "재래식 간장과 된장을 만들기 위해 사용되는 재료는?",
+		"choices": ["메주", "두부", "두유", "콩가루"],
+		"answer": "메주",
+		"image": ""
+	},
+	{
+		"id": 139,
+		"english": "What should workers follow when manufacturing soybean processed foods?",
+		"question": "두류 가공 식품 제조 시 작업자가 지켜야 할 사항은?",
+		"choices": ["작업모와 마스크를 착용한다.", "귀걸이와 반지를 착용한다.", "평상복을 입은 채로 작업한다.", "손을 씻지 않는다."],
+		"answer": "작업모와 마스크를 착용한다.",
+		"image": ""
+	},
+	{
+		"id": 140,
+		"english": "What is the name of the soy sauce mixed with amino acid soy sauce and brewed soy sauce?",
+		"question": "아미노산 간장과 양조간장을 혼합한 간장은?",
+		"choices": ["재래식 간장", "혼합간장", "양조간장", "무염간장"],
+		"answer": "혼합간장",
+		"image": ""
+	},
+	{
+		"id": 141,
+		"english": "Which of the following is not a traditional Korean food?",
+		"question": "다음 중 한국 전통식품이 아닌 것은?",
+		"choices": ["두부", "간장", "고추장", "콩고기"],
+		"answer": "콩고기",
+		"image": ""
+	},
+	{
+		"id": 142,
+		"english": "Which of the following is not a post-harvest action for fruits?",
+		"question": "다음 중 과실 수확 후 작용이 아닌 것은?",
+		"choices": ["호흡작용", "생장작용", "증산작용", "드립작용"],
+		"answer": "생장작용",
+		"image": ""
+	},
+	{
+		"id": 143,
+		"english": "Which of the following does not belong to the category of shell fruit?",
+		"question": "과실의 분류 중 각과(shell fruit)에 속하지 않는 것은?",
+		"choices": ["호도", "밤", "은행", "밀감"],
+		"answer": "밀감",
+		"image": ""
+	},
+	{
+		"id": 144,
+		"english": "Which of the following is not a root vegetable?",
+		"question": "다음 중 근채류가 아닌 것은?",
+		"choices": ["무", "당근", "우엉", "배추"],
+		"answer": "배추",
+		"image": ""
+	},
+	{
+		"id": 145,
+		"english": "What is the process called where water evaporates through the skin of fresh produce?",
+		"question": "청과물의 표피를 통한 수분증발 작용은?",
+		"choices": ["증산작용", "호흡작용", "추숙작용", "산패작용"],
+		"answer": "증산작용",
+		"image": ""
+	},
+	{
+		"id": 146,
+		"english": "What is the name of the fruit juice made with 20-50% fruit puree, with added juice or water, acid, and sugar for seasoning?",
+		"question": "과실퓨레(puree)를 20~50% 넣고 과즙 또는 물, 산, 당을 가해서 조미하여 만든 과실주스는?",
+		"choices": ["천연과실주스 (natural fruit juice)", "스쿼시 (squash)", "넥타 (nectar)", "시럽 (syrup)"],
+		"answer": "넥타 (nectar)",
+		"image": ""
+	},
+	{
+		"id": 147,
+		"english": "Which of the following is not a criterion for the quality of natural fruit juice?",
+		"question": "천연 과실주스의 품질을 나타내는 기준이 아닌 것은?",
+		"choices": ["과실 특유 향기성분 유무", "비타민 C의 함량", "당과 산의 비율", "염도"],
+		"answer": "염도",
+		"image": ""
+	},
+	{
+		"id": 148,
+		"english": "What is processed by adding sugar to fruit juice, then heating and concentrating until gelatinization occurs?",
+		"question": "과일주스에 설탕을 첨가한 다음 가열 농축하여 젤라틴화(gelatinization) 되도록 가공한 것은?",
+		"choices": ["젤리", "과실주스", "넥타", "시럽"],
+		"answer": "젤리",
+		"image": ""
+	},
+	{
+		"id": 149,
+		"english": "What is the astringent component of persimmons?",
+		"question": "감의 떫은 성분은?",
+		"choices": ["카페인", "탄닌", "펙틴", "포도당"],
+		"answer": "탄닌",
+		"image": ""
+	},
+	{
+		"id": 150,
+		"english": "Which of the following is not a type of pickled vegetable product?",
+		"question": "다음 중 침채류 가공식품이 아닌 것은?",
+		"choices": ["김치 (kimchi)", "피클 (pickles)", "사우어크라우트 (sauerkraut)", "스쿼시(squash)"],
+		"answer": "스쿼시(squash)",
+		"image": ""
+	},
+	{
+		"id": 151,
+		"english": "Which of the following is not a consideration when selecting food?",
+		"question": "식품을 선택할 때 고려해야 할 사항으로 보기 어려운 것은?",
+		"choices": ["안전성", "영양성", "기호성", "확장성"],
+		"answer": "확장성",
+		"image": ""
+	},
+	{
+		"id": 152,
+		"english": "What is the main role of carbohydrates in the body?",
+		"question": "다음 중 체내에서 탄수화물의 주된 역할은?",
+		"choices": ["지방을 합성하고 저장시킨다.", "에너지를 발생한다.", "뼈의 성분이 되어 골격을 구성한다.", "세포의 분열과 성장을 촉진시킨다."],
+		"answer": "에너지를 발생한다.",
+		"image": ""
+	},
+	{
+		"id": 153,
+		"english": "What are the chemical components of lipids?",
+		"question": "지질의 화학적 구성 성분은?",
+		"choices": ["지방과 아미노산", "지방산과 글루코스", "지방산과 글리세린", "지방과 질소"],
+		"answer": "지방산과 글리세린",
+		"image": ""
+	},
+	{
+		"id": 154,
+		"english": "Which vitamin's absorption increases when consumed with lipids?",
+		"question": "유지류와 함께 섭취하였을 때 흡수율이 증가하는 비타민은?",
+		"choices": ["비타민 B2", "비타민 B6", "비타민 C", "비타민 D"],
+		"answer": "비타민 D",
+		"image": ""
+	},
+	{
+		"id": 155,
+		"english": "Which of the following describes hydrogenated oil?",
+		"question": "다음 중 경화유를 설명한 것은?",
+		"choices": ["유지를 열로 건조한 것이다.", "불포화지방산에 수소를 첨가하여 고체화한 것이다.", "동물성 지방에 질소를 넣어 딱딱하게 만든 것이다.", "지방 성분이 공기 중의 산소와 반응하는 것이다."],
+		"answer": "불포화지방산에 수소를 첨가하여 고체화한 것이다.",
+		"image": ""
+	},
+	{
+		"id": 156,
+		"english": "Which of the following sugars is the sweetest?",
+		"question": "다음 중 단맛이 가장 강한 당류는?",
+		"choices": ["포도당(glucose)", "과당(fructose)", "맥아당(maltose)", "젖당(lactose)"],
+		"answer": "과당(fructose)",
+		"image": ""
+	},
+	{
+		"id": 157,
+		"english": "If a food consists of 50g of carbohydrates, 10g of fat, 20g of protein, and 20g of water per 100g, what is the total caloric intake from this food?",
+		"question": "어떤 식품 100g이 탄수화물이 50g, 지방 10g, 단백질 20g, 수분 20g으로 구성되었다면 이 식품을 통해 섭취할 수 있는 총열량은?",
+		"choices": ["80Kcal", "100Kcal", "320Kcal", "370Kcal"],
+		"answer": "370Kcal",
+		"image": ""
+	},
+	{
+		"id": 158,
+		"english": "Which of the following pairs of food components and enzymes is incorrect?",
+		"question": "식품 성분과 작용하는 효소를 연결한 것 중 틀린 것은?",
+		"choices": ["전분–아밀라아제(amylase)", "지방-리파아제(lipase)", "젖당-말타아제(maltase)", "단백질-펩신(pepsin)"],
+		"answer": "젖당-말타아제(maltase)",
+		"image": ""
+	},
+	{
+		"id": 159,
+		"english": "Which of the following statements about vitamins is incorrect?",
+		"question": "비타민의 특성을 설명한 것 중 틀린 것은?",
+		"choices": ["신체의 구성물질로 사용되지 않는다.", "대사작용 조절물질의 역할을 한다.", "지용성 비타민은 결핍증이 서서히 나타난다.", "대부분 체내에서 합성된다."],
+		"answer": "대부분 체내에서 합성된다.",
+		"image": ""
+	},
+	{
+		"id": 160,
+		"english": "Which mineral is the most abundant in the human body?",
+		"question": "인체를 구성하고 있는 무기질 중 함량이 가장 많은 것은?",
+		"choices": ["마그네슘", "칼슘", "요오드", "철"],
+		"answer": "칼슘",
+		"image": ""
+	},
+	{
+		"id": 161,
+		"english": "Which component is the least in meat composition?",
+		"question": "식육을 구성하고 있는 성분 중 가장 적은 것은?",
+		"choices": ["탄수화물", "지방", "수분", "단백질"],
+		"answer": "탄수화물",
+		"image": ""
+	},
+	{
+		"id": 162,
+		"english": "What is the correct order of slaughter and disassembly for meat processing?",
+		"question": "육가공을 위한 축육의 도살과 해체의 순서를 옳게 나열한 것은?",
+		"choices": ["기절 → 방혈 → 박피 → 해체", "박피 → 기절 → 해체 → 방혈", "기절 → 박피 → 방혈 → 해체", "박피 → 기절 → 방혈 → 해체"],
+		"answer": "기절 → 방혈 → 박피 → 해체",
+		"image": ""
+	},
+	{
+		"id": 163,
+		"english": "Which of the following is not a part name of pork?",
+		"question": "돼지고기의 부위별 명칭으로 볼 수 없는 것은?",
+		"choices": ["안심", "등심", "갈비", "양지"],
+		"answer": "양지",
+		"image": ""
+	},
+	{
+		"id": 164,
+		"english": "What is the most important substance that directly affects the color of beef, making it appear bright red?",
+		"question": "쇠고기가 선홍색으로 보이는 원인물질로 고기의 색에 직접적인 영향을 미치는 가장 중요한 성분은?",
+		"choices": ["헤모시아닌", "미오글로빈", "안토시아닌", "헤모글로빈"],
+		"answer": "미오글로빈",
+		"image": ""
+	},
+	{
+		"id": 165,
+		"english": "Which of the following is not a purpose of heating meat during processing?",
+		"question": "축육 가공 시 육을 가열처리하는 목적이 아닌 것은?",
+		"choices": ["식품의 안전성을 확보할 수 있다.", "조직감과 풍미를 향상시킬 수 있다.", "육의 효소를 활성화시킬 수 있다.", "단백질을 변성시켜 가공적성을 높인다."],
+		"answer": "육의 효소를 활성화시킬 수 있다.",
+		"image": ""
+	},
+	{
+		"id": 166,
+		"english": "What is the term for the state when slaughtered livestock becomes maximally stiff after a certain period?",
+		"question": "도살된 가축이 일정 시간이 지나 최고로 굳어져 있는 상태를 무엇이라 하는가?",
+		"choices": ["해동단축", "사후해경", "해당과정", "사후경직"],
+		"answer": "사후경직",
+		"image": ""
+	},
+
+	{
+		"id": 167,
+		"english": "Which of the following statements about the use of knives in meat processing is incorrect?",
+		"question": "축산물의 가공 시 사용하는 칼에 대한 설명으로 틀린 것은?",
+		"choices": ["칼은 날카로우면 위험하므로 무디게 사용해야 한다.", "칼날을 자주 갈아 작업이 용이하게 해야 한다.", "칼 사용 시 보호장갑을 착용하여야 한다.", "칼을 위생작업복과 함께 보관하지 말고 별도 보관해야 한다."],
+		"answer": "칼은 날카로우면 위험하므로 무디게 사용해야 한다.",
+		"image": ""
+	},
+	{
+		"id": 168,
+		"english": "Which of the following is not a purpose of adding salt to raw meat during ham processing?",
+		"question": "햄 가공 시 원료육에 소금을 첨가하는 목적이 아닌 것은?",
+		"choices": ["유해 미생물의 번식을 억제한다.", "지방의 산화를 억제할 수 있다.", "육의 결착성을 증진시킬 수 있다.", "저장성을 증가시킬 수 있다."],
+		"answer": "지방의 산화를 억제할 수 있다.",
+		"image": ""
+	},
+	{
+		"id": 169,
+		"english": "Which of the following is not a method to prevent slips or falls of workers in a meat processing plant?",
+		"question": "축육 가공장에서 작업자의 낙상이나 미끄러짐을 예방하는 방법이 아닌 것은?",
+		"choices": ["기름이나 육이 바닥에 떨어지면 즉시 폐기하고 청결하게 한다.", "무거운 물건은 위쪽에, 가벼운 물건은 아래쪽에 적재한다.", "미끄럼을 방지하고 발을 보호할 수 있는 위생화를 착용한다.", "바닥은 배수가 잘되게 하고 가급적 건조하게 한다."],
+		"answer": "무거운 물건은 위쪽에, 가벼운 물건은 아래쪽에 적재한다.",
+		"image": ""
+	},
+	{
+		"id": 170,
+		"english": "Which of the following is not a purpose of smoking in the production of ham or bacon?",
+		"question": "햄이나 베이컨을 만들기 위한 훈연의 목적으로 볼 수 없는 것은?",
+		"choices": ["풍미의 증진", "제품의 보존성 부여", "제품 표면의 수분 증가", "제품의 색 향상"],
+		"answer": "제품 표면의 수분 증가",
+		"image": ""
+	},
+	{
+		"id": 171,
+		"english": "Which of the following statements about pressed ham is incorrect?",
+		"question": "프레스 햄에 대한 설명 중 틀린 것은?",
+		"choices": ["햄과 소시지의 중간 형태이다.", "눌러야 하기 때문에 제조기간이 길어 햄보다 값이 비싸다.", "결착력이 좋은 원료육을 사용하여야 한다.", "대량 생산이 가능하다."],
+		"answer": "눌러야 하기 때문에 제조기간이 길어 햄보다 값이 비싸다.",
+		"image": ""
+	},
+	{
+		"id": 172,
+		"english": "What is the correct order of the general sausage manufacturing process?",
+		"question": "일반적인 소시지의 제조공정을 순서대로 옳게 나열한 것은?",
+		"choices": ["원료 → 건조 및 훈연 → 충전 → 세절 및 조미 → 삶기 및 냉각", "원료 → 충전 → 세절 및 조미 → 건조 및 훈연 → 삶기 및 냉각", "원료 → 건조 및 훈연 → 세절 및 조미 → 충전 → 삶기 및 냉각", "원료 → 세절 및 조미 → 충전 → 건조 및 훈연 → 삶기 및 냉각"],
+		"answer": "원료 → 세절 및 조미 → 충전 → 건조 및 훈연 → 삶기 및 냉각",
+		"image": ""
+	},
+	{
+		"id": 173,
+		"english": "Which process determines the shape and size of sausages?",
+		"question": "소시지의 모양과 크기가 결정되는 공정은?",
+		"choices": ["염지", "세절", "건조", "충전"],
+		"answer": "충전",
+		"image": ""
+	},
+	{
+		"id": 174,
+		"english": "Which of the following statements about the characteristics of milk is incorrect?",
+		"question": "우유의 특징을 설명한 것 중 틀린 것은?",
+		"choices": ["영양소의 조절과 다양한 제품 생산이 가능하다.", "풍미, 색깔, 맛 등의 기호적 특성이 우수하다.", "소화 및 흡수율이 낮아 배탈이 나기 쉽다.", "멸균유는 발효유보다 오래 보관할 수 있다."],
+		"answer": "소화 및 흡수율이 낮아 배탈이 나기 쉽다.",
+		"image": ""
+	},
+	{
+		"id": 175,
+		"english": "What product is made by separating the cream from milk and gathering the fat particles?",
+		"question": "우유의 크림을 분리하여 지방 입자를 모아 만든 제품은?",
+		"choices": ["버터", "탈지유", "발효유", "치즈"],
+		"answer": "버터",
+		"image": ""
+	},
+	{
+		"id": 176,
+		"english": "Which of the following is not a product made using milk as a raw material?",
+		"question": "우유를 원료로 사용하여 만든 제품이 아닌 것은?",
+		"choices": ["마가린", "버터", "아이스크림", "탈지분유"],
+		"answer": "마가린",
+		"image": ""
+	},
+	{
+		"id": 177,
+		"english": "Cheese is made using the property that (㉠) in milk is coagulated by (㉡). Which of the following correctly fills in ㉠ and ㉡?",
+		"question": "치즈는 우유 중의 ( ㉠ )이 ( ㉡ )에 의해 응고되는 성질을 이용하여 만든 제품이다. 여기에서 ㉠, ㉡에 각각 들어갈 것으로 옳은 것은?",
+		"choices": ["㉠ 카제인 ㉡ 알카리", "㉠ 카페인 ㉡ 효소", "㉠ 카제인 ㉡ 효소", "㉠ 카페인 ㉡ 알카리"],
+		"answer": "㉠ 카제인 ㉡ 효소",
+		"image": ""
+	},
+	{
+		"id": 178,
+		"english": "Which of the following is not a characteristic of a fresh egg?",
+		"question": "다음 중 신선한 달걀의 특징이 아닌 것은?",
+		"choices": ["흔들었을 때 내용물이 많이 흔들리지 않는 것", "껍질이 까칠까칠한 것", "물에 넣었을 때 물에 가라앉는 것", "달걀을 깨었을 때 난황이 넓게 펴지는 것"],
+		"answer": "달걀을 깨었을 때 난황이 넓게 펴지는 것",
+		"image": ""
+	},
+	{
+		"id": 179,
+		"english": "What is the yolk index of an egg with a yolk diameter of 3cm and a height of 1.2cm?",
+		"question": "난황의 직경이 3cm, 높이가 1.2cm인 달걀의 난황계수는?",
+		"choices": ["0.4", "1.2", "2.5", "3.6"],
+		"answer": "0.4",
+		"image": ""
+	},
+	{
+		"id": 180,
+		"english": "Which component in egg yolk acts as an emulsifier when making mayonnaise?",
+		"question": "달걀노른자에 들어 있는 성분으로 마요네즈를 제조할 때 유화제 역할을 하는 것은?",
+		"choices": ["카로틴", "레티놀", "레시틴", "알부민"],
+		"answer": "레시틴",
+		"image": ""
+	},
+	{
+		"id": 181,
+		"english": "What is the main component responsible for the fishy smell in fish?",
+		"question": "생선 비린내의 주요 성분은?",
+		"choices": ["트리메틸아민", "아질산나트륨", "암모니아", "부틸아민"],
+		"answer": "트리메틸아민",
+		"image": ""
+	},
+	{
+		"id": 182,
+		"english": "What is the pigment component in squid or octopus ink used in making snacks or spaghetti?",
+		"question": "과자나 스파게티 등의 제조 시에 사용되는 것으로 오징어나 문어의 먹물 색소의 성분은 무엇인가?",
+		"choices": ["멜라민", "멜라닌", "멜라토닌", "엘라스틴"],
+		"answer": "멜라닌",
+		"image": ""
+	},
+	{
+		"id": 183,
+		"english": "Which of the following cannot be classified as a red-fleshed fish?",
+		"question": "다음 중 붉은 살 생선으로 분류할 수 없는 것은?",
+		"choices": ["방어", "멸치", "도미", "꽁치"],
+		"answer": "멸치",
+		"image": ""
+	},
+	{
+		"id": 184,
+		"english": "Which of the following indicates a fresh fish?",
+		"question": "다음 중 신선한 어류로 판단할 수 있는 것은?",
+		"choices": ["사후경직이 끝나 흐물거리는 것", "아가미가 회녹색인 것", "눈의 색이 혼탁한 것", "비늘이 단단히 붙어있는 것"],
+		"answer": "비늘이 단단히 붙어있는 것",
+		"image": ""
+	},
+	{
+		"id": 185,
+		"english": "What is the main component that gives clams their characteristic refreshing taste when used in soups or stews?",
+		"question": "조개로 국이나 탕을 끓였을 때 조개 특유의 시원한 맛을 내는 주성분은?",
+		"choices": ["호박산", "사과산", "주석산", "말릭산"],
+		"answer": "호박산",
+		"image": ""
+	},
+	{
+		"id": 186,
+		"english": "What is the main cause of autolysis in fish and shellfish?",
+		"question": "어패류에서 일어나는 자가소화의 주된 원인은?",
+		"choices": ["어패류 내에 존재하는 산", "어패류 내에 존재하는 알칼리", "어패류 내에 존재하는 효소", "공기 중의 산소와의 접촉"],
+		"answer": "어패류 내에 존재하는 효소",
+		"image": ""
+	},
+	{
+		"id": 187,
+		"english": "Which of the following statements about the characteristics of fish and shellfish is correct?",
+		"question": "어패류의 특성에 대한 설명 중 맞는 것은?",
+		"choices": ["꽃게, 새우, 조개는 갑각류이다.", "붉은살 생선은 흰살 생선보다 지방이 많다.", "병어에는 테토로도톡신이라는 독이 있다.", "생선에는 트랜스지방이 많다."],
+		"answer": "붉은살 생선은 흰살 생선보다 지방이 많다.",
+		"image": ""
+	},
+	{
+		"id": 188,
+		"english": "Which method is used to make hwangtae (dried pollack)?",
+		"question": "어패류 가공 방법 중 황태는 어떤 방법으로 만든 제품인가?",
+		"choices": ["염건법", "동건법", "소건법", "화건법"],
+		"answer": "동건법",
+		"image": ""
+	},
+	{
+		"id": 189,
+		"english": "What is the process of removing air from fish and shellfish cans during canning?",
+		"question": "통조림 제조 시 어패류를 관에 넣고 내부의 공기를 제거하는 공정은?",
+		"choices": ["탈기", "탈수", "밀봉", "호기"],
+		"answer": "탈기",
+		"image": ""
+	},
+	{
+		"id": 190,
+		"english": "What is the traditional Korean food made by salting fish and then mixing it with rice, malt, red pepper powder, and other ingredients, and then aging and fermenting it?",
+		"question": "어패류를 소금으로 절인 후 쌀밥, 엿기름, 고춧가루 등 부재료 등과 혼합하고 절여 숙성, 발효시킨 한국의 전통 식품은?",
+		"choices": ["장아찌", "부각", "식초", "식해"],
+		"answer": "식해",
+		"image": ""
+	},
+	{
+		"id": 191,
+		"english": "What is the process of briefly dipping frozen fish in water at 0-3℃ to form an ice glaze on the surface to prevent oxidation from air contact?",
+		"question": "냉동 어류를 0~3℃ 정도의 물에 잠깐 담가 어체 표면에 얼음막을 입혀 공기 접촉과 산화를 방지하는 공정은?",
+		"choices": ["해동", "동결", "빙의", "해빙"],
+		"answer": "빙의",
+		"image": ""
+	},
+	{
+		"id": 192,
+		"english": "Which of the following is a seafood product made using the autolysis of fish?",
+		"question": "다음 중 어류의 자가소화를 이용한 수산가공품은?",
+		"choices": ["건멸치", "어유", "젓갈", "고등어통조림"],
+		"answer": "젓갈",
+		"image": ""
+	},
+	{
+		"id": 193,
+		"english": "Which of the following is not a fish paste product?",
+		"question": "다음 중 수산 연제품이 아닌 것은?",
+		"choices": ["맛살", "어육 소시지", "어묵", "훈제 연어"],
+		"answer": "훈제 연어",
+		"image": ""
+	},
+	{
+		"id": 194,
+		"english": "What is the method of salting fish by soaking it in brine?",
+		"question": "염장법 중 어체를 염수에 담가 염장하는 방법은?",
+		"choices": ["마른간법", "물간법", "건염법", "염수주사법"],
+		"answer": "물간법",
+		"image": ""
+	},
+	{
+		"id": 195,
+		"english": "Which of the following is not a reason why fish and shellfish spoil easily?",
+		"question": "어패류가 쉽게 부패하는 이유가 아닌 것은?",
+		"choices": ["어패류가 수분이 많기 때문에", "어패류는 사후에 대부분 알칼리성이 되기 때문에", "일반적으로 어패류는 축산물보다 근육조직이 강하기 때문에", "세균에 오염되기 쉽고 잘 발육하기 때문에"],
+		"answer": "일반적으로 어패류는 축산물보다 근육조직이 강하기 때문에",
+		"image": ""
+	},
+	{
+		"id": 196,
+		"english": "What is the main purpose of external inspection of canned goods?",
+		"question": "통조림을 타관검사 하는 주된 목적은?",
+		"choices": ["진공도 확인을 통한 부패관 선별", "플랫사우어(Flat sour)관 확인", "통조림 뚜껑과 관의 밀봉상태 확인", "유통기한 표시의 적정성 여부 확인"],
+		"answer": "통조림 뚜껑과 관의 밀봉상태 확인",
+		"image": ""
+	},
+	{
+		"id": 197,
+		"english": "Which seaweed is the raw material for agar?",
+		"question": "한천의 원료가 되는 해조류는?",
+		"choices": ["김", "우뭇가사리", "해파리", "다시마"],
+		"answer": "우뭇가사리",
+		"image": ""
+	},
+	{
+		"id": 198,
+		"english": "Which component is found especially in large amounts in kelp compared to other foods?",
+		"question": "다음 중 다른 식품보다 다시마에 특히 많이 들어있는 성분은?",
+		"choices": ["아세트산", "단백질", "비타민 A", "요오드"],
+		"answer": "요오드",
+		"image": ""
+	},
+	{
+		"id": 199,
+		"english": "Which of the following statements about safety measures in a seafood processing plant is correct?",
+		"question": "수산가공장의 안전조치에 대한 설명 중 옳은 것은?",
+		"choices": ["연결중인 전기선이 끊어져 물에 닿은 경우 즉시 맨손으로 떼어내야 한다.", "어체 절단기에 이물이 낀 경우 후속공정을 위해 전원을 차단하지 않고 제거해야 한다.", "청결 작업장 내에서는 안전을 위해 등산화를 신어야 한다.", "소음이 심한 곳에서는 귀마개를 해야 한다."],
+		"answer": "소음이 심한 곳에서는 귀마개를 해야 한다.",
+		"image": ""
+	},
+	{
+		"id": 200,
+		"english": "Which type of fish forms an elastic gel and is used as a raw material for fish paste products?",
+		"question": "연제품의 원료로 탄력이 강한 겔을 형성하는 어종은?",
+		"choices": ["방어", "조기", "꽁치", "정어리"],
+		"answer": "방어",
+		"image": ""
 	}
 ]
