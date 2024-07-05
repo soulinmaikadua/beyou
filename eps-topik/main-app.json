@@ -6,45 +6,5 @@
 		"slug": "reading",
 		"db": "readings",
 		"icon": "Icons.menu_book_rounded"
-	},
-	{
-		"korean": "기계, 성형",
-		"english": "machinery, molding",
-		"lao": "ເຄື່ອງຈັກ, ການປັ້ນ",
-		"slug": "machinery-molding",
-		"db": "machines",
-		"icon": "Icons.menu_book_rounded"
-	},
-	{
-		"korean": "섬유, 봉제",
-		"english": "textile, sewing",
-		"lao": "ແຜ່ນແພ, ຕັດຫຍິບ",
-		"slug": "textile-sewing",
-		"db": "textiles",
-		"icon": "Icons.menu_book_rounded"
-	},
-	{
-		"korean": "전자, 전기",
-		"english": "electronics, electricity",
-		"lao": "ເອເລັກໂຕຣນິກ, ໄຟຟ້າ",
-		"slug": "electric",
-		"db": "electric",
-		"icon": "Icons.menu_book_rounded"
-	},
-	{
-		"korean": "전자, 전기",
-		"english": "food related",
-		"lao": "​ກ່ຽວ​ຂ້ອງກັບ​ອາ​ຫານ​",
-		"slug": "food",
-		"db": "food",
-		"icon": "Icons.menu_book_rounded"
-	},
-	{
-		"korean": "전자, 전기",
-		"english": "metal",
-		"lao": "ໂລ​ຫະ",
-		"slug": "metal",
-		"db": "metal",
-		"icon": "Icons.menu_book_rounded"
 	}
 ]
