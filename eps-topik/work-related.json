@@ -24,7 +24,7 @@
 		"icon": "Icons.menu_book_rounded"
 	},
 	{
-		"korean": "전자, 전기",
+		"korean": "음식 관련",
 		"english": "food related",
 		"lao": "​ກ່ຽວ​ຂ້ອງກັບ​ອາ​ຫານ​",
 		"slug": "food",
@@ -32,7 +32,7 @@
 		"icon": "Icons.menu_book_rounded"
 	},
 	{
-		"korean": "전자, 전기",
+		"korean": "금속",
 		"english": "metal",
 		"lao": "ໂລ​ຫະ",
 		"slug": "metal",
