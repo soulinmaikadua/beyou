@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "english": "Which of the following is not a secondary disaster that can occur from production facilities in industrial accidents?",
+    "question": "산업재해에서 생산설비 등으로부터 2차적으로 발생될 수 있는 재해로 맞지 않은 것은?",
+    "choices": ["충돌", "소음", "유해가스", "먼지"],
+    "answer": "충돌",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "english": "Workplaces are artificial environments where harmful gases, vapors, and dust can escape from production facilities and affect the human body. Which of the following is not a method to keep harmful substances below permissible levels?",
+    "question": "작업장은 인위적인 환경이므로 생산 시설 장치 등으로부터 유해가스, 증기, 분진 등이새어나와서 인체에 영향을 줄 수 있다. 다음 중 유해물질이 허용치 이하가 되게 하는방법이 아닌 것은?",
+    "choices": [
+      "환기 위주의 국소배기방식",
+      "농도치의 기준치 상향방식",
+      "공기를 불어넣는 송기방식",
+      "먼지를 잡기위한 집진방식"
+    ],
+    "answer": "농도치의 기준치 상향방식",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "english": "The following are safety measures for workplace traffic and transportation. Which one is not appropriate?",
+    "question": "작업장 통행과 운반에 관한 안전사항이다. 다음 중 알맞지 않은 것은?",
+    "choices": [
+      "통로는 질서 정연하게 설치한다.",
+      "통로 안에서는 물건을 놓거나 작업을 하지 않는다.",
+      "통로의 교차는 좌우의 전망이 나쁜 곳에 설치한다.",
+      "물건을 운반할 때에는 앞이 보이지 않도록 높이 쌓지 않는다."
+    ],
+    "answer": "통로의 교차는 좌우의 전망이 나쁜 곳에 설치한다.",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "english": "The following are causes of handling and transportation accidents. Which one is incorrect?",
+    "question": "다음은 취급운반 재해의 원인이다. 맞지 않은 것은?",
+    "choices": [
+      "작업장 바닥이나 디딤 바닥이 불량하다.",
+      "정리 정돈이 불충분하다.",
+      "적절하지 않은 도구나 기구를 사용한다.",
+      "취급하는 물질의 위험성, 유행성에 대한 지식이 충분했다."
+    ],
+    "answer": "취급하는 물질의 위험성, 유행성에 대한 지식이 충분했다.",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "english": "What is it called when a worker is injured, becomes ill, or dies due to their work during the performance of their duties?",
+    "question": "근로자가 업무 수행 중 그 업무로 말미암아 부상, 또는 질병에 걸리거나 사망하는 것을무엇이라 하는가?",
+    "choices": ["산업재해", "산업사고", "산업사망", "산업상해"],
+    "answer": "산업재해",
+    "image": ""
+  }
+]

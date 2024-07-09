@@ -46,5 +46,13 @@
 		"slug": "rubber-plastic",
 		"db": "plastic",
 		"icon": "Icons.menu_book_rounded"
+	},
+	{
+		"korean": "금속",
+		"english": "Pulp, Paper, Wood",
+		"lao": "ເຈ້ຍ, ໄມ້",
+		"slug": "pulp-paper-wood",
+		"db": "paper",
+		"icon": "Icons.menu_book_rounded"
 	}
 ]

@@ -1,1362 +1,2087 @@
 [
-	{
-		"id": 1,
-		"english": "When should a dust mask be worn?",
-		"question": "방진마스크를 착용해야 하는 경우는?",
-		"choices": ["유기 증기가 발생하는 화학 공장", "인체에 유해한 분진발생 작업장", "암모니아 가스를 사용하는 작업장", "벤젠 및 이소프로필알코올 등의 화학물질을 사용하는 작업장"],
-		"answer": "인체에 유해한 분진발생 작업장",
-		"image": ""
-	},
-	{
-		"id": 2,
-		"english": "Which protective equipment is used to protect the eyes from splashing chemicals?",
-		"question": "화학물질이 튀는 것으로부터 눈을 보호하기 위하여 사용하는 보호구는?",
-		"choices": ["보안경", "밀폐형 고글", "도수안경", "선글라스"],
-		"answer": "밀폐형 고글",
-		"image": ""
-	},
-	{
-		"id": 3,
-		"english": "What is the correct way to wear hearing protection?",
-		"question": "청력보호구의 올바른 착용 방법은?",
-		"choices": ["소음이 발생하는 시간동안 90%만 착용하고 10%는 착용하지 않아도 된다.", "청력보호구의 착용이 불편하다면 착용하지 않아도 무방하다.", "소음발생시 50%만 착용하고 소음이 상대적으로 적을 때는 착용하지 않는다.", "소음이 발생하는 시간동안 100% 착용한다."],
-		"answer": "소음이 발생하는 시간동안 100% 착용한다.",
-		"image": ""
-	},
-	{
-		"id": 4,
-		"english": "Which statement about protective gloves is incorrect?",
-		"question": "보호 장갑에 대한 설명 중 틀린 것은?",
-		"choices": ["장갑을 사용 시에는 손상된 부위가 있는지 확인한 후 사용한다.", "가격이 높을수록 많은 보호가 되므로 비싼 장갑을 사용하는 것이 좋다.", "장갑을 착용한 채 컴퓨터를 사용해서는 안 된다.", "장갑 사용 시에는 장신구를 제거한 후 사용하여야 한다."],
-		"answer": "가격이 높을수록 많은 보호가 되므로 비싼 장갑을 사용하는 것이 좋다.",
-		"image": ""
-	},
-	{
-		"id": 5,
-		"english": "Which statement about workplace safety rules is incorrect?",
-		"question": "작업장 안전수칙에 대한 설명 중 틀린 것은?",
-		"choices": ["안전수칙을 준수하고 반드시 적합한 개인보호구를 착용한다.", "최소한의 화학약품 사용하여 사고의 가능성을 줄이고, 작업시 폐기물의 양을 최소화 한다.", "가스 사용시 사용 후에 중간밸브 및 주 밸브는 항상 틀어 놓는다.", "유독성이나 물질을 다루는 작업시, 피부 접촉을 피할 수 있는 보호 장구를 반드시 착용한다."],
-		"answer": "가스 사용시 사용 후에 중간밸브 및 주 밸브는 항상 틀어 놓는다.",
-		"image": ""
-	},
-	{
-		"id": 6,
-		"english": "Which of the following is incorrect as a precaution when working with machine tools?",
-		"question": "공작기계 작업시의 주의사항으로 틀린 것은?",
-		"choices": ["장갑 착용은 원칙적으로 금지하나 꼭 필요한 경우 손가락 부분을 1/2 절단하여 사용한다.", "보안경 및 작업복은 작업환경에 따라 착용하지 않아도 된다.", "가공을 막 끝낸 공작물이나 칩은 매우 뜨거우므로 장갑을 끼고 작업한다.", "작업의 속도를 늦추거나 멈추려 할 때는 반드시 기계스위치를 이용한다."],
-		"answer": "보안경 및 작업복은 작업환경에 따라 착용하지 않아도 된다.",
-		"image": ""
-	},
-	{
-		"id": 7,
-		"english": "Which of the following is not a proper fire response procedure?",
-		"question": "화재발생시 대처 요령으로 알맞지 않은 것은?",
-		"choices": ["화재발생시 “불이야”하고 주위에 화재 사실을 알리고 119에 신고한다.", "피난 시 가장 가까운 통로나 계단을 통해 신속히 대피한다.", "초기 소화가 가능한 경우에는 신속히 소화기 등으로 진화한다.", "바람이 없는 실내에서 소화기를 사용할 경우에는 편한 위치에서 진화한다."],
-		"answer": "바람이 없는 실내에서 소화기를 사용할 경우에는 편한 위치에서 진화한다.",
-		"image": ""
-	},
-	{
-		"id": 8,
-		"english": "Which statement about fire extinguishers is inappropriate?",
-		"question": "소화기에 대한 설명으로 부적절한 것은?",
-		"choices": ["소화기는 화재 초기에 중요한 소화기구이다.", "소화기는 고온다습한 곳과 직사광선을 피하여 보관한다.", "소화기는 캐비넷 등에 보관하고, 시건장치를 해놓는 것이 좋다.", "소화기는 수시로 노즐 및 압력게이지를 확인하여 이상이 있는 경우 새 것으로 교체한다."],
-		"answer": "소화기는 캐비넷 등에 보관하고, 시건장치를 해놓는 것이 좋다.",
-		"image": ""
-	},
-	{
-		"id": 9,
-		"english": "Which of the following is incorrect as an evacuation and escape guideline during a fire?",
-		"question": "화재시 피난 및 대피요령을 설명한 것으로 맞지 않는 것은?",
-		"choices": ["피난시 외부로 나가는 통로를 이용한다.", "화재시 지체 없이 피난한다.", "연기가 많을 때에는 최대한 자세를 낮춰 이동한다.", "중요한 물건이 있을 경우 신속히 들어가서 가지고 나온다."],
-		"answer": "중요한 물건이 있을 경우 신속히 들어가서 가지고 나온다.",
-		"image": ""
-	},
-	{
-		"id": 10,
-		"english": "Which of the following hazard warning signs is incorrectly matched?",
-		"question": "위험물 경고표지입니다 연결이 틀린 것은?",
-		"choices": ["인화성물질 경고", "폭발성물질 경고", "부식성물질 경고", "급성독성물질 경고"],
-		"answer": "급성독성물질 경고",
-		"image": ""
-	},
-	{
-		"id": 11,
-		"english": "Which of the following is not used to make rubber an elastomer through heating or other treatments that link rubber molecules?",
-		"question": "고무에 혼합하여 가열 또는 기타의 처리를 함으로써 고무분자간에 연결을 통해 탄성체의 고무로 하는 것이 아닌 것은?",
-		"choices": ["가소제", "가황제", "가교제", "난연제"],
-		"answer": "가소제",
-		"image": ""
-	},
-	{
-		"id": 12,
-		"english": "Which additive is added to compounded rubber to prevent aging due to oxidation during long-term use of vulcanized rubber and extend its service life?",
-		"question": "배합고무에 가하여 가황고무 장기사용 중의 산화에 의한 노화를 방지, 사용수명을 연장하기 위하여 넣는 첨가제는?",
-		"choices": ["폴리머안정제", "노화(산화)방지제", "가황촉진제", "연화제"],
-		"answer": "노화(산화)방지제",
-		"image": ""
-	},
-	{
-		"id": 13,
-		"english": "Which ingredient must be used in rubber compounding as it enhances the activity of vulcanizing accelerators by forming fatty acids in sulfur vulcanization?",
-		"question": "유황가황에 있어서 공존하는 지방산을 만들어 가황촉진재의 활성을 높이는 배합제로 고무 배합상 반드시 사용하여야 하는 것은?",
-		"choices": ["유황", "폴리아민", "산화마그네슘", "산화아연"],
-		"answer": "산화아연",
-		"image": ""
-	},
-	{
-		"id": 14,
-		"english": "Which additive, working together with a vulcanizing agent, is used in small amounts to speed up the vulcanization process?",
-		"question": "가황제와 함께 작용하여 소량의 사용으로 가황속도를 증진시키는 첨가제는?",
-		"choices": ["노화방지제", "착색제", "가황촉진제", "발포제"],
-		"answer": "가황촉진제",
-		"image": ""
-	},
-	{
-		"id": 15,
-		"english": "Which substance, when added in small amounts during rubber manufacturing, slows down the vulcanization rate to prevent the process from occurring too quickly?",
-		"question": "고무제조시 소량을 첨가한 것만으로 가황의 속도를 늦춰, 가황시기가 너무 빨리 되는 것을 지연 시켜주는 물질은?",
-		"choices": ["가황지연제", "가황촉진제", "연화제", "가소제"],
-		"answer": "가황지연제",
-		"image": ""
-	},
-	{
-		"id": 16,
-		"english": "Which of the following is not a type of antioxidant?",
-		"question": "노화방지제의 종류가 아닌 것은?",
-		"choices": ["폴리머안정제", "금속해방지제", "오존방지제", "연화제"],
-		"answer": "연화제",
-		"image": ""
-	},
-	{
-		"id": 17,
-		"english": "Which plasticizer is suitable for all-purpose rubber manufacturing due to its compatibility, cold resistance, non-staining, and color stability, as well as good oxidation resistance?",
-		"question": "고무의 상용성 및 내한성, 비오염성, 색안정성이 좋고 내산화가 양호하여 모든 목적의 고무제조에 사용이 가능한 가소제는?",
-		"choices": ["방향족유", "파라핀계유", "나프텐계유", "지방족계유"],
-		"answer": "파라핀계유",
-		"image": ""
-	},
-	{
-		"id": 18,
-		"english": "Which compounding agent is used to improve the surface tackiness of compounded rubber?",
-		"question": "배합고무의 표면 점착성을 증진시키기 위한 배합제는?",
-		"choices": ["가소제", "발포제", "점착부여제(Tackifiers)", "가화지연제"],
-		"answer": "점착부여제(Tackifiers)",
-		"image": ""
-	},
-	{
-		"id": 19,
-		"english": "Which of the following is not a requirement for tackifiers?",
-		"question": "점착부여제로서 요구사항이 아닌 것은?",
-		"choices": ["사용하는 고무소재와 잘 섞여야 한다.", "점착부여제 자체의 점착성은 고려사항이 아니다.", "고무배합물에 부여된 점착성 효력의 물성변화가 작은 것이어야 한다.", "점착부여제가 강한 점착성을 가지고 있을 필요가 있다."],
-		"answer": "점착부여제 자체의 점착성은 고려사항이 아니다.",
-		"image": ""
-	},
-	{
-		"id": 20,
-		"english": "Which of the following is not a requirement for pigments used in rubber?",
-		"question": "고무용 안료로써 갖추어야 할 조건이 아닌 것은?",
-		"choices": ["내열성이 있어야 한다.", "유황, 황화수소에 대하여 안정하여야 한다.", "노화방지제 등의 배합에 변화를 일으켜야 한다.", "내수성이어야 한다."],
-		"answer": "노화방지제 등의 배합에 변화를 일으켜야 한다.",
-		"image": ""
-	},
-	{
-		"id": 21,
-		"english": "Which of the following is not a component of the chemical solution preparation process for unit processes?",
-		"question": "단위 공정별 주요설비의 약액제조 공정의 구성 요소가 아닌 것은?",
-		"choices": ["탱크류", "교반류", "펌프류", "탈수기"],
-		"answer": "탈수기",
-		"image": ""
-	},
-	{
-		"id": 22,
-		"english": "Which process consists of reactors and agitators for polymerization reactions?",
-		"question": "중합반응을 위한 반응기, 교반기로 구성되어 있는 공정은?",
-		"choices": ["반응공정", "약액제조공정", "회수공정", "저장 및 혼합공정"],
-		"answer": "반응공정",
-		"image": ""
-	},
-	{
-		"id": 23,
-		"english": "Which of the following is classified as other large equipment?",
-		"question": "기타 대형설비는?",
-		"choices": ["용접기", "암모니아 냉동기", "컴퓨터", "압출기"],
-		"answer": "암모니아 냉동기",
-		"image": ""
-	},
-	{
-		"id": 24,
-		"english": "Which process consists of large dryers (apron dryer, expander) for drying and forming machines (baler) for shaping?",
-		"question": "건조를 위한 대형 건조기(apron dryer, expander)와 성형을 위한 성형기(baler)로 구성되어 있는 공정은?",
-		"choices": ["응고 및 탈수공정", "반응공정", "건조 및 성형공정", "회수공정"],
-		"answer": "건조 및 성형공정",
-		"image": ""
-	},
-	{
-		"id": 25,
-		"english": "Which of the following is not a type of distillation column?",
-		"question": "증류탑(column)의 종류가 아닌 것은?",
-		"choices": ["흡수탑", "스트리핑 칼럼", "추출탑", "압출탑"],
-		"answer": "압출탑",
-		"image": ""
-	},
-	{
-		"id": 26,
-		"english": "Which process is described as using equipment to mold dried rubber particles (crumb) into rectangular rubber blocks by compressing 25kg or 35kg of rubber into high-pressure molds to produce the final rubber product called bales?",
-		"question": "건조된 고무 입자(crumb)를 직육면체의 고무 덩어리로 성형하는 설비로써, 직육면체 몰드에 25kg, 35kg의 고무를 고압으로 압착하여 베일(bale)이라는 최종 고무제품을 생산한다. 이것은 어떤 공정에 대한 설명인가?",
-		"choices": ["응고 및 탈수공정", "반응공정", "건조 및 성형공정", "회수공정"],
-		"answer": "건조 및 성형공정",
-		"image": ""
-	},
-	{
-		"id": 27,
-		"english": "Which of the following refers to industrial products synthesized from polymerization of petrochemical raw materials?",
-		"question": "석유화학 원료를 중합시켜 고분자 물질로 합성한 공산품에 해당되는 것은?",
-		"choices": ["합성고무", "천연고무", "친환경고무", "재활용고무"],
-		"answer": "합성고무",
-		"image": ""
-	},
-	{
-		"id": 28,
-		"english": "Which of the following is not a type of synthetic rubber?",
-		"question": "합성고무의 종류가 아닌 것은?",
-		"choices": ["NR", "EPDM", "SER", "BMW"],
-		"answer": "BMW",
-		"image": ""
-	},
-	{
-		"id": 29,
-		"english": "Which of the following is not a production process for synthetic rubber?",
-		"question": "합성고무의 생산 공정이 아닌 것은?",
-		"choices": ["중합공정", "제품공정", "품질검사 및 포장공정", "세척공정"],
-		"answer": "세척공정",
-		"image": ""
-	},
-	{
-		"id": 30,
-		"english": "Which process involves inspecting the appearance of molded synthetic rubber products and checking for foreign matter, sealing them in packaging film, and loading approximately 1 ton into large boxes for transport to the storage warehouse?",
-		"question": "성형된 합성고무제품의 외관과 이물 혼입여부를 검사하여 포장 필름으로 밀봉한 후, 약 1톤 정도를 담을 수 있는 대형 박스에 적재하여 보관 창고로 이송하는 공정은?",
-		"choices": ["중합공정", "저장 및 혼합공정", "품질검사 및 포장공정", "제품공정"],
-		"answer": "품질검사 및 포장공정",
-		"image": ""
-	},
-	{
-		"id": 31,
-		"english": "Which process involves storing intermediate latex products according to quality characteristics such as product type, mooney level, and bound monomer content, and mixing the stored latex to desired quality characteristics?",
-		"question": "중간 제품인 라텍스를 제품의 종류, 무니(mooney) 수준, 결합 모노머 함량 등의 품질 특성에 따라 구분 저장하고 저장된 라텍스를 원하는 품질특성으로 혼합하는 공정은?",
-		"choices": ["응고 및 탈수공정", "저장 및 혼합공정", "품질검사 및 포장공정", "건조 및 성형공정"],
-		"answer": "저장 및 혼합공정",
-		"image": ""
-	},
-	{
-		"id": 32,
-		"english": "Which type of rubber is described as having excellent tackiness and rebound elasticity, superior physical properties even without a reinforcing agent, and accounting for 40-45% of total rubber usage?",
-		"question": "점착성과 반발탄성이 우수한 고무로, 보강제를 사용하지 않아도 물성치가 우수하여 전체 고무 사용량의 40~45%를 점유하고 있다. 무엇에 대한 설명인가?",
-		"choices": ["SER", "NR", "천연고무", "EPDM"],
-		"answer": "NR",
-		"image": ""
-	},
-	{
-		"id": 33,
-		"english": "Which process determines the core quality of synthetic rubber, including the storage of chemicals, preparation of chemical solutions, injection of solutions, polymerization reaction, and recovery of unreacted monomers?",
-		"question": "합성고무의 핵심적인 품질을 결정하는 공정으로, 약품의 저장부터 약액의 제조, 약액의 투입, 중합반응, 미반응 모노머의 회수공정까지를 일컫는다. 무엇에 대한 설명인가?",
-		"choices": ["저장 및 혼합공정", "응고 및 탈수공정", "중합공정", "건조 및 성형공정"],
-		"answer": "중합공정",
-		"image": ""
-	},
-	{
-		"id": 34,
-		"english": "Which of the following is incorrect regarding the vacuum pump operation procedure?",
-		"question": "진공펌프(vacuum pump) 가동 절차의 설명으로 옳지 않은 것은?",
-		"choices": ["모든 베어링에 윤활유를 공급하고 윤활 장치를 가동한다.", "회전 부위들을 손으로 돌려서 부드럽게 회전이 되는지를 체크한다.", "윤활 장치, 케이스의 오일 수위계를 체크한다.", "냉각수 밸브를 잠그고 실린더를 보온시킨다."],
-		"answer": "냉각수 밸브를 잠그고 실린더를 보온시킨다.",
-		"image": ""
-	},
-	{
-		"id": 35,
-		"english": "Which of the following is incorrect regarding the compressor operation procedure?",
-		"question": "압축기(compressor) 가동 절차의 설명 중 옳지 않은 것은?",
-		"choices": ["오일 수위를 확인하여 부족 시 수위계의 표시선까지 오일을 보충한다.", "냉각수를 공급하고 냉각장치가 작동하는지를 점검한다.", "압축기 가동을 멈추고 이음, 진동, 마찰 등의 특이 사항이 있는지를 확인한다.", "윤활설비의 오일 저장조에 윤활유를 채우고 압축기가 무부하 상태인지를 체크한다."],
-		"answer": "압축기 가동을 멈추고 이음, 진동, 마찰 등의 특이 사항이 있는지를 확인한다.",
-		"image": ""
-	},
-	{
-		"id": 36,
-		"english": "Which of the following is incorrect regarding the operation procedure of a refrigerator?",
-		"question": "냉동기의 가동 절차에 대한 설명 중 옳지 않은 것은?",
-		"choices": ["윤활유와 오일을 보충하고 냉각수의 주 밸브를 연다.", "흡입부 밸브를 약간 열고 토출구 밸브를 모두 열어야 한다.", "냉동기의 압축기 부분에 있는 모든 내부 밸브를 열어야 한다.", "현장 조작반의 부하 조절기를 최대 위치로 설정한다."],
-		"answer": "현장 조작반의 부하 조절기를 최대 위치로 설정한다.",
-		"image": ""
-	},
-	{
-		"id": 37,
-		"english": "Which of the following is incorrect regarding the pump operation procedure?",
-		"question": "펌프류 가동 절차의 설명 중 옳지 않은 것은?",
-		"choices": ["현장 조작반의 스위치가 자동으로 전환되어 있는지를 확인한다.", "현장 조작반의 가동 스위치(start button)를 눌러서 펌프를 가동시킨다.", "정상 작동이 확인되면 조정실과 연락을 취하여 운전모드를 자동으로 전환한다.", "필요시, 자동모드에서 원격 가동정지 및 재가동에 이상이 없는지를 확인한다."],
-		"answer": "현장 조작반의 스위치가 자동으로 전환되어 있는지를 확인한다.",
-		"image": ""
-	},
-	{
-		"id": 38,
-		"english": "This is an instruction for producing products with precise properties through the mixing of stored intermediates. It primarily records mixing ratios, additive input amounts, mixing times, and product production times. What is being described?",
-		"question": "저장 중인 중간품의 혼합을 통해 정확한 물성의 제품을 생산하기 위한 지시서이다. 주로 혼합 비율과 첨가제 투입량, 혼합 시간, 제품 생산 시간 등이 기록된다. 무엇에 대한 설명인가?",
-		"choices": ["중간품 혼합 처방(blend order)", "시험지시서", "반응기 투입처방(charge order)", "약액제조처방(make-up order)"],
-		"answer": "중간품 혼합 처방(blend order)",
-		"image": ""
-	},
-	{
-		"id": 39,
-		"english": "This is an instruction that records the unit hourly input amounts of chemical solutions or chemicals into the reactor, target conversion rates, reaction times, and reaction temperatures, and follows the basic prescriptions for each product type. What is being described?",
-		"question": "단위 시간당 반응기에 투입되는 약액이나 약품들의 단위 시간당 투입량, 목표 전환율, 반응시간, 반응 온도 등이 기록된 지시서로, 기본적인 사항은 제품 품종별 처방에 따른다. 무엇에 대한 설명인가?",
-		"choices": ["중간품 혼합 처방(blend order)", "기타 지시서", "반응기 투입처방(charge order)", "약액제조처방(make-up order)"],
-		"answer": "반응기 투입처방(charge order)",
-		"image": ""
-	},
-	{
-		"id": 40,
-		"english": "This is an instruction issued when short-term operational adjustments or correction work are to be carried out, recording the details of the changes to be made, the validity period, and precautions. What is being described?",
-		"question": "단기적으로 운전 조건을 조정하거나 보정 작업을 실시하고자 할 때 발행되는 지시서로 변경하고자 하는 내용, 유효 기간, 주의 사항 등이 기록된다. 무엇에 대한 설명인가?",
-		"choices": ["중간품 혼합 처방(blend order)", "기타 지시서", "반응기 투입처방(charge order)", "제품 품종별 처방(basic recipe)"],
-		"answer": "기타 지시서",
-		"image": ""
-	},
-	{
-		"id": 41,
-		"english": "Which of the following is incorrect as a countermeasure for organic chemicals and flammable materials?",
-		"question": "유기약품, 인화성 자재에 대한 대책으로 옳지 않은 것은?",
-		"choices": ["인화성의 용제는 모두 철제의 용기에 담고 이것을 사용하는 작업장에는 반드시 화학소화기를 비치한다.", "고무액이 든 통이 동요 또는 전도(전락)하지 않게 완전히 고정시킨다.", "고무풀을 바른 반제품의 건조에 대해서는 건조실을 특설하여야 한다.", "가솔린 사용 현장에서의 전기 난로사용을 허용한다."],
-		"answer": "가솔린 사용 현장에서의 전기 난로사용을 허용한다.",
-		"image": ""
-	},
-	{
-		"id": 42,
-		"english": "Which of the following is incorrect regarding the accident response methods in a chemical plant?",
-		"question": "화학공장의 사고 대응방법으로 옳지 않은 것은?",
-		"choices": ["위험물질 분출대비를 위해 안전거리확보 및 방유제 구멍을 개방한다.", "가열된 탱크 및 탱크주변에 집중 냉각을 실시한다.", "파이어볼 형성을 대비하여 폭발을 방지한다.", "저장탱크 주변 화재를 신속히 제거한다."],
-		"answer": "위험물질 분출대비를 위해 안전거리확보 및 방유제 구멍을 개방한다.",
-		"image": ""
-	},
-	{
-		"id": 43,
-		"english": "Which of the following is incorrect regarding the response to liquid leakage?",
-		"question": "액체 누출 물질의 대응 방법 중 옳지 않은 것은?",
-		"choices": ["소량 유출 시는 건조사, 유처리제 등으로 회수한다.", "대량 유출 시는 토사 등으로 유출확대 방지대책을 세워 회수한다.", "산, 알칼리 등이 유출되었을 때는 중화제를 이용하여 중화시키고 토양이나 하천으로 유출되도록 한다.", "증기가 발생할 경우에는 분무 주수시켜 증기발생을 억제한다."],
-		"answer": "산, 알칼리 등이 유출되었을 때는 중화제를 이용하여 중화시키고 토양이나 하천으로 유출되도록 한다.",
-		"image": ""
-	},
-	{
-		"id": 44,
-		"english": "Which of the following is incorrect regarding the response to solid leakage?",
-		"question": "고체 누출 물질의 대응 방법 중 옳지 않은 것은?",
-		"choices": ["방수시트 등으로 덮어 비산확대를 방지한다.", "용기에 회수하여 마개를 한 뒤 물 또는 세제를 함유한 물로 세척한다.", "산성 물질은 회수 후 소석회, 소가회 등으로 처리한 다음 다량의 물로 세척한다.", "비산한 분말 등은 가능한 난연성이고 습기가 있는 용기로 회수한다."],
-		"answer": "산성 물질은 회수 후 소석회, 소가회 등으로 처리한 다음 다량의 물로 세척한다.",
-		"image": ""
-	},
-	{
-		"id": 45,
-		"english": "Which of the following is incorrect regarding response activities for safety accidents?",
-		"question": "안전사고 발생에 대한 대응 활동으로 옳지 않은 것은?",
-		"choices": ["설비의 가동 조건을 수시로 확인하고 점검과 보수가 철저하게 이루어져야 한다.", "각종 안전장치는 비상시 작동될 수 있도록 폐쇄되거나 막힘이 없이 관리되어야 한다.", "각종 안전장치는 재료 선정과 설치 장소별 비상배출조건을 고려하지 않아도 된다.", "작업자들은 비상조치 계획 등을 충분히 습득하여 작업자의 실수가 일어나지 않도록 철저한 교육과 훈련을 받아야 한다."],
-		"answer": "각종 안전장치는 재료 선정과 설치 장소별 비상배출조건을 고려하지 않아도 된다.",
-		"image": ""
-	},
-	{
-		"id": 46,
-		"english": "Which of the following is incorrect regarding reporting and investigating safety accidents?",
-		"question": "안전사고 발생시 신고 및 조사에 대한 방법으로 옳지 않은 것은?",
-		"choices": ["모든 사고는 예외 없이 사고조사를 실시한다.", "밝혀진 근본원인에 대한 적절한 조치 및 재발방지 대책이 제시되어야 한다.", "사고조사는 사고 발생 후 지정된 시간 안에 착수되어야 한다.", "사고조사 수행 기간은 별도로 지정하지 않아도 된다."],
-		"answer": "사고조사 수행 기간은 별도로 지정하지 않아도 된다.",
-		"image": ""
-	},
-	{
-		"id": 47,
-		"english": "Which of the following is incorrect as a countermeasure for static electricity (charge removal)?",
-		"question": "정전기(대전의 제거)에 대한 대책으로 옳지 않은 것은?",
-		"choices": ["정전 제거기의 증설설비, 정기점검을 이행한다.", "스프레더의 독터나이프, 가이드로울, 기타의 접지를 재인식하고 또한 작은 구멍에서 수증기를 발생시켜 습도를 일정 이상으로 유지한다.", "습도계에 주의하고 건조계절에는 바닥에 살수하는 것을 금지한다.", "연속가황실의 헝겊 넣는 입구 등의 청소를 하여 섬유조각이 쌓이지 않게 한다."],
-		"answer": "습도계에 주의하고 건조계절에는 바닥에 살수하는 것을 금지한다.",
-		"image": ""
-	},
-	{
-		"id": 48,
-		"english": "Which of the following is incorrect as a countermeasure for improving safety in various facilities?",
-		"question": "여러 시설의 안전 개선 대책으로 옳지 않은 것은?",
-		"choices": ["소각로를 완전한 것으로 폐장한다.", "방화문을 신설 또는 지붕 위에 파티션(분리대)을 설치한다.", "프로판가스의 봄베사용을 폐지하고 탱크로 대체한다.", "컴프레서실의 냉각용수파이프 접속부 점검을 하고 단열재를 적시에 교체한다."],
-		"answer": "소각로를 완전한 것으로 폐장한다.",
-		"image": ""
-	},
-	{
-		"id": 49,
-		"english": "Which of the following is incorrect regarding safety measures for electrical equipment?",
-		"question": "전기 설비에 대한 안전 대책으로 옳지 않은 것은?",
-		"choices": ["스위치의 주변부에는 인화물을 놓지 않도록 지도를 철저히 한다.", "방폭형 스위치를 채용하여 스위치에 의한 스파크를 유도한다.", "형광등 내부의 안정기불량에 의한 누전방지를 위해 차단시설을 완전하게 한다.", "접속 코드를 적시에 점검하고 항상 완전한 상태로 유지한다."],
-		"answer": "방폭형 스위치를 채용하여 스위치에 의한 스파크를 유도한다.",
-		"image": ""
-	},
-	{
-		"id": 50,
-		"english": "In the case of a major accident, an investigation is conducted by the accident management department of the upper department. Which of the following does not correspond to conducting an accident investigation?",
-		"question": "중요사고인 경우 상위부서의 사고관리부서에서 조사를 실시하는데, 다음 중 사고 조사 실시에 해당되지 않는 것은?",
-		"choices": ["중상해 이상 상해사고", "불가항력적인 천재지변", "화재 등 중대 산업 사고", "폭발, 누출 등 중대 산업 사고"],
-		"answer": "불가항력적인 천재지변",
-		"image": ""
-	},
-	{
-		"id": 51,
-		"english": "What is the main material of plastic products?",
-		"question": "플라스틱 제품의 주재료는?",
-		"choices": ["금속", "세라믹", "고분자", "광물"],
-		"answer": "고분자",
-		"image": ""
-	},
-	{
-		"id": 52,
-		"english": "Which of the following is not a general-purpose plastic?",
-		"question": "범용 플라스틱이 아닌 것은?",
-		"choices": ["폴리에틸렌(PE)", "천연고무", "폴리프로필렌(PP)", "폴리염화비닐(PVC)"],
-		"answer": "천연고무",
-		"image": ""
-	},
-	{
-		"id": 53,
-		"english": "Which of the following is not an advantage of plastic?",
-		"question": "플라스틱의 장점이 아닌 것은?",
-		"choices": ["가볍다.", "전기전도성이 우수하다.", "부식에 강하다.", "자성을 가지고 있다."],
-		"answer": "전기전도성이 우수하다.",
-		"image": ""
-	},
-	{
-		"id": 54,
-		"english": "Which of the following is not a molding method for plastics?",
-		"question": "플라스틱의 성형법이 아닌 것은?",
-		"choices": ["압축성형", "압출성형", "사출성형", "압연성형"],
-		"answer": "압연성형",
-		"image": ""
-	},
-	{
-		"id": 55,
-		"english": "Which of the following is a plastic?",
-		"question": "플라스틱인 것은?",
-		"choices": ["섬유", "고무", "접착제", "셀룰로이드"],
-		"answer": "셀룰로이드",
-		"image": ""
-	},
-	{
-		"id": 56,
-		"english": "Which of the following is not a thermoplastic resin?",
-		"question": "열가소성 수지가 아닌 것은?",
-		"choices": ["폴리염화비닐 수지", "폴리에틸렌 수지", "폴리프로필렌 수지", "에폭시 수지"],
-		"answer": "에폭시 수지",
-		"image": ""
-	},
-	{
-		"id": 57,
-		"english": "Which of the following is a thermosetting resin?",
-		"question": "열경화성 수지인 것은?",
-		"choices": ["페놀 수지", "폴리스티렌 수지", "ABS 수지", "폴리이미드 수지"],
-		"answer": "페놀 수지",
-		"image": ""
-	},
-	{
-		"id": 58,
-		"english": "Which synthetic resin is mainly used for packaging films and various containers in the shape of bottles, and is classified into low, medium, and high density based on its density?",
-		"question": "주로 필름으로 된 포장용 용도 및 병 모양의 여러 가지 용기로 사용되며, 밀도에 따라 저밀도, 중밀도, 고밀도의 3 종류로 분류되는 합성수지는?",
-		"choices": ["폴리프로필렌", "폴리에틸렌", "폴리스타이렌", "폴리염화비닐"],
-		"answer": "폴리에틸렌",
-		"image": ""
-	},
-	{
-		"id": 59,
-		"english": "Commonly known as vinyl, which synthetic resin is used for everything from soft packaging to tubing, hoses, wire coatings, and hard pipes and gutters?",
-		"question": "흔히 비닐로 불리며, 연질의 포장용부터 튜브, 호수 전선의 피복, 경질의 파이프, 홈통 등에 주로 사용되는 합성수지는?",
-		"choices": ["폴리프로필렌", "폴리에틸렌", "폴리스타이렌", "폴리염화비닐"],
-		"answer": "폴리염화비닐",
-		"image": ""
-	},
-	{
-		"id": 60,
-		"english": "What substance is added during plastic molding to increase plasticity and improve moldability?",
-		"question": "플라스틱 성형 시, 소성을 높여 성형 가공성을 높이기 위하여 첨가하는 물질은?",
-		"choices": ["난연제", "가소제", "발포제", "가교제"],
-		"answer": "가소제",
-		"image": ""
-	},
-	{
-		"id": 61,
-		"english": "Which of the following is a processing method for thermoplastic plastics that involves melting the resin and then molding it through extrusion?",
-		"question": "열가소성 플라스틱의 가공방법으로 수지를 용융시킨 후, 압출을 통하여 성형하는 방법은?",
-		"choices": ["압축성형", "압출성형", "사출성형", "블로우성형"],
-		"answer": "압출성형",
-		"image": ""
-	},
-	{
-		"id": 62,
-		"english": "Which synthetic resin has a structure where a methyl group (CH3) is attached to every other carbon in the polyethylene molecular chain and has the lowest density?",
-		"question": "폴리에틸렌분자 사슬 탄소에 하나씩 걸러 메틸기(CH3)가 붙은 구조이며, 비중이 가장 낮은 특징을 가지는 합성수지는?",
-		"choices": ["폴리프로필렌", "폴리에틸렌", "폴리스타이렌", "폴리염화비닐"],
-		"answer": "폴리프로필렌",
-		"image": ""
-	},
-	{
-		"id": 63,
-		"english": "Which synthetic resin, known for its brittleness, is rarely used alone but is mixed with other polymers to make toys, TV cases, and packaging materials?",
-		"question": "취성이 있어 단독으로 사용되는 경우는 거의 없으나, 다른 중합체와 혼합하여 장난감, 텔레비전 케이스 포장재 등에 사용되는 합성수지는?",
-		"choices": ["폴리프로필렌", "폴리에틸렌", "폴리스타이렌", "폴리염화비닐"],
-		"answer": "폴리스타이렌",
-		"image": ""
-	},
-	{
-		"id": 64,
-		"english": "Which synthetic resin is characterized by amide bonds (-CONH-) and is commonly represented by nylon?",
-		"question": "대표적인 것이 나일론이며, 아미드결합(-CONH-)을 가지는 합성수지는?",
-		"choices": ["폴리프로필렌", "폴리에틸렌", "폴리아미드", "폴리염화비닐"],
-		"answer": "폴리아미드",
-		"image": ""
-	},
-	{
-		"id": 65,
-		"english": "What is the main raw material for PET bottles, which constitute most of the plastic beverage bottles on the market?",
-		"question": "시중에 유통되는 플라스틱 음료수병의 대부분을 차지하는 페트병의 주원료는?",
-		"choices": ["폴리프로필렌", "폴리에틸렌", "폴리스타이렌", "폴리에틸렌 테레프탈레이트"],
-		"answer": "폴리에틸렌 테레프탈레이트",
-		"image": ""
-	},
-	{
-		"id": 66,
-		"english": "Which thermosetting resin, known as Bakelite or Bake, is one of the oldest plastics and is characterized by its high temperature resistance?",
-		"question": "열경화성수지로 가장 오래된 플라스틱 중의 하나이며, 베이클라이트 또는 베이크라고도 한다. 주로 높은 온도에 견디는 것이 특징인 합성수지는?",
-		"choices": ["폴리우레탄", "페놀수지", "에폭시수지", "멜라민수지"],
-		"answer": "페놀수지",
-		"image": ""
-	},
-	{
-		"id": 67,
-		"english": "Which thermosetting resin, containing epoxy groups in its molecules, is known for its excellent heat resistance, adhesiveness, and chemical resistance?",
-		"question": "분자 내에 에폭시기를 갖는 열경화성 수지로 내열성, 접착성, 내약품성이 우수한 합성 수지는?",
-		"choices": ["폴리우레탄", "페놀수지", "에폭시수지", "멜라민수지"],
-		"answer": "에폭시수지",
-		"image": ""
-	},
-	{
-		"id": 68,
-		"english": "Polyethylene's physical properties vary with density. What do we call polyethylene with a density of 0.941-0.965?",
-		"question": "폴리에틸렌은 밀도에 따라 물리적 성질이 달라진다. 밀도가 0.941~0.965의 폴리에틸렌을 어떤 폴리에틸렌이라 하는가?",
-		"choices": ["고밀도 폴리에틸렌(HDPE)", "중밀도 폴리에틸렌(MDPE)", "중저밀도 폴리에틸렌(MLDPE)", "저밀도 폴리에틸렌(LDPE)"],
-		"answer": "고밀도 폴리에틸렌(HDPE)",
-		"image": ""
-	},
-	{
-		"id": 69,
-		"english": "Which term, referring to the long chain structure of polymers and resulting in large values from tens of thousands to hundreds of thousands, determines the properties of plastics?",
-		"question": "플라스틱의 성질을 정하는 것으로 금속이나 저분자량 유기물에 비하여, 고분자의 긴 사슬모양을 가짐으로써 수만에서 수십만까지의 큰 값을 나타내는 것은?",
-		"choices": ["분자량", "원자량", "화학식량", "구조식량"],
-		"answer": "분자량",
-		"image": ""
-	},
-	{
-		"id": 70,
-		"english": "Plastics are ( ) artificially shaped using high molecular substances as the main raw material. What is the appropriate term to fill in the blank?",
-		"question": "플라스틱이란 고분자물질을 주원료로 해서 유용한 형상을 인공적으로 만든 ( )이다. ( )안에 들어갈 알맞은 말은?",
-		"choices": ["고체", "액체", "기체", "무기물"],
-		"answer": "고체",
-		"image": ""
-	},
-	{
-		"id": 71,
-		"english": "What type of plastic becomes a high-viscosity liquid when heated and solid when cooled?",
-		"question": "가열하면 녹아서 점도 높은 액체로 되고 냉각하면 고체가 되는 플라스틱은?",
-		"choices": ["열경화성수지", "열가소성수지", "결정성고분자", "비결정성고분자"],
-		"answer": "열가소성수지",
-		"image": ""
-	},
-	{
-		"id": 72,
-		"english": "Which stage in the plastic molding process includes mixing, kneading, drying, and grinding of polymers and additives?",
-		"question": "플라스틱 성형가공 공정 중 중합체와 첨가제의 혼합, 혼련, 건조, 분쇄 등의 공정을 포함하는 단계는?",
-		"choices": ["전처리공정", "1차 성형가공", "2차 성형가공", "후공정"],
-		"answer": "전처리공정",
-		"image": ""
-	},
-	{
-		"id": 73,
-		"english": "Which of the following is not a synthetic polymer?",
-		"question": "합성고분자가 아닌 것은?",
-		"choices": ["나일론", "합성고무", "비닐", "종이"],
-		"answer": "종이",
-		"image": ""
-	},
-	{
-		"id": 74,
-		"english": "Which of the following is not used as a main raw material for plastic manufacturing?",
-		"question": "플라스틱 제조의 주원료로 사용되는 것이 아닌 것은?",
-		"choices": ["석탄", "금속", "석유", "천연가스"],
-		"answer": "금속",
-		"image": ""
-	},
-	{
-		"id": 75,
-		"english": "What plastic molding process is depicted in the image?",
-		"question": "그림과 같은 플라스틱 성형 가공법은?",
-		"choices": ["압출성형", "사출성형", "압축성형", "블로잉성형"],
-		"answer": "사출성형",
-		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/plastic.png"
-	},
-	{
-		"id": 76,
-		"english": "What plastic molding process is depicted in the image?",
-		"question": "그림과 같은 플라스틱 성형가공 방법은?",
-		"choices": ["압출성형", "압축성형", "사출성형", "공기 취입 성형"],
-		"answer": "사출성형",
-		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/plastic1.png"
-	},
-	{
-		"id": 77,
-		"english": "What type of synthetic resin, once hardened by a chemical reaction upon heating, does not soften or melt when reheated?",
-		"question": "가열로 화학반응이 일어나 한번 굳어진 후에는 다시 가열해도 부드러워지거나 녹지 않는 합성수지는?",
-		"choices": ["폴리에틸렌", "폴리프로필렌", "폴리스티렌", "에폭시 수지"],
-		"answer": "에폭시 수지",
-		"image": ""
-	},
-	{
-		"id": 78,
-		"english": "Which statement correctly describes thermosetting plastics?",
-		"question": "열경화성 플라스틱에 대하여 바르게 설명한 것은?",
-		"choices": ["폐품을 활용할 수 있다.", "아크릴 수지, 나일론 수지 등이 있다.", "한번 열에 의해 굳으면 다시 열을 가해도 녹지 않는다.", "분자구조가 선 모양이다."],
-		"answer": "한번 열에 의해 굳으면 다시 열을 가해도 녹지 않는다.",
-		"image": ""
-	},
-	{
-		"id": 79,
-		"english": "Which statement correctly describes the properties of plastics?",
-		"question": "플라스틱의 성질에 대한 설명으로 옳은 것은?",
-		"choices": ["전기나 열을 잘 전달한다.", "유리나 금속에 비해 무겁다", "쉽게 착색할 수 있어 여러 가지 색깔을 낼 수 있다.", "모든 플라스틱은 빛을 잘 통과시키지 못한다."],
-		"answer": "쉽게 착색할 수 있어 여러 가지 색깔을 낼 수 있다.",
-		"image": ""
-	},
-	{
-		"id": 80,
-		"english": "What type of plastic was developed to address issues arising from plastic waste disposal?",
-		"question": "플라스틱 폐기 시, 발생하는 문제점을 해결하기 위하여 개발된 플라스틱의 종류는?",
-		"choices": ["열가소성 수지", "비결정성 수지", "생분해성 수지", "열경화성 수지"],
-		"answer": "생분해성 수지",
-		"image": ""
-	},
-	{
-		"id": 81,
-		"english": "Which is not one of the three major industrial materials?",
-		"question": "중요한 3대 산업용 소재에 속하지 않는 것은?",
-		"choices": ["금속", "고무", "플라스틱", "세라믹"],
-		"answer": "고무",
-		"image": ""
-	},
-	{
-		"id": 82,
-		"english": "Which is not a consideration when extruding plastic?",
-		"question": "플라스틱 압출 시, 고려해야 할 점이 아닌 것은?",
-		"choices": ["압출기의 온도", "압출기 스크류의 회전수", "최종 제품의 형태", "사출 금형"],
-		"answer": "사출 금형",
-		"image": ""
-	},
-	{
-		"id": 83,
-		"english": "What is the molding temperature for polyethylene?",
-		"question": "폴리에틸렌의 성형 온도에 해당하는 것은?",
-		"choices": ["50 ~ 100 ℃", "190 ~ 280 ℃", "100 ~ 150 ℃", "온도와 무관하게 성형가능하다."],
-		"answer": "190 ~ 280 ℃",
-		"image": ""
-	},
-	{
-		"id": 84,
-		"english": "What is necessary for injection molding plastic products, which contains the molten plastic material to form the product mold?",
-		"question": "플라스틱 제품의 사출성형을 위해 필요한 것으로 녹은 플라스틱 재료를 담아 제품의 틀을 만들어 주는 것은?",
-		"choices": ["사출금형", "실린더", "스크루", "호퍼"],
-		"answer": "사출금형",
-		"image": ""
-	},
-	{
-		"id": 85,
-		"english": "Which molding method is not based on an extruder?",
-		"question": "압출기를 베이스로 하는 플라스틱 성형법이 아닌 것은?",
-		"choices": ["인플레이션 압출", "T다이 압출", "발포성형 압출", "금형을 이용한 성형"],
-		"answer": "금형을 이용한 성형",
-		"image": ""
-	},
-	{
-		"id": 86,
-		"english": "Which is not a molding method for plastic materials?",
-		"question": "플라스틱 재료의 성형 방법이 아닌 것은?",
-		"choices": ["압출성형", "사출성형", "카렌다 성형", "주물 성형"],
-		"answer": "주물 성형",
-		"image": ""
-	},
-	{
-		"id": 87,
-		"english": "What is the molding method for thermoplastic resin that continuously rolls into a certain thickness on a hot roll to make films, sheets, leather, wallpaper, and flooring?",
-		"question": "열가소성 수지를 열롤에서 일정한 두께로 연속 압연하여 필름, 시트, 레자, 벽지, 바닥재 등을 만드는 성형 방법은?",
-		"choices": ["진공 성형", "중공 성형", "카렌다 성형", "압축 성형"],
-		"answer": "카렌다 성형",
-		"image": ""
-	},
-	{
-		"id": 88,
-		"english": "Which plastic auxiliary material is used to improve the flow of resin during plastic processing and make shaping convenient?",
-		"question": "다음 플라스틱 보조재료 중 플라스틱 가공 시, 수지의 흐름을 좋게 하고, 모양 내기편리하도록 하기 위해 사용하는 것은?",
-		"choices": ["가소제", "활제", "보강제", "난연제"],
-		"answer": "가소제",
-		"image": ""
-	},
-	{
-		"id": 89,
-		"english": "Which plastic auxiliary material is used to make plastic products fire-resistant?",
-		"question": "플라스틱 보조재료 중 플라스틱 제품이 불에 타지 않게 하기 위해 사용하는 것은?",
-		"choices": ["가소제", "활제", "보강제", "난연제"],
-		"answer": "난연제",
-		"image": ""
-	},
-	{
-		"id": 90,
-		"english": "Which plastic auxiliary material is used to improve the strength of plastic products?",
-		"question": "다음 플라스틱 보조재료 중 플라스틱 제품의 강도를 향상시키기 위하여 사용하는 것은?",
-		"choices": ["가소제", "활제", "보강제", "난연제"],
-		"answer": "보강제",
-		"image": ""
-	},
-	{
-		"id": 91,
-		"english": "Which plastic auxiliary material is used to make foam plastics such as Styrofoam?",
-		"question": "플라스틱 보조재료 중 스티로폼 등의 거품 플라스틱을 만들기 위하여 사용되는 것은?",
-		"choices": ["가소제", "발포제", "보강제", "난연제"],
-		"answer": "발포제",
-		"image": ""
-	},
-	{
-		"id": 92,
-		"english": "What is the main reason why plastic resins have unique physical properties compared to general organic materials?",
-		"question": "플라스틱 수지가 일반 유기물에 비하여 독특한 물성을 갖는 가장 주요한 이유는?",
-		"choices": ["분자량", "제조 방법", "성형 방법", "첨가제"],
-		"answer": "분자량",
-		"image": ""
-	},
-	{
-		"id": 93,
-		"english": "Which term does not refer to the substance that makes up the basic backbone of polymers and determines their physical properties?",
-		"question": "고분자의 기본 골격을 구성하는 물질로, 고분자의 물성을 결정하는 것을 일컫는 말이 아닌 것은?",
-		"choices": ["모노머(monomer)", "단량체", "반복구조", "원자"],
-		"answer": "원자",
-		"image": ""
-	},
-	{
-		"id": 94,
-		"english": "What is the world's first plastic?",
-		"question": "세계 최초의 플라스틱은?",
-		"choices": ["셀롤로이드", "페놀", "폴리에틸렌", "폴리프로필렌"],
-		"answer": "셀롤로이드",
-		"image": ""
-	},
-	{
-		"id": 95,
-		"english": "What is the term for the maximum elongation distance when a polymer material is fractured by tensile load?",
-		"question": "고분자 재료가 인장 하중에 의해 파단될 때, 최대 늘어난 거리를 말하는 것은?",
-		"choices": ["인장강도", "압축강도", "굴곡강도", "신율"],
-		"answer": "신율",
-		"image": ""
-	},
-	{
-		"id": 96,
-		"english": "What is the term for the maximum stress when a polymer material is fractured by tensile load?",
-		"question": "고분자 재료가 인장 하중에 의해 파단할 때의 최대 응력을 말하는 것은?",
-		"choices": ["인장강도", "압축강도", "굴곡강도", "신율"],
-		"answer": "인장강도",
-		"image": ""
-	},
-	{
-		"id": 97,
-		"english": "Which material, with the following monomer, is a thermoplastic that is light and flexible and used for bottles, packaging, and electrical insulators?",
-		"question": "아래와 같은 단량체를 가지며, 열가소성 플라스틱의 하나로써 가볍고 유연하며, 병, 포장재, 전기 절연체로 사용되는 것은?",
-		"choices": ["폴리에틸렌", "폴리프로필렌", "폴리염화비닐", "폴리스타이렌"],
-		"answer": "폴리에틸렌",
-		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/plastic2.png"
-	},
-	{
-		"id": 98,
-		"english": "Which material, with the following monomer, is a thermoplastic that is easy to color, resistant to abrasion, and used for artificial leather, records, packaging, pipes, and flooring?",
-		"question": "다음과 같은 단량체를 가지며, 열가소성 플라스틱의 하나로 색을 내기 쉽고, 잘 마모되지 않는 특징을 가지며, 인조 가죽, 레코드판, 포장재, 파이프, 바닥재 등에 사용되는 것은?",
-		"choices": ["폴리에틸렌", "폴리프로필렌", "폴리염화비닐", "폴리스타이렌"],
-		"answer": "폴리염화비닐",
-		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/plastic3.png"
-	},
-	{
-		"id": 99,
-		"english": "What is the synthetic resin described below? 'It is a polymer connected by amide bonds (-CONH-) and can be made by the condensation polymerization of diamine and divalent acid. Nylon, the representative material for stockings, falls into this category.'",
-		"question": "다음에서 설명하는 합성수지는? “아미드결합(-CONH-)으로 연결된 중합체의 총칭이며, 디아민과 2가산의 축합 중합으로 만들 수 있으며, 스타킹의 대표적인 원료인 나일론이 여기에 속한다.”",
-		"choices": ["폴리에틸렌", "폴리프로필렌", "폴리염화비닐", "폴리아미드"],
-		"answer": "폴리아미드",
-		"image": ""
-	},
-	{
-		"id": 100,
-		"english": "Which thermoplastic resin, also known as PET, constitutes most of the plastic beverage bottles in the market?",
-		"question": "열가소성 수지로 페트(PET)라고도 불리우며, 시중에 유통되는 플라스틱 음료수병의 대부분을 차지하는 합성수지는?",
-		"choices": ["폴리에틸렌", "폴리에틸렌 테레프탈레이트", "폴리염화비닐", "폴리스타이렌"],
-		"answer": "폴리에틸렌 테레프탈레이트",
-		"image": ""
-	},
-	{
-		"id": 101,
-		"english": "Which statement about natural rubber is correct?",
-		"question": "천연고무에 대한 설명으로 맞는 것은?",
-		"choices": ["현재 고무나무는 주로 남아메리카에서 재배된다.", "고무나무의 줄기를 잘라 가열하면 천연고무가 생산된다.", "고분자 물질이다.", "고무나무에서 생산한 고무는 가공 없이 공업적으로 이용한다."],
-		"answer": "고분자 물질이다.",
-		"image": ""
-	},
-	{
-		"id": 102,
-		"english": "According to the international standards of quality and packing for natural rubber grades, into how many grades is raw rubber classified?",
-		"question": "생고무는 천연고무 등급품의 국제품질 포장 기준(international standards of quality and packing for natural rubber grades)에 따라 몇 품종으로 나뉘는가?",
-		"choices": ["5 품종", "8 품종", "10 품종", "12 품종"],
-		"answer": "10 품종",
-		"image": ""
-	},
-	{
-		"id": 103,
-		"english": "What is the coagulant added to prevent raw latex from coagulating when making Ribbed Smoked Sheet (RSS)?",
-		"question": "리브드 스모크드 시이트(Ribbed Smoked Sheet, RSS)를 만들 때 원료 라텍스가 응고되는 것을 방지하기 위해 넣는 응고방지제는?",
-		"choices": ["암모니아(NH4OH)", "염산(HCl)", "질산(HNO3)", "가성소다(NaOH)"],
-		"answer": "암모니아(NH4OH)",
-		"image": ""
-	},
-	{
-		"id": 104,
-		"english": "What type of raw rubber is easy to process and maintains its dimensions well during processing?",
-		"question": "가공하기 좋은 생고무의 일종으로 가공 중에 변형이 적어서 치수를 일정하게 유지하기 좋은 고무는?",
-		"choices": ["SP고무(superior processing rubber)", "에어 드라이브 시이트(air dried sheet)", "페일 크레이프(pale crepe)", "리브드 스모크드 시이트(ribbed smoked sheet)"],
-		"answer": "SP고무(superior processing rubber)",
-		"image": ""
-	},
-	{
-		"id": 105,
-		"english": "Which type of natural rubber occupies 80% of the production and is most widely used industrially?",
-		"question": "천연고무 생산량의 80%를 점유하며, 공업적으로 가장 많이 사용되고 있는 것은?",
-		"choices": ["이소프렌고무(isoprene rubber)", "부타디엔고무(butadine rubber)", "리브드 스모크드 시이트(ribbed smoked sheet)", "아크릴고무(acryl rubber)"],
-		"answer": "리브드 스모크드 시이트(ribbed smoked sheet)",
-		"image": ""
-	},
-	{
-		"id": 106,
-		"english": "Which rubber is named and corrected based on the opinions of producers and consumers in Malaysia?",
-		"question": "말레이시아에서 생산자와 소비자의 의견을 바탕으로 기존의 기술 규격을 정정, 명명된 고무는?",
-		"choices": ["우레탄고무 (urethane rubber)", "가황고무", "천연고무", "표준 말레이시아고무 (standard Malaysian rubber)"],
-		"answer": "표준 말레이시아고무 (standard Malaysian rubber)",
-		"image": ""
-	},
-	{
-		"id": 107,
-		"english": "Which gas is essential for converting raw rubber into chlorinated rubber?",
-		"question": "생고무를 염화고무로 만드는 데 꼭 필요한 가스는?",
-		"choices": ["산소(O2)", "이산화탄소(CO2)", "질소(N2)", "염소가스(Cl2)"],
-		"answer": "염소가스(Cl2)",
-		"image": ""
-	},
-	{
-		"id": 108,
-		"english": "Compared to natural rubber, what is a disadvantage of styrene-butadiene rubber?",
-		"question": "천연고무와 비교했을 때 스틸렌-부타디엔고무(styrene-butadine rubber)의 단점은?",
-		"choices": ["품질이 균일하다.", "가격이 싸다.", "열에 비교적 강하다.", "탄성이 적다."],
-		"answer": "탄성이 적다.",
-		"image": ""
-	},
-	{
-		"id": 109,
-		"english": "What is an advantage of acrylonitrile-butadiene rubber?",
-		"question": "아크릴로니트릴 부타디엔 고무(acrylonitrile-butadine rubber)의 장점은?",
-		"choices": ["가공하기 어렵다.", "기름에 강하다.", "탄성이 나쁘다.", "접착성이 나쁘다."],
-		"answer": "기름에 강하다.",
-		"image": ""
-	},
-	{
-		"id": 110,
-		"english": "Which statement about neoprene rubber is incorrect?",
-		"question": "네오프렌 고무(neoprene rubber)의 설명으로 틀린 것은?",
-		"choices": ["탄성이 조금 약하다.", "클로로프렌 고무라고도 한다.", "약품에 잘 견딘다.", "열에 비교적 약하다."],
-		"answer": "열에 비교적 약하다.",
-		"image": ""
-	},
-	{
-		"id": 111,
-		"english": "Which is not a common use for butadiene rubber?",
-		"question": "부타디엔 고무(butadine rubber)가 주로 쓰이는 곳이 아닌 것은?",
-		"choices": ["안경", "자동차타이어", "신발", "골프공"],
-		"answer": "안경",
-		"image": ""
-	},
-	{
-		"id": 112,
-		"english": "Which rubber additive is used to enhance the strength and elasticity of rubber?",
-		"question": "고무에 들어가는 배합제 중 고무의 강도와 탄성 등을 강화하기 사용하는 것은?",
-		"choices": ["파라핀 왁스(parattin wax)", "충진제(filler)", "고무배합유", "노화방지제"],
-		"answer": "충진제(filler)",
-		"image": ""
-	},
-	{
-		"id": 113,
-		"english": "Which is a correct property of butyl rubber (isobutylene-isoprene rubber)?",
-		"question": "부틸고무(isobutylene-isoprene rubber)의 특성으로 옳은 것은?",
-		"choices": ["전기를 잘 통한다.", "화학약품에 약하다.", "열에 아주 약하다.", "충격을 잘 흡수한다."],
-		"answer": "충격을 잘 흡수한다.",
-		"image": ""
-	},
-	{
-		"id": 114,
-		"english": "Which is not a property of urethane rubber?",
-		"question": "우레탄 고무(urethane rubber)의 성질이 아닌 것은?",
-		"choices": ["기름에 잘 견딘다.", "추위를 잘 견딘다.", "햇빛을 쪼이면 색이 변한다.", "잡아 당기면 쉽게 끊어진다."],
-		"answer": "잡아 당기면 쉽게 끊어진다.",
-		"image": ""
-	},
-	{
-		"id": 115,
-		"english": "Which rubber is used for special purposes and can withstand up to 350°C?",
-		"question": "350℃까지 사용할 수 있는 내열고무 원료로써 특수한 용도에 많이 사용되고 있는 고무는?",
-		"choices": ["우레탄고무(urethane rubber)", "실리콘고무(silicone rubber)", "아크릴고무(acryl rubber)", "하이파론고무(hypalon rubber)"],
-		"answer": "실리콘고무(silicone rubber)",
-		"image": ""
-	},
-	{
-		"id": 116,
-		"english": "Which is NOT a general characteristic of rubber products?",
-		"question": "고무제품의 일반적인 특성에 대한 설명이 아닌 것은?",
-		"choices": ["상온에서 힘을 가하면 늘어난다.", "압축하면 반발한다.", "힘을 가해 늘어난 고무는 힘을 제거하면 다시 줄어든다.", "금속만큼 고온에 잘 견딘다."],
-		"answer": "금속만큼 고온에 잘 견딘다.",
-		"image": ""
-	},
-	{
-		"id": 117,
-		"english": "Which is NOT a characteristic of fluoro rubber (fluoropropylene monomer)?",
-		"question": "플루오르고무(fluoropropylene monomer)에 대한 설명이 아닌 것은?",
-		"choices": ["불소고무라고도 한다.", "바이톤고무(Viton rubber)라고도 한다.", "국방병기, 인공위성 등에 사용된다.", "가격이 싸다."],
-		"answer": "가격이 싸다.",
-		"image": ""
-	},
-	{
-		"id": 118,
-		"english": "What is a disadvantage of reclaimed rubber?",
-		"question": "재생고무의 단점은?",
-		"choices": ["탄성이 뒤떨어진다.", "기름에 잘 견딘다.", "가격이 싸다", "원료 고무의 일부를 대체할 수 있다."],
-		"answer": "탄성이 뒤떨어진다.",
-		"image": ""
-	},
-	{
-		"id": 119,
-		"english": "In 1840, an American scientist improved the properties of natural rubber by adding this substance, making it widely used in the industry. What is this substance?",
-		"question": "1840년 미국의 과학자가 천연고무에 이 물질을 넣어서 성질을 개량한 결과, 산업에서 많이 쓰이게 되었다. 이 물질은 무엇인가?",
-		"choices": ["황(S)", "염소(Cl)", "탄소(C)", "산소(O)"],
-		"answer": "황(S)",
-		"image": ""
-	},
-	{
-		"id": 120,
-		"english": "Which of the following synthetic rubbers was created first?",
-		"question": "다음 합성고무 중 가장 먼저 만들어진 것은?",
-		"choices": ["네오프렌고무(neoprene rubber)", "불소고무", "EPR고무(에틸렌-프로필렌 공중합체)", "SP고무(superior processing rubber)"],
-		"answer": "네오프렌고무(neoprene rubber)",
-		"image": ""
-	},
-	{
-		"id": 121,
-		"english": "What is the basic unit substance that constitutes natural rubber?",
-		"question": "천연고무를 구성하고 있는 기본 단위 물질은?",
-		"choices": ["벤젠", "알코올", "라텍스", "이소프렌"],
-		"answer": "이소프렌",
-		"image": ""
-	},
-	{
-		"id": 122,
-		"english": "Which synthetic rubber is produced the most among all synthetic rubbers?",
-		"question": "전체 합성고무 중 가장 많이 생산되는 고무는?",
-		"choices": ["스티렌-부타디엔고무(styrene butadine rubber)", "이소프렌고무(isoprene rubber)", "우레탄고무(urethane rubber)", "부틸고무(isobutylene-isoprene rubber)"],
-		"answer": "스티렌-부타디엔고무(styrene butadine rubber)",
-		"image": ""
-	},
-	{
-		"id": 123,
-		"english": "What chemical reaction is used to produce synthetic rubber?",
-		"question": "합성 고무는 어떤 화학 반응을 이용하여 제조하는가?",
-		"choices": ["가열", "연소", "분해", "중합"],
-		"answer": "중합",
-		"image": ""
-	},
-	{
-		"id": 124,
-		"english": "Which natural substance, similar to rubber, is used to make chewing gum?",
-		"question": "고무와 유사한 천연물로 껌을 만드는 데 쓰이는 것은?",
-		"choices": ["발라타(balata)", "사탕수수", "치클(chicle)", "젤루통(jelutong)"],
-		"answer": "치클(chicle)",
-		"image": ""
-	},
-	{
-		"id": 125,
-		"english": "In the oil method regeneration process for rubber, which involves mixing rubber powder and oil, what is the first step?",
-		"question": "고무의 재생방법 중 고무분말과 기름을 혼합하는 유법재생 공정에서 가장 먼저 하는 일은?",
-		"choices": ["조쇄(cracking)", "세쇄(grinding)", "초벌혼합(rough refinding)", "스트레이닝(straining)"],
-		"answer": "조쇄(cracking)",
-		"image": ""
-	},
-	{
-		"id": 126,
-		"english": "Which is not a consideration when mixing raw materials for rubber product production?",
-		"question": "고무제품을 생산하기 위해 고무의 원료 배합시 고려해야 하는 사항이 아닌 것은?",
-		"choices": ["수요자의 요구", "작업자의 경력", "산업용 용도", "KS규격"],
-		"answer": "작업자의 경력",
-		"image": ""
-	},
-	{
-		"id": 127,
-		"english": "What is the preparation process called to thoroughly mix large amounts of chemicals into raw rubber?",
-		"question": "원료 고무에 다량의 약품을 골고루 혼합하기 위해 준비하는 작업공정은?",
-		"choices": ["내림(mastication)", "절단", "정리", "보관"],
-		"answer": "내림(mastication)",
-		"image": ""
-	},
-	{
-		"id": 128,
-		"english": "Which statement correctly describes the kneading process?",
-		"question": "혼련 작업에 대한 설명으로 옳은 것은?",
-		"choices": ["원료의 불량을 검사하는 작업이다.", "내림(mastication)된 고무에 배합약품을 균등하게 섞어서 분해시키는 작업이다.", "각종 고무를 적당한 비율로 섞는 작업이다.", "원료고무를 적당한 크기로 자르는 작업이다."],
-		"answer": "내림(mastication)된 고무에 배합약품을 균등하게 섞어서 분해시키는 작업이다.",
-		"image": ""
-	},
-	{
-		"id": 129,
-		"english": "What is the first additive to be added in the rubber compounding process?",
-		"question": "천연고무의 배합 공정에서 가장 먼저 집어넣는 첨가제는?",
-		"choices": ["가황 촉진제", "산화아연", "연화제", "황"],
-		"answer": "산화아연",
-		"image": ""
-	},
-	{
-		"id": 130,
-		"english": "Which type of product is most commonly produced using molds in industrial rubber production?",
-		"question": "금형을 사용하여 산업용 고무를 생산할 때 가장 많이 생산되는 제품은?",
-		"choices": ["프레스 금형 고무제품", "카렌다 가공 고무제품", "압출 성형 고무제품", "발포성형 고무제품"],
-		"answer": "프레스 금형 고무제품",
-		"image": ""
-	},
-	{
-		"id": 131,
-		"english": "What additive is used to easily remove rubber products from molds?",
-		"question": "고무제품을 금형(mold)에서 쉽게 떼어내기 위해 사용하는 첨가제는?",
-		"choices": ["이형제", "산화제", "착색제", "난연제"],
-		"answer": "이형제",
-		"image": ""
-	},
-	{
-		"id": 132,
-		"english": "Why is a flame retardant used as an additive when processing rubber products?",
-		"question": "고무제품을 가공할 때 첨가제로 난연제를 사용하는 이유는?",
-		"choices": ["색깔을 내기 위해", "불에 잘 타지 않도록 하기 위해", "기름에 잘 견디도록 하기 위해", "접착성을 높이기 위해"],
-		"answer": "불에 잘 타지 않도록 하기 위해",
-		"image": ""
-	},
-	{
-		"id": 133,
-		"english": "Which additive is used to create bubbles when manufacturing rubber sponges?",
-		"question": "고무 스폰지를 제조할 때 기포를 만들기 위해 사용하는 첨가제는?",
-		"choices": ["파라핀 왁스(paraffin wax)", "충진제(filler)", "발포제(blowing agent)", "카본블랙(carbon black)"],
-		"answer": "발포제(blowing agent)",
-		"image": ""
-	},
-	{
-		"id": 134,
-		"english": "What is the correct sequence of typical rubber processing steps?",
-		"question": "일반적인 고무 가공공정의 순서로 맞는 것은?",
-		"choices": ["반죽공정 → 성형공정 → 가황공정", "성형공정 → 가황공정 → 반죽공정", "가황공정 → 반죽공정 → 성형공정", "가황공정 → 성형공정 → 반죽공정"],
-		"answer": "반죽공정 → 성형공정 → 가황공정",
-		"image": ""
-	},
-	{
-		"id": 135,
-		"english": "What rubber product is used to bond two objects together?",
-		"question": "두 물체를 붙이기 위해 사용하는 고무 제품은?",
-		"choices": ["타이어", "V벨트", "고무롤러", "접착제"],
-		"answer": "접착제",
-		"image": ""
-	},
-	{
-		"id": 136,
-		"english": "Which is not a suitable purpose for testing the physical properties of rubber?",
-		"question": "고무의 물성 시험 목적으로 적절하지 않은 것은?",
-		"choices": ["공정관리", "제품규격 평가", "연구개발", "재고처리"],
-		"answer": "재고처리",
-		"image": ""
-	},
-	{
-		"id": 137,
-		"english": "What term refers to the hardness of rubber?",
-		"question": "고무의 물성 중 딱딱한 정도를 말하는 것은?",
-		"choices": ["탄성(elastic)", "경도(hardness)", "박리(delamination)", "접착(adhesion)"],
-		"answer": "경도(hardness)",
-		"image": ""
-	},
-	{
-		"id": 138,
-		"english": "Which test measures the tensile strength, elongation, and tensile stress of rubber products when pulled and torn?",
-		"question": "고무제품을 잡아당겨 찢어질 때의 인장강도, 신장률 및 인장응력 정도를 측정하는 시험은?",
-		"choices": ["접착시험", "반발탄성시험", "인장강도시험", "인열시험"],
-		"answer": "인장강도시험",
-		"image": ""
-	},
-	{
-		"id": 139,
-		"english": "Which test measures how well rubber products withstand cold temperatures?",
-		"question": "고무제품이 추위에 얼마나 잘 견디는지를 측정하는 시험은?",
-		"choices": ["내후 시험", "내한 시험", "내수증기 시험", "내산 시험"],
-		"answer": "내한 시험",
-		"image": ""
-	},
-	{
-		"id": 140,
-		"english": "What is the most basic and important standard used for various tests on rubber products in Korea?",
-		"question": "우리나라에서 고무제품의 각종 시험시 사용되는 가장 기본이 되고 중요한 규격은?",
-		"choices": ["KS", "ISO", "JIS", "DIN"],
-		"answer": "KS",
-		"image": ""
-	},
-	{
-		"id": 141,
-		"english": "Which test measures the degree of aging when vulcanized rubber is heated?",
-		"question": "가황고무를 가열했을 때 노화되는 정도를 측정하는 실험은?",
-		"choices": ["내유 시험", "내알칼리 시험", "오존 균열 시험", "노화시험"],
-		"answer": "노화시험",
-		"image": ""
-	},
-	{
-		"id": 142,
-		"english": "Which test measures the adhesion of products where rubber and fabric are tightly bonded?",
-		"question": "고무와 섬유가 밀착된 제품의 밀착력을 측정하는 시험은?",
-		"choices": ["박리시험", "인열시험", "내수시험", "바닷물시험"],
-		"answer": "박리시험",
-		"image": ""
-	},
-	{
-		"id": 143,
-		"english": "What oil is mainly used in the oil resistance test of vulcanized rubber?",
-		"question": "가황고무의 내유성 실험에 주로 사용되는 기름은?",
-		"choices": ["벤젠", "이소옥탄", "휘발유", "경유"],
-		"answer": "이소옥탄",
-		"image": ""
-	},
-	{
-		"id": 144,
-		"english": "Which physical test of vulcanized rubber does not destroy the sample?",
-		"question": "가황고무의 물성 시험 중 시료를 파괴하지 않는 시험은?",
-		"choices": ["인장시험", "경도시험", "인열시험", "박리시험"],
-		"answer": "경도시험",
-		"image": ""
-	},
-	{
-		"id": 145,
-		"english": "Which synthetic rubber has the best abrasion resistance and tear strength?",
-		"question": "합성고무 중 내마모성과 인열강도가 가장 우수한 것은?",
-		"choices": ["우레탄고무(urethane rubber)", "실리콘고무(silicone rubber)", "아크릴고무(acryl rubber)", "부타디엔고무(butadine rubber)"],
-		"answer": "우레탄고무(urethane rubber)",
-		"image": ""
-	},
-	{
-		"id": 146,
-		"english": "What is the appropriate laboratory temperature for testing the physical properties of vulcanized rubber?",
-		"question": "가황고무의 물리적 성질 시험시 적당한 실험실 온도는?",
-		"choices": ["20℃ 이하", "20℃ ～ 30℃", "30℃ 이상", "10℃ 이하"],
-		"answer": "20℃ ～ 30℃",
-		"image": ""
-	},
-	{
-		"id": 147,
-		"english": "Which rubber compounding agent is used to make rubber soft when processing?",
-		"question": "고무를 가공할 때 부드럽게 하기 위해 사용하는 고무배합약품은?",
-		"choices": ["착색제 (coloring agent)", "난연제 (flame retardant)", "점착제 (takifies)", "사브 (factice, rubber sustitude)"],
-		"answer": "사브 (factice, rubber sustitude)",
-		"image": ""
-	},
-	{
-		"id": 148,
-		"english": "What is the basic thickness of the test piece used to measure the hardness of rubber?",
-		"question": "고무의 경도를 측정할 때 사용하는 시험편의 기본두께는?",
-		"choices": ["4mm 이상", "12mm 이상", "16mm 이상", "20mm 이상"],
-		"answer": "12mm 이상",
-		"image": ""
-	},
-	{
-		"id": 149,
-		"english": "To measure the permanent elongation rate of rubber, what is the rate if the distance between marked lines before measurement was 50mm and after measurement was 100mm?",
-		"question": "고무를 늘였다가 줄일 때, 원래 길이보다 약간 늘어나는 현상을 측정하기 위해 신장영구늘음률을 측정한다. 측정 전에 표시한 선간의 길이가 50mm였고 측정 후 표시한 선간의 길이가 100mm였다면 이 때의 신장영구늘음률은?",
-		"choices": ["20", "50", "100", "150"],
-		"answer": "100",
-		"image": ""
-	},
-	{
-		"id": 150,
-		"english": "What is the pressure in pascals (Pa) when a force of 2N is applied to a rubber plate with an area of 1m²?",
-		"question": "1m2의 고무판에 2N의 힘이 작용하고 있을 때 고무판에 가해진 압력은 몇 파스칼(Pa)인가?",
-		"choices": ["0.5", "1", "1.5", "2"],
-		"answer": "2",
-		"image": ""
-	},
-	{
-		"id": 151,
-		"english": "What is the auxiliary material used to improve the processability and performance of plastic or synthetic resin by adding chemical substances during processing or polymerization?",
-		"question": "플라스틱 또는 합성수지의 가공 용이 및 최종제품의 성능 개량 등을 위해 가공이나 중합과정에서 첨가되는 화학물질로 플라스틱의 취약성을 보완하고 특성을 살리기 위해 사용되는 보조재료는?",
-		"choices": ["플라스틱 활성제", "플라스틱 보조제", "플라스틱 첨가제", "플라스틱 산화제"],
-		"answer": "플라스틱 첨가제",
-		"image": ""
-	},
-	{
-		"id": 152,
-		"english": "Which of the following is not a plastic additive?",
-		"question": "플라스틱 첨가제가 아닌 것은?",
-		"choices": ["가소제", "열안정제", "적외선안정제", "자외선안정제"],
-		"answer": "적외선안정제",
-		"image": ""
-	},
-	{
-		"id": 153,
-		"english": "What is not the purpose of using plastic additives?",
-		"question": "플라스틱 첨가제를 사용하는 목적이 아닌 것은?",
-		"choices": ["플라스틱의 품질 개량", "성형품의 가공성", "장기적 안정성 유지", "플라스틱의 환경안전"],
-		"answer": "플라스틱의 환경안전",
-		"image": ""
-	},
-	{
-		"id": 154,
-		"english": "Which compound helps maintain the physical and chemical properties of resin during the product's usage period, especially since the manipulation of plastic mixing and manufacturing is done at high temperatures?",
-		"question": "플라스틱의 혼합 및 제조 등의 조작은 고온에서 이루어지기 때문에 첨가제의 보호 없이는 심하게 분해된다. 이에 제품의 사용기간 중 수지의 물리적, 화학적 성질을 유지하도록 도와주는 화합물은?",
-		"choices": ["플라스틱 열안정제", "플라스틱 혼합제", "플라스틱 산화방지제", "플라스틱 충격보강제"],
-		"answer": "플라스틱 열안정제",
-		"image": ""
-	},
-	{
-		"id": 155,
-		"english": "What is the additive that is added to plastic to increase its original properties of splitting, tension, compression, bending, and impact strength, and enhances dimensional stability and resistance to thermal deformation?",
-		"question": "플라스틱 제품 본래의 분열, 인장, 압축, 휨, 충격강도를 증가시키기 위해 플라스틱에 첨가하는 섬유상 불용성 물질로써 치수안정성과 열변형에 대한 저항력을 증진시키는 이 첨가제는?",
-		"choices": ["플라스틱 열안정제", "플라스틱 자외선안정제", "플라스틱 산화방지제", "플라스틱 충격보강제"],
-		"answer": "플라스틱 충격보강제",
-		"image": ""
-	},
-	{
-		"id": 156,
-		"english": "Which of the following is not an antioxidant used to inhibit or prevent oxidation and degradation of products during manufacturing or usage due to exposure to oxygen in the air?",
-		"question": "공기 중 산소에 의해 산화열화를 받아 제품 제조 혹은 사용시에 품질 저하를 일으키는 것을 억제, 방지하기 위해 사용하는 산화방지제가 아닌 것은?",
-		"choices": ["페놀계", "알콜계", "아민계", "유황계"],
-		"answer": "알콜계",
-		"image": ""
-	},
-	{
-		"id": 157,
-		"english": "Plastic additives can be broadly classified into three categories based on their uses. Which of the following is not one of these categories?",
-		"question": "플라스틱 첨가제는 보조재료로 첨가되므로 용도에 따라 크게 3가지로 분류 할 수 있다. 해당하지 않는 것은?",
-		"choices": ["수지가공을 위한 가공첨가제", "성형 압축을 위한 압축가공제", "공기, 열, 빛 미생물에 의한 분해를 최소화하는 안정제", "최종 제품 성형시 들어가는 성능첨가제"],
-		"answer": "성형 압축을 위한 압축가공제",
-		"image": ""
-	},
-	{
-		"id": 158,
-		"english": "Plastic fillers are generally mixed in large amounts compared to other additives. What is the mixing ratio used when the amount is large?",
-		"question": "플라스틱 충진제는 다른 첨가제에 비해 대량으로 배합되는 것이 일반적인데, 많을 경우는 어느 정도의 배합 비율을 사용하는가?",
-		"choices": ["70~80%", "60~50%", "50~40%", "40~30%"],
-		"answer": "70~80%",
-		"image": ""
-	},
-	{
-		"id": 159,
-		"english": "Plastic is generally colored by mixing with pigments. What are the basic coloring agents used?",
-		"question": "플라스틱은 일반적으로 착색제와 배합에 의해 착색되는데, 기본적으로 사용되는 착색제는?",
-		"choices": ["물감과 안료", "염료와 도료", "안료와 염료", "안료와 색소료"],
-		"answer": "안료와 염료",
-		"image": ""
-	},
-	{
-		"id": 160,
-		"english": "What is the process called where two or more materials are mixed to impart functionality and characteristics to plastic molded products, involving optimal blending and pre- and post-process design?",
-		"question": "플라스틱 성형품에 기능과 특성을 부여하기 위하여 2종 이상의 소재를 혼합하는 공정으로써 최적의 배합과 공정설계를 통한 사전, 사후작업을 하는 것은?",
-		"choices": ["압출성형", "코팅성형", "컴파운딩", "중공 진공 성형"],
-		"answer": "컴파운딩",
-		"image": ""
-	},
-	{
-		"id": 161,
-		"english": "Which of the following equipment is used to evaluate the tensile strength, compressive strength, flexural strength, and elongation to assess the characteristics of plastic polymer raw materials?",
-		"question": "다음 중 플라스틱 원료 고분자의 특성 물성 평가를 위해서 인장강도, 압축강도, 굴곡강도, 신율을 파악하기 위해 사용하는 장비는?",
-		"choices": ["전자현미경", "3차원측정기", "만능재료시험기", "광학현미경"],
-		"answer": "만능재료시험기",
-		"image": ""
-	},
-	{
-		"id": 162,
-		"english": "An impact tester is used to evaluate the mechanical properties of plastic polymer materials. Which of the following cannot be assessed with this equipment?",
-		"question": "플라스틱 원료 고분자의 기계적 물성 평가를 위해서 충격시험기를 사용한다. 이 장비를 가지고 파악할 수 없는 것은?",
-		"choices": ["충격강도", "아이죠드", "접착", "굴곡강도"],
-		"answer": "굴곡강도",
-		"image": ""
-	},
-	{
-		"id": 163,
-		"english": "Which of the following is not a method for evaluating the mechanical properties of plastic polymer molded products?",
-		"question": "플라스틱의 고분자 성형품의 기계적 물성을 파악하기 위한 방법이 아닌 것은?",
-		"choices": ["내안성", "내열성", "내구성", "내한성"],
-		"answer": "내안성",
-		"image": ""
-	},
-	{
-		"id": 164,
-		"english": "Which of the following is not a physical evaluation method for plastic product properties?",
-		"question": "플라스틱 제품 물성의 물리적 평가 방법이 아닌 것은?",
-		"choices": ["유동성시험", "수축성시험", "화합성시험", "비중시험"],
-		"answer": "화합성시험",
-		"image": ""
-	},
-	{
-		"id": 165,
-		"english": "Which of the following is incorrect about evaluating the properties of plastic coating materials?",
-		"question": "플라스틱 코팅 재료 물성을 평가하기 위한 설명 중 틀린 것은?",
-		"choices": ["플라스틱 제품의 수학적 물성에 관련된 이론을 파악하여 측정된 물성을 평가 할 수 있다.", "플라스틱 제품의 기계적 물성 종류를 파악하여 필요한 물성을 선택할 수 있다.", "플라스틱 제품의 건조 및 열적 경화거동 특성을 파악하여 관련된 물성을 평가 할 수 있다.", "플라스틱 점탄성적인 유변학 특성을 파악하여 액상 코팅작업 특성을 확인 할 수 있다."],
-		"answer": "플라스틱 제품의 수학적 물성에 관련된 이론을 파악하여 측정된 물성을 평가 할 수 있다.",
-		"image": ""
-	},
-	{
-		"id": 166,
-		"english": "Which of the following is not a method for evaluating the properties of plastic products?",
-		"question": "플라스틱 제품의 물성 평가 시험 방법이 아닌 것은 무엇인가?",
-		"choices": ["플라스틱 전기적 특성시험", "플라스틱 환경적 특성시험", "플라스틱 열적 특성시험", "플라스틱 기계적 특성시험"],
-		"answer": "플라스틱 환경적 특성시험",
-		"image": ""
-	},
-	{
-		"id": 167,
-		"english": "Which of the following statements is incorrect regarding the application and utilization of thermal properties of plastic polymers?",
-		"question": "플라스틱 고분자 열적 물성의 적용 활용 방법을 설명한 것 중 잘못된 것은?",
-		"choices": ["열적 물성 적용을 파악하기 위해서 전자현미경을 활용할 수 있다.", "유리전이온도, 용융온도를 파악하기 위하여 주사시차열량계를 활용할 수 있다.", "난연성을 파악하기 위하여 UL-94, OI 시험기를 활용할 수 있다.", "열분해온도와 잔존무기물 함량을 파악하기 위하여 열중량 분석기를 활용할 수 있다."],
-		"answer": "열적 물성 적용을 파악하기 위해서 전자현미경을 활용할 수 있다.",
-		"image": ""
-	},
-	{
-		"id": 168,
-		"english": "Which of the following statements is incorrect about the properties of MC series Nylon (NYLON), a raw material for plastic products?",
-		"question": "플라스틱 제품의 원료인 MC계열 나일론(NYLON)의 특성을 잘못 설명한 것은?",
-		"choices": ["고분자량과 결정화도가 낮다", "금속보다 긴 수명을 갖고 있다", "놀라운 충격 흡수성을 갖고 있다.", "탁월한 유연성을 갖고 있다."],
-		"answer": "고분자량과 결정화도가 낮다",
-		"image": ""
-	},
-	{
-		"id": 169,
-		"english": "Which material used as a raw material in plastic manufacturing has the best durability at high temperatures?",
-		"question": "플라스틱 제조시 사용되는 원료 중에 고온에서의 내구성이 가장 좋은 물질은?",
-		"choices": ["고밀도 폴리에틸렌 HDPE", "나일론 MC-901", "탄소섬유강화 PEEK", "경질염화비닐 PVC-6"],
-		"answer": "탄소섬유강화 PEEK",
-		"image": ""
-	},
-	{
-		"id": 170,
-		"english": "Which of the following MC series Nylon (Nylon) has the highest tensile strength (pulling strength) property evaluation test?",
-		"question": "플라스틱 제조에 사용되는 MC계열 나일론(Nylon) 중 인장강도(잡아 당기는 힘) 물성평가 시험에서 가장 강도가 좋은 원료는?",
-		"choices": ["나일론 MC-901", "나일론 MC-801", "나일론 MC-907", "나일론 MC-701SL"],
-		"answer": "나일론 MC-901",
-		"image": ""
-	}
+  {
+    "id": 1,
+    "english": "When should a dust mask be worn?",
+    "question": "방진마스크를 착용해야 하는 경우는?",
+    "choices": [
+      "유기 증기가 발생하는 화학 공장",
+      "인체에 유해한 분진발생 작업장",
+      "암모니아 가스를 사용하는 작업장",
+      "벤젠 및 이소프로필알코올 등의 화학물질을 사용하는 작업장"
+    ],
+    "answer": "인체에 유해한 분진발생 작업장",
+    "image": ""
+  },
+  {
+    "id": 2,
+    "english": "Which protective equipment is used to protect the eyes from splashing chemicals?",
+    "question": "화학물질이 튀는 것으로부터 눈을 보호하기 위하여 사용하는 보호구는?",
+    "choices": ["보안경", "밀폐형 고글", "도수안경", "선글라스"],
+    "answer": "밀폐형 고글",
+    "image": ""
+  },
+  {
+    "id": 3,
+    "english": "What is the correct way to wear hearing protection?",
+    "question": "청력보호구의 올바른 착용 방법은?",
+    "choices": [
+      "소음이 발생하는 시간동안 90%만 착용하고 10%는 착용하지 않아도 된다.",
+      "청력보호구의 착용이 불편하다면 착용하지 않아도 무방하다.",
+      "소음발생시 50%만 착용하고 소음이 상대적으로 적을 때는 착용하지 않는다.",
+      "소음이 발생하는 시간동안 100% 착용한다."
+    ],
+    "answer": "소음이 발생하는 시간동안 100% 착용한다.",
+    "image": ""
+  },
+  {
+    "id": 4,
+    "english": "Which statement about protective gloves is incorrect?",
+    "question": "보호 장갑에 대한 설명 중 틀린 것은?",
+    "choices": [
+      "장갑을 사용 시에는 손상된 부위가 있는지 확인한 후 사용한다.",
+      "가격이 높을수록 많은 보호가 되므로 비싼 장갑을 사용하는 것이 좋다.",
+      "장갑을 착용한 채 컴퓨터를 사용해서는 안 된다.",
+      "장갑 사용 시에는 장신구를 제거한 후 사용하여야 한다."
+    ],
+    "answer": "가격이 높을수록 많은 보호가 되므로 비싼 장갑을 사용하는 것이 좋다.",
+    "image": ""
+  },
+  {
+    "id": 5,
+    "english": "Which statement about workplace safety rules is incorrect?",
+    "question": "작업장 안전수칙에 대한 설명 중 틀린 것은?",
+    "choices": [
+      "안전수칙을 준수하고 반드시 적합한 개인보호구를 착용한다.",
+      "최소한의 화학약품 사용하여 사고의 가능성을 줄이고, 작업시 폐기물의 양을 최소화 한다.",
+      "가스 사용시 사용 후에 중간밸브 및 주 밸브는 항상 틀어 놓는다.",
+      "유독성이나 물질을 다루는 작업시, 피부 접촉을 피할 수 있는 보호 장구를 반드시 착용한다."
+    ],
+    "answer": "가스 사용시 사용 후에 중간밸브 및 주 밸브는 항상 틀어 놓는다.",
+    "image": ""
+  },
+  {
+    "id": 6,
+    "english": "Which of the following is incorrect as a precaution when working with machine tools?",
+    "question": "공작기계 작업시의 주의사항으로 틀린 것은?",
+    "choices": [
+      "장갑 착용은 원칙적으로 금지하나 꼭 필요한 경우 손가락 부분을 1/2 절단하여 사용한다.",
+      "보안경 및 작업복은 작업환경에 따라 착용하지 않아도 된다.",
+      "가공을 막 끝낸 공작물이나 칩은 매우 뜨거우므로 장갑을 끼고 작업한다.",
+      "작업의 속도를 늦추거나 멈추려 할 때는 반드시 기계스위치를 이용한다."
+    ],
+    "answer": "보안경 및 작업복은 작업환경에 따라 착용하지 않아도 된다.",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "english": "Which of the following is not a proper fire response procedure?",
+    "question": "화재발생시 대처 요령으로 알맞지 않은 것은?",
+    "choices": [
+      "화재발생시 “불이야”하고 주위에 화재 사실을 알리고 119에 신고한다.",
+      "피난 시 가장 가까운 통로나 계단을 통해 신속히 대피한다.",
+      "초기 소화가 가능한 경우에는 신속히 소화기 등으로 진화한다.",
+      "바람이 없는 실내에서 소화기를 사용할 경우에는 편한 위치에서 진화한다."
+    ],
+    "answer": "바람이 없는 실내에서 소화기를 사용할 경우에는 편한 위치에서 진화한다.",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "english": "Which statement about fire extinguishers is inappropriate?",
+    "question": "소화기에 대한 설명으로 부적절한 것은?",
+    "choices": [
+      "소화기는 화재 초기에 중요한 소화기구이다.",
+      "소화기는 고온다습한 곳과 직사광선을 피하여 보관한다.",
+      "소화기는 캐비넷 등에 보관하고, 시건장치를 해놓는 것이 좋다.",
+      "소화기는 수시로 노즐 및 압력게이지를 확인하여 이상이 있는 경우 새 것으로 교체한다."
+    ],
+    "answer": "소화기는 캐비넷 등에 보관하고, 시건장치를 해놓는 것이 좋다.",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "english": "Which of the following is incorrect as an evacuation and escape guideline during a fire?",
+    "question": "화재시 피난 및 대피요령을 설명한 것으로 맞지 않는 것은?",
+    "choices": [
+      "피난시 외부로 나가는 통로를 이용한다.",
+      "화재시 지체 없이 피난한다.",
+      "연기가 많을 때에는 최대한 자세를 낮춰 이동한다.",
+      "중요한 물건이 있을 경우 신속히 들어가서 가지고 나온다."
+    ],
+    "answer": "중요한 물건이 있을 경우 신속히 들어가서 가지고 나온다.",
+    "image": ""
+  },
+  {
+    "id": 10,
+    "english": "Which of the following hazard warning signs is incorrectly matched?",
+    "question": "위험물 경고표지입니다 연결이 틀린 것은?",
+    "choices": [
+      "인화성물질 경고",
+      "폭발성물질 경고",
+      "부식성물질 경고",
+      "급성독성물질 경고"
+    ],
+    "answer": "급성독성물질 경고",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "english": "Which of the following is not used to make rubber an elastomer through heating or other treatments that link rubber molecules?",
+    "question": "고무에 혼합하여 가열 또는 기타의 처리를 함으로써 고무분자간에 연결을 통해 탄성체의 고무로 하는 것이 아닌 것은?",
+    "choices": ["가소제", "가황제", "가교제", "난연제"],
+    "answer": "가소제",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "english": "Which additive is added to compounded rubber to prevent aging due to oxidation during long-term use of vulcanized rubber and extend its service life?",
+    "question": "배합고무에 가하여 가황고무 장기사용 중의 산화에 의한 노화를 방지, 사용수명을 연장하기 위하여 넣는 첨가제는?",
+    "choices": ["폴리머안정제", "노화(산화)방지제", "가황촉진제", "연화제"],
+    "answer": "노화(산화)방지제",
+    "image": ""
+  },
+  {
+    "id": 13,
+    "english": "Which ingredient must be used in rubber compounding as it enhances the activity of vulcanizing accelerators by forming fatty acids in sulfur vulcanization?",
+    "question": "유황가황에 있어서 공존하는 지방산을 만들어 가황촉진재의 활성을 높이는 배합제로 고무 배합상 반드시 사용하여야 하는 것은?",
+    "choices": ["유황", "폴리아민", "산화마그네슘", "산화아연"],
+    "answer": "산화아연",
+    "image": ""
+  },
+  {
+    "id": 14,
+    "english": "Which additive, working together with a vulcanizing agent, is used in small amounts to speed up the vulcanization process?",
+    "question": "가황제와 함께 작용하여 소량의 사용으로 가황속도를 증진시키는 첨가제는?",
+    "choices": ["노화방지제", "착색제", "가황촉진제", "발포제"],
+    "answer": "가황촉진제",
+    "image": ""
+  },
+  {
+    "id": 15,
+    "english": "Which substance, when added in small amounts during rubber manufacturing, slows down the vulcanization rate to prevent the process from occurring too quickly?",
+    "question": "고무제조시 소량을 첨가한 것만으로 가황의 속도를 늦춰, 가황시기가 너무 빨리 되는 것을 지연 시켜주는 물질은?",
+    "choices": ["가황지연제", "가황촉진제", "연화제", "가소제"],
+    "answer": "가황지연제",
+    "image": ""
+  },
+  {
+    "id": 16,
+    "english": "Which of the following is not a type of antioxidant?",
+    "question": "노화방지제의 종류가 아닌 것은?",
+    "choices": ["폴리머안정제", "금속해방지제", "오존방지제", "연화제"],
+    "answer": "연화제",
+    "image": ""
+  },
+  {
+    "id": 17,
+    "english": "Which plasticizer is suitable for all-purpose rubber manufacturing due to its compatibility, cold resistance, non-staining, and color stability, as well as good oxidation resistance?",
+    "question": "고무의 상용성 및 내한성, 비오염성, 색안정성이 좋고 내산화가 양호하여 모든 목적의 고무제조에 사용이 가능한 가소제는?",
+    "choices": ["방향족유", "파라핀계유", "나프텐계유", "지방족계유"],
+    "answer": "파라핀계유",
+    "image": ""
+  },
+  {
+    "id": 18,
+    "english": "Which compounding agent is used to improve the surface tackiness of compounded rubber?",
+    "question": "배합고무의 표면 점착성을 증진시키기 위한 배합제는?",
+    "choices": ["가소제", "발포제", "점착부여제(Tackifiers)", "가화지연제"],
+    "answer": "점착부여제(Tackifiers)",
+    "image": ""
+  },
+  {
+    "id": 19,
+    "english": "Which of the following is not a requirement for tackifiers?",
+    "question": "점착부여제로서 요구사항이 아닌 것은?",
+    "choices": [
+      "사용하는 고무소재와 잘 섞여야 한다.",
+      "점착부여제 자체의 점착성은 고려사항이 아니다.",
+      "고무배합물에 부여된 점착성 효력의 물성변화가 작은 것이어야 한다.",
+      "점착부여제가 강한 점착성을 가지고 있을 필요가 있다."
+    ],
+    "answer": "점착부여제 자체의 점착성은 고려사항이 아니다.",
+    "image": ""
+  },
+  {
+    "id": 20,
+    "english": "Which of the following is not a requirement for pigments used in rubber?",
+    "question": "고무용 안료로써 갖추어야 할 조건이 아닌 것은?",
+    "choices": [
+      "내열성이 있어야 한다.",
+      "유황, 황화수소에 대하여 안정하여야 한다.",
+      "노화방지제 등의 배합에 변화를 일으켜야 한다.",
+      "내수성이어야 한다."
+    ],
+    "answer": "노화방지제 등의 배합에 변화를 일으켜야 한다.",
+    "image": ""
+  },
+  {
+    "id": 21,
+    "english": "Which of the following is not a component of the chemical solution preparation process for unit processes?",
+    "question": "단위 공정별 주요설비의 약액제조 공정의 구성 요소가 아닌 것은?",
+    "choices": ["탱크류", "교반류", "펌프류", "탈수기"],
+    "answer": "탈수기",
+    "image": ""
+  },
+  {
+    "id": 22,
+    "english": "Which process consists of reactors and agitators for polymerization reactions?",
+    "question": "중합반응을 위한 반응기, 교반기로 구성되어 있는 공정은?",
+    "choices": ["반응공정", "약액제조공정", "회수공정", "저장 및 혼합공정"],
+    "answer": "반응공정",
+    "image": ""
+  },
+  {
+    "id": 23,
+    "english": "Which of the following is classified as other large equipment?",
+    "question": "기타 대형설비는?",
+    "choices": ["용접기", "암모니아 냉동기", "컴퓨터", "압출기"],
+    "answer": "암모니아 냉동기",
+    "image": ""
+  },
+  {
+    "id": 24,
+    "english": "Which process consists of large dryers (apron dryer, expander) for drying and forming machines (baler) for shaping?",
+    "question": "건조를 위한 대형 건조기(apron dryer, expander)와 성형을 위한 성형기(baler)로 구성되어 있는 공정은?",
+    "choices": ["응고 및 탈수공정", "반응공정", "건조 및 성형공정", "회수공정"],
+    "answer": "건조 및 성형공정",
+    "image": ""
+  },
+  {
+    "id": 25,
+    "english": "Which of the following is not a type of distillation column?",
+    "question": "증류탑(column)의 종류가 아닌 것은?",
+    "choices": ["흡수탑", "스트리핑 칼럼", "추출탑", "압출탑"],
+    "answer": "압출탑",
+    "image": ""
+  },
+  {
+    "id": 26,
+    "english": "Which process is described as using equipment to mold dried rubber particles (crumb) into rectangular rubber blocks by compressing 25kg or 35kg of rubber into high-pressure molds to produce the final rubber product called bales?",
+    "question": "건조된 고무 입자(crumb)를 직육면체의 고무 덩어리로 성형하는 설비로써, 직육면체 몰드에 25kg, 35kg의 고무를 고압으로 압착하여 베일(bale)이라는 최종 고무제품을 생산한다. 이것은 어떤 공정에 대한 설명인가?",
+    "choices": ["응고 및 탈수공정", "반응공정", "건조 및 성형공정", "회수공정"],
+    "answer": "건조 및 성형공정",
+    "image": ""
+  },
+  {
+    "id": 27,
+    "english": "Which of the following refers to industrial products synthesized from polymerization of petrochemical raw materials?",
+    "question": "석유화학 원료를 중합시켜 고분자 물질로 합성한 공산품에 해당되는 것은?",
+    "choices": ["합성고무", "천연고무", "친환경고무", "재활용고무"],
+    "answer": "합성고무",
+    "image": ""
+  },
+  {
+    "id": 28,
+    "english": "Which of the following is not a type of synthetic rubber?",
+    "question": "합성고무의 종류가 아닌 것은?",
+    "choices": ["NR", "EPDM", "SER", "BMW"],
+    "answer": "BMW",
+    "image": ""
+  },
+  {
+    "id": 29,
+    "english": "Which of the following is not a production process for synthetic rubber?",
+    "question": "합성고무의 생산 공정이 아닌 것은?",
+    "choices": ["중합공정", "제품공정", "품질검사 및 포장공정", "세척공정"],
+    "answer": "세척공정",
+    "image": ""
+  },
+  {
+    "id": 30,
+    "english": "Which process involves inspecting the appearance of molded synthetic rubber products and checking for foreign matter, sealing them in packaging film, and loading approximately 1 ton into large boxes for transport to the storage warehouse?",
+    "question": "성형된 합성고무제품의 외관과 이물 혼입여부를 검사하여 포장 필름으로 밀봉한 후, 약 1톤 정도를 담을 수 있는 대형 박스에 적재하여 보관 창고로 이송하는 공정은?",
+    "choices": [
+      "중합공정",
+      "저장 및 혼합공정",
+      "품질검사 및 포장공정",
+      "제품공정"
+    ],
+    "answer": "품질검사 및 포장공정",
+    "image": ""
+  },
+  {
+    "id": 31,
+    "english": "Which process involves storing intermediate latex products according to quality characteristics such as product type, mooney level, and bound monomer content, and mixing the stored latex to desired quality characteristics?",
+    "question": "중간 제품인 라텍스를 제품의 종류, 무니(mooney) 수준, 결합 모노머 함량 등의 품질 특성에 따라 구분 저장하고 저장된 라텍스를 원하는 품질특성으로 혼합하는 공정은?",
+    "choices": [
+      "응고 및 탈수공정",
+      "저장 및 혼합공정",
+      "품질검사 및 포장공정",
+      "건조 및 성형공정"
+    ],
+    "answer": "저장 및 혼합공정",
+    "image": ""
+  },
+  {
+    "id": 32,
+    "english": "Which type of rubber is described as having excellent tackiness and rebound elasticity, superior physical properties even without a reinforcing agent, and accounting for 40-45% of total rubber usage?",
+    "question": "점착성과 반발탄성이 우수한 고무로, 보강제를 사용하지 않아도 물성치가 우수하여 전체 고무 사용량의 40~45%를 점유하고 있다. 무엇에 대한 설명인가?",
+    "choices": ["SER", "NR", "천연고무", "EPDM"],
+    "answer": "NR",
+    "image": ""
+  },
+  {
+    "id": 33,
+    "english": "Which process determines the core quality of synthetic rubber, including the storage of chemicals, preparation of chemical solutions, injection of solutions, polymerization reaction, and recovery of unreacted monomers?",
+    "question": "합성고무의 핵심적인 품질을 결정하는 공정으로, 약품의 저장부터 약액의 제조, 약액의 투입, 중합반응, 미반응 모노머의 회수공정까지를 일컫는다. 무엇에 대한 설명인가?",
+    "choices": [
+      "저장 및 혼합공정",
+      "응고 및 탈수공정",
+      "중합공정",
+      "건조 및 성형공정"
+    ],
+    "answer": "중합공정",
+    "image": ""
+  },
+  {
+    "id": 34,
+    "english": "Which of the following is incorrect regarding the vacuum pump operation procedure?",
+    "question": "진공펌프(vacuum pump) 가동 절차의 설명으로 옳지 않은 것은?",
+    "choices": [
+      "모든 베어링에 윤활유를 공급하고 윤활 장치를 가동한다.",
+      "회전 부위들을 손으로 돌려서 부드럽게 회전이 되는지를 체크한다.",
+      "윤활 장치, 케이스의 오일 수위계를 체크한다.",
+      "냉각수 밸브를 잠그고 실린더를 보온시킨다."
+    ],
+    "answer": "냉각수 밸브를 잠그고 실린더를 보온시킨다.",
+    "image": ""
+  },
+  {
+    "id": 35,
+    "english": "Which of the following is incorrect regarding the compressor operation procedure?",
+    "question": "압축기(compressor) 가동 절차의 설명 중 옳지 않은 것은?",
+    "choices": [
+      "오일 수위를 확인하여 부족 시 수위계의 표시선까지 오일을 보충한다.",
+      "냉각수를 공급하고 냉각장치가 작동하는지를 점검한다.",
+      "압축기 가동을 멈추고 이음, 진동, 마찰 등의 특이 사항이 있는지를 확인한다.",
+      "윤활설비의 오일 저장조에 윤활유를 채우고 압축기가 무부하 상태인지를 체크한다."
+    ],
+    "answer": "압축기 가동을 멈추고 이음, 진동, 마찰 등의 특이 사항이 있는지를 확인한다.",
+    "image": ""
+  },
+  {
+    "id": 36,
+    "english": "Which of the following is incorrect regarding the operation procedure of a refrigerator?",
+    "question": "냉동기의 가동 절차에 대한 설명 중 옳지 않은 것은?",
+    "choices": [
+      "윤활유와 오일을 보충하고 냉각수의 주 밸브를 연다.",
+      "흡입부 밸브를 약간 열고 토출구 밸브를 모두 열어야 한다.",
+      "냉동기의 압축기 부분에 있는 모든 내부 밸브를 열어야 한다.",
+      "현장 조작반의 부하 조절기를 최대 위치로 설정한다."
+    ],
+    "answer": "현장 조작반의 부하 조절기를 최대 위치로 설정한다.",
+    "image": ""
+  },
+  {
+    "id": 37,
+    "english": "Which of the following is incorrect regarding the pump operation procedure?",
+    "question": "펌프류 가동 절차의 설명 중 옳지 않은 것은?",
+    "choices": [
+      "현장 조작반의 스위치가 자동으로 전환되어 있는지를 확인한다.",
+      "현장 조작반의 가동 스위치(start button)를 눌러서 펌프를 가동시킨다.",
+      "정상 작동이 확인되면 조정실과 연락을 취하여 운전모드를 자동으로 전환한다.",
+      "필요시, 자동모드에서 원격 가동정지 및 재가동에 이상이 없는지를 확인한다."
+    ],
+    "answer": "현장 조작반의 스위치가 자동으로 전환되어 있는지를 확인한다.",
+    "image": ""
+  },
+  {
+    "id": 38,
+    "english": "This is an instruction for producing products with precise properties through the mixing of stored intermediates. It primarily records mixing ratios, additive input amounts, mixing times, and product production times. What is being described?",
+    "question": "저장 중인 중간품의 혼합을 통해 정확한 물성의 제품을 생산하기 위한 지시서이다. 주로 혼합 비율과 첨가제 투입량, 혼합 시간, 제품 생산 시간 등이 기록된다. 무엇에 대한 설명인가?",
+    "choices": [
+      "중간품 혼합 처방(blend order)",
+      "시험지시서",
+      "반응기 투입처방(charge order)",
+      "약액제조처방(make-up order)"
+    ],
+    "answer": "중간품 혼합 처방(blend order)",
+    "image": ""
+  },
+  {
+    "id": 39,
+    "english": "This is an instruction that records the unit hourly input amounts of chemical solutions or chemicals into the reactor, target conversion rates, reaction times, and reaction temperatures, and follows the basic prescriptions for each product type. What is being described?",
+    "question": "단위 시간당 반응기에 투입되는 약액이나 약품들의 단위 시간당 투입량, 목표 전환율, 반응시간, 반응 온도 등이 기록된 지시서로, 기본적인 사항은 제품 품종별 처방에 따른다. 무엇에 대한 설명인가?",
+    "choices": [
+      "중간품 혼합 처방(blend order)",
+      "기타 지시서",
+      "반응기 투입처방(charge order)",
+      "약액제조처방(make-up order)"
+    ],
+    "answer": "반응기 투입처방(charge order)",
+    "image": ""
+  },
+  {
+    "id": 40,
+    "english": "This is an instruction issued when short-term operational adjustments or correction work are to be carried out, recording the details of the changes to be made, the validity period, and precautions. What is being described?",
+    "question": "단기적으로 운전 조건을 조정하거나 보정 작업을 실시하고자 할 때 발행되는 지시서로 변경하고자 하는 내용, 유효 기간, 주의 사항 등이 기록된다. 무엇에 대한 설명인가?",
+    "choices": [
+      "중간품 혼합 처방(blend order)",
+      "기타 지시서",
+      "반응기 투입처방(charge order)",
+      "제품 품종별 처방(basic recipe)"
+    ],
+    "answer": "기타 지시서",
+    "image": ""
+  },
+  {
+    "id": 41,
+    "english": "Which of the following is incorrect as a countermeasure for organic chemicals and flammable materials?",
+    "question": "유기약품, 인화성 자재에 대한 대책으로 옳지 않은 것은?",
+    "choices": [
+      "인화성의 용제는 모두 철제의 용기에 담고 이것을 사용하는 작업장에는 반드시 화학소화기를 비치한다.",
+      "고무액이 든 통이 동요 또는 전도(전락)하지 않게 완전히 고정시킨다.",
+      "고무풀을 바른 반제품의 건조에 대해서는 건조실을 특설하여야 한다.",
+      "가솔린 사용 현장에서의 전기 난로사용을 허용한다."
+    ],
+    "answer": "가솔린 사용 현장에서의 전기 난로사용을 허용한다.",
+    "image": ""
+  },
+  {
+    "id": 42,
+    "english": "Which of the following is incorrect regarding the accident response methods in a chemical plant?",
+    "question": "화학공장의 사고 대응방법으로 옳지 않은 것은?",
+    "choices": [
+      "위험물질 분출대비를 위해 안전거리확보 및 방유제 구멍을 개방한다.",
+      "가열된 탱크 및 탱크주변에 집중 냉각을 실시한다.",
+      "파이어볼 형성을 대비하여 폭발을 방지한다.",
+      "저장탱크 주변 화재를 신속히 제거한다."
+    ],
+    "answer": "위험물질 분출대비를 위해 안전거리확보 및 방유제 구멍을 개방한다.",
+    "image": ""
+  },
+  {
+    "id": 43,
+    "english": "Which of the following is incorrect regarding the response to liquid leakage?",
+    "question": "액체 누출 물질의 대응 방법 중 옳지 않은 것은?",
+    "choices": [
+      "소량 유출 시는 건조사, 유처리제 등으로 회수한다.",
+      "대량 유출 시는 토사 등으로 유출확대 방지대책을 세워 회수한다.",
+      "산, 알칼리 등이 유출되었을 때는 중화제를 이용하여 중화시키고 토양이나 하천으로 유출되도록 한다.",
+      "증기가 발생할 경우에는 분무 주수시켜 증기발생을 억제한다."
+    ],
+    "answer": "산, 알칼리 등이 유출되었을 때는 중화제를 이용하여 중화시키고 토양이나 하천으로 유출되도록 한다.",
+    "image": ""
+  },
+  {
+    "id": 44,
+    "english": "Which of the following is incorrect regarding the response to solid leakage?",
+    "question": "고체 누출 물질의 대응 방법 중 옳지 않은 것은?",
+    "choices": [
+      "방수시트 등으로 덮어 비산확대를 방지한다.",
+      "용기에 회수하여 마개를 한 뒤 물 또는 세제를 함유한 물로 세척한다.",
+      "산성 물질은 회수 후 소석회, 소가회 등으로 처리한 다음 다량의 물로 세척한다.",
+      "비산한 분말 등은 가능한 난연성이고 습기가 있는 용기로 회수한다."
+    ],
+    "answer": "산성 물질은 회수 후 소석회, 소가회 등으로 처리한 다음 다량의 물로 세척한다.",
+    "image": ""
+  },
+  {
+    "id": 45,
+    "english": "Which of the following is incorrect regarding response activities for safety accidents?",
+    "question": "안전사고 발생에 대한 대응 활동으로 옳지 않은 것은?",
+    "choices": [
+      "설비의 가동 조건을 수시로 확인하고 점검과 보수가 철저하게 이루어져야 한다.",
+      "각종 안전장치는 비상시 작동될 수 있도록 폐쇄되거나 막힘이 없이 관리되어야 한다.",
+      "각종 안전장치는 재료 선정과 설치 장소별 비상배출조건을 고려하지 않아도 된다.",
+      "작업자들은 비상조치 계획 등을 충분히 습득하여 작업자의 실수가 일어나지 않도록 철저한 교육과 훈련을 받아야 한다."
+    ],
+    "answer": "각종 안전장치는 재료 선정과 설치 장소별 비상배출조건을 고려하지 않아도 된다.",
+    "image": ""
+  },
+  {
+    "id": 46,
+    "english": "Which of the following is incorrect regarding reporting and investigating safety accidents?",
+    "question": "안전사고 발생시 신고 및 조사에 대한 방법으로 옳지 않은 것은?",
+    "choices": [
+      "모든 사고는 예외 없이 사고조사를 실시한다.",
+      "밝혀진 근본원인에 대한 적절한 조치 및 재발방지 대책이 제시되어야 한다.",
+      "사고조사는 사고 발생 후 지정된 시간 안에 착수되어야 한다.",
+      "사고조사 수행 기간은 별도로 지정하지 않아도 된다."
+    ],
+    "answer": "사고조사 수행 기간은 별도로 지정하지 않아도 된다.",
+    "image": ""
+  },
+  {
+    "id": 47,
+    "english": "Which of the following is incorrect as a countermeasure for static electricity (charge removal)?",
+    "question": "정전기(대전의 제거)에 대한 대책으로 옳지 않은 것은?",
+    "choices": [
+      "정전 제거기의 증설설비, 정기점검을 이행한다.",
+      "스프레더의 독터나이프, 가이드로울, 기타의 접지를 재인식하고 또한 작은 구멍에서 수증기를 발생시켜 습도를 일정 이상으로 유지한다.",
+      "습도계에 주의하고 건조계절에는 바닥에 살수하는 것을 금지한다.",
+      "연속가황실의 헝겊 넣는 입구 등의 청소를 하여 섬유조각이 쌓이지 않게 한다."
+    ],
+    "answer": "습도계에 주의하고 건조계절에는 바닥에 살수하는 것을 금지한다.",
+    "image": ""
+  },
+  {
+    "id": 48,
+    "english": "Which of the following is incorrect as a countermeasure for improving safety in various facilities?",
+    "question": "여러 시설의 안전 개선 대책으로 옳지 않은 것은?",
+    "choices": [
+      "소각로를 완전한 것으로 폐장한다.",
+      "방화문을 신설 또는 지붕 위에 파티션(분리대)을 설치한다.",
+      "프로판가스의 봄베사용을 폐지하고 탱크로 대체한다.",
+      "컴프레서실의 냉각용수파이프 접속부 점검을 하고 단열재를 적시에 교체한다."
+    ],
+    "answer": "소각로를 완전한 것으로 폐장한다.",
+    "image": ""
+  },
+  {
+    "id": 49,
+    "english": "Which of the following is incorrect regarding safety measures for electrical equipment?",
+    "question": "전기 설비에 대한 안전 대책으로 옳지 않은 것은?",
+    "choices": [
+      "스위치의 주변부에는 인화물을 놓지 않도록 지도를 철저히 한다.",
+      "방폭형 스위치를 채용하여 스위치에 의한 스파크를 유도한다.",
+      "형광등 내부의 안정기불량에 의한 누전방지를 위해 차단시설을 완전하게 한다.",
+      "접속 코드를 적시에 점검하고 항상 완전한 상태로 유지한다."
+    ],
+    "answer": "방폭형 스위치를 채용하여 스위치에 의한 스파크를 유도한다.",
+    "image": ""
+  },
+  {
+    "id": 50,
+    "english": "In the case of a major accident, an investigation is conducted by the accident management department of the upper department. Which of the following does not correspond to conducting an accident investigation?",
+    "question": "중요사고인 경우 상위부서의 사고관리부서에서 조사를 실시하는데, 다음 중 사고 조사 실시에 해당되지 않는 것은?",
+    "choices": [
+      "중상해 이상 상해사고",
+      "불가항력적인 천재지변",
+      "화재 등 중대 산업 사고",
+      "폭발, 누출 등 중대 산업 사고"
+    ],
+    "answer": "불가항력적인 천재지변",
+    "image": ""
+  },
+  {
+    "id": 51,
+    "english": "What is the main material of plastic products?",
+    "question": "플라스틱 제품의 주재료는?",
+    "choices": ["금속", "세라믹", "고분자", "광물"],
+    "answer": "고분자",
+    "image": ""
+  },
+  {
+    "id": 52,
+    "english": "Which of the following is not a general-purpose plastic?",
+    "question": "범용 플라스틱이 아닌 것은?",
+    "choices": [
+      "폴리에틸렌(PE)",
+      "천연고무",
+      "폴리프로필렌(PP)",
+      "폴리염화비닐(PVC)"
+    ],
+    "answer": "천연고무",
+    "image": ""
+  },
+  {
+    "id": 53,
+    "english": "Which of the following is not an advantage of plastic?",
+    "question": "플라스틱의 장점이 아닌 것은?",
+    "choices": [
+      "가볍다.",
+      "전기전도성이 우수하다.",
+      "부식에 강하다.",
+      "자성을 가지고 있다."
+    ],
+    "answer": "전기전도성이 우수하다.",
+    "image": ""
+  },
+  {
+    "id": 54,
+    "english": "Which of the following is not a molding method for plastics?",
+    "question": "플라스틱의 성형법이 아닌 것은?",
+    "choices": ["압축성형", "압출성형", "사출성형", "압연성형"],
+    "answer": "압연성형",
+    "image": ""
+  },
+  {
+    "id": 55,
+    "english": "Which of the following is a plastic?",
+    "question": "플라스틱인 것은?",
+    "choices": ["섬유", "고무", "접착제", "셀룰로이드"],
+    "answer": "셀룰로이드",
+    "image": ""
+  },
+  {
+    "id": 56,
+    "english": "Which of the following is not a thermoplastic resin?",
+    "question": "열가소성 수지가 아닌 것은?",
+    "choices": [
+      "폴리염화비닐 수지",
+      "폴리에틸렌 수지",
+      "폴리프로필렌 수지",
+      "에폭시 수지"
+    ],
+    "answer": "에폭시 수지",
+    "image": ""
+  },
+  {
+    "id": 57,
+    "english": "Which of the following is a thermosetting resin?",
+    "question": "열경화성 수지인 것은?",
+    "choices": ["페놀 수지", "폴리스티렌 수지", "ABS 수지", "폴리이미드 수지"],
+    "answer": "페놀 수지",
+    "image": ""
+  },
+  {
+    "id": 58,
+    "english": "Which synthetic resin is mainly used for packaging films and various containers in the shape of bottles, and is classified into low, medium, and high density based on its density?",
+    "question": "주로 필름으로 된 포장용 용도 및 병 모양의 여러 가지 용기로 사용되며, 밀도에 따라 저밀도, 중밀도, 고밀도의 3 종류로 분류되는 합성수지는?",
+    "choices": ["폴리프로필렌", "폴리에틸렌", "폴리스타이렌", "폴리염화비닐"],
+    "answer": "폴리에틸렌",
+    "image": ""
+  },
+  {
+    "id": 59,
+    "english": "Commonly known as vinyl, which synthetic resin is used for everything from soft packaging to tubing, hoses, wire coatings, and hard pipes and gutters?",
+    "question": "흔히 비닐로 불리며, 연질의 포장용부터 튜브, 호수 전선의 피복, 경질의 파이프, 홈통 등에 주로 사용되는 합성수지는?",
+    "choices": ["폴리프로필렌", "폴리에틸렌", "폴리스타이렌", "폴리염화비닐"],
+    "answer": "폴리염화비닐",
+    "image": ""
+  },
+  {
+    "id": 60,
+    "english": "What substance is added during plastic molding to increase plasticity and improve moldability?",
+    "question": "플라스틱 성형 시, 소성을 높여 성형 가공성을 높이기 위하여 첨가하는 물질은?",
+    "choices": ["난연제", "가소제", "발포제", "가교제"],
+    "answer": "가소제",
+    "image": ""
+  },
+  {
+    "id": 61,
+    "english": "Which of the following is a processing method for thermoplastic plastics that involves melting the resin and then molding it through extrusion?",
+    "question": "열가소성 플라스틱의 가공방법으로 수지를 용융시킨 후, 압출을 통하여 성형하는 방법은?",
+    "choices": ["압축성형", "압출성형", "사출성형", "블로우성형"],
+    "answer": "압출성형",
+    "image": ""
+  },
+  {
+    "id": 62,
+    "english": "Which synthetic resin has a structure where a methyl group (CH3) is attached to every other carbon in the polyethylene molecular chain and has the lowest density?",
+    "question": "폴리에틸렌분자 사슬 탄소에 하나씩 걸러 메틸기(CH3)가 붙은 구조이며, 비중이 가장 낮은 특징을 가지는 합성수지는?",
+    "choices": ["폴리프로필렌", "폴리에틸렌", "폴리스타이렌", "폴리염화비닐"],
+    "answer": "폴리프로필렌",
+    "image": ""
+  },
+  {
+    "id": 63,
+    "english": "Which synthetic resin, known for its brittleness, is rarely used alone but is mixed with other polymers to make toys, TV cases, and packaging materials?",
+    "question": "취성이 있어 단독으로 사용되는 경우는 거의 없으나, 다른 중합체와 혼합하여 장난감, 텔레비전 케이스 포장재 등에 사용되는 합성수지는?",
+    "choices": ["폴리프로필렌", "폴리에틸렌", "폴리스타이렌", "폴리염화비닐"],
+    "answer": "폴리스타이렌",
+    "image": ""
+  },
+  {
+    "id": 64,
+    "english": "Which synthetic resin is characterized by amide bonds (-CONH-) and is commonly represented by nylon?",
+    "question": "대표적인 것이 나일론이며, 아미드결합(-CONH-)을 가지는 합성수지는?",
+    "choices": ["폴리프로필렌", "폴리에틸렌", "폴리아미드", "폴리염화비닐"],
+    "answer": "폴리아미드",
+    "image": ""
+  },
+  {
+    "id": 65,
+    "english": "What is the main raw material for PET bottles, which constitute most of the plastic beverage bottles on the market?",
+    "question": "시중에 유통되는 플라스틱 음료수병의 대부분을 차지하는 페트병의 주원료는?",
+    "choices": [
+      "폴리프로필렌",
+      "폴리에틸렌",
+      "폴리스타이렌",
+      "폴리에틸렌 테레프탈레이트"
+    ],
+    "answer": "폴리에틸렌 테레프탈레이트",
+    "image": ""
+  },
+  {
+    "id": 66,
+    "english": "Which thermosetting resin, known as Bakelite or Bake, is one of the oldest plastics and is characterized by its high temperature resistance?",
+    "question": "열경화성수지로 가장 오래된 플라스틱 중의 하나이며, 베이클라이트 또는 베이크라고도 한다. 주로 높은 온도에 견디는 것이 특징인 합성수지는?",
+    "choices": ["폴리우레탄", "페놀수지", "에폭시수지", "멜라민수지"],
+    "answer": "페놀수지",
+    "image": ""
+  },
+  {
+    "id": 67,
+    "english": "Which thermosetting resin, containing epoxy groups in its molecules, is known for its excellent heat resistance, adhesiveness, and chemical resistance?",
+    "question": "분자 내에 에폭시기를 갖는 열경화성 수지로 내열성, 접착성, 내약품성이 우수한 합성 수지는?",
+    "choices": ["폴리우레탄", "페놀수지", "에폭시수지", "멜라민수지"],
+    "answer": "에폭시수지",
+    "image": ""
+  },
+  {
+    "id": 68,
+    "english": "Polyethylene's physical properties vary with density. What do we call polyethylene with a density of 0.941-0.965?",
+    "question": "폴리에틸렌은 밀도에 따라 물리적 성질이 달라진다. 밀도가 0.941~0.965의 폴리에틸렌을 어떤 폴리에틸렌이라 하는가?",
+    "choices": [
+      "고밀도 폴리에틸렌(HDPE)",
+      "중밀도 폴리에틸렌(MDPE)",
+      "중저밀도 폴리에틸렌(MLDPE)",
+      "저밀도 폴리에틸렌(LDPE)"
+    ],
+    "answer": "고밀도 폴리에틸렌(HDPE)",
+    "image": ""
+  },
+  {
+    "id": 69,
+    "english": "Which term, referring to the long chain structure of polymers and resulting in large values from tens of thousands to hundreds of thousands, determines the properties of plastics?",
+    "question": "플라스틱의 성질을 정하는 것으로 금속이나 저분자량 유기물에 비하여, 고분자의 긴 사슬모양을 가짐으로써 수만에서 수십만까지의 큰 값을 나타내는 것은?",
+    "choices": ["분자량", "원자량", "화학식량", "구조식량"],
+    "answer": "분자량",
+    "image": ""
+  },
+  {
+    "id": 70,
+    "english": "Plastics are ( ) artificially shaped using high molecular substances as the main raw material. What is the appropriate term to fill in the blank?",
+    "question": "플라스틱이란 고분자물질을 주원료로 해서 유용한 형상을 인공적으로 만든 ( )이다. ( )안에 들어갈 알맞은 말은?",
+    "choices": ["고체", "액체", "기체", "무기물"],
+    "answer": "고체",
+    "image": ""
+  },
+  {
+    "id": 71,
+    "english": "What type of plastic becomes a high-viscosity liquid when heated and solid when cooled?",
+    "question": "가열하면 녹아서 점도 높은 액체로 되고 냉각하면 고체가 되는 플라스틱은?",
+    "choices": [
+      "열경화성수지",
+      "열가소성수지",
+      "결정성고분자",
+      "비결정성고분자"
+    ],
+    "answer": "열가소성수지",
+    "image": ""
+  },
+  {
+    "id": 72,
+    "english": "Which stage in the plastic molding process includes mixing, kneading, drying, and grinding of polymers and additives?",
+    "question": "플라스틱 성형가공 공정 중 중합체와 첨가제의 혼합, 혼련, 건조, 분쇄 등의 공정을 포함하는 단계는?",
+    "choices": ["전처리공정", "1차 성형가공", "2차 성형가공", "후공정"],
+    "answer": "전처리공정",
+    "image": ""
+  },
+  {
+    "id": 73,
+    "english": "Which of the following is not a synthetic polymer?",
+    "question": "합성고분자가 아닌 것은?",
+    "choices": ["나일론", "합성고무", "비닐", "종이"],
+    "answer": "종이",
+    "image": ""
+  },
+  {
+    "id": 74,
+    "english": "Which of the following is not used as a main raw material for plastic manufacturing?",
+    "question": "플라스틱 제조의 주원료로 사용되는 것이 아닌 것은?",
+    "choices": ["석탄", "금속", "석유", "천연가스"],
+    "answer": "금속",
+    "image": ""
+  },
+  {
+    "id": 75,
+    "english": "What plastic molding process is depicted in the image?",
+    "question": "그림과 같은 플라스틱 성형 가공법은?",
+    "choices": ["압출성형", "사출성형", "압축성형", "블로잉성형"],
+    "answer": "사출성형",
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/plastic.png"
+  },
+  {
+    "id": 76,
+    "english": "What plastic molding process is depicted in the image?",
+    "question": "그림과 같은 플라스틱 성형가공 방법은?",
+    "choices": ["압출성형", "압축성형", "사출성형", "공기 취입 성형"],
+    "answer": "사출성형",
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/plastic1.png"
+  },
+  {
+    "id": 77,
+    "english": "What type of synthetic resin, once hardened by a chemical reaction upon heating, does not soften or melt when reheated?",
+    "question": "가열로 화학반응이 일어나 한번 굳어진 후에는 다시 가열해도 부드러워지거나 녹지 않는 합성수지는?",
+    "choices": ["폴리에틸렌", "폴리프로필렌", "폴리스티렌", "에폭시 수지"],
+    "answer": "에폭시 수지",
+    "image": ""
+  },
+  {
+    "id": 78,
+    "english": "Which statement correctly describes thermosetting plastics?",
+    "question": "열경화성 플라스틱에 대하여 바르게 설명한 것은?",
+    "choices": [
+      "폐품을 활용할 수 있다.",
+      "아크릴 수지, 나일론 수지 등이 있다.",
+      "한번 열에 의해 굳으면 다시 열을 가해도 녹지 않는다.",
+      "분자구조가 선 모양이다."
+    ],
+    "answer": "한번 열에 의해 굳으면 다시 열을 가해도 녹지 않는다.",
+    "image": ""
+  },
+  {
+    "id": 79,
+    "english": "Which statement correctly describes the properties of plastics?",
+    "question": "플라스틱의 성질에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "전기나 열을 잘 전달한다.",
+      "유리나 금속에 비해 무겁다",
+      "쉽게 착색할 수 있어 여러 가지 색깔을 낼 수 있다.",
+      "모든 플라스틱은 빛을 잘 통과시키지 못한다."
+    ],
+    "answer": "쉽게 착색할 수 있어 여러 가지 색깔을 낼 수 있다.",
+    "image": ""
+  },
+  {
+    "id": 80,
+    "english": "What type of plastic was developed to address issues arising from plastic waste disposal?",
+    "question": "플라스틱 폐기 시, 발생하는 문제점을 해결하기 위하여 개발된 플라스틱의 종류는?",
+    "choices": [
+      "열가소성 수지",
+      "비결정성 수지",
+      "생분해성 수지",
+      "열경화성 수지"
+    ],
+    "answer": "생분해성 수지",
+    "image": ""
+  },
+  {
+    "id": 81,
+    "english": "Which is not one of the three major industrial materials?",
+    "question": "중요한 3대 산업용 소재에 속하지 않는 것은?",
+    "choices": ["금속", "고무", "플라스틱", "세라믹"],
+    "answer": "고무",
+    "image": ""
+  },
+  {
+    "id": 82,
+    "english": "Which is not a consideration when extruding plastic?",
+    "question": "플라스틱 압출 시, 고려해야 할 점이 아닌 것은?",
+    "choices": [
+      "압출기의 온도",
+      "압출기 스크류의 회전수",
+      "최종 제품의 형태",
+      "사출 금형"
+    ],
+    "answer": "사출 금형",
+    "image": ""
+  },
+  {
+    "id": 83,
+    "english": "What is the molding temperature for polyethylene?",
+    "question": "폴리에틸렌의 성형 온도에 해당하는 것은?",
+    "choices": [
+      "50 ~ 100 ℃",
+      "190 ~ 280 ℃",
+      "100 ~ 150 ℃",
+      "온도와 무관하게 성형가능하다."
+    ],
+    "answer": "190 ~ 280 ℃",
+    "image": ""
+  },
+  {
+    "id": 84,
+    "english": "What is necessary for injection molding plastic products, which contains the molten plastic material to form the product mold?",
+    "question": "플라스틱 제품의 사출성형을 위해 필요한 것으로 녹은 플라스틱 재료를 담아 제품의 틀을 만들어 주는 것은?",
+    "choices": ["사출금형", "실린더", "스크루", "호퍼"],
+    "answer": "사출금형",
+    "image": ""
+  },
+  {
+    "id": 85,
+    "english": "Which molding method is not based on an extruder?",
+    "question": "압출기를 베이스로 하는 플라스틱 성형법이 아닌 것은?",
+    "choices": [
+      "인플레이션 압출",
+      "T다이 압출",
+      "발포성형 압출",
+      "금형을 이용한 성형"
+    ],
+    "answer": "금형을 이용한 성형",
+    "image": ""
+  },
+  {
+    "id": 86,
+    "english": "Which is not a molding method for plastic materials?",
+    "question": "플라스틱 재료의 성형 방법이 아닌 것은?",
+    "choices": ["압출성형", "사출성형", "카렌다 성형", "주물 성형"],
+    "answer": "주물 성형",
+    "image": ""
+  },
+  {
+    "id": 87,
+    "english": "What is the molding method for thermoplastic resin that continuously rolls into a certain thickness on a hot roll to make films, sheets, leather, wallpaper, and flooring?",
+    "question": "열가소성 수지를 열롤에서 일정한 두께로 연속 압연하여 필름, 시트, 레자, 벽지, 바닥재 등을 만드는 성형 방법은?",
+    "choices": ["진공 성형", "중공 성형", "카렌다 성형", "압축 성형"],
+    "answer": "카렌다 성형",
+    "image": ""
+  },
+  {
+    "id": 88,
+    "english": "Which plastic auxiliary material is used to improve the flow of resin during plastic processing and make shaping convenient?",
+    "question": "다음 플라스틱 보조재료 중 플라스틱 가공 시, 수지의 흐름을 좋게 하고, 모양 내기편리하도록 하기 위해 사용하는 것은?",
+    "choices": ["가소제", "활제", "보강제", "난연제"],
+    "answer": "가소제",
+    "image": ""
+  },
+  {
+    "id": 89,
+    "english": "Which plastic auxiliary material is used to make plastic products fire-resistant?",
+    "question": "플라스틱 보조재료 중 플라스틱 제품이 불에 타지 않게 하기 위해 사용하는 것은?",
+    "choices": ["가소제", "활제", "보강제", "난연제"],
+    "answer": "난연제",
+    "image": ""
+  },
+  {
+    "id": 90,
+    "english": "Which plastic auxiliary material is used to improve the strength of plastic products?",
+    "question": "다음 플라스틱 보조재료 중 플라스틱 제품의 강도를 향상시키기 위하여 사용하는 것은?",
+    "choices": ["가소제", "활제", "보강제", "난연제"],
+    "answer": "보강제",
+    "image": ""
+  },
+  {
+    "id": 91,
+    "english": "Which plastic auxiliary material is used to make foam plastics such as Styrofoam?",
+    "question": "플라스틱 보조재료 중 스티로폼 등의 거품 플라스틱을 만들기 위하여 사용되는 것은?",
+    "choices": ["가소제", "발포제", "보강제", "난연제"],
+    "answer": "발포제",
+    "image": ""
+  },
+  {
+    "id": 92,
+    "english": "What is the main reason why plastic resins have unique physical properties compared to general organic materials?",
+    "question": "플라스틱 수지가 일반 유기물에 비하여 독특한 물성을 갖는 가장 주요한 이유는?",
+    "choices": ["분자량", "제조 방법", "성형 방법", "첨가제"],
+    "answer": "분자량",
+    "image": ""
+  },
+  {
+    "id": 93,
+    "english": "Which term does not refer to the substance that makes up the basic backbone of polymers and determines their physical properties?",
+    "question": "고분자의 기본 골격을 구성하는 물질로, 고분자의 물성을 결정하는 것을 일컫는 말이 아닌 것은?",
+    "choices": ["모노머(monomer)", "단량체", "반복구조", "원자"],
+    "answer": "원자",
+    "image": ""
+  },
+  {
+    "id": 94,
+    "english": "What is the world's first plastic?",
+    "question": "세계 최초의 플라스틱은?",
+    "choices": ["셀롤로이드", "페놀", "폴리에틸렌", "폴리프로필렌"],
+    "answer": "셀롤로이드",
+    "image": ""
+  },
+  {
+    "id": 95,
+    "english": "What is the term for the maximum elongation distance when a polymer material is fractured by tensile load?",
+    "question": "고분자 재료가 인장 하중에 의해 파단될 때, 최대 늘어난 거리를 말하는 것은?",
+    "choices": ["인장강도", "압축강도", "굴곡강도", "신율"],
+    "answer": "신율",
+    "image": ""
+  },
+  {
+    "id": 96,
+    "english": "What is the term for the maximum stress when a polymer material is fractured by tensile load?",
+    "question": "고분자 재료가 인장 하중에 의해 파단할 때의 최대 응력을 말하는 것은?",
+    "choices": ["인장강도", "압축강도", "굴곡강도", "신율"],
+    "answer": "인장강도",
+    "image": ""
+  },
+  {
+    "id": 97,
+    "english": "Which material, with the following monomer, is a thermoplastic that is light and flexible and used for bottles, packaging, and electrical insulators?",
+    "question": "아래와 같은 단량체를 가지며, 열가소성 플라스틱의 하나로써 가볍고 유연하며, 병, 포장재, 전기 절연체로 사용되는 것은?",
+    "choices": ["폴리에틸렌", "폴리프로필렌", "폴리염화비닐", "폴리스타이렌"],
+    "answer": "폴리에틸렌",
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/plastic2.png"
+  },
+  {
+    "id": 98,
+    "english": "Which material, with the following monomer, is a thermoplastic that is easy to color, resistant to abrasion, and used for artificial leather, records, packaging, pipes, and flooring?",
+    "question": "다음과 같은 단량체를 가지며, 열가소성 플라스틱의 하나로 색을 내기 쉽고, 잘 마모되지 않는 특징을 가지며, 인조 가죽, 레코드판, 포장재, 파이프, 바닥재 등에 사용되는 것은?",
+    "choices": ["폴리에틸렌", "폴리프로필렌", "폴리염화비닐", "폴리스타이렌"],
+    "answer": "폴리염화비닐",
+    "image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/plastic3.png"
+  },
+  {
+    "id": 99,
+    "english": "What is the synthetic resin described below? 'It is a polymer connected by amide bonds (-CONH-) and can be made by the condensation polymerization of diamine and divalent acid. Nylon, the representative material for stockings, falls into this category.'",
+    "question": "다음에서 설명하는 합성수지는? “아미드결합(-CONH-)으로 연결된 중합체의 총칭이며, 디아민과 2가산의 축합 중합으로 만들 수 있으며, 스타킹의 대표적인 원료인 나일론이 여기에 속한다.”",
+    "choices": ["폴리에틸렌", "폴리프로필렌", "폴리염화비닐", "폴리아미드"],
+    "answer": "폴리아미드",
+    "image": ""
+  },
+  {
+    "id": 100,
+    "english": "Which thermoplastic resin, also known as PET, constitutes most of the plastic beverage bottles in the market?",
+    "question": "열가소성 수지로 페트(PET)라고도 불리우며, 시중에 유통되는 플라스틱 음료수병의 대부분을 차지하는 합성수지는?",
+    "choices": [
+      "폴리에틸렌",
+      "폴리에틸렌 테레프탈레이트",
+      "폴리염화비닐",
+      "폴리스타이렌"
+    ],
+    "answer": "폴리에틸렌 테레프탈레이트",
+    "image": ""
+  },
+  {
+    "id": 101,
+    "english": "Which statement about natural rubber is correct?",
+    "question": "천연고무에 대한 설명으로 맞는 것은?",
+    "choices": [
+      "현재 고무나무는 주로 남아메리카에서 재배된다.",
+      "고무나무의 줄기를 잘라 가열하면 천연고무가 생산된다.",
+      "고분자 물질이다.",
+      "고무나무에서 생산한 고무는 가공 없이 공업적으로 이용한다."
+    ],
+    "answer": "고분자 물질이다.",
+    "image": ""
+  },
+  {
+    "id": 102,
+    "english": "According to the international standards of quality and packing for natural rubber grades, into how many grades is raw rubber classified?",
+    "question": "생고무는 천연고무 등급품의 국제품질 포장 기준(international standards of quality and packing for natural rubber grades)에 따라 몇 품종으로 나뉘는가?",
+    "choices": ["5 품종", "8 품종", "10 품종", "12 품종"],
+    "answer": "10 품종",
+    "image": ""
+  },
+  {
+    "id": 103,
+    "english": "What is the coagulant added to prevent raw latex from coagulating when making Ribbed Smoked Sheet (RSS)?",
+    "question": "리브드 스모크드 시이트(Ribbed Smoked Sheet, RSS)를 만들 때 원료 라텍스가 응고되는 것을 방지하기 위해 넣는 응고방지제는?",
+    "choices": ["암모니아(NH4OH)", "염산(HCl)", "질산(HNO3)", "가성소다(NaOH)"],
+    "answer": "암모니아(NH4OH)",
+    "image": ""
+  },
+  {
+    "id": 104,
+    "english": "What type of raw rubber is easy to process and maintains its dimensions well during processing?",
+    "question": "가공하기 좋은 생고무의 일종으로 가공 중에 변형이 적어서 치수를 일정하게 유지하기 좋은 고무는?",
+    "choices": [
+      "SP고무(superior processing rubber)",
+      "에어 드라이브 시이트(air dried sheet)",
+      "페일 크레이프(pale crepe)",
+      "리브드 스모크드 시이트(ribbed smoked sheet)"
+    ],
+    "answer": "SP고무(superior processing rubber)",
+    "image": ""
+  },
+  {
+    "id": 105,
+    "english": "Which type of natural rubber occupies 80% of the production and is most widely used industrially?",
+    "question": "천연고무 생산량의 80%를 점유하며, 공업적으로 가장 많이 사용되고 있는 것은?",
+    "choices": [
+      "이소프렌고무(isoprene rubber)",
+      "부타디엔고무(butadine rubber)",
+      "리브드 스모크드 시이트(ribbed smoked sheet)",
+      "아크릴고무(acryl rubber)"
+    ],
+    "answer": "리브드 스모크드 시이트(ribbed smoked sheet)",
+    "image": ""
+  },
+  {
+    "id": 106,
+    "english": "Which rubber is named and corrected based on the opinions of producers and consumers in Malaysia?",
+    "question": "말레이시아에서 생산자와 소비자의 의견을 바탕으로 기존의 기술 규격을 정정, 명명된 고무는?",
+    "choices": [
+      "우레탄고무 (urethane rubber)",
+      "가황고무",
+      "천연고무",
+      "표준 말레이시아고무 (standard Malaysian rubber)"
+    ],
+    "answer": "표준 말레이시아고무 (standard Malaysian rubber)",
+    "image": ""
+  },
+  {
+    "id": 107,
+    "english": "Which gas is essential for converting raw rubber into chlorinated rubber?",
+    "question": "생고무를 염화고무로 만드는 데 꼭 필요한 가스는?",
+    "choices": ["산소(O2)", "이산화탄소(CO2)", "질소(N2)", "염소가스(Cl2)"],
+    "answer": "염소가스(Cl2)",
+    "image": ""
+  },
+  {
+    "id": 108,
+    "english": "Compared to natural rubber, what is a disadvantage of styrene-butadiene rubber?",
+    "question": "천연고무와 비교했을 때 스틸렌-부타디엔고무(styrene-butadine rubber)의 단점은?",
+    "choices": [
+      "품질이 균일하다.",
+      "가격이 싸다.",
+      "열에 비교적 강하다.",
+      "탄성이 적다."
+    ],
+    "answer": "탄성이 적다.",
+    "image": ""
+  },
+  {
+    "id": 109,
+    "english": "What is an advantage of acrylonitrile-butadiene rubber?",
+    "question": "아크릴로니트릴 부타디엔 고무(acrylonitrile-butadine rubber)의 장점은?",
+    "choices": [
+      "가공하기 어렵다.",
+      "기름에 강하다.",
+      "탄성이 나쁘다.",
+      "접착성이 나쁘다."
+    ],
+    "answer": "기름에 강하다.",
+    "image": ""
+  },
+  {
+    "id": 110,
+    "english": "Which statement about neoprene rubber is incorrect?",
+    "question": "네오프렌 고무(neoprene rubber)의 설명으로 틀린 것은?",
+    "choices": [
+      "탄성이 조금 약하다.",
+      "클로로프렌 고무라고도 한다.",
+      "약품에 잘 견딘다.",
+      "열에 비교적 약하다."
+    ],
+    "answer": "열에 비교적 약하다.",
+    "image": ""
+  },
+  {
+    "id": 111,
+    "english": "Which is not a common use for butadiene rubber?",
+    "question": "부타디엔 고무(butadine rubber)가 주로 쓰이는 곳이 아닌 것은?",
+    "choices": ["안경", "자동차타이어", "신발", "골프공"],
+    "answer": "안경",
+    "image": ""
+  },
+  {
+    "id": 112,
+    "english": "Which rubber additive is used to enhance the strength and elasticity of rubber?",
+    "question": "고무에 들어가는 배합제 중 고무의 강도와 탄성 등을 강화하기 사용하는 것은?",
+    "choices": [
+      "파라핀 왁스(parattin wax)",
+      "충진제(filler)",
+      "고무배합유",
+      "노화방지제"
+    ],
+    "answer": "충진제(filler)",
+    "image": ""
+  },
+  {
+    "id": 113,
+    "english": "Which is a correct property of butyl rubber (isobutylene-isoprene rubber)?",
+    "question": "부틸고무(isobutylene-isoprene rubber)의 특성으로 옳은 것은?",
+    "choices": [
+      "전기를 잘 통한다.",
+      "화학약품에 약하다.",
+      "열에 아주 약하다.",
+      "충격을 잘 흡수한다."
+    ],
+    "answer": "충격을 잘 흡수한다.",
+    "image": ""
+  },
+  {
+    "id": 114,
+    "english": "Which is not a property of urethane rubber?",
+    "question": "우레탄 고무(urethane rubber)의 성질이 아닌 것은?",
+    "choices": [
+      "기름에 잘 견딘다.",
+      "추위를 잘 견딘다.",
+      "햇빛을 쪼이면 색이 변한다.",
+      "잡아 당기면 쉽게 끊어진다."
+    ],
+    "answer": "잡아 당기면 쉽게 끊어진다.",
+    "image": ""
+  },
+  {
+    "id": 115,
+    "english": "Which rubber is used for special purposes and can withstand up to 350°C?",
+    "question": "350℃까지 사용할 수 있는 내열고무 원료로써 특수한 용도에 많이 사용되고 있는 고무는?",
+    "choices": [
+      "우레탄고무(urethane rubber)",
+      "실리콘고무(silicone rubber)",
+      "아크릴고무(acryl rubber)",
+      "하이파론고무(hypalon rubber)"
+    ],
+    "answer": "실리콘고무(silicone rubber)",
+    "image": ""
+  },
+  {
+    "id": 116,
+    "english": "Which is NOT a general characteristic of rubber products?",
+    "question": "고무제품의 일반적인 특성에 대한 설명이 아닌 것은?",
+    "choices": [
+      "상온에서 힘을 가하면 늘어난다.",
+      "압축하면 반발한다.",
+      "힘을 가해 늘어난 고무는 힘을 제거하면 다시 줄어든다.",
+      "금속만큼 고온에 잘 견딘다."
+    ],
+    "answer": "금속만큼 고온에 잘 견딘다.",
+    "image": ""
+  },
+  {
+    "id": 117,
+    "english": "Which is NOT a characteristic of fluoro rubber (fluoropropylene monomer)?",
+    "question": "플루오르고무(fluoropropylene monomer)에 대한 설명이 아닌 것은?",
+    "choices": [
+      "불소고무라고도 한다.",
+      "바이톤고무(Viton rubber)라고도 한다.",
+      "국방병기, 인공위성 등에 사용된다.",
+      "가격이 싸다."
+    ],
+    "answer": "가격이 싸다.",
+    "image": ""
+  },
+  {
+    "id": 118,
+    "english": "What is a disadvantage of reclaimed rubber?",
+    "question": "재생고무의 단점은?",
+    "choices": [
+      "탄성이 뒤떨어진다.",
+      "기름에 잘 견딘다.",
+      "가격이 싸다",
+      "원료 고무의 일부를 대체할 수 있다."
+    ],
+    "answer": "탄성이 뒤떨어진다.",
+    "image": ""
+  },
+  {
+    "id": 119,
+    "english": "In 1840, an American scientist improved the properties of natural rubber by adding this substance, making it widely used in the industry. What is this substance?",
+    "question": "1840년 미국의 과학자가 천연고무에 이 물질을 넣어서 성질을 개량한 결과, 산업에서 많이 쓰이게 되었다. 이 물질은 무엇인가?",
+    "choices": ["황(S)", "염소(Cl)", "탄소(C)", "산소(O)"],
+    "answer": "황(S)",
+    "image": ""
+  },
+  {
+    "id": 120,
+    "english": "Which of the following synthetic rubbers was created first?",
+    "question": "다음 합성고무 중 가장 먼저 만들어진 것은?",
+    "choices": [
+      "네오프렌고무(neoprene rubber)",
+      "불소고무",
+      "EPR고무(에틸렌-프로필렌 공중합체)",
+      "SP고무(superior processing rubber)"
+    ],
+    "answer": "네오프렌고무(neoprene rubber)",
+    "image": ""
+  },
+  {
+    "id": 121,
+    "english": "What is the basic unit substance that constitutes natural rubber?",
+    "question": "천연고무를 구성하고 있는 기본 단위 물질은?",
+    "choices": ["벤젠", "알코올", "라텍스", "이소프렌"],
+    "answer": "이소프렌",
+    "image": ""
+  },
+  {
+    "id": 122,
+    "english": "Which synthetic rubber is produced the most among all synthetic rubbers?",
+    "question": "전체 합성고무 중 가장 많이 생산되는 고무는?",
+    "choices": [
+      "스티렌-부타디엔고무(styrene butadine rubber)",
+      "이소프렌고무(isoprene rubber)",
+      "우레탄고무(urethane rubber)",
+      "부틸고무(isobutylene-isoprene rubber)"
+    ],
+    "answer": "스티렌-부타디엔고무(styrene butadine rubber)",
+    "image": ""
+  },
+  {
+    "id": 123,
+    "english": "What chemical reaction is used to produce synthetic rubber?",
+    "question": "합성 고무는 어떤 화학 반응을 이용하여 제조하는가?",
+    "choices": ["가열", "연소", "분해", "중합"],
+    "answer": "중합",
+    "image": ""
+  },
+  {
+    "id": 124,
+    "english": "Which natural substance, similar to rubber, is used to make chewing gum?",
+    "question": "고무와 유사한 천연물로 껌을 만드는 데 쓰이는 것은?",
+    "choices": [
+      "발라타(balata)",
+      "사탕수수",
+      "치클(chicle)",
+      "젤루통(jelutong)"
+    ],
+    "answer": "치클(chicle)",
+    "image": ""
+  },
+  {
+    "id": 125,
+    "english": "In the oil method regeneration process for rubber, which involves mixing rubber powder and oil, what is the first step?",
+    "question": "고무의 재생방법 중 고무분말과 기름을 혼합하는 유법재생 공정에서 가장 먼저 하는 일은?",
+    "choices": [
+      "조쇄(cracking)",
+      "세쇄(grinding)",
+      "초벌혼합(rough refinding)",
+      "스트레이닝(straining)"
+    ],
+    "answer": "조쇄(cracking)",
+    "image": ""
+  },
+  {
+    "id": 126,
+    "english": "Which is not a consideration when mixing raw materials for rubber product production?",
+    "question": "고무제품을 생산하기 위해 고무의 원료 배합시 고려해야 하는 사항이 아닌 것은?",
+    "choices": ["수요자의 요구", "작업자의 경력", "산업용 용도", "KS규격"],
+    "answer": "작업자의 경력",
+    "image": ""
+  },
+  {
+    "id": 127,
+    "english": "What is the preparation process called to thoroughly mix large amounts of chemicals into raw rubber?",
+    "question": "원료 고무에 다량의 약품을 골고루 혼합하기 위해 준비하는 작업공정은?",
+    "choices": ["내림(mastication)", "절단", "정리", "보관"],
+    "answer": "내림(mastication)",
+    "image": ""
+  },
+  {
+    "id": 128,
+    "english": "Which statement correctly describes the kneading process?",
+    "question": "혼련 작업에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "원료의 불량을 검사하는 작업이다.",
+      "내림(mastication)된 고무에 배합약품을 균등하게 섞어서 분해시키는 작업이다.",
+      "각종 고무를 적당한 비율로 섞는 작업이다.",
+      "원료고무를 적당한 크기로 자르는 작업이다."
+    ],
+    "answer": "내림(mastication)된 고무에 배합약품을 균등하게 섞어서 분해시키는 작업이다.",
+    "image": ""
+  },
+  {
+    "id": 129,
+    "english": "What is the first additive to be added in the rubber compounding process?",
+    "question": "천연고무의 배합 공정에서 가장 먼저 집어넣는 첨가제는?",
+    "choices": ["가황 촉진제", "산화아연", "연화제", "황"],
+    "answer": "산화아연",
+    "image": ""
+  },
+  {
+    "id": 130,
+    "english": "Which type of product is most commonly produced using molds in industrial rubber production?",
+    "question": "금형을 사용하여 산업용 고무를 생산할 때 가장 많이 생산되는 제품은?",
+    "choices": [
+      "프레스 금형 고무제품",
+      "카렌다 가공 고무제품",
+      "압출 성형 고무제품",
+      "발포성형 고무제품"
+    ],
+    "answer": "프레스 금형 고무제품",
+    "image": ""
+  },
+  {
+    "id": 131,
+    "english": "What additive is used to easily remove rubber products from molds?",
+    "question": "고무제품을 금형(mold)에서 쉽게 떼어내기 위해 사용하는 첨가제는?",
+    "choices": ["이형제", "산화제", "착색제", "난연제"],
+    "answer": "이형제",
+    "image": ""
+  },
+  {
+    "id": 132,
+    "english": "Why is a flame retardant used as an additive when processing rubber products?",
+    "question": "고무제품을 가공할 때 첨가제로 난연제를 사용하는 이유는?",
+    "choices": [
+      "색깔을 내기 위해",
+      "불에 잘 타지 않도록 하기 위해",
+      "기름에 잘 견디도록 하기 위해",
+      "접착성을 높이기 위해"
+    ],
+    "answer": "불에 잘 타지 않도록 하기 위해",
+    "image": ""
+  },
+  {
+    "id": 133,
+    "english": "Which additive is used to create bubbles when manufacturing rubber sponges?",
+    "question": "고무 스폰지를 제조할 때 기포를 만들기 위해 사용하는 첨가제는?",
+    "choices": [
+      "파라핀 왁스(paraffin wax)",
+      "충진제(filler)",
+      "발포제(blowing agent)",
+      "카본블랙(carbon black)"
+    ],
+    "answer": "발포제(blowing agent)",
+    "image": ""
+  },
+  {
+    "id": 134,
+    "english": "What is the correct sequence of typical rubber processing steps?",
+    "question": "일반적인 고무 가공공정의 순서로 맞는 것은?",
+    "choices": [
+      "반죽공정 → 성형공정 → 가황공정",
+      "성형공정 → 가황공정 → 반죽공정",
+      "가황공정 → 반죽공정 → 성형공정",
+      "가황공정 → 성형공정 → 반죽공정"
+    ],
+    "answer": "반죽공정 → 성형공정 → 가황공정",
+    "image": ""
+  },
+  {
+    "id": 135,
+    "english": "What rubber product is used to bond two objects together?",
+    "question": "두 물체를 붙이기 위해 사용하는 고무 제품은?",
+    "choices": ["타이어", "V벨트", "고무롤러", "접착제"],
+    "answer": "접착제",
+    "image": ""
+  },
+  {
+    "id": 136,
+    "english": "Which is not a suitable purpose for testing the physical properties of rubber?",
+    "question": "고무의 물성 시험 목적으로 적절하지 않은 것은?",
+    "choices": ["공정관리", "제품규격 평가", "연구개발", "재고처리"],
+    "answer": "재고처리",
+    "image": ""
+  },
+  {
+    "id": 137,
+    "english": "What term refers to the hardness of rubber?",
+    "question": "고무의 물성 중 딱딱한 정도를 말하는 것은?",
+    "choices": [
+      "탄성(elastic)",
+      "경도(hardness)",
+      "박리(delamination)",
+      "접착(adhesion)"
+    ],
+    "answer": "경도(hardness)",
+    "image": ""
+  },
+  {
+    "id": 138,
+    "english": "Which test measures the tensile strength, elongation, and tensile stress of rubber products when pulled and torn?",
+    "question": "고무제품을 잡아당겨 찢어질 때의 인장강도, 신장률 및 인장응력 정도를 측정하는 시험은?",
+    "choices": ["접착시험", "반발탄성시험", "인장강도시험", "인열시험"],
+    "answer": "인장강도시험",
+    "image": ""
+  },
+  {
+    "id": 139,
+    "english": "Which test measures how well rubber products withstand cold temperatures?",
+    "question": "고무제품이 추위에 얼마나 잘 견디는지를 측정하는 시험은?",
+    "choices": ["내후 시험", "내한 시험", "내수증기 시험", "내산 시험"],
+    "answer": "내한 시험",
+    "image": ""
+  },
+  {
+    "id": 140,
+    "english": "What is the most basic and important standard used for various tests on rubber products in Korea?",
+    "question": "우리나라에서 고무제품의 각종 시험시 사용되는 가장 기본이 되고 중요한 규격은?",
+    "choices": ["KS", "ISO", "JIS", "DIN"],
+    "answer": "KS",
+    "image": ""
+  },
+  {
+    "id": 141,
+    "english": "Which test measures the degree of aging when vulcanized rubber is heated?",
+    "question": "가황고무를 가열했을 때 노화되는 정도를 측정하는 실험은?",
+    "choices": ["내유 시험", "내알칼리 시험", "오존 균열 시험", "노화시험"],
+    "answer": "노화시험",
+    "image": ""
+  },
+  {
+    "id": 142,
+    "english": "Which test measures the adhesion of products where rubber and fabric are tightly bonded?",
+    "question": "고무와 섬유가 밀착된 제품의 밀착력을 측정하는 시험은?",
+    "choices": ["박리시험", "인열시험", "내수시험", "바닷물시험"],
+    "answer": "박리시험",
+    "image": ""
+  },
+  {
+    "id": 143,
+    "english": "What oil is mainly used in the oil resistance test of vulcanized rubber?",
+    "question": "가황고무의 내유성 실험에 주로 사용되는 기름은?",
+    "choices": ["벤젠", "이소옥탄", "휘발유", "경유"],
+    "answer": "이소옥탄",
+    "image": ""
+  },
+  {
+    "id": 144,
+    "english": "Which physical test of vulcanized rubber does not destroy the sample?",
+    "question": "가황고무의 물성 시험 중 시료를 파괴하지 않는 시험은?",
+    "choices": ["인장시험", "경도시험", "인열시험", "박리시험"],
+    "answer": "경도시험",
+    "image": ""
+  },
+  {
+    "id": 145,
+    "english": "Which synthetic rubber has the best abrasion resistance and tear strength?",
+    "question": "합성고무 중 내마모성과 인열강도가 가장 우수한 것은?",
+    "choices": [
+      "우레탄고무(urethane rubber)",
+      "실리콘고무(silicone rubber)",
+      "아크릴고무(acryl rubber)",
+      "부타디엔고무(butadine rubber)"
+    ],
+    "answer": "우레탄고무(urethane rubber)",
+    "image": ""
+  },
+  {
+    "id": 146,
+    "english": "What is the appropriate laboratory temperature for testing the physical properties of vulcanized rubber?",
+    "question": "가황고무의 물리적 성질 시험시 적당한 실험실 온도는?",
+    "choices": ["20℃ 이하", "20℃ ～ 30℃", "30℃ 이상", "10℃ 이하"],
+    "answer": "20℃ ～ 30℃",
+    "image": ""
+  },
+  {
+    "id": 147,
+    "english": "Which rubber compounding agent is used to make rubber soft when processing?",
+    "question": "고무를 가공할 때 부드럽게 하기 위해 사용하는 고무배합약품은?",
+    "choices": [
+      "착색제 (coloring agent)",
+      "난연제 (flame retardant)",
+      "점착제 (takifies)",
+      "사브 (factice, rubber sustitude)"
+    ],
+    "answer": "사브 (factice, rubber sustitude)",
+    "image": ""
+  },
+  {
+    "id": 148,
+    "english": "What is the basic thickness of the test piece used to measure the hardness of rubber?",
+    "question": "고무의 경도를 측정할 때 사용하는 시험편의 기본두께는?",
+    "choices": ["4mm 이상", "12mm 이상", "16mm 이상", "20mm 이상"],
+    "answer": "12mm 이상",
+    "image": ""
+  },
+  {
+    "id": 149,
+    "english": "To measure the permanent elongation rate of rubber, what is the rate if the distance between marked lines before measurement was 50mm and after measurement was 100mm?",
+    "question": "고무를 늘였다가 줄일 때, 원래 길이보다 약간 늘어나는 현상을 측정하기 위해 신장영구늘음률을 측정한다. 측정 전에 표시한 선간의 길이가 50mm였고 측정 후 표시한 선간의 길이가 100mm였다면 이 때의 신장영구늘음률은?",
+    "choices": ["20", "50", "100", "150"],
+    "answer": "100",
+    "image": ""
+  },
+  {
+    "id": 150,
+    "english": "What is the pressure in pascals (Pa) when a force of 2N is applied to a rubber plate with an area of 1m²?",
+    "question": "1m2의 고무판에 2N의 힘이 작용하고 있을 때 고무판에 가해진 압력은 몇 파스칼(Pa)인가?",
+    "choices": ["0.5", "1", "1.5", "2"],
+    "answer": "2",
+    "image": ""
+  },
+  {
+    "id": 151,
+    "english": "What is the auxiliary material used to improve the processability and performance of plastic or synthetic resin by adding chemical substances during processing or polymerization?",
+    "question": "플라스틱 또는 합성수지의 가공 용이 및 최종제품의 성능 개량 등을 위해 가공이나 중합과정에서 첨가되는 화학물질로 플라스틱의 취약성을 보완하고 특성을 살리기 위해 사용되는 보조재료는?",
+    "choices": [
+      "플라스틱 활성제",
+      "플라스틱 보조제",
+      "플라스틱 첨가제",
+      "플라스틱 산화제"
+    ],
+    "answer": "플라스틱 첨가제",
+    "image": ""
+  },
+  {
+    "id": 152,
+    "english": "Which of the following is not a plastic additive?",
+    "question": "플라스틱 첨가제가 아닌 것은?",
+    "choices": ["가소제", "열안정제", "적외선안정제", "자외선안정제"],
+    "answer": "적외선안정제",
+    "image": ""
+  },
+  {
+    "id": 153,
+    "english": "What is not the purpose of using plastic additives?",
+    "question": "플라스틱 첨가제를 사용하는 목적이 아닌 것은?",
+    "choices": [
+      "플라스틱의 품질 개량",
+      "성형품의 가공성",
+      "장기적 안정성 유지",
+      "플라스틱의 환경안전"
+    ],
+    "answer": "플라스틱의 환경안전",
+    "image": ""
+  },
+  {
+    "id": 154,
+    "english": "Which compound helps maintain the physical and chemical properties of resin during the product's usage period, especially since the manipulation of plastic mixing and manufacturing is done at high temperatures?",
+    "question": "플라스틱의 혼합 및 제조 등의 조작은 고온에서 이루어지기 때문에 첨가제의 보호 없이는 심하게 분해된다. 이에 제품의 사용기간 중 수지의 물리적, 화학적 성질을 유지하도록 도와주는 화합물은?",
+    "choices": [
+      "플라스틱 열안정제",
+      "플라스틱 혼합제",
+      "플라스틱 산화방지제",
+      "플라스틱 충격보강제"
+    ],
+    "answer": "플라스틱 열안정제",
+    "image": ""
+  },
+  {
+    "id": 155,
+    "english": "What is the additive that is added to plastic to increase its original properties of splitting, tension, compression, bending, and impact strength, and enhances dimensional stability and resistance to thermal deformation?",
+    "question": "플라스틱 제품 본래의 분열, 인장, 압축, 휨, 충격강도를 증가시키기 위해 플라스틱에 첨가하는 섬유상 불용성 물질로써 치수안정성과 열변형에 대한 저항력을 증진시키는 이 첨가제는?",
+    "choices": [
+      "플라스틱 열안정제",
+      "플라스틱 자외선안정제",
+      "플라스틱 산화방지제",
+      "플라스틱 충격보강제"
+    ],
+    "answer": "플라스틱 충격보강제",
+    "image": ""
+  },
+  {
+    "id": 156,
+    "english": "Which of the following is not an antioxidant used to inhibit or prevent oxidation and degradation of products during manufacturing or usage due to exposure to oxygen in the air?",
+    "question": "공기 중 산소에 의해 산화열화를 받아 제품 제조 혹은 사용시에 품질 저하를 일으키는 것을 억제, 방지하기 위해 사용하는 산화방지제가 아닌 것은?",
+    "choices": ["페놀계", "알콜계", "아민계", "유황계"],
+    "answer": "알콜계",
+    "image": ""
+  },
+  {
+    "id": 157,
+    "english": "Plastic additives can be broadly classified into three categories based on their uses. Which of the following is not one of these categories?",
+    "question": "플라스틱 첨가제는 보조재료로 첨가되므로 용도에 따라 크게 3가지로 분류 할 수 있다. 해당하지 않는 것은?",
+    "choices": [
+      "수지가공을 위한 가공첨가제",
+      "성형 압축을 위한 압축가공제",
+      "공기, 열, 빛 미생물에 의한 분해를 최소화하는 안정제",
+      "최종 제품 성형시 들어가는 성능첨가제"
+    ],
+    "answer": "성형 압축을 위한 압축가공제",
+    "image": ""
+  },
+  {
+    "id": 158,
+    "english": "Plastic fillers are generally mixed in large amounts compared to other additives. What is the mixing ratio used when the amount is large?",
+    "question": "플라스틱 충진제는 다른 첨가제에 비해 대량으로 배합되는 것이 일반적인데, 많을 경우는 어느 정도의 배합 비율을 사용하는가?",
+    "choices": ["70~80%", "60~50%", "50~40%", "40~30%"],
+    "answer": "70~80%",
+    "image": ""
+  },
+  {
+    "id": 159,
+    "english": "Plastic is generally colored by mixing with pigments. What are the basic coloring agents used?",
+    "question": "플라스틱은 일반적으로 착색제와 배합에 의해 착색되는데, 기본적으로 사용되는 착색제는?",
+    "choices": ["물감과 안료", "염료와 도료", "안료와 염료", "안료와 색소료"],
+    "answer": "안료와 염료",
+    "image": ""
+  },
+  {
+    "id": 160,
+    "english": "What is the process called where two or more materials are mixed to impart functionality and characteristics to plastic molded products, involving optimal blending and pre- and post-process design?",
+    "question": "플라스틱 성형품에 기능과 특성을 부여하기 위하여 2종 이상의 소재를 혼합하는 공정으로써 최적의 배합과 공정설계를 통한 사전, 사후작업을 하는 것은?",
+    "choices": ["압출성형", "코팅성형", "컴파운딩", "중공 진공 성형"],
+    "answer": "컴파운딩",
+    "image": ""
+  },
+  {
+    "id": 161,
+    "english": "Which of the following equipment is used to evaluate the tensile strength, compressive strength, flexural strength, and elongation to assess the characteristics of plastic polymer raw materials?",
+    "question": "다음 중 플라스틱 원료 고분자의 특성 물성 평가를 위해서 인장강도, 압축강도, 굴곡강도, 신율을 파악하기 위해 사용하는 장비는?",
+    "choices": ["전자현미경", "3차원측정기", "만능재료시험기", "광학현미경"],
+    "answer": "만능재료시험기",
+    "image": ""
+  },
+  {
+    "id": 162,
+    "english": "An impact tester is used to evaluate the mechanical properties of plastic polymer materials. Which of the following cannot be assessed with this equipment?",
+    "question": "플라스틱 원료 고분자의 기계적 물성 평가를 위해서 충격시험기를 사용한다. 이 장비를 가지고 파악할 수 없는 것은?",
+    "choices": ["충격강도", "아이죠드", "접착", "굴곡강도"],
+    "answer": "굴곡강도",
+    "image": ""
+  },
+  {
+    "id": 163,
+    "english": "Which of the following is not a method for evaluating the mechanical properties of plastic polymer molded products?",
+    "question": "플라스틱의 고분자 성형품의 기계적 물성을 파악하기 위한 방법이 아닌 것은?",
+    "choices": ["내안성", "내열성", "내구성", "내한성"],
+    "answer": "내안성",
+    "image": ""
+  },
+  {
+    "id": 164,
+    "english": "Which of the following is not a physical evaluation method for plastic product properties?",
+    "question": "플라스틱 제품 물성의 물리적 평가 방법이 아닌 것은?",
+    "choices": ["유동성시험", "수축성시험", "화합성시험", "비중시험"],
+    "answer": "화합성시험",
+    "image": ""
+  },
+  {
+    "id": 165,
+    "english": "Which of the following is incorrect about evaluating the properties of plastic coating materials?",
+    "question": "플라스틱 코팅 재료 물성을 평가하기 위한 설명 중 틀린 것은?",
+    "choices": [
+      "플라스틱 제품의 수학적 물성에 관련된 이론을 파악하여 측정된 물성을 평가 할 수 있다.",
+      "플라스틱 제품의 기계적 물성 종류를 파악하여 필요한 물성을 선택할 수 있다.",
+      "플라스틱 제품의 건조 및 열적 경화거동 특성을 파악하여 관련된 물성을 평가 할 수 있다.",
+      "플라스틱 점탄성적인 유변학 특성을 파악하여 액상 코팅작업 특성을 확인 할 수 있다."
+    ],
+    "answer": "플라스틱 제품의 수학적 물성에 관련된 이론을 파악하여 측정된 물성을 평가 할 수 있다.",
+    "image": ""
+  },
+  {
+    "id": 166,
+    "english": "Which of the following is not a method for evaluating the properties of plastic products?",
+    "question": "플라스틱 제품의 물성 평가 시험 방법이 아닌 것은 무엇인가?",
+    "choices": [
+      "플라스틱 전기적 특성시험",
+      "플라스틱 환경적 특성시험",
+      "플라스틱 열적 특성시험",
+      "플라스틱 기계적 특성시험"
+    ],
+    "answer": "플라스틱 환경적 특성시험",
+    "image": ""
+  },
+  {
+    "id": 167,
+    "english": "Which of the following statements is incorrect regarding the application and utilization of thermal properties of plastic polymers?",
+    "question": "플라스틱 고분자 열적 물성의 적용 활용 방법을 설명한 것 중 잘못된 것은?",
+    "choices": [
+      "열적 물성 적용을 파악하기 위해서 전자현미경을 활용할 수 있다.",
+      "유리전이온도, 용융온도를 파악하기 위하여 주사시차열량계를 활용할 수 있다.",
+      "난연성을 파악하기 위하여 UL-94, OI 시험기를 활용할 수 있다.",
+      "열분해온도와 잔존무기물 함량을 파악하기 위하여 열중량 분석기를 활용할 수 있다."
+    ],
+    "answer": "열적 물성 적용을 파악하기 위해서 전자현미경을 활용할 수 있다.",
+    "image": ""
+  },
+  {
+    "id": 168,
+    "english": "Which of the following statements is incorrect about the properties of MC series Nylon (NYLON), a raw material for plastic products?",
+    "question": "플라스틱 제품의 원료인 MC계열 나일론(NYLON)의 특성을 잘못 설명한 것은?",
+    "choices": [
+      "고분자량과 결정화도가 낮다",
+      "금속보다 긴 수명을 갖고 있다",
+      "놀라운 충격 흡수성을 갖고 있다.",
+      "탁월한 유연성을 갖고 있다."
+    ],
+    "answer": "고분자량과 결정화도가 낮다",
+    "image": ""
+  },
+  {
+    "id": 169,
+    "english": "Which material used as a raw material in plastic manufacturing has the best durability at high temperatures?",
+    "question": "플라스틱 제조시 사용되는 원료 중에 고온에서의 내구성이 가장 좋은 물질은?",
+    "choices": [
+      "고밀도 폴리에틸렌 HDPE",
+      "나일론 MC-901",
+      "탄소섬유강화 PEEK",
+      "경질염화비닐 PVC-6"
+    ],
+    "answer": "탄소섬유강화 PEEK",
+    "image": ""
+  },
+  {
+    "id": 170,
+    "english": "Which of the following MC series Nylon (Nylon) has the highest tensile strength (pulling strength) property evaluation test?",
+    "question": "플라스틱 제조에 사용되는 MC계열 나일론(Nylon) 중 인장강도(잡아 당기는 힘) 물성평가 시험에서 가장 강도가 좋은 원료는?",
+    "choices": [
+      "나일론 MC-901",
+      "나일론 MC-801",
+      "나일론 MC-907",
+      "나일론 MC-701SL"
+    ],
+    "answer": "나일론 MC-901",
+    "image": ""
+  },
+  {
+    "id": 171,
+    "english": "Which of the following statements about evaluating the properties of plastic compounding is incorrect?",
+    "question": "다음 중에 플라스틱 컴파운딩 물성 평가에 대한 설명으로 맞지 않는 것은?",
+    "choices": [
+      "요구되는 물성에 따라 평가항목을 선정할 수 있다.",
+      "선정된 평가항목과 시험방법에 상관없이 검사 기준서를 작성할 수 있다.",
+      "생산된 컴파운딩 제품의 품질을 보증하기 위하여 시험 성적서를 작성하고 조치할 수 있다.",
+      "평가항목에 따라 시험기기와 시험방법을 선정할 수 있다."
+    ],
+    "answer": "선정된 평가항목과 시험방법에 상관없이 검사 기준서를 작성할 수 있다.",
+    "image": ""
+  },
+  {
+    "id": 172,
+    "english": "Which of the following is not an electrical property test method for evaluating the properties of plastic products?",
+    "question": "플라스틱 제품의 물성평가 시험방법 중 전기적 특성 시험이 아닌 것은?",
+    "choices": ["저항율 시험", "유전율 시험", "수축율 시험", "내아크성 시험"],
+    "answer": "수축율 시험",
+    "image": ""
+  },
+  {
+    "id": 173,
+    "english": "UL746B RTI (Relative Temperature Index) is a method for evaluating the long-term heat resistance temperature of plastics. Which of the following correctly describes the explanation 'RTI is 150 on the UL Card'?",
+    "question": "UL746B RTI(Relative Temperature Index)는 플라스틱의 장기내열 온도를 평가하는 방법이다. 플라스틱 제품에 “RTI가 UL Card에 150”라는 설명을 바르게 표현한 것은?",
+    "choices": [
+      "제품을 150ºC의 온도에서 연속 6만시간 사용후, 강도를 측정하면 최소 50%의 초기 물성을 유지한다.",
+      "제품을 150ºC의 온도에서 연속 6만시간 사용후, 강도를 측정하면 최소 60%의 초기 물성을 유지한다.",
+      "제품을 150ºC의 온도에서 연속 6만시간 사용후, 강도를 측정하면 최소 70%의 초기 물성을 유지한다.",
+      "제품을 150ºC의 온도에서 연속 6만시간 사용후, 강도를 측정하면 최소 80%의 초기 물성을 유지한다."
+    ],
+    "answer": "제품을 150ºC의 온도에서 연속 6만시간 사용후, 강도를 측정하면 최소 50%의 초기 물성을 유지한다.",
+    "image": ""
+  },
+  {
+    "id": 174,
+    "english": "The following is a formula for a physical property test method for evaluating the properties of plastic products. What is appropriate for (ㄱ)? ( ㄱ ) = (Weight after immersion - Standard weight) / Standard weight × 100",
+    "question": "다음은 플라스틱 제품의 물성평가 시험방법 중 물리적 특성 시험식이다. (ㄱ)에 알맞은 것은? ( ㄱ ) = 침적 후 무게-표준무게/표준무게×100",
+    "choices": ["화합율", "흡수율", "이동율", "수축율"],
+    "answer": "흡수율",
+    "image": ""
+  },
+  {
+    "id": 175,
+    "english": "Which of the following statements about evaluating the properties of plastic prototypes is incorrect?",
+    "question": "플라스틱 시제품 물성을 평가하기 위한 설명이 아닌 것은?",
+    "choices": [
+      "제품 물성을 평가하기 위하여 시편을 제작할 수 있다.",
+      "제작된 시편에 대하여 시편을 전처리할 수 있다.",
+      "준비되지 않는 시편으로도 기계적, 열적, 전기적 물성을 시험할 수 있다.",
+      "시험결과를 근거로 물성 보고서를 작성 할 수 있다."
+    ],
+    "answer": "준비되지 않는 시편으로도 기계적, 열적, 전기적 물성을 시험할 수 있다.",
+    "image": ""
+  },
+  {
+    "id": 176,
+    "english": "The work areas of plastic product manufacturing facilities in industrial sites are broadly divided into four categories: (ㄱ), hollow/vacuum forming, (ㄴ), and compression/injection molding. What are (ㄱ) and (ㄴ)?",
+    "question": "산업현장의 플라스틱제품 제조시설 분야 업무는 크게 4가지로 (ㄱ), 중공·진공성형, (ㄴ), 압·사출성형 등으로 구성되어 있다. (ㄱ), (ㄴ)에 들어갈 것은?",
+    "choices": [
+      "팅성형, 도출형",
+      "입사형, 컴파운딩",
+      "코팅성형, 컴파운팅",
+      "입사형, 도출형"
+    ],
+    "answer": "코팅성형, 컴파운팅",
+    "image": ""
+  },
+  {
+    "id": 177,
+    "english": "What is the job title for someone who operates equipment to mix and synthesize compounds to obtain plastic materials and manufacture plastic components and products using plastic product manufacturing machines?",
+    "question": "플라스틱 물질을 얻기 위해 플라스틱제품 제조 생산기를 이용해서 화합물을 혼합 ․ 합성하여 플라스틱 구성부품 및 제품 제조기기를 조작하는 직업은?",
+    "choices": [
+      "플라스틱제품 생산기 운영원",
+      "플라스틱제품 생산기 조작원",
+      "플라스틱제품 생산기 제조원",
+      "플라스틱제품 생산기 감상원"
+    ],
+    "answer": "플라스틱제품 생산기 조작원",
+    "image": ""
+  },
+  {
+    "id": 178,
+    "english": "In plastic manufacturing facilities, which process involves melting and pressurizing raw plastic materials using equipment, then continuously extruding them through an extrusion die to create shaped products?",
+    "question": "플라스틱 제조시설 중에 원재료인 플라스틱을 제조시설 장비로 용융, 가압하여 높은 압력을 발생시킨 다음 일정 형상을 가진 압출다이(Die)를 통해 연속적으로 토출시켜 성형품을 제조하는 과정은?",
+    "choices": ["제본성형", "사출성형", "가공성형", "압출성형"],
+    "answer": "압출성형",
+    "image": ""
+  },
+  {
+    "id": 179,
+    "english": "Which of the following statements about injection molding analysis for thermosetting plastic molded products is incorrect?",
+    "question": "플라스틱 제조시설 중에 열경화성 플라스틱을 사용하는 성형품에 대한 사출 성형해석으로 틀린 것은?",
+    "choices": ["성형반응해석", "유동", "경화반응해석", "휨해석"],
+    "answer": "성형반응해석",
+    "image": ""
+  },
+  {
+    "id": 180,
+    "english": "What is the process of drying the raw material to be used for performance evaluation of the test-molded product, mounting the mold on the injection molding machine, installing peripheral equipment, and setting optimal molding conditions?",
+    "question": "시험성형품의 성능 평가를 위해 사용할 원재료를 건조하고, 금형을 사출기에 장착하며, 주변 설비를 설치하여 최적의 성형조건을 설정하는 작업과정은?",
+    "choices": ["성형사출", "시험사출", "압축사출", "설비사출"],
+    "answer": "시험사출",
+    "image": ""
+  },
+  {
+    "id": 181,
+    "english": "What is the process of installing peripheral equipment according to the work standard, managing the appearance quality, peripheral equipment, and molding conditions to produce molded products for stable production of plastic molded products?",
+    "question": "플라스틱 성형품의 안정적인 생산을 위하여 작업 표준서에 따라 주변설비를 설치하고 외관품질, 주변설비, 성형조건을 관리하여 성형품을 생산하는 과정은?",
+    "choices": ["압축성형생산", "사출성형생산", "가압성형생산", "도형성형생산"],
+    "answer": "사출성형생산",
+    "image": ""
+  },
+  {
+    "id": 182,
+    "english": "Which is the correct order of the plastic manufacturing process?",
+    "question": "플라스틱 제조 과정 순서를 맞게 설명한 것은?",
+    "choices": [
+      "압 ․ 사출성형 – 코팅성형 – 중공 ․ 진공성형 – 컴파운팅",
+      "코팅성형 – 중공 ․ 진공성형 – 컴파운팅 – 압 ․ 사출성형",
+      "중공 ․ 진공성형 – 컴파운팅 – 압 ․ 사출성형 – 코팅성형",
+      "컴파운팅 – 압 ․ 사출성형 – 코팅성형 – 중공 ․ 진공성형"
+    ],
+    "answer": "컴파운팅 – 압 ․ 사출성형 – 코팅성형 – 중공 ․ 진공성형",
+    "image": ""
+  },
+  {
+    "id": 183,
+    "english": "Which task is not included in the design work of molded products using plastic hollow and vacuum forming manufacturing equipment?",
+    "question": "플라스틱 중공·진공성형 제조 설비를 이용한 성형품 설계업무에 포함되지 않는 것은?",
+    "choices": [
+      "성형품 형상 파악하기",
+      "성형품 모델링하기",
+      "성형품 형상 설계하기",
+      "성형품 설비 조정하기"
+    ],
+    "answer": "성형품 설비 조정하기",
+    "image": ""
+  },
+  {
+    "id": 184,
+    "english": "Which of the following is not included in the injection molding conditions of an extruder injection molding machine in plastic manufacturing facilities?",
+    "question": "플라스틱 제조 시설물 중 압출사출형기의 사출성형 제반 조건에 포함되지 않는 것은?",
+    "choices": ["금형온도", "냉각시간", "실린더온도", "형개폐 시간"],
+    "answer": "형개폐 시간",
+    "image": ""
+  },
+  {
+    "id": 185,
+    "english": "Which of the following cannot be determined according to the shape of the molded product required by the customer using a hollow or vacuum forming machine during the plastic manufacturing process?",
+    "question": "플라스틱 제조 과정 중 중공·진공성형기를 이용하여 고객이 요구한 성형품 형상에 따라 결정할 수 있는 것이 아닌 것은?",
+    "choices": ["표면가공", "치수", "도장", "절단가동"],
+    "answer": "도장",
+    "image": ""
+  },
+  {
+    "id": 186,
+    "english": "Which of the following is not a necessary safety work item to be identified and communicated to workers during hollow or vacuum forming in plastic manufacturing equipment?",
+    "question": "플라스틱 제조 설비인 중공·진공 성형 중에 필요한 안전 작업 사항을 파악하여 작업자에게 전달해야 하는 항목이 아닌 것은?",
+    "choices": ["원료의 해체", "금형의 이동", "금형의 설치", "원료의 이송"],
+    "answer": "원료의 해체",
+    "image": ""
+  },
+  {
+    "id": 187,
+    "english": "Which of the following is not included in the job duties for plastic product manufacturing?",
+    "question": "다음 중에 플라스틱 제품 제조 항목에 포함되지 않는 직무는?",
+    "choices": ["사출금형", "금형제작", "위험물 관리", "건축관리"],
+    "answer": "건축관리",
+    "image": ""
+  },
+  {
+    "id": 188,
+    "english": "Which of the following is not suitable for selecting compounding conditions to optimize the production conditions of plastic products?",
+    "question": "플라스틱 제품 생산의 조건 최적화를 위한 컴파운딩 조건 선정에 맞지 않는 것은?",
+    "choices": [
+      "컴파운딩 방법 선정",
+      "앞 공정 선정",
+      "혼합기 최적화",
+      "성형 압축 선정"
+    ],
+    "answer": "성형 압축 선정",
+    "image": ""
+  },
+  {
+    "id": 189,
+    "english": "Which of the following is not an appropriate method for establishing measures against compounding defects during the plastic manufacturing process?",
+    "question": "플라스틱 제조 과정 중에 컴파운딩 불량 대책을 수립하기 위한 방법으로 맞지 않는 것은?",
+    "choices": [
+      "불량대책을 수립하기 위하여 분류된 부적합품의 불량원인을 파악할 수 있다.",
+      "컴파운딩 제품의 불량 내용을 조사하지 않고 유형별로 분류할 수 있다.",
+      "수립된 불량대책을 사양서와 작업지시서를 비교하여 반영할 수 있다.",
+      "불량대책을 수립하기 위하여 분류된 부적합품의 불량원인을 파악할 수 있다."
+    ],
+    "answer": "컴파운딩 제품의 불량 내용을 조사하지 않고 유형별로 분류할 수 있다.",
+    "image": ""
+  },
+  {
+    "id": 190,
+    "english": "Which of the following statements related to the production of plastic compounding products is incorrect?",
+    "question": "플라스틱 컴파운딩 제품 생산과 관련된 설명으로 틀린 것은?",
+    "choices": [
+      "컴파운딩 제품 검사결과와 상관없이 생산조건을 변경할 수 있다.",
+      "요구되는 컴파운딩 제품 생산을 위하여 압출기 내부를 퍼징할 수 있다.",
+      "초기생산을 통해 컴파운딩 제품의 상태를 검사할 수 있다.",
+      "최적의 생산조건으로 컴파운딩 제품을 생산할 수 있다."
+    ],
+    "answer": "컴파운딩 제품 검사결과와 상관없이 생산조건을 변경할 수 있다.",
+    "image": ""
+  },
+  {
+    "id": 191,
+    "english": "Which statement about selecting plastic compounding methods is correct?",
+    "question": "플라스틱 컴파운딩 방법을 선정하는 것에 대한 설명으로 맞는 것은?",
+    "choices": [
+      "원하는 제품을 생산하기 위하여 선정된 재료에 따라 혼합 방법을 결정할 수 없다.",
+      "컴파운딩 제품의 종류에 따라 공정을 설계할 수 없다.",
+      "필요하지 않는 생산량에 따라 혼합기의 용량을 결정할 수 있다.",
+      "원활한 제품 생산을 위하여 세부 공정도를 작성할 수 있다."
+    ],
+    "answer": "원활한 제품 생산을 위하여 세부 공정도를 작성할 수 있다.",
+    "image": ""
+  },
+  {
+    "id": 192,
+    "english": "Which of the following is not included in the ability to inspect and maintain the performance of a hollow/vacuum forming machine according to the maintenance manual?",
+    "question": "플라스틱 중공·진공성형의 제조 설비 유지보수 매뉴얼에 따라 성형기의 성능을 점검 ․ 유지 보수하는 능력에 포함되지 않는 것은?",
+    "choices": ["중공·진공성형기", "주변설비", "가공설비", "부대설비"],
+    "answer": "가공설비",
+    "image": ""
+  },
+  {
+    "id": 193,
+    "english": "Which of the following is not included in the peripheral equipment of the hollow/vacuum forming manufacturing facility?",
+    "question": "플라스틱 중공·진공성형 제조 설비 중에 주변설비에 포함되지 않는 것은?",
+    "choices": ["호퍼드라이어", "금형온도조절기", "온도계", "분쇄기"],
+    "answer": "온도계",
+    "image": ""
+  },
+  {
+    "id": 194,
+    "english": "Which of the following is not a preparation task related to the hollow/vacuum forming machine in plastic manufacturing facilities?",
+    "question": "플라스틱 제조 설비에서 중공·진공성형기와 관련한 준비 작업이 아닌 것은?",
+    "choices": [
+      "중공·진공 성형품 생산을 위하여 온도 설정과 냉각수 흐름을 확인하지 않아도 된다.",
+      "생산을 위하여 원재료의 상태를 확인하고 건조 할 수 있다.",
+      "작업표준에 의해 중공·진공 성형품 혼합비율대로 색상을 배합해야 한다.",
+      "중공 성형품 생산을 위하여 금형과 원재료 압출에 따라 다이 규격을 준비한다."
+    ],
+    "answer": "중공·진공 성형품 생산을 위하여 온도 설정과 냉각수 흐름을 확인하지 않아도 된다.",
+    "image": ""
+  },
+  {
+    "id": 195,
+    "english": "Which of the following is not included in the trial injection process before manufacturing plastic products?",
+    "question": "플라스틱 제품을 제조하기 전에 시험사출 과정에 포함되지 않는 것은?",
+    "choices": [
+      "원재료 건조하기",
+      "금형 장착하기",
+      "주변설비 설치하기",
+      "압축 성형하기"
+    ],
+    "answer": "압축 성형하기",
+    "image": ""
+  },
+  {
+    "id": 196,
+    "english": "Which statement about coating molding to give aesthetic and functional properties to plastic molded products in the manufacturing process is incorrect?",
+    "question": "플라스틱 제조과정 중 플라스틱 성형품에 심미성과 기능성을 부여하기 위해 하는 코팅성형에 대한 설명으로 틀린 것은?",
+    "choices": ["코팅공정", "품질관리", "코팅설계", "생산작업"],
+    "answer": "생산작업",
+    "image": ""
+  },
+  {
+    "id": 197,
+    "english": "Which of the following is not a task performed for manufacturing molded products through plastic hollow vacuum molding?",
+    "question": "플라스틱 중공 진공 성형의 성형품 제조를 위하여 하는 직무가 아닌 것은?",
+    "choices": ["절단가공", "성형품 설계", "성형", "품질관리"],
+    "answer": "절단가공",
+    "image": ""
+  },
+  {
+    "id": 198,
+    "english": "Which is not part of the diagnostic process for preparing raw materials for test production with a plastic hollow/vacuum forming machine?",
+    "question": "플라스틱 제조 중공·진공성형기 시험 생산 원부재료 준비하는 진단 과정이 아닌 것은?",
+    "choices": [
+      "눈으로 직접 시험생산에 사용할 원부재료의 수분 상태를 확인한다.",
+      "시험생산에 사용할 원재료의 건조여부를 파악하여 건조할 수 있다.",
+      "시험생산에 사용할 원부재료를 확인하고 마스터배치, 첨가제 등의 필요한 양을 준비한다.",
+      "수분측정기를 사용하여 시험생산에 사용할 원재료의 수분 상태를 확인한다."
+    ],
+    "answer": "눈으로 직접 시험생산에 사용할 원부재료의 수분 상태를 확인한다.",
+    "image": ""
+  },
+  {
+    "id": 199,
+    "english": "Which of the following is not included in the detailed classifications of the compounding field in plastic manufacturing?",
+    "question": "플라스틱 제조 업무 중 컴파운딩 분야의 세세분류별에 포함되지 않는 것은?",
+    "choices": [
+      "플라스틱 필름",
+      "플라스틱 커버",
+      "플라스틱 시트",
+      "플라스틱 판"
+    ],
+    "answer": "플라스틱 커버",
+    "image": ""
+  },
+  {
+    "id": 200,
+    "english": "Which is not included in the plastic product manufacturing business?",
+    "question": "플라스틱 제품 제조 관련 사업에 포함되지 않는 것은 무엇인가?",
+    "choices": [
+      "기계장비 조립용 플라스틱제품 제조업",
+      "1차 플라스틱 제품제조업",
+      "건축용 플라스틱제품 제조업",
+      "플라스틱 가축성형품 제조업"
+    ],
+    "answer": "플라스틱 가축성형품 제조업",
+    "image": ""
+  }
 ]
