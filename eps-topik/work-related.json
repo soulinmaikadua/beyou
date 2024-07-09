@@ -38,5 +38,13 @@
 		"slug": "metal",
 		"db": "metal",
 		"icon": "Icons.menu_book_rounded"
+	},
+	{
+		"korean": "금속",
+		"english": "Rubber, Plastic",
+		"lao": "ໂລ​ຫະ",
+		"slug": "rubber-plastic",
+		"db": "plastic",
+		"icon": "Icons.menu_book_rounded"
 	}
 ]

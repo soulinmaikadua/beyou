@@ -198,5 +198,125 @@
 		"question": "",
 		"answer": "운동화",
 		"choices": ["양말", "모자", "바지", "운동화"]
+	},
+	{
+		"id": 26,
+		"english": "chair",
+		"question": "",
+		"choices": ["책상", "의자", "옷장", "침대"],
+		"answer": "의자",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/chair.png"
+	},
+	{
+		"id": 27,
+		"english": "car",
+		"question": "",
+		"choices": ["자전거", "자동차", "사진기", "컴퓨터"],
+		"answer": "자동차",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/car.png"
+	},
+	{
+		"id": 28,
+		"english": "bicycle",
+		"question": "",
+		"choices": ["비행기", "자동차", "자전거", "지하철"],
+		"answer": "자전거",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/bicycle.png"
+	},
+	{
+		"id": 29,
+		"english": "wallet",
+		"question": "",
+		"choices": ["가방", "지갑", "여권", "수첩"],
+		"answer": "지갑",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/wallet.png"
+	},
+	{
+		"id": 30,
+		"english": "subway",
+		"question": "",
+		"choices": ["택시", "비행기", "지하철", "고속버스"],
+		"answer": "지하철",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/subway.png"
+	},
+	{
+		"id": 31,
+		"english": "book",
+		"question": "",
+		"choices": ["돈", "옷", "꽃", "책"],
+		"answer": "책",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/book.png"
+	},
+	{
+		"id": 32,
+		"english": "table",
+		"question": "",
+		"choices": ["옷장", "침대", "책상", "의자"],
+		"answer": "책상",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/table.png"
+	},
+	{
+		"id": 33,
+		"english": "vacuum cleaner",
+		"question": "",
+		"choices": ["청소기", "세탁기", "냉장고", "선풍기"],
+		"answer": "청소기",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/cleaner.png"
+	},
+	{
+		"id": 34,
+		"english": "skirt",
+		"question": "",
+		"choices": ["치마", "바지", "셔츠", "모자"],
+		"answer": "치마",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/skirt.png"
+	},
+	{
+		"id": 35,
+		"english": "bed",
+		"question": "",
+		"choices": ["침대", "책상", "책장", "의자"],
+		"answer": "침대",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/bed.png"
+	},
+	{
+		"id": 36,
+		"english": "camera",
+		"question": "",
+		"choices": ["컴퓨터", "라디오", "카메라", "텔레비전"],
+		"answer": "카메라",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/camera.png"
+	},
+	{
+		"id": 37,
+		"english": "computer",
+		"question": "",
+		"choices": ["컴퓨터", "냉장고", "카메라", "휴대전화"],
+		"answer": "컴퓨터",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/computer.png"
+	},
+	{
+		"id": 38,
+		"english": "taxi",
+		"question": "",
+		"choices": ["택시", "기차", "버스", "자전거"],
+		"answer": "택시",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/taxi.png"
+	},
+	{
+		"id": 39,
+		"english": "television",
+		"question": "",
+		"choices": ["라디오", "카메라", "냉장고", "텔레비전"],
+		"answer": "텔레비전",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/television.jpg"
+	},
+	{
+		"id": 40,
+		"english": "Cell Phone",
+		"question": "",
+		"choices": ["계산기", "텔레비전", "휴대전화", "노트북 컴퓨터"],
+		"answer": "휴대전화",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/cell-phone.png"
 	}
 ]

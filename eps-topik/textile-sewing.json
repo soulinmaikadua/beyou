@@ -1038,5 +1038,565 @@
 		"choices": ["감침질", "박음질", "홈질", "새발뜨기"],
 		"answer": "새발뜨기",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/textile1.png"
+	},
+	{
+		"id": 131,
+		"english": "What is the appropriate needle size for sewing a silk blouse?",
+		"question": "실크블라우스를 재봉할 때 알맞은 바늘호수는?",
+		"choices": ["9번", "14번", "16번", "18번"],
+		"answer": "9번",
+		"image": ""
+	},
+	{
+		"id": 132,
+		"english": "What is the best marking method when cutting a blouse out of white cotton fabric?",
+		"question": "흰색의 면직물로 블라우스를 재단할 때 어떤 방법의 표시가 가장 좋은가?",
+		"choices": ["실표 뜨기 표시", "뼈인두 표시", "초크 표시", "룰렛표시"],
+		"answer": "초크 표시",
+		"image": ""
+	},
+	{
+		"id": 133,
+		"english": "What happens to the sleeve width when the sleeve cap is high?",
+		"question": "소매산이 높을 때 소매통의 변화는?",
+		"choices": ["소매산에 관계없이 소매통은 항상 일정하다.", "소매통은 좁아진다.", "소매통은 넓어진다.", "소매길이가 짧아진다."],
+		"answer": "소매통은 좁아진다.",
+		"image": ""
+	},
+	{
+		"id": 134,
+		"english": "What happens when the sleeve cap of a blouse is high?",
+		"question": "블라우스의 소매산이 높으면 어떻게 되는가?",
+		"choices": ["활동하기에 불편하다.", "바느질하기가 불편하다.", "소매가 길어진다.", "활동하기 편하다."],
+		"answer": "활동하기에 불편하다.",
+		"image": ""
+	},
+	{
+		"id": 135,
+		"english": "Which sewing stitch is represented in the following picture?",
+		"question": "바느질 모양이 다음 그림처럼 나타나는 것은?",
+		"choices": ["감침질", "박음질", "홈질", "새발뜨기"],
+		"answer": "박음질",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/textile2.png"
+	},
+	{
+		"id": 136,
+		"english": "Which hand sewing method is used with basting thread to mark the finished line of a pattern on two layers of fabric?",
+		"question": "시침실을 사용하며 두 장의 직물에 패턴의 완성선을 표시할 때 사용되는 손바느질 방법은?",
+		"choices": ["휘감치기", "실표 뜨기", "새발뜨기", "어슷시침"],
+		"answer": "실표 뜨기",
+		"image": ""
+	},
+	{
+		"id": 137,
+		"english": "Which hand sewing method, commonly used to join two pieces or create gathers, is a representative hand stitch?",
+		"question": "손으로 하는 대표적인 바느질법으로 두 장을 잇거나 주름을 만들 때 많이 사용되는 손바느질 방법은?",
+		"choices": ["홈질", "박음질", "감침질", "실표 뜨기"],
+		"answer": "홈질",
+		"image": ""
+	},
+	{
+		"id": 138,
+		"english": "What part of the sewing machine is described as having a smooth surface to allow fabric to easily slide under the presser foot and has an opening to insert the bobbin and bobbin case?",
+		"question": "다음은 재봉기에서 무엇을 말하는 것인가? 표면이 미끄럽게 되어 있어 옷감이 노루발 밑으로 쉽게 미끄러져 들어가게 하는 역할을 하며, 북과 북집을 넣을 수 있도록 열리고 닫히는 입구가 있다",
+		"choices": ["노루발", "톱니", "압력조절기", "미끄럼판"],
+		"answer": "미끄럼판",
+		"image": ""
+	},
+	{
+		"id": 139,
+		"english": "What is the seam finishing method for thick fabrics?",
+		"question": "두꺼운 옷감 시접 솔기 처리방법은?",
+		"choices": ["가름솔", "통솔", "쌈솔", "뉨솔"],
+		"answer": "가름솔",
+		"image": ""
+	},
+	{
+		"id": 140,
+		"english": "What is the measurement called when taking the circumference of the narrowest part of the waist with a tape measure when making clothes?",
+		"question": "옷을 만들 때 필요한 치수로 허리의 가장 가는 곳을 줄자로 재는 것은?",
+		"choices": ["허리둘레", "엉덩이둘레", "가슴둘레", "바지 길이"],
+		"answer": "허리둘레",
+		"image": ""
+	},
+	{
+		"id": 141,
+		"english": "What is the process called where the fabric is laid out flat and aligned before cutting?",
+		"question": "천을 평평하게 가지런히 펼쳐 포개어 주는 것으로 재단하기 전에 하는 작업은?",
+		"choices": ["마킹", "연단", "재단", "봉제"],
+		"answer": "연단",
+		"image": ""
+	},
+	{
+		"id": 142,
+		"english": "What is the process of marking cutting lines on fabric or marker paper called?",
+		"question": "천이나 마커종이에 재단선을 표시하는 것을 무엇이라 하는가?",
+		"choices": ["마킹", "연단", "재단", "봉제"],
+		"answer": "마킹",
+		"image": ""
+	},
+	{
+		"id": 143,
+		"english": "What is the process of cutting fabric along the cutting lines called?",
+		"question": "재단선을 따라 천을 자르는 작업을 무엇이라 하는가?",
+		"choices": ["마킹", "연단", "재단", "봉제"],
+		"answer": "재단",
+		"image": ""
+	},
+	{
+		"id": 144,
+		"english": "What is the measurement called when using a tape measure to measure the fullest part of the hips horizontally when making clothes?",
+		"question": "옷을 만들 때 필요한 치수로 줄자를 이용해서 엉덩이의 제일 굵은 부분을 수평으로 재는 것은 무엇인가?",
+		"choices": ["허리둘레", "엉덩이둘레", "가슴둘레", "바지 길이"],
+		"answer": "엉덩이둘레",
+		"image": ""
+	},
+	{
+		"id": 145,
+		"english": "How much fabric is needed for making long pants with a length of 90cm from a fabric with a width of 110cm?",
+		"question": "바지길이 90cm인 긴바지를 만들려고 한다. 110cm폭 원단의 옷감은 얼마나 필요한가?",
+		"choices": ["100~110cm", "150~160cm", "200~220cm", "250~260cm"],
+		"answer": "150~160cm",
+		"image": ""
+	},
+	{
+		"id": 146,
+		"english": "What is the needle size used for hand sewing very thin silk fabrics like chiffon?",
+		"question": "손바느질할 때 쉬폰과 같이 아주 얇은 견(실크)은 바늘의 굵기를 나타내는 호수는?",
+		"choices": ["2,3호", "4,5호", "6호", "8호"],
+		"answer": "8호",
+		"image": ""
+	},
+	{
+		"id": 147,
+		"english": "What is the needle size used for hand sewing very thick fabrics like corduroy and gabardine?",
+		"question": "손바느질할 때 아주 두꺼운 골덴, 개버딘 옷감에 사용하는 바늘의 호수는?",
+		"choices": ["2,3호", "4,5호", "6호", "8호"],
+		"answer": "2,3호",
+		"image": ""
+	},
+	{
+		"id": 148,
+		"english": "What is the item shown in the following picture used for marking patterns on fabric?",
+		"question": "다음 그림은 패턴을 원단에 표시할 때 사용하는 것으로 무엇인가?",
+		"choices": ["초크(chalk)", "다리미", "재단주걱", "룰렛"],
+		"answer": "",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/textile3.png"
+	},
+	{
+		"id": 149,
+		"english": "What is the item shown in the following picture used for cutting fabric, which is distinguished from drafting scissors used for cutting paper?",
+		"question": "다음 그림은 재단 용구로 천을 재단할 때 사용하며, 종이를 자르는 제도용 가위와 구별하여 사용하는 것으로 무엇인가?",
+		"choices": ["재단가위", "핑킹가위", "쪽가위", "래퍼"],
+		"answer": "쪽가위",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/textile4.png"
+	},
+	{
+		"id": 150,
+		"english": "What is the tool shown in the following picture, used for measuring the surface of the skin, such as circumference or length?",
+		"question": "다음 그림은 계측용구 중 피부의 표면을 측정하는 도구로써 둘레나 길이를 측정하는데 사용하는 것이다. 무엇인가?",
+		"choices": ["줄자", "곡자", "축도자", "방안자"],
+		"answer": "줄자",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/tape-measure.png"
+	},
+	{
+		"id": 151,
+		"english": "Which of the following additives lowers the dyeing temperature of polyester fiber to about 100 degrees, while dyeing normally occurs at a high temperature of 130 degrees?",
+		"question": "폴리에스테르 섬유는 보통 130도의 고온고압에서 염색을 진행한다. 다음 중 폴리에스테르 섬유의 염색온도를 100도 정도로 낮추는 역할을 하는 조제는 어느 것인가?",
+		"choices": ["분산제", "캐리어", "균염제", "촉염제"],
+		"answer": "캐리어",
+		"image": ""
+	},
+	{
+		"id": 152,
+		"english": "What problem occurs when using hard water as the bleaching agent for cotton fiber with an oxidizing agent?",
+		"question": "면섬유를 산화제에 의해 표백할 때 경도가 높은 용수를 사용하면 발생하는 문제는 어느 것인가?",
+		"choices": ["노랗게 변색된다.", "광택이 난다.", "구멍이 발생한다.", "강도가 향상된다."],
+		"answer": "노랗게 변색된다.",
+		"image": ""
+	},
+	{
+		"id": 153,
+		"english": "What measurement is taken with a tape measure from the waist side circumference line to the ankle when making pants?",
+		"question": "옷을 만들 때 필요한 치수로써 줄자를 이용해서 허리 옆 둘레선에서부터 발목까지 재는 것은?",
+		"choices": ["허리둘레", "엉덩이둘레", "바지길이", "가슴둘레"],
+		"answer": "바지길이",
+		"image": ""
+	},
+	{
+		"id": 154,
+		"english": "Which of the following weft knit fabrics is the most commonly used?",
+		"question": "다음의 경편성 제품의 조직 중 가장 많이 사용되는 것은?",
+		"choices": ["트리코트(Tricot)", "밀라네스(Milanese)", "자카드(Jacquard)", "랏셀(Raschel)"],
+		"answer": "트리코트(Tricot)",
+		"image": ""
+	},
+	{
+		"id": 155,
+		"english": "Which of the following is not an item to be investigated in the analysis of knitted fabrics?",
+		"question": "편성물의 분해에서 조사하여야 할 항목이 아닌 것은?",
+		"choices": ["편포의 판매가", "편포의 조직", "편포의 종류", "편포의 무게와 폭"],
+		"answer": "편포의 판매가",
+		"image": ""
+	},
+	{
+		"id": 156,
+		"english": "What is the term used to describe the number of loops per inch in knitted fabric?",
+		"question": "편성물은 고리(loop)구조로 이루어진다. 다음 중 편성물에서 고리의 1인치 내의 개수를 나타내는 용어는?",
+		"choices": ["코(wale)", "터크(tuck)", "도목(stitch length)", "밀도(stitch density)"],
+		"answer": "코(wale)",
+		"image": ""
+	},
+	{
+		"id": 157,
+		"english": "If the length of the yarn unraveled from the loop structure of a knitted fabric is 100 cm, and the fabric has 20 wales and 25 courses, what is the stitch length of this fabric?",
+		"question": "어느 편성물의 고리(loop)구조에서 풀어낸 실의 길이는 100cm이다. 이 편성물의 코는 20, 단은 25일 때 이 편성물의 편환장은 얼마인가?",
+		"choices": ["5", "50", "4", "40"],
+		"answer": "4",
+		"image": ""
+	},
+	{
+		"id": 158,
+		"english": "Which of the following structures has the longest stitch length when using the same yarn?",
+		"question": "동일한 원사를 사용하는 경우 다음의 조직 중에서 편환장이 가장 긴 것은?",
+		"choices": ["평편(plain)", "1×1 리브편(rib)", "2×2 리브편(rib)", "양면편(interlock)"],
+		"answer": "양면편(interlock)",
+		"image": ""
+	},
+	{
+		"id": 159,
+		"english": "Which of the following is not a type of knitting machine?",
+		"question": "다음 중 편성기가 아닌 것은?",
+		"choices": ["환편기", "수직기", "라셀기", "양두기"],
+		"answer": "수직기",
+		"image": ""
+	},
+	{
+		"id": 160,
+		"english": "Which knitting machine can knit the highest density fabric?",
+		"question": "다음 중 가장 높은 밀도의 조직을 편성할 수 있는 편기는?",
+		"choices": ["12 게이지", "18 게이지", "24 게이지", "32 게이지"],
+		"answer": "32 게이지",
+		"image": ""
+	},
+	{
+		"id": 161,
+		"english": "Which gauge can knit a fabric that is twice as dense as a 24-gauge knitting machine?",
+		"question": "다음에서 24게이지 편기보다 2배 치밀한 조직을 편성할 수 있는 게이지는?",
+		"choices": ["12 게이지", "32 게이지", "48 게이지", "60 게이지"],
+		"answer": "48 게이지",
+		"image": ""
+	},
+	{
+		"id": 162,
+		"english": "If a knitting machine with 100 feeders knits at a rotation of 0.5 per second, what is the production efficiency of this machine under these conditions?",
+		"question": "100피더를 가진 편성기가 1초 당 0.5의 회전으로 편성한다고 할 때 이 조건에서 해당 편기의 생산효율은 얼마인가?",
+		"choices": ["50", "3,000", "2,000", "200"],
+		"answer": "3,000",
+		"image": ""
+	},
+	{
+		"id": 163,
+		"english": "Which needle structure is the most commonly used in knitting machines?",
+		"question": "편기에는 여러 가지의 바늘이 사용되고 있는데, 가장 많이 사용되는 바늘구조는 어느 것인가?",
+		"choices": ["비어드 편침", "복합 편침", "양두 편침", "래치 편침"],
+		"answer": "래치 편침",
+		"image": ""
+	},
+	{
+		"id": 164,
+		"english": "Which type of structure is the continuous structure of knitted fabrics?",
+		"question": "편성물은 다음 어느 조직의 연속구조로 이루어지는가?",
+		"choices": ["사각형구조", "벌집형구조", "고리형구조", "원형구조"],
+		"answer": "고리형구조",
+		"image": ""
+	},
+	{
+		"id": 165,
+		"english": "Which of the following is not suitable for yarns used in knitting?",
+		"question": "편성물에 사용하는 원사로 적합하지 않은 것은?",
+		"choices": ["굵기나 꼬임수가 균일하다.", "수축 특성이 작다.", "강도와 신도가 크다.", "표면에 잔털이 많다."],
+		"answer": "표면에 잔털이 많다.",
+		"image": ""
+	},
+	{
+		"id": 166,
+		"english": "Which of the following is not a general advantage of knitted fabrics?",
+		"question": "다음 중 일반적인 편성물의 장점이 아닌 것은?",
+		"choices": ["잘 늘어나지 않는다.", "함기성이 크다.", "유연하다.", "신축성이 있다."],
+		"answer": "잘 늘어나지 않는다.",
+		"image": ""
+	},
+	{
+		"id": 167,
+		"english": "Which of the following is a common disadvantage of knitted fabrics?",
+		"question": "다음 중 일반적인 편성물의 단점은?",
+		"choices": ["감촉이 좋다.", "구김이 없다.", "올이 잘 풀어진다.", "보온성이 좋다."],
+		"answer": "올이 잘 풀어진다.",
+		"image": ""
+	},
+	{
+		"id": 168,
+		"english": "What is the term for the longitudinal direction of the knitted fabric structure?",
+		"question": "편성물의 길이방향의 조직을 무엇이라고 하나?",
+		"choices": ["단(course)", "경사(warp)", "코(wale)", "위사(weft)"],
+		"answer": "코(wale)",
+		"image": ""
+	},
+	{
+		"id": 169,
+		"english": "Which basic structure of weft knitted fabrics has the most different surface appearance on the front and back?",
+		"question": "위편성물 기본조직 중 앞면과 뒷면 조직의 표면상태가 가장 다른 것은?",
+		"choices": ["평편(plain)", "펄편(purl)", "리브편(rib)", "스카시편(skashi)"],
+		"answer": "펄편(purl)",
+		"image": ""
+	},
+	{
+		"id": 170,
+		"english": "Which of the following is not a precaution when washing knitted garments by water?",
+		"question": "편성물을 착용 후 물세탁 시 주의해야 할 사항이 아닌 것은?",
+		"choices": ["강하게 비벼 빨지 않는다.", "햇빛에서 빨리 건조한다.", "기계탈수는 저속에서 한다.", "가급적 손세탁을 한다."],
+		"answer": "햇빛에서 빨리 건조한다.",
+		"image": ""
+	},
+	{
+		"id": 171,
+		"english": "Which of the following knitted fabrics does not require a warping process?",
+		"question": "다음 중 정경공정이 필요 없는 편성물은 어느 것인가?",
+		"choices": ["환편물", "트리코트편물", "라셀편물", "밀라니스편물"],
+		"answer": "환편물",
+		"image": ""
+	},
+	{
+		"id": 172,
+		"english": "What is the knitting position called when the needle rises to its highest position and forms a loop in the knitting process?",
+		"question": "편성공정에서 편침이 가장 높은 위치에 올라가 고리를 구성하는 편성위치를 무엇이라고 하나?",
+		"choices": ["턱(tuck)", "가이드(guide)", "미스(miss)", "니트(knit)"],
+		"answer": "니트(knit)",
+		"image": ""
+	},
+	{
+		"id": 173,
+		"english": "What is the phenomenon called when the edges of a specific knitted fabric tend to curl, causing inconvenience in dyeing and sewing processes?",
+		"question": "편성 제품 중에서 특정한 어느 조직에서는 가장자리가 휘감기는 성질이 있어 염색가공 및 봉제 공정에 불편한 점이 있다. 이러한 현상을 무엇이라고 하는가?",
+		"choices": ["curl-up", "drape", "run", "sang"],
+		"answer": "curl-up",
+		"image": ""
+	},
+	{
+		"id": 174,
+		"english": "Dyeing is the process of coloring textile fibers using dyes or pigments. Which of the following is not considered a practical aspect of dyeing?",
+		"question": "염색은 염료나 안료 등을 사용하여 섬유 등의 피염물을 착색시키는 공정이다. 다음 중 실용적인 염색이라고 볼 수 없는 것은?",
+		"choices": ["착색이 균일한 것", "착색의 색상이 다양한 것", "착색이 용이할 것", "착색이 견고할 것"],
+		"answer": "착색의 색상이 다양한 것",
+		"image": ""
+	},
+	{
+		"id": 175,
+		"english": "In the dyeing process, color is usually developed by mixing three colors. Which of the following is not one of these three colors?",
+		"question": "염색공정에서는 대부분의 경우 3가지 색상의 혼합에 의해 색을 발현시킨다. 다음 중 3가지 색상이 아닌 것은?",
+		"choices": ["화이트(white)", "마젠타(magenta)", "시안(cyan)", "노랑(yellow)"],
+		"answer": "화이트(white)",
+		"image": ""
+	},
+	{
+		"id": 176,
+		"english": "What color is produced by mixing cyan and yellow?",
+		"question": "시안(cyan)과 노랑(yellow)을 혼합하면 무슨 색상이 되는가?",
+		"choices": ["주황(orange)", "녹색(green)", "보라(purple)", "분홍(pink)"],
+		"answer": "녹색(green)",
+		"image": ""
+	},
+	{
+		"id": 177,
+		"english": "What is the inherent characteristic of a color itself, classified as red, yellow, blue, etc.?",
+		"question": "빨강, 노랑, 파랑 등으로 구분하며, 색자체가 가지고 있는 고유한 특성을 무엇이라고 하는가?",
+		"choices": ["명도(value)", "채도(chroma)", "보색(complementary color)", "색상(hue)"],
+		"answer": "색상(hue)",
+		"image": ""
+	},
+	{
+		"id": 178,
+		"english": "Which of the following is unsuitable for dyeing water?",
+		"question": "다음 중 염색용수로 부적합한 것은 어느 것인가?",
+		"choices": ["탁도가 0.3ppm 이하인 것", "pH가 7.0인 것", "경도가 20ppm인 것", "Fe, Mg가 10ppm인 것"],
+		"answer": "Fe, Mg가 10ppm인 것",
+		"image": ""
+	},
+	{
+		"id": 179,
+		"english": "Which of the following is not a purpose of the scouring process in textile products?",
+		"question": "섬유제품 정련공정의 목적이 아닌 것은?",
+		"choices": ["섬유 중의 불순물을 제거한다.", "염색공정에서 색의 선명도를 향상시킨다.", "섬유를 하얗게 한다.", "염색공정에서 얼룩 등의 문제가 발생하지 않게 한다."],
+		"answer": "섬유를 하얗게 한다.",
+		"image": ""
+	},
+	{
+		"id": 180,
+		"english": "Which of the following is not a purpose of the bleaching process in textile products?",
+		"question": "섬유제품 표백공정의 목적이 아닌 것은?",
+		"choices": ["백색제품으로의 가치를 높인다.", "원단의 촉감을 부드럽게 한다.", "선명한 색상으로 염색하기 위해 착색물질을 제거한다.", "정련공정에서 제거되지 않은 불순물을 제거한다."],
+		"answer": "원단의 촉감을 부드럽게 한다.",
+		"image": ""
+	},
+	{
+		"id": 181,
+		"english": "Which of the following is not part of the pre-treatment process in textile products?",
+		"question": "섬유제품의 전처리 공정에 속하지 않는 것은 어느 것인가?",
+		"choices": ["정련공정", "표백공정", "풀빼기공정", "기모공정"],
+		"answer": "기모공정",
+		"image": ""
+	},
+	{
+		"id": 182,
+		"english": "Which of the following fibers generally does not require a separate bleaching process, except in special cases?",
+		"question": "다음의 섬유 중에서 특별한 경우가 아니면 별도의 표백공정이 필요 없는 것은?",
+		"choices": ["면", "양모", "마", "폴리에스테르"],
+		"answer": "폴리에스테르",
+		"image": ""
+	},
+	{
+		"id": 183,
+		"english": "Which of the following combinations of pre-treatment processes for cotton fibers is practically organized?",
+		"question": "다음의 면섬유의 전처리 공정의 조합에서 실용적으로 조합이 이루어진 것은?",
+		"choices": ["풀빼기-표백-정련", "풀빼기-정련-표백", "정련-풀빼기-표백", "정련-표백-풀빼기"],
+		"answer": "풀빼기-정련-표백",
+		"image": ""
+	},
+	{
+		"id": 184,
+		"english": "Which of the following sizing agents is removed in a weak alkaline solution with a pH below 9.0?",
+		"question": "다음 중 pH 9.0 미만의 약한 알칼리에서 제거되는 호제는 어느 것인가?",
+		"choices": ["전분호제", "CMC호제", "아크릴호제", "PES호제"],
+		"answer": "전분호제",
+		"image": ""
+	},
+	{
+		"id": 185,
+		"english": "What is the most commonly used practical bleaching agent for cotton fiber bleaching?",
+		"question": "면섬유의 표백에 사용하는 약품으로 실용적으로 가장 많이 사용하는 표백제는?",
+		"choices": ["과산화수소(H2O2)", "차아염소산나트륨(NaClO)", "아염소산나트륨(NaClO2)", "가성소다(NaOH)"],
+		"answer": "과산화수소(H2O2)",
+		"image": ""
+	},
+	{
+		"id": 186,
+		"english": "Which of the following is not an oxidative desizing agent used in the desizing process of cotton fibers?",
+		"question": "면섬유의 풀빼기 공정에 사용하는 산화호발제가 아닌 것은?",
+		"choices": ["아밀라제", "과산화수소", "아브론산염", "과황산염"],
+		"answer": "아밀라제",
+		"image": ""
+	},
+	{
+		"id": 187,
+		"english": "Which of the following is not an advantage of the enzymatic scouring method?",
+		"question": "효소정련법의 장점이 아닌 것은?",
+		"choices": ["친환경적인 처리방법이다.", "비교적 고온에서 처리한다.", "수축, 구김 등의 방지에도 효과가 있다.", "산이나 알칼리에 약한 원사에 효율적이다."],
+		"answer": "비교적 고온에서 처리한다.",
+		"image": ""
+	},
+	{
+		"id": 188,
+		"english": "Which of the following is not a bleaching method for textile products?",
+		"question": "섬유제품의 표백방법이 아닌 것은?",
+		"choices": ["산화표백", "환원표백", "이온표백", "형광표백"],
+		"answer": "이온표백",
+		"image": ""
+	},
+	{
+		"id": 189,
+		"english": "Which of the following is not used as a dyeing machine in the scouring and bleaching process for textile products?",
+		"question": "섬유제품의 정련표백 설비 중 염색기로는 활용할 수 없는 것은?",
+		"choices": ["윈치(winch)", "J-Box", "고압액류기", "지거(jugger)"],
+		"answer": "고압액류기",
+		"image": ""
+	},
+	{
+		"id": 190,
+		"english": "Which of the following is not an advantage of continuous equipment in the scouring and bleaching process for textile products?",
+		"question": "섬유제품의 정련표백 설비 중 연속설비의 장점이 아닌 것은?",
+		"choices": ["균일한 품질", "양호한 재현성", "생산능률의 향상", "다품종 소량생산 방식에 적합"],
+		"answer": "다품종 소량생산 방식에 적합",
+		"image": ""
+	},
+	{
+		"id": 191,
+		"english": "Which of the following factors has the least influence on the scouring and bleaching process of textile products?",
+		"question": "섬유제품의 정련표백 공정 중에서 영향을 미치는 요소가 가장 적은 것은?",
+		"choices": ["처리설비 담당자", "사용하는 약품의 종류와 수량", "처리 온도와 처리 시간", "처리 설비"],
+		"answer": "처리설비 담당자",
+		"image": ""
+	},
+	{
+		"id": 192,
+		"english": "Which of the following is the most widely used equipment in batch processing for the scouring and bleaching of cotton fibers?",
+		"question": "면섬유의 정련표백 설비 중 비연속식에서 가장 널리 사용되는 설비는?",
+		"choices": ["CPB", "High Rotary Washer", "윈치(winch)", "고압액류정련기"],
+		"answer": "윈치(winch)",
+		"image": ""
+	},
+	{
+		"id": 193,
+		"english": "Which fiber requires a high-temperature, high-pressure scouring machine?",
+		"question": "고온, 고압의 정련기가 필요한 섬유는?",
+		"choices": ["면", "폴리에스테르", "아크릴", "레이온"],
+		"answer": "폴리에스테르",
+		"image": ""
+	},
+	{
+		"id": 194,
+		"english": "Which of the following dyes is not water-soluble?",
+		"question": "다음의 염료 중 물에 녹는 염료가 아닌 것은?",
+		"choices": ["직접염료", "분산염료", "반응성염료", "산성염료"],
+		"answer": "분산염료",
+		"image": ""
+	},
+	{
+		"id": 195,
+		"english": "Which of the following yarn material-dye pairs is processed at the lowest temperature?",
+		"question": "다음의 원사소재-염료 쌍 중에서 가장 낮은 온도에서 진행하는 것은?",
+		"choices": ["면-직접염료", "나일론-산성염료", "면-반응성염료", "아크릴-양이온염료"],
+		"answer": "면-직접염료",
+		"image": ""
+	},
+	{
+		"id": 196,
+		"english": "Which of the following dyes is not used for dyeing cotton fibers?",
+		"question": "다음 중 면섬유의 염색에 사용되지 않는 염료는?",
+		"choices": ["반응성염료", "배트염료", "산성염료", "직접염료"],
+		"answer": "산성염료",
+		"image": ""
+	},
+	{
+		"id": 197,
+		"english": "Which of the following is not a requirement for reactive dyes used to dye cotton fibers?",
+		"question": "반응성 염료를 사용하여 면섬유에 염색하고자 할 때 염료의 구비요건이 아닌 것은?",
+		"choices": ["알칼리에 안정적일 것", "고착율이 높을 것", "견뢰도가 양호할 것", "열에 대한 예민성이 클 것"],
+		"answer": "열에 대한 예민성이 클 것",
+		"image": ""
+	},
+	{
+		"id": 198,
+		"english": "Which fiber is not dyed with disperse dyes?",
+		"question": "분산염료를 사용하여 염색하지 않는 섬유는?",
+		"choices": ["폴리에스터 섬유", "아세테이트 섬유", "누에고치 섬유", "트리아세테이트 섬유"],
+		"answer": "누에고치 섬유",
+		"image": ""
+	},
+	{
+		"id": 199,
+		"english": "Which type of dye is suitable for dyeing nylon fiber to a light ivory color using acid dyes?",
+		"question": "산성염료를 사용하여 나일론 섬유를 연한 상아색(ivory)으로 염색하려 한다. 적합한 염료는 다음 중 어느 것인가?",
+		"choices": ["고에너지 type", "밀링(milling) type", "하프밀링(half milling) type", "레벨링(levelling) type"],
+		"answer": "레벨링(levelling) type",
+		"image": ""
+	},
+	{
+		"id": 200,
+		"english": "Which of the following is not a characteristic of surfactants used as auxiliaries in the dyeing process?",
+		"question": "염색공정에서 조제로 사용하는 계면활성제의 특성이 아닌 것은?",
+		"choices": ["용해성", "유화성", "흡착성", "안/알칼리 안정성"],
+		"answer": "안/알칼리 안정성",
+		"image": ""
 	}
 ]
