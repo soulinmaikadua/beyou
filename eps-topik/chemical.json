@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"english": "Which statement about organic solvents is incorrect?",
+		"question": "유기용제에 대한 설명으로 틀린 것은?",
+		"choices": ["유기용제는 비수용성 물질을 용해시키는 화합물이다.", "대부분의 유기용제는 실온에서 휘발되기 어렵다.", "유기용제는 작업장에서 다양한 용도로 활용한다.", "페인트 제거제, 부식제에 포함된 유기용제는 소량 노출되어도 위험하다."],
+		"answer": "대부분의 유기용제는 실온에서 휘발되기 어렵다.",
+		"image": ""
+	},
+	{
+		"id": 2,
+		"english": "Which statement about methanol is incorrect?",
+		"question": "메탄올에 대한 설명으로 틀린 것은?",
+		"choices": ["메탄올은 플라스틱과 필름 제조, 접착제와 잉크의 첨가제 등 다양한 용도로 사용된다.", "메탄올에 중독되면 망막 세포가 손상되어 시력을 잃을 수 있다.", "메탄올이 불순물로 포함된 술은 마셔도 해가 없다.", "메탄올에 중독된 경우 독성을 줄이기 위하여 에탄올을 투여할 수 있다."],
+		"answer": "메탄올이 불순물로 포함된 술은 마셔도 해가 없다.",
+		"image": ""
+	},
+	{
+		"id": 3,
+		"english": "Which statement about the hazards of chemicals is incorrect?",
+		"question": "화학물질의 위험성에 대한 설명으로 틀린 것은?",
+		"choices": ["화학물질의 위험성은 독성의 강도에 비례한다.", "화학물질의 위험성은 노출된 농도에 비례한다.", "화학물질의 위험성은 노출된 시간에 비례한다.", "화학물질의 위험성은 노출된 시간과 무관하다."],
+		"answer": "화학물질의 위험성은 노출된 시간과 무관하다.",
+		"image": ""
+	},
+	{
+		"id": 4,
+		"english": "Which statement about hazards is incorrect?",
+		"question": "위험성에 대한 설명으로 틀린 것은?",
+		"choices": ["위험물에는 위험성이 있는 화학 물질이 포함된다.", "위험성이 있는 화학물질에서 파생된 제품이나 도구 역시 위험물에 포함된다.", "위험물은 인간의 생명, 신체, 재산 및 환경에 피해를 줄 수 있는 물질이다.", "위험물은 특별한 관리나 규제가 필요 없다."],
+		"answer": "위험물은 특별한 관리나 규제가 필요 없다.",
+		"image": ""
+	},
+	{
+		"id": 5,
+		"english": "Which statement about the general characteristics of hazardous materials is incorrect?",
+		"question": "위험물의 일반적인 특성에 대한 설명으로 틀린 것은?",
+		"choices": ["대부분 화학적, 물리적으로 불안정한 물질이다.", "물 또는 산소와 반응성이 좋다.", "반응에 따른 발열량이 매우 낮다.", "반응 속도가 매우 빠르다."],
+		"answer": "반응에 따른 발열량이 매우 낮다.",
+		"image": ""
+	}
+]

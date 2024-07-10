@@ -40,19 +40,27 @@
 		"icon": "Icons.menu_book_rounded"
 	},
 	{
-		"korean": "금속",
+		"korean": "고무, 플라스틱",
 		"english": "Rubber, Plastic",
-		"lao": "ໂລ​ຫະ",
+		"lao": "ຢາງ, ຢາງພາດສະຕິກ",
 		"slug": "rubber-plastic",
 		"db": "plastic",
 		"icon": "Icons.menu_book_rounded"
 	},
 	{
-		"korean": "금속",
+		"korean": "펄프, 종이, 목재",
 		"english": "Pulp, Paper, Wood",
-		"lao": "ເຈ້ຍ, ໄມ້",
+		"lao": "ເນື້ອເຍື່ອເຈ້ຍ, ເຈ້ຍ, ໄມ້",
 		"slug": "pulp-paper-wood",
 		"db": "paper",
+		"icon": "Icons.menu_book_rounded"
+	},
+	{
+		"korean": "화학",
+		"english": "Chemical",
+		"lao": "ເຄມີ",
+		"slug": "chemical",
+		"db": "chemical",
 		"icon": "Icons.menu_book_rounded"
 	}
 ]
