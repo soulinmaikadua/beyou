@@ -798,5 +798,805 @@
 		"choices": ["900 × 1,500 × 850mm", "670 × 1,000 × 730mm", "550 × 800 × 600mm", "420 × 600 × 450mm"],
 		"answer": "670 × 1,000 × 730mm",
 		"image": ""
+	},
+	{
+		"id": 101,
+		"english": "Which is not a major component of a circular saw machine?",
+		"question": "둥근톱 기계의 주요구조부에 속하지 않는 것은?",
+		"choices": ["진동 누름 장치", "테이블 승강 장치", "톱축", "안내자"],
+		"answer": "진동 누름 장치",
+		"image": ""
+	},
+	{
+		"id": 102,
+		"english": "Which statement about woodworking machines is incorrect?",
+		"question": "목공기계에 관한 설명 중 틀린 것은?",
+		"choices": ["둥근톱 기계로 경사 켜기 및 연귀 자르기 작업을 할 수 있다.", "수압(손밀이) 대팻날 축의 회전수는 20,000~25,000 rpm이다.", "긴 홈파기는 루우터 기계로 할 수 있다.", "반턱 바탕을 만들 때 수압대패 기계를 사용할 수 있다."],
+		"answer": "수압(손밀이) 대팻날 축의 회전수는 20,000~25,000 rpm이다.",
+		"image": ""
+	},
+	{
+		"id": 103,
+		"english": "Which statement about automatic planing machines is incorrect?",
+		"question": "자동대패기계에 관한 기술 중 맞지 않는 것은?",
+		"choices": ["자동으로 부재를 이동하여 목재를 깎는 기계이다.", "자동대패는 날 길이에 의하여 규격이 결정된다.", "자동대패기계의 날 수는 2~4개로 되어 있다.", "수압대패기계와 같이 부재의 1면의 밑면이 깎인다."],
+		"answer": "수압대패기계와 같이 부재의 1면의 밑면이 깎인다.",
+		"image": ""
+	},
+	{
+		"id": 104,
+		"english": "Which statement about adjusting the table of a hand-held planer is correct?",
+		"question": "수압대패기계 테이블 조정 방법 설명 중 맞는 것은?",
+		"choices": ["뒤 테이블과 날 끝과 앞 테이블은 일직선상에 있어야 한다.", "날 끝은 깎이는 두께만큼 높게 하고 앞뒤 테이블은 일직선상에 있어야 한다.", "뒤 테이블은 날 끝과 일직선상에 있고, 앞 테이블은 깎이는 양만큼 낮게 조정한다.", "앞 테이블과 날 끝은 일직선상에 있고, 뒤 테이블은 깎이는 양만큼 낮게 조정한다."],
+		"answer": "뒤 테이블은 날 끝과 일직선상에 있고, 앞 테이블은 깎이는 양만큼 낮게 조정한다.",
+		"image": ""
+	},
+	{
+		"id": 105,
+		"english": "Which device adjusts the mortise depth on a mortising machine?",
+		"question": "각 끌기계에서 장부 깊이를 조정하는 장치는?",
+		"choices": ["좌우 이동 핸들", "상하 이동 핸들", "전후 이동 핸들", "각 끌기계 날"],
+		"answer": "상하 이동 핸들",
+		"image": ""
+	},
+	{
+		"id": 106,
+		"english": "Which statement about the use of a portable router is incorrect?",
+		"question": "휴대용 루터기의 사용에 관한 기술 중 맞지 않는 것은?",
+		"choices": ["깎기의 춤은 사용할 바이트의 길이와 모터를 위아래로 움직이는 깊이에 의해 결정된다.", "일반적으로 통맞춤, 주먹장맞춤, 홈파기, 면따기 등 맞춤을 할 때 사용한다.", "루터기의 회전축 rpm은 20,000정도이다.", "루터기의 작동 이동속도가 느리면 나무가 타는 현상이 있을 수 있다."],
+		"answer": "루터기의 회전축 rpm은 20,000정도이다.",
+		"image": ""
+	},
+	{
+		"id": 107,
+		"english": "Which portable power tool is used on construction sites to cut grooves for windows?",
+		"question": "건축현장에서 창문의 홈을 팔 때 사용하는 휴대용 전동공구는?",
+		"choices": ["휴대용 전동 둥근톱", "휴대용 전동 대패", "휴대용 전동 루터", "휴대용 전동 홈대패"],
+		"answer": "휴대용 전동 루터",
+		"image": ""
+	},
+	{
+		"id": 108,
+		"english": "Which portable power tool is used for cutting or ripping wood into straight lines?",
+		"question": "목재의 각재나 판재를 직선으로 자르거나 켤 때 사용하는 휴대용 전동공구는?",
+		"choices": ["휴대용 전기 드릴", "휴대용 전동 사포기", "휴대용 전동 둥근톱", "휴대용 공압식 타카"],
+		"answer": "휴대용 전동 둥근톱",
+		"image": ""
+	},
+	{
+		"id": 109,
+		"english": "Which statement about portable power sanders is correct?",
+		"question": "휴대용 전동 사포기에 대한 설명 중 맞는 것은?",
+		"choices": ["휴대용 전동 사포기에는 정반과 축의 편심 좌우 원형으로 움직이는 것과 벨트 사포지를 회전하여 사포질하는 것이 있다.", "휴대용 전동 벨트 사포기는 규격이 일정하여 단일 벨트 사포지를 사용한다.", "휴대용 전동 사포기는 평면으로 된 바닥만 사포질이 가능하다.", "휴대용 전동 사포기는 집진이 않되어 분진의 처리가 곤란하다."],
+		"answer": "휴대용 전동 사포기에는 정반과 축의 편심 좌우 원형으로 움직이는 것과 벨트 사포지를 회전하여 사포질하는 것이 있다.",
+		"image": ""
+	},
+	{
+		"id": 110,
+		"english": "Which is not a use of a compass?",
+		"question": "곱자의 사용 용도가 아닌 것은?",
+		"choices": ["근사 곡선을 그을 때 사용 된다.", "길이를 측정하거나 직선을 긋는다.", "장부구멍의 깊이를 측정한다.", "15mm 나비의 평행선을 긋는데 사용한다."],
+		"answer": "길이를 측정하거나 직선을 긋는다.",
+		"image": ""
+	},
+	{
+		"id": 111,
+		"english": "Which task cannot be measured or checked using a combination square?",
+		"question": "조합자로 부재를 측정하거나 작업을 점검할 수 없는 것은?",
+		"choices": ["평면 및 직선 상태", "수직 및 수평 상태", "직각이나 연귀 긋기", "임의의 각 측정이나 긋기"],
+		"answer": "임의의 각 측정이나 긋기",
+		"image": ""
+	},
+	{
+		"id": 112,
+		"english": "What indicates the size of a hammer?",
+		"question": "망치의 크기는 무엇으로 나타내는가?",
+		"choices": ["망치 머리의 무게", "망치 머리의 둘레", "망치 자루의 길이", "망치 자루의 지름"],
+		"answer": "망치 머리의 무게",
+		"image": ""
+	},
+	{
+		"id": 113,
+		"english": "Which plane is used for shaping curves?",
+		"question": "곡면을 깎을 때 사용하는 대패는?",
+		"choices": ["평 대패", "남경 대패", "옆 대패", "홈 대패"],
+		"answer": "남경 대패",
+		"image": ""
+	},
+	{
+		"id": 114,
+		"english": "When looking at a saw, the set of the saw teeth is how many times the thickness of the saw blade?",
+		"question": "톱을 보면 톱날의 날어김이 있는데 이는 톱몸 두께의 몇 배인가?",
+		"choices": ["1.3~1.8배", "2.0~2.5배", "2.5~3.0배", "3.0배 이상"],
+		"answer": "1.3~1.8배",
+		"image": ""
+	},
+	{
+		"id": 115,
+		"english": "Which wood is commonly used for making plane bodies?",
+		"question": "대패집으로 많이 사용되는 나무는?",
+		"choices": ["은행나무", "소나무", "오동나무", "느티나무"],
+		"answer": "느티나무",
+		"image": ""
+	},
+	{
+		"id": 116,
+		"english": "When making a toy box using plywood, what is the first step?",
+		"question": "합판을 이용하여 토이박스(toy box)를 제작하고자 할 때, 다음 중 가장 먼저 해야 하는 것은?",
+		"choices": ["포장", "조립", "부속철물 부착", "재단"],
+		"answer": "재단",
+		"image": ""
+	},
+	{
+		"id": 117,
+		"english": "The following furniture manufacturing process is for making which item? Rough cutting → Core assembly → Plywood gluing → Final cutting → Edge gluing → Finishing",
+		"question": "다음 가구 제조 공정은 어느 것을 제작하기 위한 공정인가? 가재단→심재조립→합판접착→정재단→에지(edge)접착→세공",
+		"choices": ["의자다리 제작", "패널(panel)제작", "서랍제작", "식탁기둥 제작"],
+		"answer": "패널(panel)제작",
+		"image": ""
+	},
+	{
+		"id": 118,
+		"english": "What task cannot be done using a CNC machine in furniture manufacturing?",
+		"question": "가구 제조 공정에서 사용하는 CNC기계로 할 수 없는 작업은?",
+		"choices": ["재단", "조각", "절단", "도장"],
+		"answer": "도장",
+		"image": ""
+	},
+	{
+		"id": 119,
+		"english": "What is the joint type called when each piece is halved and joined so that the upper and lower pieces are flush?",
+		"question": "각 부재 두께의 1/2을 따내어 맞추었을 때 상부부재와 하부재가 평평하게 된 맞춤 형태는?",
+		"choices": ["홈맞춤", "연귀맞춤", "반턱맞춤", "장부맞춤"],
+		"answer": "반턱맞춤",
+		"image": ""
+	},
+	{
+		"id": 120,
+		"english": "What is the most common and easy-to-process method for edge-joining wide boards?",
+		"question": "넓은 판재를 제작하기 위한 쪽매로, 가장 일반적이며 가공이 쉬운 방법은?",
+		"choices": ["오늬쪽매", "틈막이쪽매", "딴혀쪽매", "맞댄쪽매"],
+		"answer": "맞댄쪽매",
+		"image": ""
+	},
+	{
+		"id": 121,
+		"english": "What is the most commonly used method for joining the handrail of stairs?",
+		"question": "계단의 난간두겁 이음 시 가장 일반적으로 사용되는 방법은?",
+		"choices": ["턱솔이음", "은장이음", "엇걸이 산지이음", "턱걸이 주먹장이음"],
+		"answer": "턱솔이음",
+		"image": ""
+	},
+	{
+		"id": 122,
+		"english": "Which joint is primarily used for the sides and back panels of drawers using corner-locking machines?",
+		"question": "다음 중 코너록킹 등의 기계를 이용하여 서랍의 옆널과 뒷널 등에 주로 사용 되는맞춤은?",
+		"choices": ["사개맞춤", "주먹장 맞춤", "쪽매 맞춤", "장부 맞춤"],
+		"answer": "주먹장 맞춤",
+		"image": ""
+	},
+	{
+		"id": 123,
+		"english": "Which of the following statements about screw joining technique is incorrect?",
+		"question": "나사못에 의한 접합 기법을 설명한 것으로 틀린 것은?",
+		"choices": ["전동 드라이버 사용이 가능하다.", "예비 구멍은 나사못 굵기보다 크거나 같아야 한다.", "나사못은 망치로 박아서는 안 된다.", "섬유질이 약한 목재에는 부적당하다."],
+		"answer": "예비 구멍은 나사못 굵기보다 크거나 같아야 한다.",
+		"image": ""
+	},
+	{
+		"id": 124,
+		"english": "What is the usual angle for dovetail joint when joining the front and side panels of a drawer?",
+		"question": "서랍 앞널과 옆널의 주먹장 맞춤시 경사각은 보통 몇 °(도) 인가?",
+		"choices": ["5°", "18°", "45°", "68°"],
+		"answer": "18°",
+		"image": ""
+	},
+	{
+		"id": 125,
+		"english": "Which of the following can be used as sandpaper for finishing furniture?",
+		"question": "다음 중 가구 마무리 도장 작업에 필요한 사포로 사용될 수 있는 것은?",
+		"choices": ["#80", "#100", "#150", "#320"],
+		"answer": "#320",
+		"image": ""
+	},
+	{
+		"id": 126,
+		"english": "Which equipment is used for final trimming to attach the edge after bonding flush panel plywood?",
+		"question": "다음 중 플러시 패널 합판 접착 후 에지를 붙이기 위한 정재단 장비는?",
+		"choices": ["라운드 테노나(round tenoner)", "갱립쇼(gang rip saw)", "더블 엔드 테노나(double end tenoner)", "크로스 커팅 쇼(cross cutter saw)"],
+		"answer": "더블 엔드 테노나(double end tenoner)",
+		"image": ""
+	},
+	{
+		"id": 127,
+		"english": "Which process is usually the last to be carried out in furniture manufacturing?",
+		"question": "가구 제조 공정 중 보통 가장 나중에 이루어지는 공정은?",
+		"choices": ["도장", "장부 가공", "HPM 접착", "장식물 부착"],
+		"answer": "도장",
+		"image": ""
+	},
+	{
+		"id": 128,
+		"english": "Which of the following is not an appropriate description of the advantages of wood?",
+		"question": "다음 중 목재의 장점을 기술한 것으로 적절하지 않는 것은?",
+		"choices": ["비중에 비하여 강도가 크다", "건조 수축 변형이 크다.", "열전도율이 낮다.", "산과 알칼리에 대한 저항이 크다."],
+		"answer": "건조 수축 변형이 크다.",
+		"image": ""
+	},
+	{
+		"id": 129,
+		"english": "Which of the following is classified differently from the others?",
+		"question": "목재의 분류 중 다른 한 종류는?",
+		"choices": ["느티나무", "벗나무", "너도밤나무", "소나무"],
+		"answer": "소나무",
+		"image": ""
+	},
+	{
+		"id": 130,
+		"english": "Which of the following statements about plywood is incorrect?",
+		"question": "다음 중 합판을 설명한 것으로 틀린 것은?",
+		"choices": ["판재에 비하여 균질이다.", "방향에 따른 강도의 차가 크다.", "곡면판을 만들 수 있다.", "규격은 3×6자(915×1830mm), 4×8자(1220×2440mm)가 주로 사용된다"],
+		"answer": "방향에 따른 강도의 차가 크다.",
+		"image": ""
+	},
+	{
+		"id": 131,
+		"english": "Which of the following is not a characteristic of Particle Board?",
+		"question": "파아티클보드(Particle Board)의 특성이 아닌 것은?",
+		"choices": ["강도와 섬유 방향에 따른 방향성이 크다.", "방부, 방화제의 첨가에 따라 방부, 방화성을 높일 수 있다.", "흡음성과 열의 차단성도 좋다.", "강도가 크므로 구조용으로도 적합하며 선박, 마룻널, 칸막이, 가구 등에 쓰인다."],
+		"answer": "강도와 섬유 방향에 따른 방향성이 크다.",
+		"image": ""
+	},
+	{
+		"id": 132,
+		"english": "What is the material made by cutting wood into certain-sized pieces, aligning the fibers parallel to each other, and gluing them together without using nails, emphasizing the material's strong vertical direction?",
+		"question": "목재를 일정한 크기의 각재로 켠 다음 섬유방향을 서로 평행 시켜 못 등을 이용하지 않고 접착한 것으로 세로방향으로 강한 소재의 특성을 강조시킨 재료는?",
+		"choices": ["집성목(Glue-Laminated Timber)", "파아티클 보드(Particle Board)", "MDF섬유판 (Medium Density Fiber Board)", "OSB(Oriented Strand Board)"],
+		"answer": "집성목(Glue-Laminated Timber)",
+		"image": ""
+	},
+	{
+		"id": 133,
+		"english": "What is the grain pattern when timber is sawn as shown in the image?",
+		"question": "그림과 같이 제재를 하면 목재의 판재 결은?",
+		"choices": ["무늬결", "사결", "이다메결", "곧은결"],
+		"answer": "곧은결",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/paper.png"
+	},
+	{
+		"id": 134,
+		"english": "What is the type of composite flooring made by compressing multiple layers of reinforced surface plates under high pressure on a base material (HDF) made of compressed wood powder?",
+		"question": "목재 가루를 압축한 바탕재(HDF) 위에 고압력으로 강화시킨 여러 층의 표면판을 적층하여 접착시킨 복합마루재는?",
+		"choices": ["원목마루(strip flooring)", "온돌마루(plywood flooring)", "강화마루(laminated flooring)", "래핑마루(wrapping flooring)"],
+		"answer": "강화마루(laminated flooring)",
+		"image": ""
+	},
+	{
+		"id": 135,
+		"english": "What is the method used to manufacture plywood veneer as shown in the image?",
+		"question": "그림과 같이 합판의 단판을 제조하기 위한 방법은?",
+		"choices": ["반 rotary veneer", "sliced veneer", "sawed veneer", "rotary veneer"],
+		"answer": "rotary veneer",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/paper1.png"
+	},
+	{
+		"id": 136,
+		"english": "Which is not a purpose of drying wood?",
+		"question": "목재의 건조 목적으로 맞지 않은 것은?",
+		"choices": ["수축이나 변형을 방지한다.", "건조시키면 강도는 감소한다.", "방부제나 합성수지의 주입이 용이해진다.", "중량이 감소된다."],
+		"answer": "건조시키면 강도는 감소한다.",
+		"image": ""
+	},
+	{
+		"id": 137,
+		"english": "The basic process of making steel is ironmaking → □ → continuous casting → rolling. What fits in □?",
+		"question": "철강을 만드는 기본공정은 제선 → □ → 연주 → 압연을 거친다. □속에 적당한 것은?",
+		"choices": ["전로", "평로", "제강", "도가니"],
+		"answer": "제강",
+		"image": ""
+	},
+	{
+		"id": 138,
+		"english": "Which property of metal refers to the ability to resist deformation or very slight deformation and break when subjected to external force?",
+		"question": "금속재의 기계적 성질 중 재료가 외력을 받아도 변형되지 않거나, 극히 미비한 변형을 수반하고 파괴되는 성질은?",
+		"choices": ["취성", "소성", "강성", "탄성"],
+		"answer": "취성",
+		"image": ""
+	},
+	{
+		"id": 139,
+		"english": "Which metal product is used to reinforce the shear strength of wood?",
+		"question": "금속 제품으로 목재의 전단력을 보강하기 위한 것은?",
+		"choices": ["볼트", "나사못", "리벳", "듀벨"],
+		"answer": "리벳",
+		"image": ""
+	},
+	{
+		"id": 140,
+		"english": "Which is mainly used for decorative metalwork?",
+		"question": "다음중 주로 장식 가공품에 많이 사용되는 것은?",
+		"choices": ["박강판", "아연철판", "황동판", "구리판"],
+		"answer": "황동판",
+		"image": ""
+	},
+	{
+		"id": 141,
+		"english": "What is widely used today for various film materials, flooring, moldings, furniture surfaces, acrylic sheets, kitchen furniture tops, artificial stone, FRP products, and various window materials?",
+		"question": "오늘날 각종 필름재, 바닥재, 몰딩재, 가구의 표면재, 아크릴판, 부엌가구 상판재로 많이 쓰이는 인조석재, FRP 제품, 각종 창호재까지 사용되고 있는 것은?",
+		"choices": ["합성수지", "유리", "알루미늄", "시멘트"],
+		"answer": "합성수지",
+		"image": ""
+	},
+	{
+		"id": 142,
+		"english": "Which of the following synthetic resins is different from the others?",
+		"question": "다음 합성수지 중 다른 한 종류는?",
+		"choices": ["페놀수지, 요소수지", "요소수지, 멜라민수지", "염화비닐수지, 아크릴수지", "페놀수지, 멜라민수지"],
+		"answer": "염화비닐수지, 아크릴수지",
+		"image": ""
+	},
+	{
+		"id": 143,
+		"english": "Which is not a characteristic of artificial leather (artificial leather) widely used as furniture sofa finishing material?",
+		"question": "다음 중 가구 소파 마감재로 많이 사용되는 인조 피혁재(인조가죽 artificial leather)의 특징이 아닌 것은?",
+		"choices": ["가죽 대용으로 사용되며 일반적으로 “레자”라고 불려진다.", "천연 피혁에 비해 가격이 저렴하지만 다양한 색상과 패턴을 만들 수 없다.", "염화비닐(pvc)수지를 이용하기 때문에 화재에 약한 단점이 있다.", "주로 가구를 제작할 때 사용되며, 실내건축의 마감재료로도 적용된다."],
+		"answer": "천연 피혁에 비해 가격이 저렴하지만 다양한 색상과 패턴을 만들 수 없다.",
+		"image": ""
+	},
+	{
+		"id": 144,
+		"english": "What is the name of the hinge in the picture?",
+		"question": "다음그림의 경첩 명칭은?",
+		"choices": ["숨은경첩", "우아미경첩", "씽크경첩", "그라운드 경첩"],
+		"answer": "씽크경첩",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/paper2.png"
+	},
+	{
+		"id": 145,
+		"english": "Which adhesive is mainly used for wood due to its excellent adhesion, heat resistance, and water resistance?",
+		"question": "접착성, 내열성, 내수성이 우수하여 주로 목재에 사용되는 접착제는?",
+		"choices": ["페놀 수지 접착제", "에폭시 수지 접착제", "멜라민 수지 접착제", "요소 수지 접착제"],
+		"answer": "페놀 수지 접착제",
+		"image": ""
+	},
+	{
+		"id": 146,
+		"english": "Which component is used to maintain the proper viscosity and concentration of paint for application?",
+		"question": "도료를 도장하기에 알맞은 점성과 농도상태를 유지하기 위하여 사용되는 성분은?",
+		"choices": ["안료(pigment)", "전색제(vehicle)", "용제(solvent)", "보조제"],
+		"answer": "용제(solvent)",
+		"image": ""
+	},
+	{
+		"id": 147,
+		"english": "Which of the following can be considered a natural paint?",
+		"question": "다음 중 천연도료라고 할 수 있는 것은?",
+		"choices": ["카슈", "옻칠", "합성수지 바니쉬", "에나멜"],
+		"answer": "옻칠",
+		"image": ""
+	},
+	{
+		"id": 148,
+		"english": "If the size of a dining table top is 600×1200mm with a thickness of 30mm, what is the volume of the wood?",
+		"question": "식탁테이블 상판 크기가 600×1200mm, 두께30mm로 제작할 경우 목재의 재적은?",
+		"choices": ["3.30재", "6.67재", "21.60재", "25.44재"],
+		"answer": "6.67재",
+		"image": ""
+	},
+	{
+		"id": 149,
+		"english": "How many 4×8 plywood sheets are required to finish a wall with dimensions of 3.6m×2.4m? (Single layer finish)",
+		"question": "벽체의 한면 크기가 폭 3.6m×높이 2.4m의 벽면을 4×8 합판으로 마감할 경우소요되는 수량은? (단, 단층마감이다)",
+		"choices": ["1장", "2장", "3장", "4장"],
+		"answer": "2장",
+		"image": ""
+	},
+	{
+		"id": 150,
+		"english": "If the size of a wooden member is 3.6m in length and 60mm in width and thickness, and 10 pieces are required, what is the total cost if the price per piece is 1,000 won?",
+		"question": "각재의 크기가 길이 3.6m 폭과 두께가 60mm인 부재가 10개 소요될 경우 재당 가격이1,000원인 경우 총비용은?",
+		"choices": ["2만원", "4만원", "6만원", "8만원"],
+		"answer": "6만원",
+		"image": ""
+	},
+	{
+		"id": 151,
+		"english": "Which of the following is not a characteristic of coniferous wood fibers?",
+		"question": "침엽수 섬유의 특징이 아닌 것은?",
+		"choices": ["섬유 길이는 3∼7mm정도이다.", "섬유 폭은 15∼30㎛정도이다.", "섬유 두께는 3∼5㎛정도이다.", "주성분은 셀룰로오스, 헤미셀룰로오스, 리그닌이다."],
+		"answer": "섬유 두께는 3∼5㎛정도이다.",
+		"image": ""
+	},
+	{
+		"id": 152,
+		"english": "Which of the following was an early material used to make paper?",
+		"question": "다음 중 종이의 기원이 된 재료는?",
+		"choices": ["동물의 뼈", "거북의 등껍질", "목간", "파피루스"],
+		"answer": "파피루스",
+		"image": ""
+	},
+	{
+		"id": 153,
+		"english": "Which of the following is not part of the wood preparation process for pulping?",
+		"question": "목재를 펄프화에 적당한 상태로 만들어 주는 조목 공정에 해당하지 않는 것은?",
+		"choices": ["박피", "칩 제조", "칩 정선", "표백"],
+		"answer": "표백",
+		"image": ""
+	},
+	{
+		"id": 154,
+		"english": "What is the correct sequence of the pulp composition process?",
+		"question": "지료의 조성 공정을 바르게 나열한 것은?",
+		"choices": ["펄퍼 -> 고해 -> 배합 -> 정선", "펄퍼 -> 고해 -> 정선 -> 배합", "고해 -> 배합 -> 펄퍼 -> 정선", "배합 -> 정선 -> 펄퍼 -> 고해"],
+		"answer": "펄퍼 -> 고해 -> 배합 -> 정선",
+		"image": ""
+	},
+	{
+		"id": 155,
+		"english": "Which of the following is not a type of mechanical pulp?",
+		"question": "다음 중 기계펄프에 해당하지 않는 것은?",
+		"choices": ["쇄목펄프", "열기계펄프", "고지펄프", "리파이너펄프"],
+		"answer": "고지펄프",
+		"image": ""
+	},
+	{
+		"id": 156,
+		"english": "Which type of pulp is made by using chemicals to dissolve lignin and separate only the pulp?",
+		"question": "화학 약품을 사용해 리그닌을 녹여 펄프만 분리하여 만든 펄프 종류는?",
+		"choices": ["쇄목펄프", "고지펄프", "화학펄프", "리파이너펄프"],
+		"answer": "화학펄프",
+		"image": ""
+	},
+	{
+		"id": 157,
+		"english": "Which statement about chemical pulp is incorrect?",
+		"question": "화학펄프에 대한 설명으로 옳지 않는 것은?",
+		"choices": ["기계펄프보다 수율이 적다.", "리그닌을 제거한 펄프이다.", "섬유상의 형태는 셀룰로오스로 구성한다.", "섬유 길이가 짧고 미세분의 함량이 높다."],
+		"answer": "섬유 길이가 짧고 미세분의 함량이 높다.",
+		"image": ""
+	},
+	{
+		"id": 158,
+		"english": "Which type of pulp is made by reducing wood into small chips and shredding them between rotating discs?",
+		"question": "목재를 작은 칩으로 만들어 회전하는 원판 사이에 투입하여 파쇄하는 기술을 이용하여 만드는 펄프는?",
+		"choices": ["쇄목펄프", "리파이너펄프", "반화학펄프", "열기계펄프"],
+		"answer": "리파이너펄프",
+		"image": ""
+	},
+	{
+		"id": 159,
+		"english": "What is the process called that removes colored substances from pulp to increase the whiteness of paper?",
+		"question": "펄프의 착색물질을 제거하여 종이의 백색도를 증가시키는 작업은?",
+		"choices": ["고해", "도공", "사이징", "표백"],
+		"answer": "표백",
+		"image": ""
+	},
+	{
+		"id": 160,
+		"english": "What is the process in papermaking that involves mechanically damaging the surface and internal fibers to increase bonding probability and flexibility?",
+		"question": "제지 공정에서 섬유의 표면 및 내부에 기계적 충격으로 상처를 내어 섬유 간 결합 확률을 높이고 섬유의 유연성을 증가시키는 작업은?",
+		"choices": ["초지", "사이징", "고해", "진료"],
+		"answer": "고해",
+		"image": ""
+	},
+	{
+		"id": 161,
+		"english": "What is the process that involves mechanically damaging the surface and internal fibers to increase bonding probability and flexibility?",
+		"question": "섬유의 표면 및 내부에 기계적 충격으로 상처를 내어 섬유간 결합 확률을 높이고 결합점을 늘림과 동시에 섬유의 유연성을 증가시킬 목적으로 하는 것은?",
+		"choices": ["건조공정", "습수공정", "도공공정", "고해공정"],
+		"answer": "고해공정",
+		"image": ""
+	},
+	{
+		"id": 162,
+		"english": "Which of the following correctly represents the paper manufacturing process?",
+		"question": "종이의 제조 공정을 바르게 나타낸 것은?",
+		"choices": ["펄프 -> 고해 -> 사이징 -> 진료 -> 착색", "고해 -> 조합 -> 초지 -> 코팅 -> 윤내기", "조합 -> 초지 -> 고해 -> 코팅 -> 윤내기", "초지 -> 고해 -> 조합 -> 착색 -> 코팅"],
+		"answer": "고해 -> 조합 -> 초지 -> 코팅 -> 윤내기",
+		"image": ""
+	},
+	{
+		"id": 163,
+		"english": "What is the process of mixing beaten and refined pulp with additives like size agents and pigments in papermaking?",
+		"question": "제지 공정에서 해리 및 고해한 펄프를 전료, 사이즈제, 안료 등과 혼합하는 작업은?",
+		"choices": ["비팅", "조합", "초지", "탈피"],
+		"answer": "조합",
+		"image": ""
+	},
+	{
+		"id": 164,
+		"english": "What is the primary purpose of sizing in the papermaking process?",
+		"question": "제지 공정에서 사이징을 하는 가장 큰 목적은?",
+		"choices": ["내약품성", "내마찰성", "내수성", "내유성"],
+		"answer": "내수성",
+		"image": ""
+	},
+	{
+		"id": 165,
+		"english": "Which of the following substances is not included in the coating solution applied to paper to improve printability and quality?",
+		"question": "초지기에서 생산된 종이의 인쇄적성이나 품질을 높이기 위하여 도포하는 도공액에 포함되지 않는 물질은?",
+		"choices": ["클레이", "라텍스", "분산제", "사이즈제"],
+		"answer": "사이즈제",
+		"image": ""
+	},
+	{
+		"id": 166,
+		"english": "What is the process of mixing hydrophobic colloidal substances to give paper appropriate water resistance?",
+		"question": "종이에 적당한 내수성을 주기 위해 소수성 콜로이드 물질을 혼합하는 공정은?",
+		"choices": ["비팅", "사이징", "전충", "윤내기"],
+		"answer": "사이징",
+		"image": ""
+	},
+	{
+		"id": 167,
+		"english": "What type of paper is made from over 70% chemical pulp with the remainder being groundwood pulp?",
+		"question": "화학펄프 70% 이상과 그 나머지는 쇄목펄프를 혼합하여 제조되는 종이는?",
+		"choices": ["백상지", "아트지", "중질지", "갱지"],
+		"answer": "백상지",
+		"image": ""
+	},
+	{
+		"id": 168,
+		"english": "What type of paper is made from 100% chemical pulp?",
+		"question": "화학펄프 100%로 제조된 종이의 종류는?",
+		"choices": ["백상지", "중질지", "갱지", "신문 용지"],
+		"answer": "백상지",
+		"image": ""
+	},
+	{
+		"id": 169,
+		"english": "What is not one of the three main components of coating materials used to enhance printability and improve the appearance quality of paper?",
+		"question": "인쇄적성을 향상시키고 종이의 외관 품질을 향상시키기 위하여 종이의 표면에 안료를코팅하는 것을 도공이라 한다. 다음 중 도공 물질의 세 가지 성분이 아닌 것은?",
+		"choices": ["바인더", "안료", "가소제", "첨가제"],
+		"answer": "가소제",
+		"image": ""
+	},
+	{
+		"id": 170,
+		"english": "Which of the following is not an advantage of blade coating in paper coating methods?",
+		"question": "종이의 코팅방법 중 블레이드 도공의 장점이 아닌 것은?",
+		"choices": ["고속 코팅에도 도공 적성이 우수하다.", "코팅 량의 조절 범위가 넓다.", "도공면의 평활성이 우수하다.", "폭 방향의 도공 균일성을 얻기 쉽다."],
+		"answer": "폭 방향의 도공 균일성을 얻기 쉽다.",
+		"image": ""
+	},
+	{
+		"id": 171,
+		"english": "Which of the following is not an advantage of air knife coating in paper coating methods?",
+		"question": "종이의 도공 방법 중 에어나이프 코팅의 장점이 아닌 것은?",
+		"choices": ["균일한 도공 피막을 얻을 수 있다.", "도공량의 조절 범위가 넓다.", "도공량이 많은 코팅이 가능하다.", "고점도 도료의 도공이 가능하다."],
+		"answer": "고점도 도료의 도공이 가능하다.",
+		"image": ""
+	},
+	{
+		"id": 172,
+		"english": "What type of paper has a coating weight around 5g per square meter and a basis weight of less than 80g/m²?",
+		"question": "m2당 도공 도포량이 5g 전후이고 평량이 80g/m2 이하인 용지는?",
+		"choices": ["경량코팅 용지", "중량코팅 용지", "광택 용지", "무광택 용지"],
+		"answer": "경량코팅 용지",
+		"image": ""
+	},
+	{
+		"id": 173,
+		"english": "How much chemical pulp is used in intermediate-grade paper for uncoated paper typically used in textbooks, general books, and paperbacks?",
+		"question": "비코팅지 중에서 주로 교과서, 일반서적, 문고본 등에 사용하는 중급용지는 화학펄프를 몇 % 이상 사용하는가?",
+		"choices": ["20%", "40%", "60%", "80%"],
+		"answer": "60%",
+		"image": ""
+	},
+	{
+		"id": 174,
+		"english": "What does seasoning of paper adjust?",
+		"question": "종이의 시즈닝은 무엇을 조절하는 것인가?",
+		"choices": ["종이의 산값", "종이의 상대습도", "종이의 내절강도", "종이의 표면강도"],
+		"answer": "종이의 상대습도",
+		"image": ""
+	},
+	{
+		"id": 175,
+		"english": "Which of the following is not a bleaching agent used to remove color from pulp?",
+		"question": "펄프의 착색물질을 제거하기 위하여 사용하는 표백 약품에 해당하지 않는 것은?",
+		"choices": ["염소", "차아염소산염", "과산화물", "질소"],
+		"answer": "질소",
+		"image": ""
+	},
+	{
+		"id": 176,
+		"english": "Which of the following is not a wet strength additive used to prevent paper from tearing easily when wet?",
+		"question": "종이가 물에 젖었을 때 잘 찢어지지 않게 하기 위해 첨가하는 습윤 지력 증감제 약품이 아닌 것은?",
+		"choices": ["요소-포름알데히드 수지", "멜라민-포름알데히드 수지", "에폭시화 폴리아미드 수지", "폴리비닐알코올"],
+		"answer": "폴리비닐알코올",
+		"image": ""
+	},
+	{
+		"id": 177,
+		"english": "Which of the following is a raw material for traditional Korean paper, Hanji?",
+		"question": "다음 중 한지의 원료로 맞는 것은?",
+		"choices": ["소나무", "오리나무", "닥나무", "뽕나무"],
+		"answer": "닥나무",
+		"image": ""
+	},
+	{
+		"id": 178,
+		"english": "Which of the following is least related to the characteristics of traditional Hanji?",
+		"question": "전통 한지의 특징과 가장 관계가 적은 것은?",
+		"choices": ["인쇄용지보다 투기도(공기가 투과하는 정도)가 낮다.", "충전제를 사용하지 않는다.", "종이의 인장 강도가 높다.", "대량 생산이 어렵다."],
+		"answer": "인쇄용지보다 투기도(공기가 투과하는 정도)가 낮다.",
+		"image": ""
+	},
+	{
+		"id": 179,
+		"english": "What type of paper is used for packaging industrial products, made by creating corrugation with core paper and enhancing the strength by adhering to cardboard?",
+		"question": "공산품 포장용 재료이며 골심지로 골을 만들고 판지를 접착하여 판지의 강도를 개선한 종이는?",
+		"choices": ["백판지", "골판지", "아트지", "크라프트지"],
+		"answer": "골판지",
+		"image": ""
+	},
+	{
+		"id": 180,
+		"english": "What type of strong paper is used for making bags and sacks?",
+		"question": "강도가 큰 종이로 봉지와 자루를 만드는데 사용되는 종이는?",
+		"choices": ["마닐라지", "아트지", "크라프트지", "백판지"],
+		"answer": "크라프트지",
+		"image": ""
+	},
+	{
+		"id": 181,
+		"english": "What is the air pollutant generated during the recovery process of kraft pulping?",
+		"question": "크라프트 펄프화의 회수 공정에서 발생하는 대기 오염 물질은?",
+		"choices": ["미분진", "납", "질소 산화물", "환원 황가스"],
+		"answer": "환원 황가스",
+		"image": ""
+	},
+	{
+		"id": 182,
+		"english": "At what %RH is the moisture content typically adjusted when shipping paper from a paper mill?",
+		"question": "제지 공장에서 종이를 출고할 때, 일반적으로 상대습도는 몇 %RH에 맞도록 함수율을 조절하는가?",
+		"choices": ["20∼30%RH", "30∼40%RH", "40∼50%RH", "50∼60%RH"],
+		"answer": "50∼60%RH",
+		"image": ""
+	},
+	{
+		"id": 183,
+		"english": "Who is credited with the invention of paper?",
+		"question": "최초로 종이를 발명한 사람은?",
+		"choices": ["독일의 쿠텐베르크", "미국의 루벨", "중국의 채륜", "독일의 제네벨더"],
+		"answer": "중국의 채륜",
+		"image": ""
+	},
+	{
+		"id": 184,
+		"english": "Which statement incorrectly describes the main characteristics of paper?",
+		"question": "종이의 주요 특성을 잘못 설명한 것은?",
+		"choices": ["종이는 섬유로 구성되어 있다.", "종이는 결이 있다.", "종이는 앞면과 뒷면이 동일하다.", "종이는 친수성이다."],
+		"answer": "종이는 앞면과 뒷면이 동일하다.",
+		"image": ""
+	},
+	{
+		"id": 185,
+		"english": "What property of paper is governed by the size and distribution of capillaries within it?",
+		"question": "종이 내 모세관의 크기와 분포에 의해 지배되는 성질은?",
+		"choices": ["종이결", "백색도", "흡유도", "평량"],
+		"answer": "흡유도",
+		"image": ""
+	},
+	{
+		"id": 186,
+		"english": "Which of the following is not a physical property of paper?",
+		"question": "종이의 물리적 성질에 해당하지 않는 것은?",
+		"choices": ["인장강도", "백색도", "평량", "파열강도"],
+		"answer": "백색도",
+		"image": ""
+	},
+	{
+		"id": 187,
+		"english": "Which of the following is not a test method for measuring the bending strength of paper?",
+		"question": "종이의 휨강도를 측정하는 시험법으로 거리가 먼 것은?",
+		"choices": ["굴리(Gurley)법", "타버(Taber)법", "클라크(Clark)법", "데니슨(Dennison)법"],
+		"answer": "굴리(Gurley)법",
+		"image": ""
+	},
+	{
+		"id": 188,
+		"english": "Moisture content (water content) in paper is expressed as a percentage of the weight of the paper. What is the typical moisture content of paper?",
+		"question": "종이의 수분인 함수율은 종이 무게에 대한 함유된 물의 무게를 %로 표시하는데 일반적으로 종이의 수분은 몇 %인가?",
+		"choices": ["1∼3", "3∼5", "5∼7", "7∼9"],
+		"answer": "5∼7",
+		"image": ""
+	},
+	{
+		"id": 189,
+		"english": "If oil absorbency is the degree to which oil penetrates paper, what term describes the degree to which water penetrates paper?",
+		"question": "흡유도는 기름이 종이에 침투하는 정도라면 물이 종이에 침투하는 정도를 나타내는 용어는?",
+		"choices": ["표면강도", "인열강도", "인장강도", "사이즈도"],
+		"answer": "사이즈도",
+		"image": ""
+	},
+	{
+		"id": 190,
+		"english": "What is the test method for measuring the surface strength of paper?",
+		"question": "용지의 표면 강도를 측정하는 시험 방법은?",
+		"choices": ["베크 시험기", "쇼어 시험기", "MIT 시험기", "데니슨 왁스법"],
+		"answer": "데니슨 왁스법",
+		"image": ""
+	},
+	{
+		"id": 191,
+		"english": "Which unit is correct for the basis weight of paper?",
+		"question": "종이의 무게와 관련된 평량의 단위가 맞는 것은?",
+		"choices": ["g/cm", "g/m", "g/m2", "g/cm2"],
+		"answer": "g/m2",
+		"image": ""
+	},
+	{
+		"id": 192,
+		"english": "If the basis weight of paper is 64g/㎡ and the thickness of the paper is 80μ, what is the density (g/cc) of the paper?",
+		"question": "종이의 평량이 64g/㎡이고, 종이의 두께가 80μ일 때, 종이의 밀도(g/cc)는 얼마인가?",
+		"choices": ["0.08", "0.8", "8", "80"],
+		"answer": "0.8",
+		"image": ""
+	},
+	{
+		"id": 193,
+		"english": "Using a Schopper-type or MIT-type tester, which physical property of paper that measures its resistance to folding is being evaluated?",
+		"question": "소퍼형이나 MIT형 시험기를 이용하여 종이의 접힘에 대한 저항성을 평가하는 물리적 성질은?",
+		"choices": ["내절강도", "인장강도", "파열강도", "표면강도"],
+		"answer": "내절강도",
+		"image": ""
+	},
+	{
+		"id": 194,
+		"english": "Which of the following is not an optical property of paper?",
+		"question": "다음 중 종이의 광학적 성질이 아닌 것은?",
+		"choices": ["백색도", "색상", "평활도", "광택"],
+		"answer": "평활도",
+		"image": ""
+	},
+	{
+		"id": 195,
+		"english": "Which of the following does not affect the opacity of paper?",
+		"question": "종이의 불투명도와 관계없는 것은?",
+		"choices": ["펄프의 종류", "고해의 정도", "지료의 혼합량", "초지의 방향"],
+		"answer": "초지의 방향",
+		"image": ""
+	},
+	{
+		"id": 196,
+		"english": "Which optical property of paper is calculated using the tristimulus values obtained by the CIE (International Commission on Illumination) color measurement method?",
+		"question": "CIE(국제조명위원회)에서 규정한 측색방법에 따라 얻게 되는 3자극치를 이용하여 수식으로 구하는 종이의 광학적 성질은?",
+		"choices": ["백감도", "백색도", "불투명도", "투명도"],
+		"answer": "백색도",
+		"image": ""
+	},
+	{
+		"id": 197,
+		"english": "Which of the following is not a method to match the color of paper to a specific standard color?",
+		"question": "종이의 색을 특정한 표준색에 맞추기 위한 방법이 아닌 것은?",
+		"choices": ["분광 광도계를 이용하는 방법", "불투명도를 이용하는 방법", "색 조견표와 시편을 맞추는 방법", "육안으로 측정하는 방법"],
+		"answer": "불투명도를 이용하는 방법",
+		"image": ""
+	},
+	{
+		"id": 198,
+		"english": "Which of the following is not a major component when chemically analyzing wood, the main raw material of paper?",
+		"question": "종이의 주원료인 목재를 화학적으로 분석할 때 주성분이 아닌 것은?",
+		"choices": ["니트로글리세린", "리그닌", "셀룰로오스", "헤미셀룰로오스"],
+		"answer": "니트로글리세린",
+		"image": ""
+	},
+	{
+		"id": 199,
+		"english": "Which statement is least related to the description of cellulose fibers, a major component of wood?",
+		"question": "목재의 주성분인 셀룰로오스 섬유에 대한 설명으로 거리가 먼 것은?",
+		"choices": ["높은 인장강도를 가진다.", "친유성이다.", "화학적으로 안정하다.", "유연성을 가진다."],
+		"answer": "친유성이다.",
+		"image": ""
+	},
+	{
+		"id": 200,
+		"english": "Which statement is least related to the description of lignin, a component of wood?",
+		"question": "목재의 리그닌 성분에 대한 설명으로 거리가 먼 것은?",
+		"choices": ["목재를 화학적으로 분석할 때 주성분에 속한다.", "목재의 세포와 세포를 서로 결합시키는 접착제 역할을 한다.", "섬유에 리그닌 함량이 많으면 유연성이 높아진다.", "섬유에 높은 리그닌 함량은 종이의 강도를 저하시킨다."],
+		"answer": "섬유에 리그닌 함량이 많으면 유연성이 높아진다.",
+		"image": ""
 	}
 ]
