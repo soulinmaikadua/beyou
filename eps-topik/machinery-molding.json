@@ -1,5 +1,13 @@
 [
 	{
+		"id": 99,
+		"english": "Which of the following surface texture symbols indicates 'removal of material not permitted'?",
+		"question": "다음의 표면의 결 도시 방법 중 “제거 가공을 허락하지 않음”을 나타내는 것은?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/machine13.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine14.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine15.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine16.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine13.png",
+		"image": ""
+	},
+	{
 		"id": 1,
 		"image": "",
 		"english": "machining",
