@@ -951,7 +951,8 @@
     "english": "Which of the following is not a basic structure of an atom?",
     "question": "다음 중 원자의 기본구조가 아닌 것은?",
     "choices": ["분자", "핵", "양자", "중성자"],
-    "answer": "분자"
+    "answer": "분자",
+    "image": ""
   },
   {
     "id": 102,
@@ -963,6 +964,7 @@
       "카본(carbon)",
       "동(copper)"
     ],
+    "image": "",
     "answer": "동(copper)"
   },
   {
@@ -970,10 +972,12 @@
     "english": "Which of the following is not a material that adds pentavalent impurity atoms in an n-type semiconductor?",
     "question": "다음 중 n형 반도체에서 5가 불순물 원자를 첨가하는 물질이 아닌 것은?",
     "choices": ["비소(As)", "인(P)", "안티몬(Sb)", "알미늄(Al)"],
+    "image": "",
     "answer": "알미늄(Al)"
   },
   {
     "id": 104,
+    "image": "",
     "english": "What is the majority carrier in an n-type semiconductor?",
     "question": "다음 중 n형 반도체에 다수 캐리어(carrier)는 무엇인가?",
     "choices": ["전도전자", "양자", "가전자", "정공"],
@@ -981,6 +985,7 @@
   },
   {
     "id": 105,
+    "image": "",
     "english": "What is the role of an LED (light emitting diode)?",
     "question": "다음 중 LED(light emitting diode)의 역할은?",
     "choices": [
@@ -993,6 +998,7 @@
   },
   {
     "id": 106,
+    "image": "",
     "english": "Which of the following diodes is used in high frequency and high speed switching applications?",
     "question": "다음 중 고주파에서와 고속 스위칭 응용에 사용되는 다이오드는?",
     "choices": [
@@ -1005,6 +1011,7 @@
   },
   {
     "id": 107,
+    "image": "",
     "english": "Which of the following diodes has a negative resistance characteristic?",
     "question": "다음 중 부성저항 특성을 가진 다이오드는 어느 것인가?",
     "choices": [
@@ -1017,6 +1024,7 @@
   },
   {
     "id": 108,
+    "image": "",
     "english": "How is the cathode of a Zener diode typically connected in voltage stabilization?",
     "question": "다음 중 전압 안정화에서 제너다이오드의 음극은 정상적으로 어떻게 되는가?",
     "choices": [
@@ -1029,6 +1037,7 @@
   },
   {
     "id": 109,
+    "image": "",
     "english": "Which of the following diodes has a variable capacitance with reverse voltage?",
     "question": "다음 중 역방향 전압에 따른 가변 정전용량 다이오드는?",
     "choices": [
@@ -1041,6 +1050,7 @@
   },
   {
     "id": 110,
+    "image": "",
     "english": "What are the three terminals of a bipolar transistor?",
     "question": "다음 중 바이폴라 트랜지스터(bipolar transistor)의 3단자는?",
     "choices": [
@@ -1053,6 +1063,7 @@
   },
   {
     "id": 111,
+    "image": "",
     "english": "When a transistor operates in cutoff and saturation, it behaves like what?",
     "question": "다음 중 차단과 포화에서 동작될 때 트랜지스터(transistor)는 무엇처럼 동작하는가?",
     "choices": ["선형증폭기", "가변용량", "가변저항", "스위치(switch)"],
@@ -1060,6 +1071,7 @@
   },
   {
     "id": 112,
+    "image": "",
     "english": "What is the voltage across the base-emitter junction of a silicon BJT in forward bias?",
     "question": "다음 중 실리콘(silicon) BJT(bipolar transistor)의 순방향 바이어스(bias)된 베이스(base)-이미터(emitter) 접합 양단 전압은?",
     "choices": ["0V", "0.5V", "0.7V", "1.0V"],
@@ -1067,6 +1079,7 @@
   },
   {
     "id": 113,
+    "image": "",
     "english": "What is the state called when a transistor is not conducting?",
     "question": "다음 중 트랜지스터(transistor)가 도통하지 않은 상태를 무엇이라 하는가?",
     "choices": [
@@ -1079,6 +1092,7 @@
   },
   {
     "id": 114,
+    "image": "",
     "english": "What is the disadvantage of base bias in a transistor?",
     "question": "다음 중 트랜지스터(transistor) 베이스 바이어스(base bias)의 결점은?",
     "choices": [
@@ -1091,6 +1105,7 @@
   },
   {
     "id": 115,
+    "image": "",
     "english": "What is the input resistance of a common base amplifier?",
     "question": "다음 중 공통 베이스(base)증폭기의 입력저항은?",
     "choices": ["매우 높다.", "매우 낮다.", "같다.", "무한대"],
@@ -1098,6 +1113,7 @@
   },
   {
     "id": 116,
+    "image": "",
     "english": "How many pn junctions does a thyristor have?",
     "question": "다음 중 다이리스터(thyristor)는 몇 개의 pn접합을 갖는가?",
     "choices": ["1개", "2개", "3개", "4개"],
@@ -1105,6 +1121,7 @@
   },
   {
     "id": 117,
+    "image": "",
     "english": "How is an SCR (silicon-controlled rectifier) different from a Shockley diode?",
     "question": "다음 중 SCR(silicon-controlled rectifier)이 쇼클리 다이오드(shockley diode)와 다른 이유는 무엇인가?",
     "choices": [
@@ -1117,6 +1134,7 @@
   },
   {
     "id": 118,
+    "image": "",
     "english": "What does a light-triggered SCR respond to?",
     "question": "다음 중 광 SCR(silicon-controlled rectifier)은 무엇에 대해 반응하는가?",
     "choices": ["전류", "전압", "습기", "빛"],
@@ -1124,6 +1142,7 @@
   },
   {
     "id": 119,
+    "image": "",
     "english": "What is an SCR (silicon-controlled rectifier)?",
     "question": "다음 중 SCR(silicon-controlled rectifier)은 무엇인가?",
     "choices": [
@@ -1136,6 +1155,7 @@
   },
   {
     "id": 120,
+    "image": "",
     "english": "What kind of device is a triac?",
     "question": "다음 중 트라이액(triac)은 어떠한 소자인가?",
     "choices": [
@@ -1148,6 +1168,7 @@
   },
   {
     "id": 121,
+    "image": "",
     "english": "How is the gate terminal in a triac configured?",
     "question": "다음 중 트라이액(triac)에서 게이트(gate) 단자는 어떻게 구성되는가?",
     "choices": [
@@ -1160,6 +1181,7 @@
   },
   {
     "id": 122,
+    "image": "",
     "english": "How is the base current in a photo transistor maintained?",
     "question": "다음 중 포토 트랜지스터(photo transistor)에서 베이스(base)전류는 어떻게 유지되는가?",
     "choices": [
@@ -1172,6 +1194,7 @@
   },
   {
     "id": 123,
+    "image": "",
     "english": "Which of the following is not a characteristic of a UJT (unijunction transistor)?",
     "question": "다음 중 UJT(unijunction transistor)의 특성이 아닌 것은 무엇인가?",
     "choices": ["부저항성", "첨두점 전압", "양방향성 도통", "진성이탈비"],
@@ -1179,6 +1202,7 @@
   },
   {
     "id": 124,
+    "image": "",
     "english": "Which of the following is not a feature of an integrated circuit?",
     "question": "다음 중 직접 회로(integrated circuit)의 특징으로 옳지 못한 것은?",
     "choices": [
@@ -1191,6 +1215,7 @@
   },
   {
     "id": 125,
+    "image": "",
     "english": "Which of the following is classified as a large-scale integrated circuit (LSI)?",
     "question": "다음 중 대규모 직접 회로(LSI : Large-Scale Integrated)로 분류되는 것은?",
     "choices": [
@@ -1203,6 +1228,7 @@
   },
   {
     "id": 126,
+    "image": "",
     "english": "Which of the following is not a correct condition for an ideal operational amplifier (OP Amp)?",
     "question": "다음 중 이상적인 연산 증폭기(OP Amp)가 갖추어야 할 조건 중 옳지 못한 것은?",
     "choices": [
@@ -1215,6 +1241,7 @@
   },
   {
     "id": 127,
+    "image": "",
     "english": "Which of the following is correct regarding the input and output terminals of an operational amplifier (OP Amp)?",
     "question": "다음 중 연산 증폭기(OP Amp)의 입출력 단자가 옳은 것은?",
     "choices": [
@@ -1227,6 +1254,7 @@
   },
   {
     "id": 128,
+    "image": "",
     "english": "What is the logic expression for a NAND gate?",
     "question": "다음 중 NAND게이트의 논리식은?",
     "choices": ["A+B", "A' + B", "A + B'", "A' + B'"],
@@ -1234,6 +1262,7 @@
   },
   {
     "id": 129,
+    "image": "",
     "english": "Which gate has the basic logic expression A○×B?",
     "question": "다음 중 기본 논리식이 A○×B인 게이트(gate)는 무엇인가?",
     "choices": ["AND", "EX-OR", "NOR", "OR"],
@@ -1241,6 +1270,7 @@
   },
   {
     "id": 130,
+    "image": "",
     "english": "Which of the following is incorrect in Boolean algebra?",
     "question": "다음 중 Bool 대수가 틀린 것은?",
     "choices": ["A + 1 = 1", "A▪0 = 0", "A + A = A", "A + A' = 0"],
@@ -1248,6 +1278,7 @@
   },
   {
     "id": 131,
+    "image": "",
     "english": "Which microphone requires an external power source?",
     "question": "외부 전원이 반드시 필요한 마이크(Microphone)는?",
     "choices": [
@@ -1260,6 +1291,7 @@
   },
   {
     "id": 132,
+    "image": "",
     "english": "Which microphone requires special care and is not suitable for outdoor use?",
     "question": "다음 마이크(Microphone)중에서 특별한 주의가 필요하고 야외에서 사용하는데 적합하지 않은 마이크(Microphone)는?",
     "choices": [
@@ -1272,6 +1304,7 @@
   },
   {
     "id": 133,
+    "image": "",
     "english": "Which microphone is suitable for amplifying a lecture in a school auditorium?",
     "question": "학교 강당에서 강연회를 확성할 경우에 어떠한 마이크(Microphone)를 사용하는 것이 적절한가?",
     "choices": [
@@ -1284,6 +1317,7 @@
   },
   {
     "id": 134,
+    "image": "",
     "english": "Which characteristic does not affect the quality of a speaker?",
     "question": "스피커(Speaker) 품질에 영향을 주는 특성이 아닌 것은?",
     "choices": [
@@ -1296,6 +1330,7 @@
   },
   {
     "id": 135,
+    "image": "",
     "english": "If a speaker outputs 100W and the sound pressure level at 10m is 100dB, what is the sensitivity of the speaker?",
     "question": "스피커(Speaker)에 100W를 입력했을 때, 10m 지점에서 음압 레벨이 100dB이며 스피커(Speaker)의 감도는 얼마인가?",
     "choices": ["80dB", "97dB", "100dB", "120dB"],
@@ -1303,6 +1338,7 @@
   },
   {
     "id": 136,
+    "image": "",
     "english": "Which is not a type of speaker classified by diaphragm?",
     "question": "스피커(Speaker) 진동판에 의한 구분이 아닌 것은?",
     "choices": [
@@ -1315,6 +1351,7 @@
   },
   {
     "id": 137,
+    "image": "",
     "english": "Which amplifier circuit class has the highest efficiency?",
     "question": "앰프(AMP) 회로 중에서 효율이 가장 좋은 것은?",
     "choices": ["A급", "AB급", "B급", "C급"],
@@ -1322,6 +1359,7 @@
   },
   {
     "id": 138,
+    "image": "",
     "english": "Which power amplifier mode consumes the most power?",
     "question": "파워(POWER) 앰프(AMP) 모드 중에서 상대적으로 소비 전력이 가장 많은 것은?",
     "choices": ["A급", "B급", "AB급", "C급"],
@@ -1329,6 +1367,7 @@
   },
   {
     "id": 139,
+    "image": "",
     "english": "If the output impedance of an amplifier is 0.5Ω and the speaker impedance is 10Ω, what is the damping factor (DF)?",
     "question": "앰프의 출력 임피던스가 0.5Ω이고, 스피커 임피던스가 10Ω이면 댐핑(damping factor, DF)은 얼마인가?",
     "choices": ["20", "30", "40", "60"],
@@ -1336,6 +1375,7 @@
   },
   {
     "id": 140,
+    "image": "",
     "english": "What is the unit of sound pressure level (SPL)?",
     "question": "음압 레벨(sound pressure level: SPL)의 단위는 무엇인가?",
     "choices": ["W", "dB", "phon", "Hz"],
@@ -1343,6 +1383,7 @@
   },
   {
     "id": 141,
+    "image": "",
     "english": "Which of the following equations represents the relationship between wavelength (λ), frequency (f), and speed of sound (c)?",
     "question": "다음 중 파장(λ), 주파수(f)와 음속(c)과의 관계를 나타내는 식은?",
     "choices": ["λ = c/f", "λ = f/c", "λ = c/f²", "λ = f²/c"],
@@ -1350,6 +1391,7 @@
   },
   {
     "id": 142,
+    "image": "",
     "english": "What is the number of cycles repeated in one second called?",
     "question": "다음 중 1초 동안에 반복되는 사이클(cycle)의 수를 무엇이라 하는가?",
     "choices": [
@@ -1362,6 +1404,7 @@
   },
   {
     "id": 143,
+    "image": "",
     "english": "Which of the following is NOT a component when defining the four main principles of CCTV (Closed Circuit Television) configuration?",
     "question": "다음 중 CCTV(Closed Circuit Television)구성의 4대 원칙으로 정의할 때 구성요소가 아닌 것은?",
     "choices": ["촬영부", "감시부", "전송부", "기록부"],
@@ -1369,6 +1412,7 @@
   },
   {
     "id": 144,
+    "image": "",
     "english": "Which of the following is NOT a classification based on the transmission method of CCTV (Closed Circuit Television) cameras?",
     "question": "다음 중 CCTV(Closed Circuit Television) 카메라의 전송방식에 의한 분류가 아닌 것은?",
     "choices": [
@@ -1381,6 +1425,7 @@
   },
   {
     "id": 145,
+    "image": "",
     "english": "Which wired cable is commonly used for unbalanced communication techniques?",
     "question": "다음 중 불평형 통신기법으로 현재 많이 사용하는 유선 케이블(cable)은 어느 것인가?",
     "choices": [
@@ -1393,6 +1438,7 @@
   },
   {
     "id": 146,
+    "image": "",
     "english": "Which of the following is NOT a difference between ECX series coaxial cables and high-foamed cables?",
     "question": "다음 중 고발포 케이블(cable)과 비교하여 ECX계열 동축케이블의 차이점으로 볼 수 없는 것은?",
     "choices": [
@@ -1405,6 +1451,7 @@
   },
   {
     "id": 147,
+    "image": "",
     "english": "What is the standard communication distance for RS-232 EIA standard communication?",
     "question": "다음 중 RS-232 EIA의 표준규격 통신에서 표준통신거리는 얼마인가?",
     "choices": ["15M", "100M", "500M", "1200M"],
@@ -1412,6 +1459,7 @@
   },
   {
     "id": 148,
+    "image": "",
     "english": "Which communication method allows sending and receiving simultaneously?",
     "question": "다음 중 통신방식에서 보내고 받는 것을 동시에 할 수 있는 방식은?",
     "choices": ["일방통신", "반이중통신", "전이중통신", "무선통신"],
@@ -1419,6 +1467,7 @@
   },
   {
     "id": 149,
+    "image": "",
     "english": "Which device supplies stable power for a certain period during a momentary blackout or power outage?",
     "question": "다음 중 순간 정전이 되거나 전력이 끊어지더라도 일정시간 동안 안정된 전력을 공급하는 장치는?",
     "choices": [
@@ -1431,6 +1480,7 @@
   },
   {
     "id": 150,
+    "image": "",
     "english": "Which of the following devices is NOT necessary for implementing a CCTV system using TCP/IP?",
     "question": "다음 중 TCP/IP를 이용한 CCTV 시스템 구현에서 필요 없는 장비는?",
     "choices": [
@@ -1443,6 +1493,7 @@
   },
   {
     "id": 151,
+    "image": "",
     "english": "Which type of bus duct allows for connection of moving loads in the middle?",
     "question": "버스닥트의 종류에서 도중에 이동 부하를 접속할 수 있도록 만든 것은?",
     "choices": [
@@ -1455,6 +1506,7 @@
   },
   {
     "id": 152,
+    "image": "",
     "english": "Which of the following is NOT an accessory for a cable tray?",
     "question": "케이블 트레이(Cable Tray) 부속자재가 아닌 것은?",
     "choices": [
@@ -1467,6 +1519,7 @@
   },
   {
     "id": 153,
+    "image": "",
     "english": "Which of the following is NOT a precaution when installing a synthetic resin flexible conduit (CD)?",
     "question": "합성수지제 가요전선관(CD)의 시공 시 주의 사항이 아닌 것은?",
     "choices": [
@@ -1479,6 +1532,7 @@
   },
   {
     "id": 154,
+    "image": "",
     "english": "Which of the following is NOT a precaution when installing a metal conduit?",
     "question": "금속제 전선관(Conduit)의 시공 시 주의 사항이 아닌 것은?",
     "choices": [
@@ -1491,6 +1545,7 @@
   },
   {
     "id": 155,
+    "image": "",
     "english": "Which of the following is NOT a consideration when calculating branch circuits?",
     "question": "분기회로 산정 시 고려 사항이 아닌 것은?",
     "choices": [
@@ -1503,6 +1558,7 @@
   },
   {
     "id": 156,
+    "image": "",
     "english": "Which of the following is NOT a factor in the risk of electric shock?",
     "question": "감전 위험 요소가 아닌 것은?",
     "choices": ["통전전류의 크기", "통전시간", "통전경로", "통전장소"],
@@ -1510,6 +1566,7 @@
   },
   {
     "id": 157,
+    "image": "",
     "english": "Which of the following is NOT a phenomenon of electric shock?",
     "question": "감전 현상이 아닌 것은?",
     "choices": ["호흡정지", "심장마비", "근육이완", "추락"],
@@ -1517,6 +1574,7 @@
   },
   {
     "id": 158,
+    "image": "",
     "english": "Which of the following electric shock paths has the highest risk?",
     "question": "전기감전에서 통전경로별 위험도가 가장 큰 것은?",
     "choices": ["왼손-가슴", "오른손-가슴", "양손-양발", "왼손-오른손"],
@@ -1524,6 +1582,7 @@
   },
   {
     "id": 159,
+    "image": "",
     "english": "What voltage is defined as safe voltage in Korea?",
     "question": "우리나라는 몇[V]를 안전전압으로 규정하는가?",
     "choices": ["10", "20", "30", "40"],
@@ -1531,6 +1590,7 @@
   },
   {
     "id": 160,
+    "image": "",
     "english": "Which of the following is NOT a purpose of installing a leakage circuit breaker?",
     "question": "누전차단기를 설치하는 목적이 아닌 것은?",
     "choices": [
@@ -1543,6 +1603,7 @@
   },
   {
     "id": 161,
+    "image": "",
     "english": "Which of the following cables is twisted into a helical shape and has no additional sheath for electromagnetic interference protection?",
     "question": "케이블을 나선형으로 꼬아 놓은 형태이며, 전자기 간섭을 막기 위한 별도의 피복이 없는 전선은?",
     "choices": [
@@ -1555,6 +1616,7 @@
   },
   {
     "id": 162,
+    "image": "",
     "english": "What is the name of the cable with a sheath over the entire cable?",
     "question": "전체 케이블에 피복을 씌운 케이블의 명칭은?",
     "choices": [
@@ -1567,6 +1629,7 @@
   },
   {
     "id": 163,
+    "image": "",
     "english": "What is the name of the cable with a sheath over the entire cable and also over each twisted pair?",
     "question": "전체 케이블에 피복을 씌우고 각각의 나선형 케이블 쌍에도 피복을 씌운 케이블의 명칭은?",
     "choices": [
@@ -1579,6 +1642,7 @@
   },
   {
     "id": 164,
+    "image": "",
     "english": "What is the communication capacity of Category 4?",
     "question": "카테고리 4의 통신용량은?",
     "choices": ["4Mbps", "10Mbps", "16Mbps", "100Mbps"],
@@ -1586,6 +1650,7 @@
   },
   {
     "id": 165,
+    "image": "",
     "english": "What is the communication capacity of Category 5?",
     "question": "카테고리 5의 통신용량은?",
     "choices": ["4Mbps", "10Mbps", "16Mbps", "100Mbps"],
@@ -1593,6 +1658,7 @@
   },
   {
     "id": 166,
+    "image": "",
     "english": "What is the resistance value [Ω] of a broadband coaxial cable?",
     "question": "광대역 동축 케이블(broadband coaxial cable)의 저항 값[Ω]은 얼마인가?",
     "choices": ["35", "45", "55", "75"],
@@ -1600,6 +1666,7 @@
   },
   {
     "id": 167,
+    "image": "",
     "english": "What is the resistance value [Ω] of a baseband coaxial cable?",
     "question": "기저 대역 동축 케이블(baseband coaxial cable)의 저항 값[Ω]은 얼마인가?",
     "choices": ["30", "40", "50", "70"],
@@ -1607,6 +1674,7 @@
   },
   {
     "id": 168,
+    "image": "",
     "english": "Which of the following is not a characteristic of coaxial cable?",
     "question": "동축 케이블(coaxial cable)의 특징이 아닌 것은?",
     "choices": [
@@ -1619,6 +1687,7 @@
   },
   {
     "id": 169,
+    "image": "",
     "english": "Which of the following is not a use of coaxial cable?",
     "question": "동축 케이블의 용도가 아닌 것은?",
     "choices": [
@@ -1631,6 +1700,7 @@
   },
   {
     "id": 170,
+    "image": "",
     "english": "Which of the following is not a characteristic of optical fiber cable?",
     "question": "광섬유 케이블(optical fiber cable)의 특징이 아닌 것은?",
     "choices": [
@@ -1643,6 +1713,7 @@
   },
   {
     "id": 171,
+    "image": "",
     "english": "Which of the following is not a characteristic of optical fiber cable?",
     "question": "광섬유 케이블(optical fiber cable)의 특징이 아닌 것은?",
     "choices": [
@@ -1655,6 +1726,7 @@
   },
   {
     "id": 172,
+    "image": "",
     "english": "Which of the following is not an information transmission method?",
     "question": "정보 전송방식이 아닌 것은?",
     "choices": [
@@ -1667,6 +1739,7 @@
   },
   {
     "id": 173,
+    "image": "",
     "english": "Which of the following is not a characteristic of serial transmission method in information transmission?",
     "question": "정보전송에서 직렬 전송 방식의 특징이 아닌 것은?",
     "choices": [
@@ -1679,6 +1752,7 @@
   },
   {
     "id": 174,
+    "image": "",
     "english": "Which of the following is not a characteristic of parallel transmission method in information transmission?",
     "question": "정보전송에서 병렬 전송 방식의 특징이 아닌 것은?",
     "choices": [
@@ -1691,6 +1765,7 @@
   },
   {
     "id": 175,
+    "image": "",
     "english": "Which of the following is not an advantage of network usage?",
     "question": "네트워크 사용의 장점이 아닌 것은?",
     "choices": [
@@ -1703,6 +1778,7 @@
   },
   {
     "id": 176,
+    "image": "",
     "english": "What type of communication network connects resources such as peripheral devices and workstations in offices and schools, within approximately 10 km and at a transmission speed of about 10 Mbps?",
     "question": "사무실, 학교 등의 일정 지역 내에 분산 되어 있는 주변기기, 워크스테이션 등의 자원을 서로 연결하여 정보를 전송, 저장, 처리하는 통신망으로 약 10[km]거리 내에서 10[Mbps]정도의 전송속도를 가지는 통신방식은?",
     "choices": ["LAN", "WAN", "MAN", "VAN"],
@@ -1710,6 +1786,7 @@
   },
   {
     "id": 177,
+    "image": "",
     "english": "Which of the following is not a type of information transmission switching method?",
     "question": "정보의 전송교환 방식이 아닌 것은?",
     "choices": [
@@ -1722,6 +1799,7 @@
   },
   {
     "id": 178,
+    "image": "",
     "english": "Which type of wire is mainly used for telephone lines or local area networks?",
     "question": "주로 전화선이나 근거리 통신망에 사용되는 전선은?",
     "choices": [
@@ -1734,6 +1812,7 @@
   },
   {
     "id": 179,
+    "image": "",
     "english": "Which communication network is primarily used in a token-ring local area network?",
     "question": "토큰링(Token-ring)형 근거리 통신망에 주로 사용되는 통신망은?",
     "choices": [
@@ -1746,6 +1825,7 @@
   },
   {
     "id": 180,
+    "image": "",
     "english": "Which of the following is not a characteristic of optical fiber cable compared to twisted pair cables or coaxial cables?",
     "question": "트위스트 페어(twisted pair) 케이블이나 동축케이블(Coaxial Cable)과 비교할 때 광케이블(Optical Fiber Cable)의 특징이 아닌 것은?",
     "choices": [
@@ -1758,6 +1838,7 @@
   },
   {
     "id": 181,
+    "image": "",
     "english": "Which of the following is not an information communication service based on the form of information?",
     "question": "정보 형태에 따른 정보 통신 서비스가 아닌 것은?",
     "choices": ["음성 통신", "데이터 통신", "화상 통신", "E-mail 서비스 통신"],
@@ -1765,6 +1846,7 @@
   },
   {
     "id": 182,
+    "image": "",
     "english": "Which of the following is not an information communication standardization organization?",
     "question": "정보통신 표준화 기구가 아닌 것은?",
     "choices": ["ISO", "ITU-T", "IEEE", "ANCI"],
@@ -1772,6 +1854,7 @@
   },
   {
     "id": 183,
+    "image": "",
     "english": "Which of the following is not an advantage of the star topology in information communication networks?",
     "question": "정보 통신망 토폴리지(Topology) 방식 중 성(Star)형의 장점이 아닌 것은?",
     "choices": [
@@ -1784,6 +1867,7 @@
   },
   {
     "id": 184,
+    "image": "",
     "english": "Which of the following is not an advantage of the ring topology in information communication networks?",
     "question": "정보 통신망 토폴리지(Topology) 방식 중 링(Ring)형의 장점이 아닌 것은?",
     "choices": [
@@ -1796,6 +1880,7 @@
   },
   {
     "id": 185,
+    "image": "",
     "english": "Which of the following is not a disadvantage of the ring topology in information communication networks?",
     "question": "정보 통신망 토폴리지(Topology) 방식 중 링(Ring)형의 단점이 아닌 것은?",
     "choices": [
@@ -1808,6 +1893,7 @@
   },
   {
     "id": 186,
+    "image": "",
     "english": "Which of the following is not an advantage of the bus topology in information communication networks?",
     "question": "정보 통신망 토폴리지(Topology) 방식 중 버스(Bus)형의 장점이 아닌 것은?",
     "choices": [
@@ -1820,6 +1906,7 @@
   },
   {
     "id": 187,
+    "image": "",
     "english": "Which of the following is not a disadvantage of the bus topology in information communication networks?",
     "question": "정보 통신망 토폴리지(Topology) 방식 중 버스(Bus)형의 단점이 아닌 것은?",
     "choices": [
@@ -1832,6 +1919,7 @@
   },
   {
     "id": 188,
+    "image": "",
     "english": "Which information communication network has a central node for all data routing, simplifying the intermediary process?",
     "question": "정보 통신망 토폴리지(Topology) 방식 중 모든 데이터가 제어 노드를 중심으로 라우팅되므로 중개 과정이 간단한 정보 통신망은?",
     "choices": ["트리(Tree)형", "그물(Mesh)형", "버스(Bus)형", "망(Ring)형"],
@@ -1839,6 +1927,7 @@
   },
   {
     "id": 189,
+    "image": "",
     "english": "Which information communication network topology has a central host problem affecting the entire network operation?",
     "question": "정보 통신망 토폴리지(Topology) 방식 중 중앙호스트에 문제가 발생하면 전체 네트워크의 동작에 영향을 많이 주는 정보통신 방식은?",
     "choices": ["트리(Tree)형", "그물(Mesh)형", "버스(Bus)형", "망(Ring)형"],
@@ -1846,6 +1935,7 @@
   },
   {
     "id": 190,
+    "image": "",
     "english": "Which of the following is not a field of use for information communication networks?",
     "question": "정보통신망의 이용 분야가 아닌 것은?",
     "choices": ["정보 검색", "금융 서비스", "고속 로밍 기능", "E-mail"],
@@ -1853,6 +1943,7 @@
   },
   {
     "id": 191,
+    "image": "",
     "english": "Which of the following is not a purpose of network architecture?",
     "question": "통신망 아키텍쳐(Network Architecture)의 목적이 아닌 것은?",
     "choices": [
@@ -1865,6 +1956,7 @@
   },
   {
     "id": 192,
+    "image": "",
     "english": "In information transmission technology, what is a communication line consisting of 4 signal lines and a common ground line?",
     "question": "정보전송 기술에서 신호선과 공통접지선 4개로 구성된 통신회선은?",
     "choices": ["2선식", "4선식", "6선식", "8선식"],
@@ -1872,6 +1964,7 @@
   },
   {
     "id": 193,
+    "image": "",
     "english": "Which of the following is not a connection method for communication lines?",
     "question": "통신회선의 접속 방식이 아닌 것은?",
     "choices": [
@@ -1884,6 +1977,7 @@
   },
   {
     "id": 194,
+    "image": "",
     "english": "What enables bidirectional short-distance communication between information devices such as mobile phones, PDAs, and laptops, with a transmission distance of 10-100 meters?",
     "question": "핸드폰, PDA, 노트북과 같은 정보기기들 간의 양방향 근거리 통신이 가능하며 전송거리는 10~100[m] 까지 가능한 것은?",
     "choices": ["Bluetooth", "Zigbee", "UWB", "IrDA"],
@@ -1891,6 +1985,7 @@
   },
   {
     "id": 195,
+    "image": "",
     "english": "Which of the following is not a technical feature of UWB (Ultra Wide Band)?",
     "question": "UWB(Ultra Wide Band)의 기술적 특징이 아닌 것은?",
     "choices": [
@@ -1903,6 +1998,7 @@
   },
   {
     "id": 196,
+    "image": "",
     "english": "Which of the following is not a characteristic of cellular engineering in wireless communication technology?",
     "question": "무선통신 기술에서 셀룰라 엔지니어링의 특징이 아닌 것은?",
     "choices": [
@@ -1915,6 +2011,7 @@
   },
   {
     "id": 197,
+    "image": "",
     "english": "In wireless communication technology, what integrates wireless networks and the internet to allow free internet access anytime and anywhere?",
     "question": "무선통신 기술에서 무선망과 인터넷이 통합되어 언제 어디서든지 자유로이 인터넷을 이용할 수 있는 것은?",
     "choices": ["UWB", "WiBro", "Bluetooth", "Zigbee"],
@@ -1922,6 +2019,7 @@
   },
   {
     "id": 198,
+    "image": "",
     "english": "Asynchronous synchronization using GPS satellites is characterized by data transmission and reception through synchronization between base stations and relay stations without using satellites. What is this?",
     "question": "GPS 위성을 사용한 동기화 방식을 사용하는 비동기식은 위성을 이용하지 않고 기지국과 중계국간 동기화를 통해 데이터를 송수신하는 것은?",
     "choices": ["IMT 2000 동기식", "무선 LAN", "Bluetooth", "Zigbee"],
@@ -1929,6 +2027,7 @@
   },
   {
     "id": 199,
+    "image": "",
     "english": "What is the technology that falls between 3G mobile communications, represented by WCDMA and cdma2000, and 4G mobile communications?",
     "question": "WCDMA와 cdma2000으로 대별되는 3G 이동 통신과 4G 이동통신의 중간에 해당되는 기술은?",
     "choices": [
@@ -1941,6 +2040,7 @@
   },
   {
     "id": 200,
+    "image": "",
     "english": "In wireless communication technology, what is characterized by transmitting different data to multiple antennas and finding and separating the wireless channel characteristics at the receiving end from the data transmitted to different antennas?",
     "question": "무선통신 기술에서 전송할 때 여러 개의 안테나에 서로 다른 데이터를 보내고 수신단에서 서로 다른 안테나로 전송된 데이터를 통해 무선 채널 특성을 찾아내어 분리하는 것을 특징으로 하는 것은?",
     "choices": [
