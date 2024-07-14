@@ -318,5 +318,13 @@
 		"choices": ["계산기", "텔레비전", "휴대전화", "노트북 컴퓨터"],
 		"answer": "휴대전화",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/cell-phone.png"
+	},
+	{
+		"id": 41,
+		"english": "Humidifier",
+		"question": "",
+		"choices": ["냉장고입니다", "가습기입니다", "세탁기입니다", "온도계입니다"],
+		"answer": "가습기입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/humidifier.png"
 	}
 ]

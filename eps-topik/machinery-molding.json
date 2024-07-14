@@ -830,5 +830,23 @@
 		"choices": ["치수 보조선", "참조선", "화살표", "지시선"],
 		"answer": "참조선",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/machine17.png"
-	}
+	},
+	{
+		"id": 106,
+		"english": "Which of the following is incorrect as a symbol for machining methods?",
+		"question": "가공방법의 기호로 틀린 것은?",
+		"choices": ["L : 선삭", "D : 드릴링", "M : 밀링", "G : 호닝"],
+		"answer": "G : 호닝",
+		"image": ""
+	  },
+	  {
+		"id": 107,
+		"english": "What is the projection seen in the direction of the arrow in the isometric projection shown below?",
+		"question": "아래 보기의 등각 투상도에서 화살표 방향으로 본 투상도는?",
+		"choices": ["Option 1", "Option 2", "Option 3", "Option 4"],
+		"answer": "Option 3",
+		"image": "Insert image or figure here representing the isometric projection and the direction of the arrow."
+	  }
+	  
+	  
 ]
