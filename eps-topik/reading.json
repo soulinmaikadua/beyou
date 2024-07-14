@@ -321,10 +321,82 @@
 	},
 	{
 		"id": 41,
-		"english": "Humidifier",
+		"english": "It's a humidifier",
 		"question": "",
 		"choices": ["냉장고입니다", "가습기입니다", "세탁기입니다", "온도계입니다"],
 		"answer": "가습기입니다",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/humidifier.png"
+	},
+	{
+		"id": 42,
+		"english": "It's a mirror",
+		"question": "",
+		"choices": ["공입니다", "가위입니다", "거울입니다", "안경입니다"],
+		"answer": "거울입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/mirror.png"
+	},
+	{
+		"id": 43,
+		"english": "These are rubber gloves.",
+		"question": "",
+		"choices": ["수세미입니다", "고무장화입니다", "고무장갑입니다", "고무지우개입니다"],
+		"answer": "고무장갑입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/gloves.png"
+	},
+	{
+		"id": 44,
+		"english": "This is a transportation card.",
+		"question": "",
+		"choices": ["여권입니다", "신분증입니다", "신용카드입니다", "교통카드입니다"],
+		"answer": "교통카드입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/bank-card.png"
+	},
+	{
+		"id": 45,
+		"english": "These are earmuffs.",
+		"question": "",
+		"choices": ["귀덮개입니다", "안전모입니다", "안전화입니다", "보안경입니다"],
+		"answer": "귀덮개입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/earnmuff.png"
+	},
+	{
+		"id": 46,
+		"english": "It's a flower",
+		"question": "",
+		"choices": ["꽃입니다", "집입니다", "과일입니다", "나무입니다"],
+		"answer": "꽃입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/flower.png"
+	},
+	{
+		"id": 47,
+		"english": "It's a tree",
+		"question": "",
+		"choices": ["꽃입니다", "옷입니다", "나무입니다", "가구입니다"],
+		"answer": "나무입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/tree.png"
+	},
+	{
+		"id": 48,
+		"english": "It's a stove",
+		"question": "",
+		"choices": ["난로입니다", "선풍기입니다", "에어컨입니다", "가습기입니다"],
+		"answer": "난로입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/stove.png"
+	},
+	{
+		"id": 49,
+		"english": "It's a pot",
+		"question": "",
+		"choices": ["컵입니다", "라면입니다", "냄비입니다", "도마입니다"],
+		"answer": "냄비입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/pot.png"
+	},
+	{
+		"id": 50,
+		"english": "It's an iron",
+		"question": "",
+		"choices": ["다리미입니다", "청소기입니다", "세탁기입니다", "온도계입니다"],
+		"answer": "다리미입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/iron.png"
 	}
 ]
