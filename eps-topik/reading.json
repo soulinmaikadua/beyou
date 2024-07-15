@@ -398,5 +398,85 @@
 		"choices": ["다리미입니다", "청소기입니다", "세탁기입니다", "온도계입니다"],
 		"answer": "다리미입니다",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/iron.png"
+	},
+	{
+		"id": 51,
+		"english": "It's a cutting board",
+		"question": "",
+		"choices": ["칼입니다", "도마입니다", "냄비입니다", "수저입니다"],
+		"answer": "도마입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/cutting-board.png"
+	},
+	{
+		"id": 52,
+		"english": "It's strawberry",
+		"question": "",
+		"choices": ["배입니다", "포도입니다", "딸기입니다", "사과입니다"],
+		"answer": "딸기입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/strawberry.png"
+	},
+	{
+		"id": 53,
+		"english": "It's a rip off",
+		"question": "",
+		"choices": ["냄비입니다", "도마입니다", "바가지입니다", "바구니입니다"],
+		"answer": "바가지입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/ripoff.png"
+	},
+	{
+		"id": 54,
+		"english": "It's a basket",
+		"question": "",
+		"choices": ["접시입니다", "주머니입니다", "바가지입니다", "바구니입니다"],
+		"answer": "바구니입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/basket.png"
+	},
+	{
+		"id": 55,
+		"english": "It's a mask",
+		"question": "",
+		"choices": ["모자입니다", "안경입니다", "귀마개입니다", "마스크입니다"],
+		"answer": "마스크입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/mask.png"
+	},
+	{
+		"id": 56,
+		"english": "It's a pillow",
+		"question": "",
+		"choices": ["이불입니다", "베개입니다", "침대입니다", "바지입니다"],
+		"answer": "베개입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/pillow.png"
+	},
+	{
+		"id": 57,
+		"english": "It's a copier",
+		"question": "",
+		"choices": ["복사기입니다", "계산기입니다", "선풍기입니다", "청소기입니다"],
+		"answer": "복사기입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/copier.png"
+	},
+	{
+		"id": 58,
+		"english": "It's an envelope",
+		"question": "",
+		"choices": ["봉투입니다", "우표입니다", "상자입니다", "지갑입니다"],
+		"answer": "봉투입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/envelope.png"
+	},
+	{
+		"id": 59,
+		"english": "It's a comb",
+		"question": "",
+		"choices": ["빗입니다", "신입니다", "거울입니다", "모자입니다"],
+		"answer": "빗입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/comb.png"
+	},
+	{
+		"id": 60,
+		"english": "It's an apple",
+		"question": "",
+		"choices": ["사과입니다", "딸기입니다", "포도입니다", "수박입니다"],
+		"answer": "사과입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/apple.png"
 	}
 ]
