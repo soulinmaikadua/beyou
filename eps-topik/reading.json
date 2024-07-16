@@ -478,5 +478,85 @@
 		"choices": ["사과입니다", "딸기입니다", "포도입니다", "수박입니다"],
 		"answer": "사과입니다",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/apple.png"
+	},
+	{
+		"id": 61,
+		"english": "It's a flashlight",
+		"question": "",
+		"choices": ["형광등입니다", "손전등입니다", "선풍기입니다", "계산기입니다"],
+		"answer": "손전등입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/flashlight.png"
+	},
+	{
+		"id": 62,
+		"english": "It's a washbasin.",
+		"question": "",
+		"choices": ["의자입니다", "바구니입니다", "비닐봉투입니다", "세숫대야입니다"],
+		"answer": "세숫대야입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/washbasin.png"
+	},
+	{
+		"id": 63,
+		"english": "It's watermelon.",
+		"question": "",
+		"choices": ["수박입니다", "포도입니다", "사과입니다", "딸기입니다"],
+		"answer": "수박입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/watermelon.png"
+	},
+	{
+		"id": 64,
+		"english": "It's a sweater.",
+		"question": "",
+		"choices": ["치마입니다", "양말입니다", "바지입니다", "스웨터입니다"],
+		"answer": "스웨터입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/sweater.png"
+	},
+	{
+		"id": 65,
+		"english": "It's a spoon.",
+		"question": "",
+		"choices": ["가위입니다", "연필입니다", "숟가락입니다", "젓가락입니다"],
+		"answer": "숟가락입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/spoon.png"
+	},
+	{
+		"id": 66,
+		"english": "It's a credit card.",
+		"question": "",
+		"choices": ["사원증입니다", "교통카드입니다", "신용카드입니다", "운전면허증입니다"],
+		"answer": "신용카드입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/credit-card.png"
+	},
+	{
+		"id": 67,
+		"english": "It's the key.",
+		"question": "",
+		"choices": ["칼입니다", "열쇠입니다", "수저입니다", "카드입니다"],
+		"answer": "열쇠입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/key.png"
+	},
+	{
+		"id": 68,
+		"english": "It's a thermometer.",
+		"question": "",
+		"choices": ["선풍기입니다", "계산기입니다", "체중계입니다", "온도계입니다"],
+		"answer": "온도계입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/thermometer.png"
+	},
+	{
+		"id": 69,
+		"english": "It's a hanger.",
+		"question": "",
+		"choices": ["거울입니다", "옷장입니다", "의자입니다", "옷걸이입니다"],
+		"answer": "옷걸이입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/hanger.png"
+	},
+	{
+		"id": 70,
+		"english": "It's a blanket.",
+		"question": "",
+		"choices": ["이불입니다", "베개입니다", "의자입니다", "수건입니다"],
+		"answer": "이불입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/blanket.png"
 	}
 ]
