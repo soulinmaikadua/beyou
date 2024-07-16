@@ -478,5 +478,173 @@
 		"choices": ["사과입니다", "딸기입니다", "포도입니다", "수박입니다"],
 		"answer": "사과입니다",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/apple.png"
+	},
+	{
+		"id": 61,
+		"english": "It's a flashlight",
+		"question": "",
+		"choices": ["형광등입니다", "손전등입니다", "선풍기입니다", "계산기입니다"],
+		"answer": "손전등입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/flashlight.png"
+	},
+	{
+		"id": 62,
+		"english": "It's a washbasin.",
+		"question": "",
+		"choices": ["의자입니다", "바구니입니다", "비닐봉투입니다", "세숫대야입니다"],
+		"answer": "세숫대야입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/washbasin.png"
+	},
+	{
+		"id": 63,
+		"english": "It's watermelon.",
+		"question": "",
+		"choices": ["수박입니다", "포도입니다", "사과입니다", "딸기입니다"],
+		"answer": "수박입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/watermelon.png"
+	},
+	{
+		"id": 64,
+		"english": "It's a sweater.",
+		"question": "",
+		"choices": ["치마입니다", "양말입니다", "바지입니다", "스웨터입니다"],
+		"answer": "스웨터입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/sweater.png"
+	},
+	{
+		"id": 65,
+		"english": "It's a spoon.",
+		"question": "",
+		"choices": ["가위입니다", "연필입니다", "숟가락입니다", "젓가락입니다"],
+		"answer": "숟가락입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/spoon.png"
+	},
+	{
+		"id": 66,
+		"english": "It's a credit card.",
+		"question": "",
+		"choices": ["사원증입니다", "교통카드입니다", "신용카드입니다", "운전면허증입니다"],
+		"answer": "신용카드입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/credit-card.png"
+	},
+	{
+		"id": 67,
+		"english": "It's the key.",
+		"question": "",
+		"choices": ["칼입니다", "열쇠입니다", "수저입니다", "카드입니다"],
+		"answer": "열쇠입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/key.png"
+	},
+	{
+		"id": 68,
+		"english": "It's a thermometer.",
+		"question": "",
+		"choices": ["선풍기입니다", "계산기입니다", "체중계입니다", "온도계입니다"],
+		"answer": "온도계입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/thermometer.png"
+	},
+	{
+		"id": 69,
+		"english": "It's a hanger.",
+		"question": "",
+		"choices": ["거울입니다", "옷장입니다", "의자입니다", "옷걸이입니다"],
+		"answer": "옷걸이입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/hanger.png"
+	},
+	{
+		"id": 70,
+		"english": "It's a blanket.",
+		"question": "",
+		"choices": ["이불입니다", "베개입니다", "의자입니다", "수건입니다"],
+		"answer": "이불입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/blanket.png"
+	},
+	{
+		"id": 71,
+		"english": "It's a scale.",
+		"question": "",
+		"choices": ["저울입니다", "거울입니다", "온도계입니다", "계산기입니다"],
+		"answer": "저울입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/scale.png"
+	},
+	{
+		"id": 72,
+		"english": "It's an electric rice cooker.",
+		"question": "",
+		"choices": ["전기난로입니다", "전기밥솥입니다", "전자저울입니다", "전자사전입니다"],
+		"answer": "전기밥솥입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/cooker.png"
+	},
+	{
+		"id": 73,
+		"english": "This is an electronic dictionary.",
+		"question": "",
+		"choices": ["전기난로입니다", "전기밥솥입니다", "전자저울입니다", "전자사전입니다"],
+		"answer": "전자사전입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/e-dictionary.png"
+	},
+	{
+		"id": 74,
+		"english": "These are chopsticks.",
+		"question": "",
+		"choices": ["칼입니다", "가위입니다", "젓가락입니다", "숟가락입니다"],
+		"answer": "젓가락입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/chopsticks.png"
+	},
+	{
+		"id": 75,
+		"english": "It's a kettle.",
+		"question": "",
+		"choices": ["냄비입니다", "접시입니다", "도마입니다", "주전자입니다"],
+		"answer": "주전자입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/kettle.png"
+	},
+	{
+		"id": 76,
+		"english": "It's a map.",
+		"question": "",
+		"choices": ["달력입니다", "명함입니다", "지도입니다", "여권입니다"],
+		"answer": "지도입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/map.png"
+	},
+	{
+		"id": 77,
+		"english": "It's a bookshelf.",
+		"question": "",
+		"choices": ["옷장입니다", "침대입니다", "책상입니다", "책꽂이입니다"],
+		"answer": "책꽂이입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/bookshelf.png"
+	},
+	{
+		"id": 78,
+		"english": "It's a scale.",
+		"question": "",
+		"choices": ["체중계입니다", "계산기입니다", "선풍기입니다", "세탁기입니다"],
+		"answer": "체중계입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/scale1.png"
+	},
+	{
+		"id": 79,
+		"english": "It's a knife.",
+		"question": "",
+		"choices": ["칼입니다", "풀입니다", "볼펜입니다", "가위입니다"],
+		"answer": "칼입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/knife.png"
+	},
+	{
+		"id": 80,
+		"english": "It's grass.",
+		"question": "",
+		"choices": ["옷입니다", "풀입니다", "칼입니다", "자입니다"],
+		"answer": "풀입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/grass.png"
+	},
+	{
+		"id": 81,
+		"english": "I have three pairs of shoes.",
+		"question": "",
+		"choices": ["구두가 두 켤레 있습니다", "구두가 세 켤레 있습니다", "구두가 네 켤레 있습니다", "구두가 다섯 켤레 있습니다"],
+		"answer": "구두가 세 켤레 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/three-pair-shoes.png"
 	}
 ]
