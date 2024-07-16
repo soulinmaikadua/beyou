@@ -646,5 +646,37 @@
 		"choices": ["구두가 두 켤레 있습니다", "구두가 세 켤레 있습니다", "구두가 네 켤레 있습니다", "구두가 다섯 켤레 있습니다"],
 		"answer": "구두가 세 켤레 있습니다",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/three-pair-shoes.png"
+	},
+	{
+		"id": 82,
+		"english": "I have four pairs of shoes.",
+		"question": "",
+		"choices": ["구두가 세 켤레 있습니다", "구두가 네 켤레 있습니다", "구두가 다섯 켤레 있습니다", "구두가 여섯 켤레 있습니다"],
+		"answer": "구두가 네 켤레 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/four-pair-shoes.png"
+	},
+	{
+		"id": 83,
+		"english": "I have five pairs of shoes.",
+		"question": "",
+		"choices": ["구두가 다섯 켤레 있습니다", "구두가 여섯 켤레 있습니다", "구두가 일곱 켤레 있습니다", "구두가 여덟 켤레 있습니다"],
+		"answer": "구두가 다섯 켤레 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/five-pair-shoes.png"
+	},
+	{
+		"id": 84,
+		"english": "There are six cars.",
+		"question": "",
+		"choices": ["자동차가 다섯 대 있습니다", "자동차가 여섯 대 있습니다", "자동차가 일곱 대 있습니다", "자동차가 여덟 대 있습니다"],
+		"answer": "자동차가 여섯 대 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/six-cars.png"
+	},
+	{
+		"id": 85,
+		"english": "There are nine cars.",
+		"question": "",
+		"choices": ["자동차가 여섯 대 있습니다", "자동차가 일곱 대 있습니다", "자동차가 여덟 대 있습니다", "자동차가 아홉 대 있습니다"],
+		"answer": "자동차가 아홉 대 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/nine-cars.png"
 	}
 ]
