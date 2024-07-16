@@ -678,5 +678,133 @@
 		"choices": ["자동차가 여섯 대 있습니다", "자동차가 일곱 대 있습니다", "자동차가 여덟 대 있습니다", "자동차가 아홉 대 있습니다"],
 		"answer": "자동차가 아홉 대 있습니다",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/nine-cars.png"
+	},
+	{
+		"id": 86,
+		"english": "I have four stamps",
+		"question": "",
+		"choices": ["우표가 세 장 있습니다", "우표가 네 장 있습니다", "우표가 다섯 장 있습니다", "우표가 여섯 장 있습니다"],
+		"answer": "우표가 네 장 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/four-stamps.png"
+	},
+	{
+		"id": 87,
+		"english": "I have four stamps",
+		"question": "",
+		"choices": ["우표가 다섯 장 있습니다", "우표가 여섯 장 있습니다", "우표가 일곱 장 있습니다", "우표가 여덟 장 있습니다"],
+		"answer": "우표가 다섯 장 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/five-stamps.png"
+	},
+	{
+		"id": 88,
+		"english": "There are five televisions",
+		"question": "",
+		"choices": ["텔레비전이 다섯 대 있습니다", "텔레비전이 여섯 대 있습니다", "텔레비전이 일곱 대 있습니다", "텔레비전이 여덟 대 있습니다"],
+		"answer": "텔레비전이 다섯 대 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/five-televisions.png"
+	},
+	{
+		"id": 89,
+		"english": "It is a four-story building.",
+		"question": "",
+		"choices": ["이 층짜리 건물입니다", "삼 층짜리 건물입니다", "사 층짜리 건물입니다", "오 층짜리 건물입니다"],
+		"answer": "사 층짜리 건물입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/four-story-building.png"
+	},
+	{
+		"id": 90,
+		"english": "I have five cups of coffee.",
+		"question": "",
+		"choices": ["커피가 다섯 잔 있습니다", "커피가 여섯 잔 있습니다", "커피가 일곱 잔 있습니다", "커피가 여덟 잔 있습니다"],
+		"answer": "커피가 다섯 잔 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/five-cups-coffee.png"
+	},
+	{
+		"id": 91,
+		"english": "There are three houses.",
+		"question": "",
+		"choices": ["집이 한 채 있습니다", "집이 두 채 있습니다", "집이 세 채 있습니다", "집이 네 채 있습니다"],
+		"answer": "집이 세 채 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/three-houses.png"
+	},
+	{
+		"id": 92,
+		"english": "I have three books.",
+		"question": "",
+		"choices": ["책이 세 권 있습니다", "책이 세 장 있습니다", "책이 네 권 있습니다", "책이 네 장 있습니다"],
+		"answer": "책이 세 권 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/three-books.png"
+	},
+	{
+		"id": 93,
+		"english": "This is a check for 100,000 won.",
+		"question": "",
+		"choices": ["십만 원짜리 수표입니다", "백만 원짜리 수표입니다", "천만 원짜리 수표입니다", "일억 원짜리 수표입니다"],
+		"answer": "십만 원짜리 수표입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/check100k.png"
+	},
+	{
+		"id": 94,
+		"english": "four people are having a meeting.",
+		"question": "",
+		"choices": ["세 사람이 회의를 하고 있습니다", "네 사람이 회의를 하고 있습니다", "다섯 사람이 회의를 하고 있습니다", "여섯 사람이 회의를 하고 있습니다"],
+		"answer": "네 사람이 회의를 하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/having-a-meeting.png"
+	},
+	{
+		"id": 95,
+		"english": "Our office has a total of eight employees. There are five men and three women.",
+		"question": "",
+		"choices": ["우리 사무실의 직원은 모두 일곱 명입니다. 남자가 다섯 명, 여자가 두 명입니다", "우리 사무실의 직원은 모두 일곱 명입니다. 남자가 두 명, 여자가 다섯 명입니다", "우리 사무실의 직원은 모두 여덟 명입니다. 남자가 다섯 명, 여자가 세 명입니다", "우리 사무실의 직원은 모두 여덟 명입니다. 남자가 세 명, 여자가 다섯 명입니다"],
+		"answer": "우리 사무실의 직원은 모두 여덟 명입니다. 남자가 다섯 명, 여자가 세 명입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/five-men-three-women.png"
+	},
+	{
+		"id": 96,
+		"english": "Our office has a total of seven employees. There are five men and two women.",
+		"question": "",
+		"choices": ["우리 사무실의 직원은 모두 일곱 명입니다. 남자가 다섯 명, 여자가 두 명입니다", "우리 사무실의 직원은 모두 일곱 명입니다. 남자가 두 명, 여자가 다섯 명입니다", "우리 사무실의 직원은 모두 여덟 명입니다. 남자가 다섯 명, 여자가 세 명입니다", "우리 사무실의 직원은 모두 여덟 명입니다. 남자가 세 명, 여자가 다섯 명입니다"],
+		"answer": "우리 사무실의 직원은 모두 일곱 명입니다. 남자가 다섯 명, 여자가 두 명입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/five-men-two-women.png"
+	},
+	{
+		"id": 97,
+		"english": "There are two more female employees than male employees in our office.",
+		"question": "",
+		"choices": ["우리 사무실에는 모두 여자 직원만 있습니다", "우리 사무실에는 여자 직원이 세 명밖에 없습니다", "우리 사무실에는 남자 직원이 여자 직원보다 두 명 더 많습니다", "우리 사무실에는 여자 직원이 남자 직원보다 두 명 더 많습니다"],
+		"answer": "우리 사무실에는 여자 직원이 남자 직원보다 두 명 더 많습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/female-than-male.png"
+	},
+	{
+		"id": 98,
+		"english": "There are five people in my family. I have my grandmother, my parents, myself, and my younger sister.",
+		"question": "",
+		"choices": ["우리 가족은 모두 네 명입니다. 할머니, 부모님, 저, 그리고 여동생이 있습니다", "우리 가족은 모두 네 명입니다. 할아버지, 부모님, 저, 그리고 남동생이 있습니다", "우리 가족은 모두 다섯 명입니다. 할머니, 부모님, 저, 그리고 여동생이 있습니다", "우리 가족은 모두 다섯 명입니다. 할아버지, 부모님, 저, 그리고 남동생이 있습니다"],
+		"answer": "우리 가족은 모두 다섯 명입니다. 할머니, 부모님, 저, 그리고 여동생이 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/family.png"
+	},
+	{
+		"id": 99,
+		"english": "There are a total of six people in my family. It's my grandfather, grandmother, parents, younger brother and me.",
+		"question": "",
+		"choices": ["우리 가족은 모두 다섯 명입니다. 할머니, 아버지, 어머니, 남동생 그리고 저입니다", "우리 가족은 모두 다섯 명입니다. 할아버지, 아버지, 어머니, 언니 그리고 저입니다", "우리 가족은 모두 여섯 명입니다. 할아버지, 할머니, 오빠 세 명, 그리고 저입니다", "우리 가족은 모두 여섯 명입니다. 할아버지, 할머니, 부모님, 남동생 그리고 저입니다"],
+		"answer": "우리 가족은 모두 여섯 명입니다. 할아버지, 할머니, 부모님, 남동생 그리고 저입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/family1.png"
+	},
+	{
+		"id": 100,
+		"english": "I have seven cups of black tea.",
+		"question": "",
+		"choices": ["홍차가 여섯 잔 있습니다", "홍차가 일곱 잔 있습니다", "홍차가 일곱 잔 있습니다", "홍차가 아홉 잔 있습니다"],
+		"answer": "홍차가 일곱 잔 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/black-tea.png"
+	},
+	{
+		"id": 101,
+		"english": "There are eight flowers.",
+		"question": "",
+		"choices": ["꽃이 여섯 송이 있습니다", "꽃이 일곱 송이 있습니다", "꽃이 여덟 송이 있습니다", "꽃이 아홉 송이 있습니다"],
+		"answer": "꽃이 여덟 송이 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/eight-flowers.png"
 	}
 ]
