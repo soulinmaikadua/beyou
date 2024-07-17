@@ -974,5 +974,157 @@
 		"choices": ["남자가 창문을 열고 있습니다", "남자가 계단을 올라가고 있습니다", "남자가 건물 밖으로 나가고 있습니다", "남자가 엘리베이터를 기다리고 있습니다"],
 		"answer": "남자가 계단을 올라가고 있습니다",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/up-the-stairs.png"
+	},
+	{
+		"id": 123,
+		"english": "People are doing gymnastics in the park",
+		"question": "",
+		"choices": ["사람들이 산에서 음식을 먹고 있습니다", "사람들이 산에서 사진을 찍고 있습니다", "사람들이 공원에서 체조를 하고 있습니다", "사람들이 공원에서 쓰레기를 줍고 있습니다"],
+		"answer": "사람들이 공원에서 체조를 하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/gymnastics-in-the-park.png"
+	},
+	{
+		"id": 124,
+		"english": "There's a fire",
+		"question": "",
+		"choices": ["불이 났습니다", "물난리가 났습니다", "교통사고가 났습니다", "신호등이 고장 났습니다"],
+		"answer": "불이 났습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/a-fire.png"
+	},
+	{
+		"id": 125,
+		"english": "People are waiting in line",
+		"question": "",
+		"choices": ["사람들이 옷을 고르고 있습니다", "사람들이 줄을 서서 기다리고 있습니다", "사람들이 모여서 차를 마시고 있습니다", "사람들이 앉아서 이야기를 하고 있습니다"],
+		"answer": "사람들이 줄을 서서 기다리고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/in-line.png"
+	},
+	{
+		"id": 126,
+		"english": "People are riding bicycles by the riverside",
+		"question": "",
+		"choices": ["사람들이 바다에서 배를 타고 있습니다", "사람들이 길에서 달리기를 하고 있습니다", "사람들이 공원에서 그림을 그리고 있습니다", "사람들이 강변에서 자전거를 타고 있습니다"],
+		"answer": "사람들이 강변에서 자전거를 타고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/riverside.png"
+	},
+	{
+		"id": 127,
+		"english": "A woman is wiping the table with a mop",
+		"question": "",
+		"choices": ["여자가 걸레로 탁자를 닦고 있습니다", "여자가 나무로 책상을 만들고 있습니다", "여자가 수건으로 얼굴을 닦고 있습니다", "여자가 숟가락으로 음식을 먹고 있습니다"],
+		"answer": "여자가 걸레로 탁자를 닦고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/a-mop.png"
+	},
+	{
+		"id": 128,
+		"english": "Grandmothers are eating",
+		"question": "",
+		"choices": ["할머니들이 주무시고 계십니다", "할머니들이 일을 하고 계십니다", "할머니들이 책을 읽고 계십니다", "할머니들이 식사를 하고 계십니다"],
+		"answer": "할머니들이 식사를 하고 계십니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/eating.png"
+	},
+	{
+		"id": 129,
+		"english": "A doctor is examining a child",
+		"question": "",
+		"choices": ["사진사가 사진을 찍고 있습니다", "미용사가 머리를 자르고 있습니다", "의사가 아이를 진찰하고 있습니다", "교사가 학생을 가르치고 있습니다"],
+		"answer": "의사가 아이를 진찰하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/examining-a-child.png"
+	},
+	{
+		"id": 130,
+		"english": "People are looking at paintings in an art museum",
+		"question": "",
+		"choices": ["사람들이 미술관에서 그림을 보고 있습니다", "사람들이 사진관에서 사진을 찍고 있습니다", "사람들이 사무실에서 회의를 하고 있습니다", "사람들이 옷 가게에서 옷을 입어 보고 있습니다"],
+		"answer": "사람들이 미술관에서 그림을 보고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/art-museum.png"
+	},
+	{
+		"id": 131,
+		"english": "The child is smiling because he is in a good mood",
+		"question": "",
+		"choices": ["아이가 슬퍼서 울고 있습니다", "아이가 피곤해서 잠을 자고 있습니다", "아이가 기분이 좋아서 웃고 있습니다", "아이가 화가 나서 소리를 지르고 있습니다"],
+		"answer": "아이가 기분이 좋아서 웃고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/good-mood.png"
+	},
+	{
+		"id": 132,
+		"english": "Taking pictures with a camera",
+		"question": "",
+		"choices": ["카메라로 사진을 찍고 있습니다", "라디오로 음악을 듣고 있습니다", "컴퓨터로 게임을 하고 있습니다", "드라이어로 머리를 말리고 있습니다"],
+		"answer": "카메라로 사진을 찍고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/take-picture.png"
+	},
+	{
+		"id": 133,
+		"english": "People are hiking",
+		"question": "",
+		"choices": ["사람들이 영화를 보고 있습니다", "사람들이 등산을 하고 있습니다", "사람들이 나무를 심고 있습니다", "사람들이 자전거를 타고 있습니다"],
+		"answer": "사람들이 등산을 하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/people-hiking.png"
+	},
+	{
+		"id": 134,
+		"english": "I'm sitting on a chair and reading a newspaper",
+		"question": "",
+		"choices": ["벽에 기대서 책을 읽고 있습니다", "침대에 누워서 잠을 자고 있습니다", "의자에 앉아서 신문을 보고 있습니다", "벤치에 앉아서 전화를 걸고 있습니다"],
+		"answer": "의자에 앉아서 신문을 보고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading-a-newspaper.png"
+	},
+	{
+		"id": 135,
+		"english": "I'm drinking water from a cup",
+		"question": "",
+		"choices": ["빗으로 머리를 빗고 있습니다", "컵에 든 물을 마시고 있습니다", "숟가락으로 밥을 먹고 있습니다", "두 손으로 냄비를 들고 있습니다"],
+		"answer": "컵에 든 물을 마시고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/drinking-water.png"
+	},
+	{
+		"id": 136,
+		"english": "I'm wearing a suit top",
+		"question": "",
+		"choices": ["넥타이를 고르고 있습니다", "양복 윗옷을 입고 있습니다", "손에 장갑을 끼고 있습니다", "옷걸이에 옷을 걸고 있습니다"],
+		"answer": "양복 윗옷을 입고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/wearing-suit.png"
+	},
+	{
+		"id": 137,
+		"english": "There's a book, a pencil case, and a key in the bag.",
+		"question": "",
+		"choices": ["가방 안에 책, 거울, 우산이 있어요", "가방 안에 책, 필통, 열쇠가 있어요", "가방 안에 달력, 거울, 열쇠가 있어요", "가방 안에 달력, 필통, 우산이 있어요"],
+		"answer": "가방 안에 책, 필통, 열쇠가 있어요",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/key-in-bag.png"
+	},
+	{
+		"id": 138,
+		"english": "People are playing soccer on the playground.",
+		"question": "",
+		"choices": ["사람들이 공장에서 공을 만들고 있습니다", "사람들이 교실에서 공부를 하고 있습니다", "사람들이 시장에서 운동화를 사고 있습니다", "사람들이 운동장에서 축구를 하고 있습니다"],
+		"answer": "사람들이 운동장에서 축구를 하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/playing-football.png"
+	},
+	{
+		"id": 139,
+		"english": "I'm drinking coffee while looking out the window.",
+		"question": "",
+		"choices": ["책을 읽으면서 커피를 마시고 있습니다", "창밖을 보면서 커피를 마시고 있습니다", "창문을 닦으면서 커피를 마시고 있습니다", "컴퓨터를 하면서 커피를 마시고 있습니다"],
+		"answer": "창밖을 보면서 커피를 마시고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/looking-out-window.png"
+	},
+	{
+		"id": 140,
+		"english": "This is the ticket booth that sells bus tickets.",
+		"question": "",
+		"choices": ["이곳은 짐을 맡기는 보관소입니다", "이곳은 버스표를 파는 매표소입니다", "이곳은 담배를 피울 수 있는 흡연실입니다", "이곳은 잃어버린 물건을 찾는 분실물 센터입니다"],
+		"answer": "이곳은 버스표를 파는 매표소입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/sell-bus-ticket.png"
+	},
+	{
+		"id": 141,
+		"english": "This house has two bathrooms.",
+		"question": "",
+		"choices": ["이 집에는 거실이 2층에 있습니다", "이 집에는 방이 한 개만 있습니다", "이 집에는 화장실이 두 개 있습니다", "이 집에는 부엌 옆에 화장실이 있습니다"],
+		"answer": "이 집에는 화장실이 두 개 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/two-bathrooms.png"
 	}
 ]
