@@ -1126,5 +1126,165 @@
 		"choices": ["이 집에는 거실이 2층에 있습니다", "이 집에는 방이 한 개만 있습니다", "이 집에는 화장실이 두 개 있습니다", "이 집에는 부엌 옆에 화장실이 있습니다"],
 		"answer": "이 집에는 화장실이 두 개 있습니다",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/two-bathrooms.png"
+	},
+	{
+		"id": 142,
+		"english": "Traffic is complicated due to the backlog of cars.",
+		"question": "",
+		"choices": ["지하철 안에 사람이 많습니다", "차가 밀려서 교통이 복잡합니다", "자전거를 타는 사람이 많습니다", "사람들이 마라톤을 하고 있습니다"],
+		"answer": "차가 밀려서 교통이 복잡합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/backlog-of-cars.png"
+	},
+	{
+		"id": 143,
+		"english": "This is a store that sells fruit.",
+		"question": "",
+		"choices": ["여기는 꽃을 파는 가게입니다", "여기는 과일을 파는 가게입니다", "여기는 생선을 파는 가게입니다", "여기는 그릇을 파는 가게입니다"],
+		"answer": "여기는 과일을 파는 가게입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/sell-fruit.png"
+	},
+	{
+		"id": 144,
+		"english": "People are choosing bags.",
+		"question": "",
+		"choices": ["사람들이 차를 마시고 있습니다", "사람들이 노래를 부르고 있습니다", "사람들이 가방을 고르고 있습니다", "사람들이 경치를 구경하고 있습니다"],
+		"answer": "사람들이 가방을 고르고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/choosing-bags.png"
+	},
+	{
+		"id": 145,
+		"english": "I am doing exercises to turn my neck.",
+		"question": "",
+		"choices": ["목을 돌리는 운동을 하고 있습니다", "다리를 올리는 운동을 하고 있습니다", "허리를 구부리는 운동을 하고 있습니다", "두 팔을 높이 드는 운동을 하고 있습니다"],
+		"answer": "목을 돌리는 운동을 하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/turn-my-neck.png"
+	},
+	{
+		"id": 146,
+		"english": "I'm lying down and reading a book.",
+		"question": "",
+		"choices": ["서서 체조를 하고 있습니다", "누워서 책을 읽고 있습니다", "앉아서 과자를 먹고 있습니다", "엎드려서 편지를 쓰고 있습니다"],
+		"answer": "누워서 책을 읽고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading-a-book.png"
+	},
+	{
+		"id": 147,
+		"english": "I'm walking with a hat on a snowy day.",
+		"question": "",
+		"choices": ["바람이 부는 날 자전거를 타고 있습니다", "비가 오는 날 우산을 쓰고 걷고 있습니다", "눈이 오는 날 모자를 쓰고 걷고 있습니다", "맑은 날 공원에서 자전거를 타고 있습니다"],
+		"answer": "눈이 오는 날 모자를 쓰고 걷고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/snowy-day.png"
+	},
+	{
+		"id": 148,
+		"english": "People are studying in the library.",
+		"question": "",
+		"choices": ["사람들이 도서관에서 공부를 하고 있습니다", "사람들이 수영장에서 수영을 하고 있습니다", "사람들이 노래방에서 노래를 부르고 있습니다", "사람들이 휴게실에서 음료수를 마시고 있습니다"],
+		"answer": "사람들이 도서관에서 공부를 하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/the-library.png"
+	},
+	{
+		"id": 149,
+		"english": "People are fishing in the sea.",
+		"question": "",
+		"choices": ["사람들이 강에서 수영을 하고 있습니다", "사람들이 산에서 운동을 하고 있습니다", "사람들이 논에서 농사를 짓고 있습니다", "사람들이 바다에서 낚시를 하고 있습니다"],
+		"answer": "사람들이 바다에서 낚시를 하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/fishing-in-the-sea.png"
+	},
+	{
+		"id": 150,
+		"english": "Choosing gloves.",
+		"question": "",
+		"choices": ["장갑을 고르고 있습니다", "모자를 써 보고 있습니다", "외투를 구경하고 있습니다", "신발을 신어 보고 있습니다"],
+		"answer": "장갑을 고르고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/choosing-gloves.png"
+	},
+	{
+		"id": 151,
+		"english": "Take off your shoes and go inside the house.",
+		"question": "",
+		"choices": ["머리를 묶고 운동을 합니다", "머리를 풀고 샴푸를 합니다", "신발을 신고 집 밖으로 나갑니다", "신발을 벗고 집 안으로 들어갑니다"],
+		"answer": "신발을 벗고 집 안으로 들어갑니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/go-inside-the-house.png"
+	},
+	{
+		"id": 152,
+		"english": "A nurse is giving an injection to a child.",
+		"question": "",
+		"choices": ["간호사가 아이에게 주사를 놓고 있습니다", "간호사가 아이에게 약을 먹이고 있습니다", "간호사가 아이의 손을 씻어 주고 있습니다", "간호사가 우는 아이를 안아 주고 있습니다"],
+		"answer": "간호사가 아이에게 주사를 놓고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/injection-to-a-child.png"
+	},
+	{
+		"id": 153,
+		"english": "I'm talking on my cell phone.",
+		"question": "",
+		"choices": ["열쇠로 문을 열고 있습니다", "연필로 글씨를 쓰고 있습니다", "가위로 종이를 자르고 있습니다", "휴대전화로 통화를 하고 있습니다"],
+		"answer": "휴대전화로 통화를 하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/talking-phone.png"
+	},
+	{
+		"id": 154,
+		"english": "Men are shoveling snow.",
+		"question": "",
+		"choices": ["아저씨들이 나무를 심고 있습니다", "아저씨들이 눈을 치우고 있습니다", "아저씨들이 달리기를 하고 있습니다", "아저씨들이 쓰레기를 버리고 있습니다"],
+		"answer": "아저씨들이 눈을 치우고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/shoveling-snow.png"
+	},
+	{
+		"id": 155,
+		"english": "The lady is washing the dishes.",
+		"question": "",
+		"choices": ["아주머니가 이를 닦고 있습니다", "아주머니가 채소를 씻고 있습니다", "아주머니가 빨래를 하고 있습니다", "아주머니가 설거지를 하고 있습니다"],
+		"answer": "아주머니가 설거지를 하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/washing-the-dishes.png"
+	},
+	{
+		"id": 156,
+		"english": "Washing dishes with detergent.",
+		"question": "",
+		"choices": ["비누로 옷을 빨고 있습니다", "세제로 접시를 닦고 있습니다", "샴푸로 머리를 감고 있습니다", "치약으로 이를 닦고 있습니다"],
+		"answer": "세제로 접시를 닦고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/dishes-with-detergent.png"
+	},
+	{
+		"id": 157,
+		"english": "Of the three, the bag is the most expensive.",
+		"question": "",
+		"choices": ["셋 중에서 책이 제일 쌉니다", "셋 중에서 가방이 제일 쌉니다", "셋 중에서 우산이 제일 비쌉니다", "셋 중에서 가방이 제일 비쌉니다"],
+		"answer": "셋 중에서 가방이 제일 비쌉니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/most-expensive.png"
+	},
+	{
+		"id": 158,
+		"english": "The woman is closing the window.",
+		"question": "",
+		"choices": ["여자가 불을 켜고 있습니다", "여자가 물을 붓고 있습니다", "여자가 그림을 걸고 있습니다", "여자가 창문을 닫고 있습니다"],
+		"answer": "여자가 창문을 닫고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/closing-window.png"
+	},
+	{
+		"id": 159,
+		"english": "Lia is 7 years younger than Lin.",
+		"question": "",
+		"choices": ["린 씨가 나이가 제일 적습니다", "수지 씨가 나이가 제일 많습니다", "리아 씨가 린 씨보다 7살 적습니다", "수지 씨가 린 씨보다 3살 많습니다"],
+		"answer": "리아 씨가 린 씨보다 7살 적습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/younger-than.png"
+	},
+	{
+		"id": 160,
+		"english": "Washing the car with soapy water.",
+		"question": "",
+		"choices": ["자동차를 고치고 있습니다", "자동차를 운전하고 있습니다", "비눗물로 자동차를 닦고 있습니다", "자동차 타이어를 바꾸고 있습니다"],
+		"answer": "비눗물로 자동차를 닦고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/soapy-water.png"
+	},
+	{
+		"id": 161,
+		"english": "I clean using a broom and dustpan.",
+		"question": "",
+		"choices": ["삽과 곡괭이를 이용하여 땅을 파고 있습니다", "손수레를 이용하여 물건을 운반하고 있습니다", "불도저를 이용하여 도로 공사를 하고 있습니다", "빗자루와 쓰레받기를 이용하여 청소하고 있습니다"],
+		"answer": "빗자루와 쓰레받기를 이용하여 청소하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/broom-and-dustpan.png"
 	}
 ]
