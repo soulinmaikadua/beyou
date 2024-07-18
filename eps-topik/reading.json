@@ -1934,5 +1934,165 @@
 		"choices": ["냉장고", "에어컨", "세탁기", "텔레비전"],
 		"answer": "에어컨",
 		"image": ""
+	},
+	{
+		"id": 243,
+		"english": "If you want to go abroad, you must have ________. This is a foreigner's identification card.",
+		"question": "외국에 나가려면 ________이/가 반드시 있어야 해요. 이것은 외국인의 신분증이거든요.",
+		"choices": ["도장", "명함", "여권", "신용카드"],
+		"answer": "여권",
+		"image": ""
+	},
+	{
+		"id": 244,
+		"english": "After buying an item, be sure to receive _________. You will need it when exchanging items or receiving a refund.",
+		"question": "물건을 산 후에는 반드시 _________을/를 받으세요. 물건을 교환하거나 환불 받을 때 필요해요.",
+		"choices": ["돈", "포장", "카드", "영수증"],
+		"answer": "영수증",
+		"image": ""
+	},
+	{
+		"id": 245,
+		"english": "A ________ bound for Incheon is coming in right now. Passengers are requested to step outside the safety line.",
+		"question": "지금 인천행 ________이/가 들어오고 있습니다. 승객 여러분께서는 안전선 밖으로 물러나 주시기 바랍니다.",
+		"choices": ["표", "열차", "여행", "예매"],
+		"answer": "열차",
+		"image": ""
+	},
+	{
+		"id": 246,
+		"english": "A: What ________ are you trying to buy? \nMe: I'm thinking of buying pants to wear while exercising.",
+		"question": "가：무슨 ________을/를 사려고 해요? \n나：운동할 때 입을 바지를 사려고 해요.",
+		"choices": ["옷", "꽃", "가방", "모자"],
+		"answer": "옷",
+		"image": ""
+	},
+	{
+		"id": 247,
+		"english": "A: I’m trying to book a plane ticket to the Philippines. \nMe: Would you like to do ________? Would you like a one-way trip?",
+		"question": "가：필리핀 가는 비행기 표를 예약하려고 하는데요. \n나：________(으)로 하시겠어요? 편도로 하시겠어요?",
+		"choices": ["예매", "여행", "왕복", "취소"],
+		"answer": "왕복",
+		"image": ""
+	},
+	{
+		"id": 248,
+		"english": "Taxis _________ are expensive. So I go by bus or subway.",
+		"question": "택시 _________이/가 비싸요. 그래서 저는 버스나 지하철을 타고 다녀요.",
+		"choices": ["표", "잔돈", "현금", "요금"],
+		"answer": "요금",
+		"image": ""
+	},
+	{
+		"id": 249,
+		"english": "A: In Korea, when it rains, we use __________. \nMe: Really? In Korea, we just get rained on. I'm glad it doesn't rain often.",
+		"question": "가：한국에서는 비가 오면 __________을/를 써요. \n나：그래요? 우리나라에서는 비를 그냥 맞아요. 비가 자주 안 와서 반갑 거든요.",
+		"choices": ["구두", "바지", "우산", "치마"],
+		"answer": "우산",
+		"image": ""
+	},
+	{
+		"id": 250,
+		"english": "A: I want to send a letter. Where should I put __________/? \nMe: You can paste it on the top right side of the envelope.",
+		"question": "가：편지를 보내려고 하는데 __________은/는 어디에 붙여요? \n나：봉투 오른쪽 위에 붙이면 돼요.",
+		"choices": ["우표", "수표", "지폐", "우체국"],
+		"answer": "우표",
+		"image": ""
+	},
+	{
+		"id": 251,
+		"english": "A: What _________ do you like? \nMe: I like soccer the most.",
+		"question": "가：무슨 _________을 좋아해요? \n나：저는 축구를 제일 좋아해요.",
+		"choices": ["계절", "색깔", "운동", "음식"],
+		"answer": "운동",
+		"image": ""
+	},
+	{
+		"id": 252,
+		"english": "A: Madam, how much is this apple? \nMe: It's 4,000____ for three.",
+		"question": "가：아줌마, 이 사과 얼마예요? \n나：세 개에 4,000____ 이에요.",
+		"choices": ["명", "병", "원", "장"],
+		"answer": "원",
+		"image": ""
+	},
+	{
+		"id": 253,
+		"english": "Our company gives _______ on the 25th of every month. So we all wait for that day.",
+		"question": "우리 회사에서는 매달 25일에 _______을 줍니다. 그래서 우리는 모두 그날을 기다립니다.",
+		"choices": ["벌금", "월급", "잔돈", "세금"],
+		"answer": "월급",
+		"image": ""
+	},
+	{
+		"id": 254,
+		"english": "A: The deposit for this house is 3 million won and __________ is 400,000 won. \nMe: 400,000 won per month? Too expensive. Are there any other rooms?",
+		"question": "가：이 집은 보증금 300만 원에 __________이/가 40만원입니다. \n나：한 달에 40만원이요? 너무 비싸요. 다른 방은 없어요?",
+		"choices": ["월세", "전세", "요금", "차비"],
+		"answer": "월세",
+		"image": ""
+	},
+	{
+		"id": 255,
+		"english": "When I get paid, I go to __________. From there, I send money back to my hometown and save money.",
+		"question": "저는 월급을 받으면 __________에 갑니다. 거기에서 고향에 돈도 보내고 저금도 합니다.",
+		"choices": ["은행", "식당", "극장", "공항"],
+		"answer": "은행",
+		"image": ""
+	},
+	{
+		"id": 256,
+		"english": "A: What ________ does Lia like to eat? \nMe: I enjoy kimchi stew and I also like bibimbap.",
+		"question": "가：리아 씨는 무슨 ________을/를 잘 먹어요? \n나：김치찌개도 잘 먹고 비빔밥도 좋아해요.",
+		"choices": ["과자", "후식", "식당", "음식"],
+		"answer": "음식",
+		"image": ""
+	},
+	{
+		"id": 257,
+		"english": "A: Can I sit on this ________? \nMe: Yes, please sit down.",
+		"question": "가：이 ________에 앉아도 돼요? \n나：네, 앉으세요.",
+		"choices": ["의사", "의자", "지갑", "장갑"],
+		"answer": "의자",
+		"image": ""
+	},
+	{
+		"id": 258,
+		"english": "A: What would you like to eat? \nMe: I would like to eat bulgogi. \nA: I will also have bulgogi. Hello, please give me 2 _________ of bulgogi here.",
+		"question": "가：뭘 드시겠어요? \n나：저는 불고기를 먹겠어요. \n가：저도 불고기로 할게요. 여보세요, 여기 불고기 2 _________ 주세요.",
+		"choices": ["명", "병", "인분", "개월"],
+		"answer": "인분",
+		"image": ""
+	},
+	{
+		"id": 259,
+		"english": "I work at the factory from Monday to Saturday. I rest at home on ________.",
+		"question": "저는 월요일부터 토요일까지 공장에서 일합니다. ________에는 집에서 쉽니다.",
+		"choices": ["화요일", "수요일", "금요일", "일요일"],
+		"answer": "일요일",
+		"image": ""
+	},
+	{
+		"id": 260,
+		"english": "A: Are you drinking coffee again? \nMe: Yes, I like coffee. I usually drink six ___ a day.",
+		"question": "가：커피를 또 마셔요? \n나：네, 커피를 좋아하거든요. 보통 하루에 여섯 ___ 마셔요.",
+		"choices": ["잔", "장", "시", "살"],
+		"answer": "잔",
+		"image": ""
+	},
+	{
+		"id": 261,
+		"english": "A: Are you drinking coffee again? \nMe: Yes, I like coffee. I usually drink six ___ a day.",
+		"question": "가：이 서류 좀 복사해 주세요. \n나：몇 _____ 복사해 드릴까요?",
+		"choices": ["잔", "장", "시", "살"],
+		"answer": "장",
+		"image": ""
+	},
+	{
+		"id": 262,
+		"english": "Ramen or noodles are eaten with ________.",
+		"question": "라면이나 국수는 ________(으)로 먹습니다.",
+		"choices": ["칼", "연필", "가위", "젓가락"],
+		"answer": "젓가락",
+		"image": ""
 	}
 ]
