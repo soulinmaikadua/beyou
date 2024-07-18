@@ -1601,10 +1601,338 @@
 	},
 	{
 		"id": 201,
-		"english": "This is a first aid kit that stores medicine and simple medical tools needed in case of an emergency.",
-		"question": "가：괜찮아요? 많이 아파 보여요.\n 나：_______에 걸렸어요. 열도 나고 목도 아파요.",
+		"english": "A: Are you okay? It looks like it hurts a lot. \nMe: I got _______. I have a fever and my throat hurts.",
+		"question": "가：괜찮아요? 많이 아파 보여요. \n나：_______에 걸렸어요. 열도 나고 목도 아파요.",
 		"choices": ["약", "병원", "기침", "감기"],
 		"answer": "감기",
+		"image": ""
+	},
+	{
+		"id": 202,
+		"english": "I learned Korean at the district office. I learned it for 6 _____ from January to June.",
+		"question": "저는 구청에서 한국말을 배웠어요. 1월부터 6월까지 6 _____ 동안 배웠어요.",
+		"choices": ["월", "년", "개월", "시간"],
+		"answer": "개월",
+		"image": ""
+	},
+	{
+		"id": 203,
+		"english": "I went to the market yesterday. I bought fruit at _________.",
+		"question": "저는 어제 시장에 갔어요. _________에서 과일을 샀어요.",
+		"choices": ["여기", "거기", "어디", "저기"],
+		"answer": "거기",
+		"image": ""
+	},
+	{
+		"id": 204,
+		"english": "My favorite ________ is fall.",
+		"question": "제가 제일 좋아하는 ________은/는 가을입니다.",
+		"choices": ["음식", "운동", "과일", "계절"],
+		"answer": "계절",
+		"image": ""
+	},
+	{
+		"id": 205,
+		"english": "I am from Indonesia. My _______ is from Indonesia.",
+		"question": "저는 인도네시아에서 왔습니다. 제 _______은/는 인도네시아입니다.",
+		"choices": ["고향", "가족", "이름", "취미"],
+		"answer": "고향",
+		"image": ""
+	},
+	{
+		"id": 206,
+		"english": "My friend is coming to Korea today by plane at 10 o'clock, so I'm going to pick him up at _________.",
+		"question": "친구가 오늘 10시 비행기로 한국에 오기 때문에 _________에 마중 가요.",
+		"choices": ["항구", "공항", "정류장", "기차역"],
+		"answer": "공항",
+		"image": ""
+	},
+	{
+		"id": 207,
+		"english": "A: What is this ________ name? \nMe: It's a watermelon. It is mainly eaten in the summer, and it is very sweet.",
+		"question": "가：이 ________ 이름이 뭐예요? \n나：수박이에요. 주로 여름철에 많이 먹는데, 아주 달아요.",
+		"choices": ["고기", "과자", "과일", "식당"],
+		"answer": "과일",
+		"image": ""
+	},
+	{
+		"id": 208,
+		"english": "A: What did you buy at the market? \nMe: I didn't buy anything and only did _________.",
+		"question": "가：시장에 가서 무엇을 샀어요? \n나：아무것도 사지 않고 _________만 했어요.",
+		"choices": ["물건", "등산", "회의", "구경"],
+		"answer": "구경",
+		"image": ""
+	},
+	{
+		"id": 209,
+		"english": "A: Where do you live? \nMe: I live at the company _________ with my coworkers.",
+		"question": "가：어디에서 살아요? \n나：직장 동료들과 함께 회사 _________에서 살아요.",
+		"choices": ["교실", "공원", "화장실", "기숙사"],
+		"answer": "기숙사",
+		"image": ""
+	},
+	{
+		"id": 210,
+		"english": "I am nineteen years old this year. I turn twenty on ________.",
+		"question": "저는 올해 열아홉 살입니다. ________에 스무 살이 됩니다.",
+		"choices": ["나이", "작년", "내년", "어제"],
+		"answer": "내년",
+		"image": ""
+	},
+	{
+		"id": 211,
+		"english": "A: How about __________ tomorrow? \nMe: It will rain and be very windy.",
+		"question": "가：내일 __________이/가 어때요? \n나：비가 오고 바람이 많이 불 거예요.",
+		"choices": ["시간", "날짜", "날씨", "계절"],
+		"answer": "날씨",
+		"image": ""
+	},
+	{
+		"id": 212,
+		"english": "Today is September 11th. _________ is September 12th.",
+		"question": "오늘은 9월 11일입니다. _________은/는 9월 12일입니다.",
+		"choices": ["어제", "내일", "모레", "그저께"],
+		"answer": "내일",
+		"image": ""
+	},
+	{
+		"id": 213,
+		"english": "I'm bad at _________. So, if I don't wear glasses, I can't see very well.",
+		"question": "저는 _________이/가 나빠요. 그래서 안경을 쓰지 않으면 잘 안 보여요.",
+		"choices": ["손", "눈", "귀", "머리"],
+		"answer": "눈",
+		"image": ""
+	},
+	{
+		"id": 214,
+		"english": "There wasn't much work at our factory today. So today I only used one machine ______.",
+		"question": "오늘은 우리 공장에 일이 별로 없었습니다. 그래서 오늘은 기계를 한 ______만 사용했습니다.",
+		"choices": ["대", "병", "마리", "켤레"],
+		"answer": "대",
+		"image": ""
+	},
+	{
+		"id": 215,
+		"english": "A: I'm trying to make a public phone call. Do you have 100 won _________? \nMe: No, I don't have either. There are only bills.",
+		"question": "가：공중전화를 걸려고 하는데 100원짜리 _________ 있어요? \n나：아니요, 저도 없어요. 지폐만 있어요.",
+		"choices": ["종이", "동전", "지갑", "가방"],
+		"answer": "동전",
+		"image": ""
+	},
+	{
+		"id": 216,
+		"english": "A: My head hurts a lot. \nMe: If you have a headache, eat ________. You can buy it at a pharmacy without a prescription.",
+		"question": "가：머리가 많이 아파요. \n나：머리가 아프면 ________을/를 드세요. 그건 처방전 없이 약국에서 살 수 있어요.",
+		"choices": ["치약", "두통약", "항생제", "소화제"],
+		"answer": "두통약",
+		"image": ""
+	},
+	{
+		"id": 217,
+		"english": "A: Uncle, how much is this fish? \nMe: It's 2,000 won per ________.",
+		"question": "가：아저씨, 이 생선 얼마예요? \n나：한 ________에 2,000원이에요.",
+		"choices": ["명", "잔", "시간", "마리"],
+		"answer": "마리",
+		"image": ""
+	},
+	{
+		"id": 218,
+		"english": "When I woke up in the morning, ________ hurt a lot. So I went to the pharmacy and bought some headache medicine.",
+		"question": "아침에 일어나니까 ________가 많이 아팠습니다. 그래서 약국에 가서 두통약을 사 먹었습니다.",
+		"choices": ["이", "배", "머리", "다리"],
+		"answer": "머리",
+		"image": ""
+	},
+	{
+		"id": 219,
+		"english": "A: Korea’s traditional clothing is Hanbok, right? When do you wear Hanbok? \nMe: I usually wear it on __________, such as Lunar New Year or Chuseok.",
+		"question": "가：한국의 전통 옷이 한복이지요? 한복은 언제 입어요? \n나：설날이나 추석 같은 __________에 주로 입어요.",
+		"choices": ["겨울", "명절", "계절", "결혼식"],
+		"answer": "명절",
+		"image": ""
+	},
+	{
+		"id": 220,
+		"english": "A: Are there any foreigners in the company? \nMe: Yes, there are three ____.",
+		"question": "가：회사에 외국 사람도 있어요? \n나：네, 세 ____ 있어요.",
+		"choices": ["장", "명", "개", "권"],
+		"answer": "명",
+		"image": ""
+	},
+	{
+		"id": 221,
+		"english": "Today is Friday. ________ is Sunday.",
+		"question": "오늘은 금요일입니다. ________은/는 일요일입니다.",
+		"choices": ["그제", "어제", "내일", "모레"],
+		"answer": "모레",
+		"image": ""
+	},
+	{
+		"id": 222,
+		"english": "Koreans eat rice and __________ things like kimchi, meat, fish, and vegetables.",
+		"question": "한국 사람은 밥하고 김치, 고기, 생선, 나물 같은 __________을 먹습니다.",
+		"choices": ["그릇", "과일", "반찬", "후식"],
+		"answer": "반찬",
+		"image": ""
+	},
+	{
+		"id": 223,
+		"english": "A: Please eat more. \nMe: I ate a lot. I can’t eat any more because _________ called.",
+		"question": "가：더 드세요. \n나：많이 먹었어요. _________이/가 불러서 더 먹을 수 없어요.",
+		"choices": ["배", "발", "눈", "입"],
+		"answer": "배",
+		"image": ""
+	},
+	{
+		"id": 224,
+		"english": "A: When do you take this medicine? \nMe: Take three ____ a day. You can take it after breakfast, lunch, and dinner.",
+		"question": "가：이 약은 언제 먹는 거예요? \n나：하루 세 ____ 드세요. 아침, 점심, 저녁 식사 후에 드시면 됩니다.",
+		"choices": ["대", "장", "명", "번"],
+		"answer": "번",
+		"image": ""
+	},
+	{
+		"id": 225,
+		"english": "A: Jisoo, do you drink well? \nMe: I can drink about _____ one beer.",
+		"question": "가：지수 씨는 술을 잘 마셔요? \n나：맥주 한 _____쯤은 마실 수 있어요.",
+		"choices": ["장", "병", "대", "마리"],
+		"answer": "병",
+		"image": ""
+	},
+	{
+		"id": 226,
+		"english": "A: My stomach hurts a lot. \nMe: Then, go to _______ and get a checkup.",
+		"question": "가：배가 많이 아파요. \n나：그럼, _______에 가서 진찰을 받아 보세요.",
+		"choices": ["병원", "은행", "시장", "우체국"],
+		"answer": "병원",
+		"image": ""
+	},
+	{
+		"id": 227,
+		"english": "A: How is the weather outside now? \nMe: _________ is coming a lot. You have to take an umbrella with you.",
+		"question": "가：지금 바깥 날씨는 어때요? \n나：_________이/가 많이 오고 있어요. 우산을 가지고 나가야 돼요.",
+		"choices": ["비", "구름", "안개", "바람"],
+		"answer": "비",
+		"image": ""
+	},
+	{
+		"id": 228,
+		"english": "A: I want to wash my hands. Could you please give me some ________? \nMe: Yes, I am here.",
+		"question": "가：손을 씻고 싶은데요. ________ 있으면 좀 주시겠어요? \n나：네, 여기 있어요.",
+		"choices": ["장갑", "비누", "거울", "치약"],
+		"answer": "비누",
+		"image": ""
+	},
+	{
+		"id": 229,
+		"english": "A: The washing machine broke down. What should I do with _________? \nMe: I'll wash it by hand today and call the repair center tomorrow.",
+		"question": "가：세탁기가 고장 났어요. _________을/를 어떻게 하지요? \n나：오늘은 손으로 빨고 내일 수리 센터에 전화해요.",
+		"choices": ["목욕", "요리", "빨래", "운전"],
+		"answer": "빨래",
+		"image": ""
+	},
+	{
+		"id": 230,
+		"english": "This is a place where there is a lot of traffic _______. Drive carefully.",
+		"question": "여기는 교통 _______가 많이 나는 곳입니다. 조심해서 운전하십시오.",
+		"choices": ["신호", "지도", "사고", "주차"],
+		"answer": "사고",
+		"image": ""
+	},
+	{
+		"id": 231,
+		"english": "Cigarettes must not be sold to anyone under the age of 19.",
+		"question": "열아홉 ____이 안 된 청소년에게 담배를 팔면 안 됩니다.",
+		"choices": ["잔", "살", "명", "층"],
+		"answer": "살",
+		"image": ""
+	},
+	{
+		"id": 232,
+		"english": "My ________ is on June 4, 1986.",
+		"question": "제 ________은/는 1986년 6월 4일입니다.",
+		"choices": ["고향", "나이", "생일", "이름"],
+		"answer": "생일",
+		"image": ""
+	},
+	{
+		"id": 233,
+		"english": "A: There’s always a lot of __________ in that restaurant, right? \nMe: Yes, there are people waiting in line. The food looks delicious.",
+		"question": "가：저 식당에는 항상 __________이/가 많지요? \n나：네, 줄을 서서 기다리는 사람도 있어요. 음식이 맛이 있나 봐요.",
+		"choices": ["친구", "주인", "손님", "가족"],
+		"answer": "손님",
+		"image": ""
+	},
+	{
+		"id": 234,
+		"english": "A: I came to China to do __________. \nMe: How much will you send?.",
+		"question": "가：중국에 __________을 하려고 왔는데요. \n나：얼마나 보내실 거예요?",
+		"choices": ["송금", "환전", "통장", "사진"],
+		"answer": "송금",
+		"image": ""
+	},
+	{
+		"id": 235,
+		"english": "A: Would you like to have dinner with _________ today? \nMe: I'm sorry. Today I decided to go see a movie with my friend.",
+		"question": "가：오늘 _________이/가 있으면 같이 식사할래요? \n나：미안해요. 오늘은 친구랑 영화를 보러 가기로 했어요.",
+		"choices": ["시간", "약속", "계산", "날짜"],
+		"answer": "시간",
+		"image": ""
+	},
+	{
+		"id": 236,
+		"english": "A: When does the train to Gyeongju leave? \nMe: We leave at 11 o'clock. \nA: Then it's 10 o'clock, so I guess I'll have to wait ________.",
+		"question": "가：경주에 가는 기차는 언제 출발해요? \n나：11시에 출발해요. \n가：그럼 지금 10시니까 한 ________(이)나 기다려야겠군요.",
+		"choices": ["시", "번", "분", "시간"],
+		"answer": "시간",
+		"image": ""
+	},
+	{
+		"id": 237,
+		"english": "A: Where should we have lunch? \nMe: There is a _________ near my company who is good at making kimchi stew. Shall we go there?",
+		"question": "가：어디에서 점심을 먹을까요? \n나：회사 근처에 김치찌개를 잘하는 _________이/가 있어요. 거기로 갈까요?",
+		"choices": ["식당", "요리", "커피숍", "도서관"],
+		"answer": "식당",
+		"image": ""
+	},
+	{
+		"id": 238,
+		"english": "You must not leave __________ on the road or in the park. Public spaces must be kept clean.",
+		"question": "도로나 공원에 __________를 버리면 안 됩니다. 공공장소는 깨끗이 사용해야 합니다.",
+		"choices": ["나무", "자판기", "쓰레기", "공중전화"],
+		"answer": "쓰레기",
+		"image": ""
+	},
+	{
+		"id": 239,
+		"english": "I have bad eyesight. So, when you read a book, you should insert ________.",
+		"question": "저는 눈이 나쁩니다. 그래서 책을 볼 때 ________을/를 끼어야 합니다.",
+		"choices": ["구두", "안경", "장갑", "모자"],
+		"answer": "안경",
+		"image": ""
+	},
+	{
+		"id": 240,
+		"english": "A: Are you free tomorrow? I'd like to meet you tomorrow. \nMe: I'm sorry. Tomorrow I have _________. I decided to meet my hometown friends.",
+		"question": "가：내일 시간 있어요? 내일 좀 만나고 싶은데요. \n나：죄송해요. 내일은 제가 _________이/가 있어요. 고향 친구들을 만나기로 했어요.",
+		"choices": ["약속", "고향", "회의", "전화"],
+		"answer": "약속",
+		"image": ""
+	},
+	{
+		"id": 241,
+		"english": "Today is Sunday. _________ was on Saturday.",
+		"question": "오늘은 일요일입니다.  _________ 은/는 토요일이었습니다.",
+		"choices": ["내일", "모레", "어제", "그저께"],
+		"answer": "어제",
+		"image": ""
+	},
+	{
+		"id": 242,
+		"english": "Today, the __________ in our office broke down. It was so hot in the office that I couldn't work.",
+		"question": "오늘은 우리 사무실의 __________이/가 고장 났습니다. 사무실 안이 너무 더워서 일을 할 수가 없었습니다.",
+		"choices": ["냉장고", "에어컨", "세탁기", "텔레비전"],
+		"answer": "에어컨",
 		"image": ""
 	}
 ]
