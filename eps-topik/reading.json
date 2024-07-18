@@ -2094,5 +2094,317 @@
 		"choices": ["칼", "연필", "가위", "젓가락"],
 		"answer": "젓가락",
 		"image": ""
+	},
+	{
+		"id": 263,
+		"english": "A: How do I get to City Hall from here? \nMe: There is a __________ in front of the convenience store over there. You can take bus number 272 from there.",
+		"question": "가：여기서 시청에 어떻게 가요? \n나：저기 편의점 앞에 __________이/가 있어요. 거기서 272번 버스를 타면 돼요.",
+		"choices": ["공항", "출입문", "정류장", "교통카드"],
+		"answer": "정류장",
+		"image": ""
+	},
+	{
+		"id": 264,
+		"english": "People at the company work from Monday to Friday and take off on _________.",
+		"question": "회사 사람들은 월요일부터 금요일까지 일하고, _________에는 쉽니다.",
+		"choices": ["주말", "월말", "연말", "기말"],
+		"answer": "주말",
+		"image": ""
+	},
+	{
+		"id": 265,
+		"english": "A: Can I put _________ here? \nMe: No, you can't park your car here.",
+		"question": "가：여기에 _________을/를 해도 돼요? \n나：아니요, 여기에 차를 세우면 안 돼요.",
+		"choices": ["주문", "주차", "세수", "세차"],
+		"answer": "주차",
+		"image": ""
+	},
+	{
+		"id": 266,
+		"english": "A: What should I do? I lost my _________ on the subway. It contains cash, credit cards, and ID cards... . \nMe: Please go to the lost and found center quickly.",
+		"question": "가：어떡하죠? 지하철에서 _________을/를 잃어버렸어요. 그 안에 현금하고 신용카드, 신분증도 들어 있는데…. \n나：빨리 분실물 센터에 가 보세요.",
+		"choices": ["돈", "지갑", "휴지", "휴대전화"],
+		"answer": "지갑",
+		"image": ""
+	},
+	{
+		"id": 267,
+		"english": "A: How do I get to the company? \nMe: I usually take _________. I like it because it’s fast and there’s no traffic.",
+		"question": "가：회사에 어떻게 와요? \n나：보통 _________을/를 타고 와요. 길도 안 막히고 빨라서 좋아요.",
+		"choices": ["육교", "지하도", "지하철", "횡단보도"],
+		"answer": "지하철",
+		"image": ""
+	},
+	{
+		"id": 268,
+		"english": "A: What does Youngsu do? \nMe: I work at a factory making televisions. Mr. Seonghan, what is _______? \nA: I am a chef.",
+		"question": "가：영수 씨는 어떤 일을 하세요? \n나：저는 공장에서 텔레비전을 만드는 일을 해요. 성한 씨는 _______이/   가 뭐예요? \n가：저는 요리사예요.",
+		"choices": ["직업", "취미", "공장", "주소"],
+		"answer": "직업",
+		"image": ""
+	},
+	{
+		"id": 269,
+		"english": "A: Are there a lot of _________ in the company? \nMe: Yes, about 300 people.",
+		"question": "가：회사에 _________이 많아요? \n나：네, 300명쯤 돼요.",
+		"choices": ["직원", "직업", "시간", "사무실"],
+		"answer": "직원",
+		"image": ""
+	},
+	{
+		"id": 270,
+		"english": "A: Did you go to the bookstore yesterday and buy a lot of _____? \nMe: Yes, I bought 10 books.",
+		"question": "가：어제 서점에 가서 _____을 많이 샀어요? \n나：네, 10권 샀어요.",
+		"choices": ["약", "책", "옷", "과일"],
+		"answer": "책",
+		"image": ""
+	},
+	{
+		"id": 271,
+		"english": "A: Mr. Ricky, what is ________? \nMe: I like computer games. I often play games at home on the weekends.",
+		"question": "가：리키 씨는 ________이/가 뭐예요? \n나：컴퓨터 게임을 좋아해요. 주말에 자주 집에서 게임을 해요.",
+		"choices": ["이름", "취미", "나이", "성격"],
+		"answer": "취미",
+		"image": ""
+	},
+	{
+		"id": 272,
+		"english": "A: Mr. Youngsu, where is your office? \nMe: My office is in the International Building __________.",
+		"question": "가：영수 씨, 사무실이 어디에 있어요? \n나：제 사무실은 국제빌딩 __________에 있어요.",
+		"choices": ["10개", "10장", "10채", "10층"],
+		"answer": "10층",
+		"image": ""
+	},
+	{
+		"id": 273,
+		"english": "A: My tooth hurts so much that I can’t chew food well. \nMe: Then go to _________.",
+		"question": "가：이가 너무 아파서 음식을 잘 씹을 수가 없어요. \n나：그럼 _________에 가 보세요.",
+		"choices": ["안과", "내과", "치과", "외과"],
+		"answer": "치과",
+		"image": ""
+	},
+	{
+		"id": 274,
+		"english": "Our company works from Monday to Friday and is closed on ________ and Sunday.",
+		"question": "우리 회사는 월요일부터 금요일까지 일하고 ________과 일요일은 쉽니다.",
+		"choices": ["화요일", "수요일", "목요일", "토요일"],
+		"answer": "토요일",
+		"image": ""
+	},
+	{
+		"id": 275,
+		"english": "A: Can I pay with a credit card? \nMe: Sorry. Cards are not accepted. Please calculate in _________.",
+		"question": "가：신용카드로 계산해도 됩니까? \n나：죄송합니다. 카드는 안 됩니다. _________으로 계산해 주십시오.",
+		"choices": ["현금", "도장", "세금", "영수증"],
+		"answer": "현금",
+		"image": ""
+	},
+	{
+		"id": 276,
+		"english": "Today is Monday. Tomorrow is _________.",
+		"question": "오늘은 월요일입니다. 내일은 _________입니다.",
+		"choices": ["화요일", "수요일", "목요일", "금요일"],
+		"answer": "화요일",
+		"image": ""
+	},
+	{
+		"id": 277,
+		"english": "A: I want to change dollars to Korean money. Where should I go? \nMe: You can do _________ at the bank. Go to the bank.",
+		"question": "가：달러를 한국 돈으로 바꾸고 싶어요. 어디로 가야 해요? \n나：_________은/는 은행에서 할 수 있어요. 은행에 가 보세요.",
+		"choices": ["통장", "송금", "환전", "편지"],
+		"answer": "환전",
+		"image": ""
+	},
+	{
+		"id": 278,
+		"english": "A: Are you busy this evening? Let's have a drink together. \nMe: I'm sorry. There is ________ today. I have to have dinner with people from work.",
+		"question": "가：오늘 저녁에 바빠요? 같이 술 한잔해요. \n나：미안해요. 오늘은 ________이 있어요. 회사 사람들하고 같이 저녁을 먹어야 해요.",
+		"choices": ["월급", "회식", "출근", "퇴근"],
+		"answer": "회식",
+		"image": ""
+	},
+	{
+		"id": 279,
+		"english": "A: Wait a minute! It's a red light. You can't cross ___________ now. \nMe: I'm sorry. I didn't see it.",
+		"question": "가：잠깐만요! 빨간 불이에요. 지금 ___________을/를 건너면 안 돼요. \n나：미안해요. 못 봤어요.",
+		"choices": ["계단", "신호등", "지하도", "횡단보도"],
+		"answer": "횡단보도",
+		"image": ""
+	},
+	{
+		"id": 280,
+		"english": "A: I’m going to the Chinese embassy. Could you give me ________ directions? \nMe: I'm sorry. I don't know the way either.",
+		"question": "가：중국대사관에 가려고 하는데요. 길 좀 ________ 주시겠어요? \n나：미안해요. 저도 길을 잘 몰라요.",
+		"choices": ["걸어", "세워", "건너", "가르쳐"],
+		"answer": "가르쳐",
+		"image": ""
+	},
+	{
+		"id": 281,
+		"english": "A: Younghee, I think it will rain today. ________ this umbrella. \nMe: Thank you.",
+		"question": "가：영희 씨, 오늘 비가 올 것 같아요. 이 우산을 ________. \n나：고마워요.",
+		"choices": ["가져가세요", "내려가세요", "데려가세요", "올라가세요"],
+		"answer": "가져가세요",
+		"image": ""
+	},
+	{
+		"id": 282,
+		"english": "This station is Sinseol-dong, Sinseol-dong Station. The door to get off is on the left. Customers going toward Seongsu, Jamsil or Wangsimni should take Line 2 from this station ________.",
+		"question": "이번 역은 신설동, 신설동역입니다. 내리실 문은 왼쪽입니다. 성수, 잠실이나 왕십리 방면으로 가실 손님은 이번 역에서 2호선으로 ________ 바랍니다.",
+		"choices": ["보내시기", "닫으시기", "갈아타시기", "돌아오시기"],
+		"answer": "갈아타시기",
+		"image": ""
+	},
+	{
+		"id": 283,
+		"english": "A: Where should I take the bus to go to Itaewon? \nMe: At the crosswalk in front of you, go ________ to the right.",
+		"question": "가：이태원에 가려면 어디에서 버스를 타야 됩니까? \n나：저 앞 횡단보도에서 길을 ________ 오른쪽으로 가세요.",
+		"choices": ["세워서", "내려서", "건너서", "걸려서"],
+		"answer": "건너서",
+		"image": ""
+	},
+	{
+		"id": 284,
+		"english": "A: Manager Kim is not there right now. Would you like to leave a note? \nMe: No, I'll call you back later ________.",
+		"question": "가：지금 김 과장님 자리에 안 계신데요. 메모를 남겨 드릴까요? \n나：아니요, 제가 나중에 다시 전화 ________.",
+		"choices": ["걸겠습니다", "오겠습니다", "듣겠습니다", "바꾸겠습니다"],
+		"answer": "걸겠습니다",
+		"image": ""
+	},
+	{
+		"id": 285,
+		"english": "A: I want to send a parcel. How ________ to Indonesia? \nMe: It will arrive in about a week.",
+		"question": "가：소포를 보내려고 하는데요. 인도네시아까지 얼마나 ________? \n나：일주일 정도면 도착합니다.",
+		"choices": ["올까요", "걸릴까요", "보낼까요", "기다릴까요"],
+		"answer": "걸릴까요",
+		"image": ""
+	},
+	{
+		"id": 286,
+		"english": "A: Mr. Hyuncheol, when are you going to ________? \nMe: I already did it. I have two daughters.",
+		"question": "가：현철 씨는 언제 ________ 거예요? \n나：저는 벌써 했어요. 딸이 둘이나 있는데요.",
+		"choices": ["취직할", "결혼할", "이사할", "출근할"],
+		"answer": "결혼할",
+		"image": ""
+	},
+	{
+		"id": 287,
+		"english": "A: Is there a clean house around here? I have a house ________. \nMe: Yes, there is a nice house near the subway station.",
+		"question": "가：이 근처에 깨끗한 집 있어요? 집을 좀 ________ 있는데요. \n나：네, 지하철역 근처에 좋은 집이 하나 있어요.",
+		"choices": ["살고", "짓고", "팔고", "구하고"],
+		"answer": "구하고",
+		"image": ""
+	},
+	{
+		"id": 288,
+		"english": "A: (Ring~) Hello! \nMe: That’s Teacher Youngsu Lee’s house, right? Is there a teacher? \nA: Yes, wait a minute _________.",
+		"question": "가：(따르릉∼) 여보세요! \n나：거기 이영수 선생님 댁이지요? 선생님 계십니까? \n가：네, 잠깐만 _________.",
+		"choices": ["만나세요", "들으세요", "기다리세요", "가르치세요"],
+		"answer": "기다리세요",
+		"image": ""
+	},
+	{
+		"id": 289,
+		"english": "A: How much is this t-shirt? \nMe: It’s 30,000 won. \nA: It's too expensive. Please give me some ________.",
+		"question": "가：이 티셔츠 얼마예요? \n나：삼만 원이에요. \n가：너무 비싸요. 좀 ________ 주세요.",
+		"choices": ["꺼", "싸", "만나", "깎아"],
+		"answer": "깎아",
+		"image": ""
+	},
+	{
+		"id": 290,
+		"english": "After you finish your work, be sure to turn off the light.",
+		"question": "일을 다 끝낸 후에는 반드시 불을 ________ 나가세요.",
+		"choices": ["끄고", "닫고", "쉬고", "하고"],
+		"answer": "끄고",
+		"image": ""
+	},
+	{
+		"id": 291,
+		"english": "A: Aren’t you coming home from work? \nMe: Yes. I can't finish my work today. I have to work a little more. Go in first.",
+		"question": "가：퇴근 안 하세요? \n나：네. 오늘 일을 다 못 ________ 좀 더 일해야 돼요. 먼저 들어가세요.",
+		"choices": ["끝내서", "받아서", "시작해서", "만들어서"],
+		"answer": "끝내서",
+		"image": ""
+	},
+	{
+		"id": 292,
+		"english": "A: Minsu, how much ________ gas costs per month? \nMe: I usually pay around 10,000 won. I rarely cook at home.",
+		"question": "가：민수 씨는 한 달에 가스비가 얼마나 ________? \n나：저는 보통 만 원쯤 내요. 집에서 거의 요리를 안 하거든요.",
+		"choices": ["걸려요", "먹어요", "나와요", "내려요"],
+		"answer": "나와요",
+		"image": ""
+	},
+	{
+		"id": 293,
+		"english": "A: I think the refrigerator is broken. The water in the refrigerator is not cool. \nMe: Really? I guess I'll have to call the repair center.",
+		"question": "가：냉장고가 고장이 ________ 것 같아요. 냉장고 안에 있는 물이 시원하지 않아요. \n나：그래요? 수리 센터에 전화를 해야겠네요.",
+		"choices": ["간", "한", "난", "된"],
+		"answer": "난",
+		"image": ""
+	},
+	{
+		"id": 294,
+		"english": "These days, environmental pollution is serious due to food waste. Eat all your food without ________.",
+		"question": "요즘은 음식물 쓰레기 때문에 환경오염이 심각합니다. 음식을 ________ 말고 다 드십시오.",
+		"choices": ["사지", "먹지", "남기지", "끝내지"],
+		"answer": "남기지",
+		"image": ""
+	},
+	{
+		"id": 295,
+		"english": "This station is Jongno 3-ga, Jongno 3-ga Station. This station has a wide space between the train and the platform. Please be careful as you may lose your foot when ________.",
+		"question": "이번 역은 종로 3가, 종로 3가역입니다. 이번 역은 열차와 승강장 사이가 넓습니다. ________ 때 발이 빠질 염려가 있으니 조심하시기 바랍니다.",
+		"choices": ["내실", "닦으실", "내리실", "신으실"],
+		"answer": "내리실",
+		"image": ""
+	},
+	{
+		"id": 296,
+		"english": "To send a fax, first ________ the paper here. Then, just dial the recipient's country code, area code, and fax number.",
+		"question": "팩스를 보내려면 여기에 먼저 종이를 ________. 그리고 받는 곳의 국가 번호와 지역  번호, 그리고 팩스 번호를 누르시면 됩니다.",
+		"choices": ["찢으세요", "누우세요", "지우세요", "넣으세요"],
+		"answer": "넣으세요",
+		"image": ""
+	},
+	{
+		"id": 297,
+		"english": "A: You are late. \nMe: Yes, I ________ the company commuter bus. So even though I took a taxi, I was late.",
+		"question": "가：늦으셨군요. \n나：네, 회사 통근 버스를 ________. 그래서 택시를 타고 왔는데도 늦었네요.",
+		"choices": ["떠났어요", "놓쳤어요", "버렸어요", "잃었어요"],
+		"answer": "놓쳤어요",
+		"image": ""
+	},
+	{
+		"id": 298,
+		"english": "When calling Korea from abroad, dial the country code ________.",
+		"question": "외국에서 한국으로 전화를 걸 때는 국가 번호 82번을 ________ 합니다.",
+		"choices": ["밀어야", "넣어야", "바꿔야", "눌러야"],
+		"answer": "눌러야",
+		"image": ""
+	},
+	{
+		"id": 299,
+		"english": "A: Mr. Liang, what are you going to do during the Chuseok holiday? \nMe: I'm going ________ to my hometown for a moment. I want to meet my family after a long time.",
+		"question": "가：리앙 씨는 추석 연휴 때 뭐 할 거예요? \n나：잠깐 고향에 ________ 해요. 오랜만에 가족들을 만나고 싶어서요.",
+		"choices": ["다니려고", "다녀오려고", "돌아오려고", "이사하려고"],
+		"answer": "다녀오려고",
+		"image": ""
+	},
+	{
+		"id": 300,
+		"english": "A: My friend hurt his hand while working and was hospitalized. \nMe: Cheolsu, please be careful when you work, too.",
+		"question": "가：친구가 일하다가 손을 ________ 병원에 입원했어요. \n나：철수 씨도 일할 때 조심하세요.",
+		"choices": ["걸려서", "잡아서", "다쳐서", "들어서"],
+		"answer": "다쳐서",
+		"image": ""
+	},
+	{
+		"id": 301,
+		"english": "A: Youngsu, are you busy right now? \nMe: No, I'm not busy. \nA: Then, please ____________ me. There's too much work.",
+		"question": "가：영수 씨, 지금 바빠요? \n나：아니요, 바쁘지 않아요. \n가：그럼 저를 좀 ____________. 일이 너무 많아서요.",
+		"choices": ["도와주세요", "닫아 주세요", "고쳐 주세요", "빌려 주세요"],
+		"answer": "도와주세요",
+		"image": ""
 	}
 ]
