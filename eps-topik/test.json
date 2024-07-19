@@ -174,5 +174,173 @@
 		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading45.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading46.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading47.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading48.png"],
 		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading45.png",
 		"image": ""
+	},
+	{
+		"id": 523,
+		"english": "Which of the following signs means \"Do not lean on the door\"?",
+		"question": "다음 중 \"문에 기대지 마십시오.\"를 뜻하는 표지판은 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading49.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading50.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading51.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading52.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading50.png",
+		"image": ""
+	},
+	{
+		"id": 524,
+		"english": "Which of the following signs means \"Please wear safety shoes\"?",
+		"question": "다음 중 \"안전화를 신으십시오.\"라는 뜻의 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading53.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading54.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading55.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading56.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading56.png",
+		"image": ""
+	},
+	{
+		"id": 525,
+		"english": "Which of the following signs means \"Wear safety glasses to protect your eyes\"?",
+		"question": "다음 중 \"눈을 보호하는 보안경을 쓰십시오.\"라는 뜻의 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading57.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading58.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading55.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading59.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading57.png",
+		"image": ""
+	},
+	{
+		"id": 526,
+		"english": "Which of the following signs means \"Wear face coverings\"?",
+		"question": "다음 중 \"얼굴을 보호하는 보안면을 쓰십시오.\"를 뜻하는 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading57.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading58.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading55.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading59.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading59.png",
+		"image": ""
+	},
+	{
+		"id": 527,
+		"english": "Which of the following signs means \"Wear safety gloves to protect your hands\"?",
+		"question": "다음 중 \"손을 보호하는 안전장갑을 끼십시오.\"를 뜻하는 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading60.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading61.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading62.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading63.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading63.png",
+		"image": ""
+	},
+	{
+		"id": 528,
+		"english": "Which of the following signs means \"Go up and right?\"",
+		"question": "다음 중 \"오른쪽 위로 올라가십시오.\"를 뜻하는 표지판은 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading64.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading65.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading66.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading67.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading67.png",
+		"image": ""
+	},
+	{
+		"id": 529,
+		"english": "Which of the following signs means \"Internet is available here\"?",
+		"question": "다음 중 \"이곳에서 인터넷을 사용할 수 있습니다.\"를 뜻하는 표지판은 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading68.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading69.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading70.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading71.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading70.png",
+		"image": ""
+	},
+	{
+		"id": 530,
+		"english": "I'm about to take the elevator. Which of the following signs should you look for?",
+		"question": "엘리베이터를 타려고 합니다. 다음 중 어떤 표지판을 찾아야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading72.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading73.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading74.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading75.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading75.png",
+		"image": ""
+	},
+	{
+		"id": 531,
+		"english": "A fire breaks out in a factory and the fire must be put out quickly. Which of the following signs should you look for?",
+		"question": "공장에 불이 나서 빨리 불을 꺼야 합니다. 다음 중 어떤 표지를 찾아야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading76.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading77.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading72.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading78.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading76.png",
+		"image": ""
+	},
+	{
+		"id": 532,
+		"english": "I'm trying to make a phone call. Which of the following signs should you look for?",
+		"question": "전화를 하려고 합니다. 다음 중 어떤 표지를 찾아야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading79.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading80.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading81.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading72.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading81.png",
+		"image": ""
+	},
+	{
+		"id": 533,
+		"english": "There was an accident on the subway and I'm trying to call for help. What signs should I look for?",
+		"question": "지하철에서 사고가 나서 도와 달라는 전화를 하려고 합니다. 어떤 표지를 찾아야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading82.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading83.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading68.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading76.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading83.png",
+		"image": ""
+	},
+	{
+		"id": 534,
+		"english": "Find the fire hose (hydrant) used to put out the fire. What signs should I look for?",
+		"question": "불을 끌 때 사용하는 소방 호스(소화전)를 찾습니다. 어떤 표지를 찾아야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading84.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading85.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading86.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading83.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading85.png",
+		"image": ""
+	},
+	{
+		"id": 535,
+		"english": "I'm going to take a quick break and have a drink. Where should I go?",
+		"question": "음료수를 마시면서 잠깐 쉬려고 합니다. 어디에 가야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading87.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading88.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading89.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading90.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading87.png",
+		"image": ""
+	},
+	{
+		"id": 536,
+		"english": "I'm going to take a quick break and have a drink. Where should I go?",
+		"question": "음료수를 마시면서 잠깐 쉬려고 합니다. 어디에 가야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading68.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading91.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading92.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading93.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading68.png",
+		"image": ""
+	},
+	{
+		"id": 537,
+		"english": "I would like to leave my items in storage. What signs should I look for?",
+		"question": "보관소에 물건을 맡기려고 합니다. 어떤 표지를 찾아야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading94.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading91.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading95.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading96.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading91.png",
+		"image": ""
+	},
+	{
+		"id": 538,
+		"english": "I want to find a lost item (lost item). Which is the lost and found sign?",
+		"question": "잃어버린 물건(분실물)을 찾고 싶습니다. 분실물 보관소 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading92.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading93.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading97.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading98.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading98.png",
+		"image": ""
+	},
+	{
+		"id": 539,
+		"english": "I want to find a lost item (lost item). Which is the lost and found sign?",
+		"question": "잃어버린 물건(분실물)을 찾고 싶습니다. 분실물 보관소 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading99.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading97.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading92.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading100.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading98.png",
+		"image": ""
+	},
+	{
+		"id": 540,
+		"english": "Which of the following signs means \"Do not run\"?",
+		"question": "다음 중 \"뛰지 마십시오.\"를 뜻하는 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading101.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading102.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading103.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading104.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading103.png",
+		"image": ""
+	},
+	{
+		"id": 541,
+		"english": "Which of the following signs means \"Do not swim here\"?",
+		"question": "다음 중 \"여기에서 수영을 하지 마십시오.\"를 뜻하는 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading101.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading102.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading103.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading104.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading104.png",
+		"image": ""
+	},
+	{
+		"id": 542,
+		"english": "Which of the following signs means \"Do not litter\"?",
+		"question": "다음 중 \"쓰레기를 버리지 마십시오.\"를 뜻하는 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading105.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading102.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading103.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading106.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading102.png",
+		"image": ""
+	},
+	{
+		"id": 543,
+		"english": "Which of the following signs means \"This door cannot be used\"?",
+		"question": "다음 중 \"이 문을 사용할 수 없습니다.\"를 뜻하는 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading107.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading108.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading109.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading200.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading200.png",
+		"image": ""
 	}
 ]
