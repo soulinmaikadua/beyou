@@ -3979,8 +3979,8 @@
 		"id": 543,
 		"english": "Which of the following signs means \"This door cannot be used\"?",
 		"question": "다음 중 \"이 문을 사용할 수 없습니다.\"를 뜻하는 표지는 어느 것입니까?",
-		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading107.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading108.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading109.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading200.png"],
-		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading200.png",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading107.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading108.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading109.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading200.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading200.jpg",
 		"image": ""
 	}
 ]
