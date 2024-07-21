@@ -4251,7 +4251,7 @@
 		"id": 535,
 		"english": "I'm going to take a quick break and have a drink. Where should I go?",
 		"question": "음료수를 마시면서 잠깐 쉬려고 합니다. 어디에 가야 합니까?",
-		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading87.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading88.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading89.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading90.png"],
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading87.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading88.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading89.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading90.jpg"],
 		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading87.png",
 		"image": ""
 	},
