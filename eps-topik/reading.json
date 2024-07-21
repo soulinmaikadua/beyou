@@ -4315,8 +4315,64 @@
 		"id": 543,
 		"english": "Which of the following signs means \"This door cannot be used\"?",
 		"question": "다음 중 \"이 문을 사용할 수 없습니다.\"를 뜻하는 표지는 어느 것입니까?",
-		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading107.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading108.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading109.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading200.jpg"],
-		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading200.jpg",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading107.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading108.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading109.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading110.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading110.jpg",
+		"image": ""
+	},
+	{
+		"id": 544,
+		"english": "Which of the following signs means ‘a road restricted only to cars’?",
+		"question": "다음 중 '자동차만 다닐 수 있는 길'을 뜻하는 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading111.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading112.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading113.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading114.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading111.png",
+		"image": ""
+	},
+	{
+		"id": 545,
+		"english": "I'm trying to exchange foreign money into Korean money. What signs should I look for?",
+		"question": "외국 돈을 한국 돈으로 바꾸려고 합니다. 어떤 표지판을 찾아가야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading115.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading116.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading117.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading118.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading115.png",
+		"image": ""
+	},
+	{
+		"id": 546,
+		"english": "Which of the following signs means 'toilet'?",
+		"question": "다음 중 '화장실'을 뜻하는 표지판은 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading119.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading120.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading121.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading122.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading120.png",
+		"image": ""
+	},
+	{
+		"id": 547,
+		"english": "Which of the following signs means 'Airport'?",
+		"question": "다음 중 '공항'을 뜻하는 표지판은 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading123.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading124.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading125.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading126.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading123.png",
+		"image": ""
+	},
+	{
+		"id": 548,
+		"english": "Which of the following signs means 'drinking water'?",
+		"question": "다음 중 '물을 마실 수 있는 곳'을 뜻하는 표지판은 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading127.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading128.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading129.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading130.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading129.png",
+		"image": ""
+	},
+	{
+		"id": 549,
+		"english": "Which of the following signs has the wrong meaning?",
+		"question": "다음 중 표지판의 의미가  잘못된  것을 고르십시오.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading131.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading132.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading133.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading134.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading132.png",
+		"image": ""
+	},
+	{
+		"id": 550,
+		"english": "I'm trying to buy medicine. Which of the following signs should you look for?",
+		"question": "약을 사려고 합니다. 다음 중 어느 표지판을 찾아야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading135.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading136.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading137.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading138.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading138.png",
 		"image": ""
 	}
 ]
