@@ -4374,5 +4374,21 @@
 		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading135.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading136.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading137.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading138.png"],
 		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading138.png",
 		"image": ""
+	},
+	{
+		"id": 551,
+		"english": "Please choose a sign that matches the following information.\nYou must wear a safety belt when working here.",
+		"question": "다음 내용에 맞는 표지를 고르십시오.\n이곳에서 일할 때는 반드시 안전대를 착용해야 합니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading55.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading139.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading140.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading141.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading140.png",
+		"image": ""
+	},
+	{
+		"id": 552,
+		"english": "Please choose a sign that states the following:\nUse this phone in an emergency.",
+		"question": "다음 내용에 맞는 표지를 고르십시오.\n비상시 이 전화기를 사용하십시오.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading142.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading83.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading41.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading84.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading83.png",
+		"image": ""
 	}
 ]
