@@ -3974,5 +3974,13 @@
 		"choices": ["수업 중이니까 조용히 내려가세요", "엘리베이터를 조심해서 이용하세요", "산이 높으니까 조심해서 올라가세요", "계단에서 미끄러지지 않게 조심하세요"],
 		"answer": "계단에서 미끄러지지 않게 조심하세요",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading20.jpg"
+	},
+	{
+		"id": 543,
+		"english": "Which of the following signs means \"This door cannot be used\"?",
+		"question": "다음 중 \"이 문을 사용할 수 없습니다.\"를 뜻하는 표지는 어느 것입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading107.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading108.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading109.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading200.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading200.png",
+		"image": ""
 	}
 ]
