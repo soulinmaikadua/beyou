@@ -4777,10 +4777,82 @@
 	},
 	{
 		"id": 601,
+		"english": "What can you tell from the following photo?",
+		"question": "다음 사진을 보고 알 수 있는 것은 무엇입니까?",
+		"choices": ["버스 정류소를 깨끗하게 사용해야 합니다", "버스를 기다릴 때는 반드시 줄을 서야 합니다", "이 버스 정류소에서 담배를 피우면 안 됩니다", "건강을 위해서는 대중교통을 이용해야 합니다"],
+		"answer": "이 버스 정류소에서 담배를 피우면 안 됩니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading254.jpg"
+	},
+	{
+		"id": 602,
 		"english": "What can you do inside this workshop?",
 		"question": "이 작업장 안에서 할 수 있는 것은 무엇입니까?",
 		"choices": ["맥주를 마십니다", "김밥을 먹습니다", "담배를 피웁니다", "이야기를 합니다"],
 		"answer": "이야기를 합니다",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading255.jpg"
+	},
+	{
+		"id": 603,
+		"english": "Choose a word that relates to the following picture.",
+		"question": "다음 그림과 관계가 있는 말을 고르십시오.",
+		"choices": ["위험한 곳이니까 안전모를 착용해야 합니다", "눈과 얼굴을 보호하는 보안면을 써야 합니다", "작업을 끝낸 후에는 반드시 목욕을 해야 합니다", "사용한 공구는 제자리에 정리 정돈을 해야 합니다"],
+		"answer": "눈과 얼굴을 보호하는 보안면을 써야 합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading256.jpg"
+	},
+	{
+		"id": 604,
+		"english": "Where can I see the following information boards?",
+		"question": "다음은 어디에서 볼 수 있는 안내판입니까?",
+		"choices": ["학교", "공항", "여행사", "기숙사"],
+		"answer": "공항",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading257.jpg"
+	},
+	{
+		"id": 605,
+		"english": "What is this?",
+		"question": "이것은 무엇입니까?",
+		"choices": ["시계입니다", "사진기입니다", "계산기입니다", "신호등입니다"],
+		"answer": "신호등입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading258.jpg"
+	},
+	{
+		"id": 606,
+		"english": "Choose the correct description of the following sign.",
+		"question": "다음 표지판을 바르게 설명한 것을 고르십시오.",
+		"choices": ["여기는 안국동 사거리입니다", "왼쪽으로 가면 종로4가입니다", "똑바로 가면 창덕궁이 나옵니다", "오른쪽으로 가면 종로2가입니다"],
+		"answer": "똑바로 가면 창덕궁이 나옵니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading259.jpg"
+	},
+	{
+		"id": 607,
+		"english": "What protective equipment does this person need right now?",
+		"question": "지금 이 사람에게 필요한 보호구는 무엇입니까?",
+		"choices": ["안전대", "귀마개", "마스크", "안전장갑"],
+		"answer": "귀마개",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading260.jpg"
+	},
+	{
+		"id": 608,
+		"english": "Choose the sentence that relates to the following picture.",
+		"question": "다음 그림과 관계가 있는 문장을 고르십시오.",
+		"choices": ["인화성 물질 근처에서 용접을 하면 안 됩니다", "인화성 물질 근처에서 음식을 먹으면 안 됩니다", "물에 젖은 손으로 전동 기구를 만지면 안 됩니다", "일이 끝난 후에 사용한 공구를 정리 정돈해야 합니다"],
+		"answer": "인화성 물질 근처에서 용접을 하면 안 됩니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading261.jpg"
+	},
+	{
+		"id": 609,
+		"english": "The following are caution signs that can be seen on escalators. Which of the following is a misinterpretation of this sign?",
+		"question": "다음은 에스컬레이터에서 볼 수 있는 주의 표지입니다. 다음 중 이 표지를  잘못  이해한 것을 고르십시오.",
+		"choices": ["뛰지 마십시오", "손잡이를 잡으십시오", "구두를 벗고 타십시오", "어린이와 같이 탈 때는 손을 잡으십시오"],
+		"answer": "구두를 벗고 타십시오",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading262.jpg"
+	},
+	{
+		"id": 610,
+		"english": "Here is a sign at the museum: What's not on this sign?",
+		"question": "다음은 박물관에 있는 표지판입니다. 이 표지판에  없는  내용은 무엇입니까?",
+		"choices": [" 여기에서 사진을 찍으면 안 됩니다", "여기에서 음식을 먹으면 안 됩니다", "여기에서 담배를 피우면 안 됩니다", "여기에 어린이가 들어오면 안 됩니다"],
+		"answer": "여기에 어린이가 들어오면 안 됩니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading263.jpg"
 	}
 ]
