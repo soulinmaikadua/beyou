@@ -4758,5 +4758,29 @@
 		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading246.bmp", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading247.bmp", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading248.bmp", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading249.bmp"],
 		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading248.bmp",
 		"image": ""
+	},
+	{
+		"id": 599,
+		"english": "Please choose the label that matches the following information.\nThis contains highly toxic substances.\nIt is very dangerous if eaten or entered into the body, so please be careful.",
+		"question": "다음 내용에 맞는 표지를 고르십시오.\n여기에는 독성이 강한 물질이 있습니다.\n먹거나 몸에 들어가면 아주 위험하니 조심하시기 바랍니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading250.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading251.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading252.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading253.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading250.jpg",
+		"image": ""
+	},
+	{
+		"id": 600,
+		"english": "Please select the label that best describes the following:\nThis contains hazardous materials that can suddenly explode. Handle with care.",
+		"question": "다음 내용에 맞는 표지를 고르십시오.\n여기에는 갑자기 폭발할 수 있는 위험 물질이 있습니다. 조심해서 다루십시오.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading250.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading251.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading252.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading253.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading252.jpg",
+		"image": ""
+	},
+	{
+		"id": 601,
+		"english": "What can you do inside this workshop?",
+		"question": "이 작업장 안에서 할 수 있는 것은 무엇입니까?",
+		"choices": ["맥주를 마십니다", "김밥을 먹습니다", "담배를 피웁니다", "이야기를 합니다"],
+		"answer": "이야기를 합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading255.jpg"
 	}
 ]
