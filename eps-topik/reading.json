@@ -5102,5 +5102,13 @@
 		"choices": ["1,500원", "3,500원", "5,500원", "6,000원"],
 		"answer": "3,500원",
 		"image": ""
+	},
+	{
+		"id": 642,
+		"english": "The following is an advertisement looking for someone to work part-time. Which of the following can do this?",
+		"question": "다음은 아르바이트를 할 사람을 구하는 광고입니다. 다음 중 이 일을 할 수 있는 사람은 누구입니까?",
+		"choices": ["평일에 시간이 있는 남자", "주말에 시간이 있는 남자", "평일에 시간이 있는 여자", "주말에 시간이 있는 여자"],
+		"answer": "평일에 시간이 있는 여자",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading289.jpg"
 	}
 ]
