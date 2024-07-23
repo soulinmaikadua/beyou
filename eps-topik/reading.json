@@ -4694,5 +4694,69 @@
 		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading157.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading75.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading98.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading225.png"],
 		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading157.png",
 		"image": ""
+	},
+	{
+		"id": 591,
+		"english": "Which of the following meanings is incorrect?",
+		"question": "다음 중 표지판의 의미가  잘못  된 것은 무엇입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading226.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading227.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading228.png", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading229.png"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading226.png",
+		"image": ""
+	},
+	{
+		"id": 592,
+		"english": "Which of the following signs means \"People are not allowed to walk in this area\"?",
+		"question": "다음 중 \"이곳은 사람이 걸어 다닐 수 없는 곳입니다.\"를 뜻하는 표지판은 무엇입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading230.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading182.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading231.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading180.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading230.jpg",
+		"image": ""
+	},
+	{
+		"id": 593,
+		"english": "Please choose a sign that matches the following.\nThis is a road where loaded trucks cannot travel.",
+		"question": "다음 내용에 맞는 표지를 고르십시오.\n이곳은 짐을 실은 화물 자동차가 다닐 수 없는 길입니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading232.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading233.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading234.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading235.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading234.jpg",
+		"image": ""
+	},
+	{
+		"id": 594,
+		"english": "Which of the following signs means \"The road is not suitable for handcarts or tillers\"?",
+		"question": "다음 중 \"손수레나 경운기가 다닐 수 없는 길입니다.\"를 뜻하는 표지는 무엇입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading233.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading234.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading232.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading236.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading236.jpg",
+		"image": ""
+	},
+	{
+		"id": 595,
+		"english": "Which sign means \"Keep a distance of 50 meters from the vehicle in front\"?",
+		"question": "다음 중 \"앞차와 50미터의 간격을 두십시오.\"의 뜻을 나타내는 표지판은 무엇입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading237.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading238.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading239.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading240.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading239.jpg",
+		"image": ""
+	},
+	{
+		"id": 596,
+		"english": "Which of the following signs indicates a road that allows both left and right turns?",
+		"question": "다음 중 좌회전이나 우회전이 모두 가능한 길을 나타내는 표지는 무엇입니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading241.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading242.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading243.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading244.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading241.jpg",
+		"image": ""
+	},
+	{
+		"id": 597,
+		"english": "Please choose a sign that matches the following:\nYou should not wear gloves when doing this job.",
+		"question": "다음 내용에 맞는 표지를 고르십시오.\n이 일을 할 때는 장갑을 끼면 안 됩니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading223.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading219.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading245.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading224.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading245.jpg",
+		"image": ""
+	},
+	{
+		"id": 598,
+		"english": "Choose a sign that matches the following:\nYou must not smoke while working.",
+		"question": "다음 내용에 맞는 표지를 고르십시오.\n일을 하는 동안 담배를 피우면 안 됩니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading246.bmp", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading247.bmp", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading248.bmp", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading249.bmp"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading248.bmp",
+		"image": ""
 	}
 ]
