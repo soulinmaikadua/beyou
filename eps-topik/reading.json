@@ -5062,5 +5062,45 @@
 		"choices": ["이 회사는 경상남도 진해시에 있습니다", "이 회사는 자동차 부품을 만드는 회사입니다", "한 달에 1,800∼2,000만 원 정도를 받습니다", "회사 식당에서 무료로 식사를 할 수 있습니다"],
 		"answer": "한 달에 1,800∼2,000만 원 정도를 받습니다",
 		"image": ""
+	},
+	{
+		"id": 637,
+		"english": "What is the most expensive food at this restaurant?",
+		"question": "이 식당에서 가장 비싼 음식은 무엇입니까?\n\t<차림표>\n라면     3,000원    칼국수   4,000원\n비빔밥   5,000원    순두부   4,500원",
+		"choices": ["라면", "칼국수", "비빔밥", "순두부"],
+		"answer": "비빔밥",
+		"image": ""
+	},
+	{
+		"id": 638,
+		"english": "What is the cheapest drink at this coffee shop?",
+		"question": "이 커피숍에서 가장 싼 음료수는 무엇입니까?\n\t<차림표>\n커피     3,000원    녹차   3,500원\n콜라   2,500원    주스   4,000원",
+		"choices": ["커피", "녹차", "콜라", "주스"],
+		"answer": "콜라",
+		"image": ""
+	},
+	{
+		"id": 639,
+		"english": "I would like to drop off my clothes at this dry cleaner. When should I go?",
+		"question": "이 세탁소에 옷을 맡기려고 합니다. 언제 가야 합니까?\n\t<휴일 안내문>\n·9월 22일은 오전까지만 영업합니다.\n·9월 23일부터 9월 26일까지 쉽니다.\n·9월 27일 오후부터 정상 영업합니다. 죄송합니다.\n\t\t－하나세탁소－",
+		"choices": ["9월 22일 오후", "9월 23일 오전", "9월 25일 오전", "9월 27일 오후"],
+		"answer": "9월 27일 오후",
+		"image": ""
+	},
+	{
+		"id": 640,
+		"english": "What do the following signs mean?",
+		"question": "다음 표지가 뜻하는 것은 무엇입니까?",
+		"choices": ["월요일마다 쉽니다", "월요일에만 일합니다", "월요일마다 문을 엽니다", "월요일에는 싸게 팝니다"],
+		"answer": "월요일마다 쉽니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading288.png"
+	},
+	{
+		"id": 641,
+		"english": "I went to a restaurant with my friend and ate kimbap and ramen. How much will everyone have to pay?",
+		"question": "친구와 같이 식당에 가서 김밥과 라면을 먹었습니다. 모두 얼마를 내야 합니까?\n\t<차림표>\n김밥   1,500원   비빔밥   4,000원\n라면   2,000원   떡볶이   1,000원",
+		"choices": ["1,500원", "3,500원", "5,500원", "6,000원"],
+		"answer": "3,500원",
+		"image": ""
 	}
 ]
