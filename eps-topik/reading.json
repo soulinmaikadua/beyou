@@ -5174,5 +5174,269 @@
 		"choices": ["700원", "1,000원", "1,400원", "1,700원"],
 		"answer": "1,400원",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading296.png"
+	},
+	{
+		"id": 651,
+		"english": "What ad is next?",
+		"question": "다음은 무슨 광고입니까?",
+		"choices": ["가방 광고", "여행사 광고", "컴퓨터 광고", "운동화 광고"],
+		"answer": "여행사 광고",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading297.jpg"
+	},
+	{
+		"id": 652,
+		"english": "What ad is next?",
+		"question": "다음은 무슨 광고입니까?",
+		"choices": ["옷 광고", "약 광고", "금연 광고", "화장품 광고"],
+		"answer": "금연 광고",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading298.jpg"
+	},
+	{
+		"id": 653,
+		"english": "Which of the following foods is the cheapest?",
+		"question": "다음 중에서 어느 음식이 제일 쌉니까?\n<차림표>\n비빔밥   4,500원    된장찌개   4,000원\n라면     2,000원    칼국수     1,000원",
+		"choices": ["냉면", "비빔밥", "칼국수", "된장찌개"],
+		"answer": "칼국수",
+		"image": ""
+	},
+	{
+		"id": 654,
+		"english": "Please select the statement that does not fit the description of the living room in the following ad.",
+		"question": "다음 광고에 있는 자취방에 대한 설명으로 맞지  않는  것을 고르십시오.",
+		"choices": ["지하철역에서 가깝습니다", "근처에 대학교가 있습니다", "부엌을 사용할 수 있습니다", "매년 20만 원을 내야 합니다"],
+		"answer": "매년 20만 원을 내야 합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading299.png"
+	},
+	{
+		"id": 655,
+		"english": "Below is the weather for the week in Seoul. What did I describe incorrectly?",
+		"question": "다음은 서울의 한 주간 날씨입니다.  잘못  설명한 것은 무엇입니까?",
+		"choices": ["화요일 낮에는 맑겠습니다", "수요일에는 비나 눈이 오겠습니다", "토요일 오후에는 비가 오겠습니다", "금요일에는 오후부터 눈이 오겠습니다"],
+		"answer": "금요일에는 오후부터 눈이 오겠습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading300.png"
+	},
+	{
+		"id": 656,
+		"english": "Please choose the statement that does not fit the following menu.",
+		"question": "다음 차림표에 대한 설명으로 맞지  않는  것을 고르십시오.",
+		"choices": ["제일 싼 음식은 칼국수입니다", "순두부가 된장찌개보다 비쌉니다", "해물탕은 2인분을 시켜야 합니다", "이 식당에서는 불고기를 팔지 않습니다"],
+		"answer": "순두부가 된장찌개보다 비쌉니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading301.jpg"
+	},
+	{
+		"id": 657,
+		"english": "What don't you know about this ad?",
+		"question": "이 광고에서 알 수  없는  것은 무엇입니까?",
+		"choices": ["여행 기간", "물어볼 곳", "여행 가격", "여행사가 있는 곳"],
+		"answer": "여행사가 있는 곳",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading302.jpg"
+	},
+	{
+		"id": 658,
+		"english": "Choose something you don't know about from this ad.",
+		"question": "이 광고의 내용으로 알 수  없는  것을 고르십시오.",
+		"choices": ["서울대학교에서 가깝습니다", "한 달에 40만 원을 내야 합니다", "점심은 하숙집에서 주지 않습니다", "방을 다른 사람과 함께 사용합니다"],
+		"answer": "방을 다른 사람과 함께 사용합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading303.png"
+	},
+	{
+		"id": 659,
+		"english": "Please choose something different from the information in the following instructions.",
+		"question": "다음 안내문의 내용과  다른  것을 고르십시오.",
+		"choices": ["경복궁은 세종로에 있습니다", "경복궁에 가려면 지하철 3호선을 타야 합니다", "경복궁역에서 경복궁까지 버스로 5분 걸립니다", "질문이 있으면 02-732-1931로 전화하면 됩니다"],
+		"answer": "경복궁역에서 경복궁까지 버스로 5분 걸립니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading304.png"
+	},
+	{
+		"id": 660,
+		"english": "The following is a guide to the Korean language curriculum. What is different from the information in the notice?",
+		"question": "다음은 한국어 교육 과정 안내입니다. 안내문의 내용과  다른  것은 무엇입니까?",
+		"choices": ["수업료를 내지 않습니다", "평일에는 수업이 없습니다", "수업은 5월부터 시작합니다", "전화로는 신청할 수 없습니다"],
+		"answer": "수업은 5월부터 시작합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading305.png"
+	},
+	{
+		"id": 661,
+		"english": "What does the following represent?",
+		"question": "다음은 무엇을 나타낸 것입니까?",
+		"choices": ["젓가락을 사용하는 방법", "비빔국수를 만드는 방법", "맛있는 식당을 찾는 방법", "좋은 국수를 고르는 방법"],
+		"answer": "비빔국수를 만드는 방법",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading306.png"
+	},
+	{
+		"id": 662,
+		"english": "Where should employees go for safety training this month?",
+		"question": "이번 달에 안전 교육을 받을 직원은 어디로 가야 합니까?",
+		"choices": ["1층 컴퓨터실", "4층 소강당", "홍보부 사무실", "회사 정문 앞"],
+		"answer": "4층 소강당",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading307.png"
+	},
+	{
+		"id": 663,
+		"english": "Below is a job advertisement. Choose one that does not fit the content of the ad.",
+		"question": "다음은 구인 광고입니다. 광고의 내용과 맞지  않는  것을 고르십시오.\n\t＜용접공 구함＞\n▶ 초보 가능\n▶ 근무 시간, 급여：상담 후 결정\n▶ 시흥시 목감 IC부근 <승진금속>\n☎ 031)485-5882, 011-707-2704",
+		"choices": ["20대 남자를 한 명 구하고 있습니다", "일하는 시간과 월급은 아직 알 수 없습니다", "용접 기술이 없는 사람도 일할 수 있습니다", "회사 이름은 <승진금속>이고, 시흥시에 있습니다"],
+		"answer": "20대 남자를 한 명 구하고 있습니다",
+		"image": ""
+	},
+	{
+		"id": 664,
+		"english": "What is different from the content in the following notice?",
+		"question": "다음 안내문의 내용과  다른  것은 무엇입니까?",
+		"choices": ["일주일에 6일 일합니다", "하루에 11시간 일합니다", "남자 직원을 두 명 구합니다", "한 시간에 사천오백 원을 받습니다"],
+		"answer": "하루에 11시간 일합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading308.jpg"
+	},
+	{
+		"id": 665,
+		"english": "What does the following ad represent?",
+		"question": "다음 광고는 무엇을 나타내고 있습니까?",
+		"choices": ["돈을 아껴서 쓰십시오", "음식을 남기지 마십시오", "그릇에 돈을 넣지 마십시오", "수저를 바르게 사용하십시오"],
+		"answer": "음식을 남기지 마십시오",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading309.jpg"
+	},
+	{
+		"id": 666,
+		"english": "What does the following ad represent?",
+		"question": "다음 광고는 무엇을 나타내고 있습니까?",
+		"choices": ["쓰레기를 재활용합시다", "일회용품을 쓰지 맙시다", "작업장에서 떠들지 맙시다", "야구장에 쓰레기를 버리지 맙시다"],
+		"answer": "쓰레기를 재활용합시다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading310.jpg"
+	},
+	{
+		"id": 667,
+		"english": "Choose the statement that correctly describes the following instructions.",
+		"question": "다음 안내문을 바르게 설명한 것을 고르십시오.",
+		"choices": ["컴퓨터를 배울 사람을 모집하고 있습니다", "컴퓨터를 가르칠 사람을 모집하고 있습니다", "컴퓨터를 잘하는 사람을 모집하고 있습니다", "컴퓨터를 싸게 살 사람을 모집하고 있습니다"],
+		"answer": "컴퓨터를 배울 사람을 모집하고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading311.jpg"
+	},
+	{
+		"id": 668,
+		"english": "I bought shorts and a knit at a clothing store. How much do I have to pay?",
+		"question": "옷 가게에서 반바지와 니트를 샀습니다. 얼마를 내야 합니까?",
+		"choices": ["25,000원", "32,000원", "34,000원", "38,000원"],
+		"answer": "34,000원",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading312.jpg"
+	},
+	{
+		"id": 669,
+		"english": "I bought shorts and a knit at a clothing store. How much do I have to pay?",
+		"question": "옷 가게에 다음과 같은 광고가 붙어 있습니다. 다음을 보고 알 수 있는 것은 무엇입니까?",
+		"choices": ["옷을 많이 살 수 있습니다", "여름 물건을 싸게 살 수 있습니다", "모든 봄옷을 싸게 살 수 있습니다", "봄옷을 50% 싸게 살 수 있습니다"],
+		"answer": "모든 봄옷을 싸게 살 수 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading313.jpg"
+	},
+	{
+		"id": 670,
+		"english": "One adult and one child are trying to enter a museum. How much will everyone have to pay?",
+		"question": "어른 한 명과 어린이 한 명이 박물관에 들어가려고 합니다. 모두 얼마를 내야 합니까?\n<박물관 입장료> \n▶ 어른(19세 이상)：3,000원\n▶ 청소년(13세∼18세)：1,500원\n▶ 어린이(12세 이하)：무 료",
+		"choices": ["1,500원", "3,000원", "4,500원", "내지 않습니다"],
+		"answer": "3,000원",
+		"image": ""
+	},
+	{
+		"id": 671,
+		"english": "I'm trying to recycle milk cartons. Where should I throw it away?",
+		"question": "우유팩을 재활용하려고 합니다. 어느 곳에 버려야 합니까?",
+		"choices": ["병을 넣는 곳", "종이를 넣는 곳", "헌 옷을 넣는 곳", "음식물 쓰레기 넣는 곳"],
+		"answer": "종이를 넣는 곳",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading314.jpg"
+	},
+	{
+		"id": 672,
+		"english": "The following sign is posted at the building entrance: What should I do?",
+		"question": "건물 출입구에 다음과 같은 표지판이 붙어 있습니다. 어떻게 해야 합니까?",
+		"choices": ["동물에게 먹이를 주면 안 됩니다", "동물을 데리고 들어가면 안 됩니다", "동물에게 예방 주사를 맞혀야 합니다", "여기에서 동물을 사고 팔면 안 됩니다"],
+		"answer": "동물을 데리고 들어가면 안 됩니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading315.jpg"
+	},
+	{
+		"id": 673,
+		"english": "What is the correct explanation for the following picture?",
+		"question": "다음 그림에 대한 바른 설명은 무엇입니까?",
+		"choices": ["보행자들이 횡단보도를 건너고 있습니다", "사람들이 주차장에 자전거를 세워 두고 있습니다", "사람들이 자전거 전용 도로에서 자전거를 타고 있습니다", "사람들이 헬멧을 쓰고 차도에서 오토바이를 타고 있습니다"],
+		"answer": "사람들이 자전거 전용 도로에서 자전거를 타고 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading316.jpg"
+	},
+	{
+		"id": 674,
+		"english": "What is the correct explanation for the following picture?",
+		"question": "다음 그림에 대한 바른 설명은 무엇입니까?",
+		"choices": ["이 표를 가져가면 빵과 커피를 무료로 줍니다", "이 표를 가져가면 우산을 무료로 빌려 줍니다", "이 표를 가져가면 커피를 50% 싸게 살 수 있습니다", "비가 오는 날에 이 표를 가져가면 커피를 무료로 줍니다"],
+		"answer": "비가 오는 날에 이 표를 가져가면 커피를 무료로 줍니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading317.jpg"
+	},
+	{
+		"id": 675,
+		"english": "What is the correct explanation for the following notice?",
+		"question": "다음 안내문에 대한 바른 설명은 무엇입니까?",
+		"choices": ["12월 19일은 휴일이지만 진료합니다", "12월 19일은 휴일이기 때문에 진료하지 않습니다", "12월 19일은 선거일이기 때문에 오전에만 진료합니다", "12월 19일은 선거일이기 때문에 오후부터 진료합니다"],
+		"answer": "12월 19일은 휴일이지만 진료합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading318.jpg"
+	},
+	{
+		"id": 676,
+		"english": "Which of the following statements about the advertisement is incorrect?",
+		"question": "다음 광고에 대한 설명으로 바르지  않은  것은 무엇입니까?",
+		"choices": ["둘째 일요일에 머리를 자를 수 있습니다", "한국 요리는 매주 화요일에 배울 수 있습니다", "둘째 일요일에 치과 치료를 받을 수 있습니다", "일요일에 서초구 보건소에서 결혼식이 있습니다"],
+		"answer": "일요일에 서초구 보건소에서 결혼식이 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading319.jpg"
+	},
+	{
+		"id": 677,
+		"english": "Which of the following statements about the advertisement is incorrect?",
+		"question": "소주를 두 병 마셨습니다. 얼마를 내야 합니까?<차림표>\n소주   3,000원.    커피   3,500원\n맥주   4,000원.    주스   4,000원",
+		"choices": ["5,000원", "6,000원", "7,000원", "8,000원"],
+		"answer": "6,000원",
+		"image": ""
+	},
+	{
+		"id": 678,
+		"english": "Which of the following is a correct statement about the advertisement?",
+		"question": "다음 광고에 대한 설명으로 바른 것은 무엇입니까?\n<하숙집 있습니다>\n◆ 지하철역 걸어서 3분 거리 \n◆ 아침, 저녁 식사 제공\n◆ 2인 1실, 한 달에 30만 원\n◆ 연락처：031) 777-1234",
+		"choices": ["두 사람이 한 방을 같이 써야 합니다", "이 하숙집은 하루 세 끼 식사를 줍니다", "하숙집에서 지하철 역까지 버스로 3분 걸립니다", "아침 식사와 저녁 식사를 직접 만들어야 합니다"],
+		"answer": "두 사람이 한 방을 같이 써야 합니다",
+		"image": ""
+	},
+	{
+		"id": 679,
+		"english": "Who wrote this note?",
+		"question": "이 메모를 쓴 사람은 누구입니까?",
+		"choices": ["김지수", "이영수", "김민수", "모릅니다"],
+		"answer": "김민수",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading320.png"
+	},
+	{
+		"id": 680,
+		"english": "Who is calling?",
+		"question": "전화를 건 사람은 누구입니까?\n전화 메모\n최진아 씨께\n◆ 시간：11월 25일 오후 2시 30분\n◆ 전화한 사람：서울실업 김영석 씨\n◆ 전화 받은 사람：김지수",
+		"choices": ["최진아", "김영석", "김지수", "모릅니다"],
+		"answer": "김영석",
+		"image": ""
+	},
+	{
+		"id": 681,
+		"english": "Below is a list of major phone numbers. What number should I call if there is a fire?",
+		"question": "다음은 주요 전화번호 안내판입니다. 불이 났을 때는 몇 번에 전화해야 합니까?",
+		"choices": ["112", "114", "119", "131"],
+		"answer": "119",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading321.png"
+	},
+	{
+		"id": 682,
+		"english": "The following is a portion of the Seoul subway map. Which stations can I transfer to?",
+		"question": "다음은 서울 지하철 노선도의 일부를 그린 것입니다. 갈아탈 수 있는 역은 어느 역입니까?",
+		"choices": ["명학역", "금정역", "산본역", "오이도역"],
+		"answer": "금정역",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading322.jpg"
+	},
+	{
+		"id": 683,
+		"english": "I want to withdraw money from an automated teller machine. Which one should I press?",
+		"question": "자동 입출금기로 돈을 찾고 싶습니다. 어느 것을 눌러야 합니까?",
+		"choices": ["입금", "출금", "조회", "계좌 이체"],
+		"answer": "출금",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading322.jpg"
 	}
 ]
