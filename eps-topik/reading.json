@@ -5437,6 +5437,94 @@
 		"question": "자동 입출금기로 돈을 찾고 싶습니다. 어느 것을 눌러야 합니까?",
 		"choices": ["입금", "출금", "조회", "계좌 이체"],
 		"answer": "출금",
-		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading322.jpg"
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading323.jpg"
+	},
+	{
+		"id": 684,
+		"english": "I lost my camera in the museum. What number should I call?",
+		"question": "박물관 안에서 사진기를 잃어버렸습니다. 몇 번으로 전화해야 합니까?\n[박물관 시설 안내]\n◈ 주차：02) 123-3033\n◈ 식당：02) 123-3095\n◈ 유실물 보관 센터：02) 123-3034\n◈ 단체 관람 예약/안내：02) 123-3039",
+		"choices": ["02) 123-3033", "02) 123-3095", "02) 123-3034", "02) 123-3039"],
+		"answer": "02) 123-3034",
+		"image": ""
+	},
+	{
+		"id": 685,
+		"english": "The following is a table surveying the fruits that Korean people eat. What fruits do Koreans eat most?",
+		"question": "다음은 한국 사람들이 먹는 과일을 조사한 표입니다. 한국 사람들이 가장 많이 먹는 과일은 무엇입니까?",
+		"choices": ["배", "귤", "감", "포도"],
+		"answer": "귤",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading324.jpg"
+	},
+	{
+		"id": 686,
+		"english": "I'm at the subway station. Which exit should I take to get to Seoul Apartment?",
+		"question": "저는 지하철역에 있습니다. 서울아파트에 가려면 몇 번 출구로 나가야 합니까?",
+		"choices": ["1번", "3번", "6번", "8번"],
+		"answer": "6번",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading325.jpg"
+	},
+	{
+		"id": 687,
+		"english": "We investigated Korean foods that foreign people like. What Korean food do foreigners like the most?",
+		"question": "외국 사람들이 좋아하는 한국 음식을 조사했습니다. 외국 사람들이 가장 좋아하는 한국 음식은 무엇입니까?",
+		"choices": ["갈비", "김밥", "불고기", "김치찌개"],
+		"answer": "불고기",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading326.jpg"
+	},
+	{
+		"id": 688,
+		"english": "The following table shows Mr. Musik's phone call volume. What day of the week do you use your phone the most?",
+		"question": "다음 표는 무지크 씨의 전화 통화량을 나타낸 것입니다. 전화를 가장 많이 사용한 요일은 언제입니까?",
+		"choices": ["월요일", "수요일", "금요일", "일요일"],
+		"answer": "금요일",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading327.jpg"
+	},
+	{
+		"id": 689,
+		"english": "I'm trying to exchange foreign money into Korean money at the bank. Where do I have to go?",
+		"question": "은행에서 외국 돈을 한국 돈으로 바꾸려고 합니다. 어디로 가야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading328.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading329.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading330.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading331.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading331.jpg",
+		"image": ""
+	},
+	{
+		"id": 690,
+		"english": "The following is a signboard showing the hospital's operating hours. At which of the following times can you get medical care?",
+		"question": "다음은 병원의 진료 시간 안내판입니다. 다음 중 진료를 받을 수 있는 시간은 언제입니까?",
+		"choices": ["월요일 오전 9시", "목요일 오후 8시", "토요일 오후 1시", "일요일 오후 2시"],
+		"answer": "토요일 오후 1시",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading332.jpg"
+	},
+	{
+		"id": 691,
+		"english": "Below is the bus route information board. I am now at the ‘Sungshin Women’s University entrance’. How many buses do I need to take to get to Gwanghwamun?",
+		"question": "다음은 버스 노선 안내판입니다. 저는 지금 '성신여대입구'에 있습니다. 광화문에 가려면 몇 번 버스를 타야 합니까?",
+		"choices": ["103번", "106번", "161번", "172번"],
+		"answer": "161번",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading333.jpg"
+	},
+	{
+		"id": 692,
+		"english": "This is Ichon Subway Station. Which exit should I take to get to the National Museum of Korea?",
+		"question": "여기는 지하철 이촌역입니다. 국립중앙박물관에 가려면 몇 번 출구로 나가야 합니까?",
+		"choices": ["1번 출구", "2번 출구", "3번 출구", "4번 출구"],
+		"answer": "2번 출구",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading334.gif"
+	},
+	{
+		"id": 693,
+		"english": "I'm thinking of buying a wallet to give as a gift to a friend. Which exit should I take?",
+		"question": "친구에게 선물할 지갑을 사려고 합니다. 몇 번 출구로 나가야 합니까?",
+		"choices": ["1번 출구", "2번 출구", "3번 출구", "4번 출구"],
+		"answer": "4번 출구",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading335.jpg"
+	},
+	{
+		"id": 694,
+		"english": "I'm going to the post office to send a package. How should I get there?",
+		"question": "소포를 보내러 우체국에 가려고 합니다. 어떻게 가야 합니까?",
+		"choices": ["앞으로 똑바로 갑니다", "여기에서 오른쪽으로 갑니다", "300m 가서 왼쪽으로 갑니다", "300m 가서 오른쪽으로 갑니다"],
+		"answer": "300m 가서 오른쪽으로 갑니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading336.jpg"
 	}
 ]
