@@ -5526,5 +5526,149 @@
 		"choices": ["앞으로 똑바로 갑니다", "여기에서 오른쪽으로 갑니다", "300m 가서 왼쪽으로 갑니다", "300m 가서 오른쪽으로 갑니다"],
 		"answer": "300m 가서 오른쪽으로 갑니다",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading336.jpg"
+	},
+	{
+		"id": 695,
+		"english": "Next is the ATM. Which one should I press to find out how much money I have in my account?",
+		"question": "다음은 현금 입출금기입니다. 통장에 돈이 얼마나 있는지 알아보려면 어느 것을 눌러야 합니까?",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading338.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading339.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading340.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading341.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading341.jpg",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading337.jpg"
+	},
+	{
+		"id": 696,
+		"english": "The following is a survey of the working hours of foreign workers living in the Gyeongsangnam-do region. Select the statement that does not fit the table.",
+		"question": "다음은 경상남도 지역에 살고 있는 외국인 근로자들의 일하는 시간을 조사한 것입니다. 표에 대한 설명으로 맞지  않는  것을 고르십시오.",
+		"choices": ["하루에 10시간 이상 일하는 사람이 70%쯤 됩니다", "하루에 8시간 이하로 일을 하는 사람은 8%뿐입니다", "이 지역의 근로자 중 절반이 하루에 8시간 일을 합니다", "이 지역의 근로자 중 30%쯤이 하루의 반 이상을 일합니다"],
+		"answer": "이 지역의 근로자 중 절반이 하루에 8시간 일을 합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading342.jpg"
+	},
+	{
+		"id": 697,
+		"english": "After work, I'm going to visit my friend who lives in Kukje Apartments. Which exit should I take from the subway station?",
+		"question": "퇴근 후에 국제아파트에 살고 있는 친구네 집을 찾아가려고 합니다. 지하철역에서 몇 번 출구로 나가야 합니까?",
+		"choices": ["1번 출구", "2번 출구", "3번 출구", "4번 출구"],
+		"answer": "2번 출구",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading343.jpg"
+	},
+	{
+		"id": 698,
+		"english": "Below are the flights available to travel from Korea to Indonesia. Which airline should I fly for the cheapest price?",
+		"question": "다음은 한국에서 인도네시아에 갈 때 이용할 수 있는 항공편입니다. 가장 싼 값으로 가려면 어떤 항공사를 이용해야 합니까?",
+		"choices": ["A항공사", "B항공사", "C항공사", "D항공사"],
+		"answer": "D항공사",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading344.png"
+	},
+	{
+		"id": 699,
+		"english": "The following is a survey of difficult problems faced by seniors aged 65 and older. What are the most difficult problems for older people?",
+		"question": "다음은 65세 이상의 노인들이 겪는 어려운 문제들을 조사한 것입니다. 노인들에게 가장 어려운 문제는 무엇입니까?",
+		"choices": ["몸이 아픈 것", "돈이 부족한 것", "친구가 없는 것", "할 일이 없는 것"],
+		"answer": "돈이 부족한 것",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading345.jpg"
+	},
+	{
+		"id": 700,
+		"english": "The following is a survey of what office workers like to do on the weekend. What do office workers like to do most on the weekend?",
+		"question": "다음은 직장인들이 주말에 하고 싶어하는 일을 조사한 것입니다. 직장인들이 주말에 가장 하고 싶어하는 것은 무엇입니까?",
+		"choices": ["집에서 쉬는 것", "여행을 가는 것", "운동을 하는 것", "컴퓨터를 배우는 것"],
+		"answer": "여행을 가는 것",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading346.jpg"
+	},
+	{
+		"id": 701,
+		"english": "The following table shows Youngsu’s mobile phone usage time. How long did Youngsu use his cell phone on Saturday?",
+		"question": "다음 표는 영수 씨의 휴대전화 사용 시간을 나타낸 것입니다. 영수 씨는 토요일에 얼마동안 휴대전화를 사용했습니까?\n<휴대전화 사용 시간>",
+		"choices": ["5분", "10분", "20분", "2시간"],
+		"answer": "20분",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading347.gif"
+	},
+	{
+		"id": 702,
+		"english": "The following is a table showing the number of books sold in a bookstore in a year. When do people buy the most books?",
+		"question": "다음은 1년 동안 어느 책방에서 팔린 책의 수를 나타낸 표입니다. 사람들이 언제 책을 가장 많이 샀습니까?",
+		"choices": ["봄", "여름", "가을", "겨울"],
+		"answer": "여름",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading348.jpg"
+	},
+	{
+		"id": 703,
+		"english": "Below is the information board for the train arriving at Yongsan. What did I describe incorrectly?",
+		"question": "다음은 용산에 도착하는 열차 안내판입니다.  잘못  설명한 것은 무엇입니까?",
+		"choices": ["가장 빨리 도착할 열차는 목포에서 출발한 KTX입니다", "목포-용산 간 무궁화호 열차는 제시간에 도착하겠습니다", "여수-용산 간 무궁화호 열차는 오후 3시에 출발했습니다", "장항-용산 간 새마을호 열차는 오후 7시 이후에 도착합니다"],
+		"answer": "여수-용산 간 무궁화호 열차는 오후 3시에 출발했습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading349.jpg"
+	},
+	{
+		"id": 704,
+		"english": "Where did this person arrive?",
+		"question": "이 사람이 도착한 곳은 어디입니까?\n저는 지금 ≪현재 위치≫에 있습니다. 여기서 똑바로 걸어가다가 사거리에서 오른쪽으로 갔습니다. 그리고 아파트 앞에서 횡단보도를 건넜습니다.",
+		"choices": ["교회", "병원", "학교", "우체국"],
+		"answer": "병원",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading350.jpg"
+	},
+	{
+		"id": 705,
+		"english": "The following is the hospital treatment schedule. On what days of the week can I get treatment at 7 PM?",
+		"question": "다음은 병원 진료 시간표입니다. 오후 7시에 진료를 받을 수 있는 요일은 무슨 요일입니까?",
+		"choices": ["월요일", "수요일", "토요일", "일요일"],
+		"answer": "수요일",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading351.png"
+	},
+	{
+		"id": 706,
+		"english": "The following is Youngsu’s Saturday schedule. What does Youngsu do before dinner?",
+		"question": "다음은 영수의 토요일 일과표입니다. 영수는 저녁 식사를 하기 전에 무엇을 합니까?",
+		"choices": ["운동을 합니다", "낮잠을 잡니다", "컴퓨터를 삽니다", "텔레비전을 봅니다"],
+		"answer": "운동을 합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading352.jpg"
+	},
+	{
+		"id": 707,
+		"english": "The following is Youngsu’s Saturday schedule. What does Youngsu do before dinner?",
+		"question": "다음은 건물의 안내판입니다. 이 건물 안에서 할 수  없는  일은 무엇입니까?",
+		"choices": ["집을 구하는 일", "머리를 자르는 일", "편지를 부치는 일", "이 치료를 받는 일"],
+		"answer": "편지를 부치는 일",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading353.png"
+	},
+	{
+		"id": 708,
+		"english": "We investigated tourist destinations in Korea that foreigners like. What is the most popular tourist destination in Korea for foreigners?",
+		"question": "외국인이 좋아하는 한국의 관광지를 조사했습니다. 외국인이 가장 좋아하는 한국의 관광지는 어디입니까?",
+		"choices": ["경주", "부산", "서울", "제주도"],
+		"answer": "서울",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading354.jpg"
+	},
+	{
+		"id": 709,
+		"english": "We looked into the mountains that Koreans like. Which mountain is Korean people's favorite mountain?",
+		"question": "한국인이 좋아하는 산을 조사했습니다. 한국 사람들이 가장 좋아하는 산은 어느 산입니까?\n<한국인이 좋아하는 산(%)>",
+		"choices": ["내장산", "북한산", "지리산", "설악산"],
+		"answer": "설악산",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading355.jpg"
+	},
+	{
+		"id": 710,
+		"english": "The following shows the number of people using the subway in Seoul by day of the week. On what day of the week do people take the subway the least?",
+		"question": "다음은 서울에서 지하철을 이용하는 사람의 수를 요일별로 나타낸 것입니다. 사람들이 지하철을 제일 적게 타는 요일은 언제입니까?",
+		"choices": ["일요일", "월요일", "금요일", "토요일"],
+		"answer": "일요일",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading356.jpg"
+	},
+	{
+		"id": 711,
+		"english": "We asked office workers in their 30s about their summer vacation plans. How many people want to travel abroad?",
+		"question": "30대 회사원들에게 여름 휴가 계획을 물어봤습니다. 외국으로 여행을 가려고 하는 사람은 얼마나 됩니까?",
+		"choices": ["7.6%", "9.2%", "10.2%", "38.8%"],
+		"answer": "7.6%",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading357.jpg"
+	},
+	{
+		"id": 712,
+		"english": "The following is a table surveying the sports that Koreans like. What is Koreans' favorite sport?",
+		"question": "다음은 한국인이 좋아하는 운동을 조사한 표입니다. 한국인이 제일 좋아하는 운동은 무엇입니까?",
+		"choices": ["걷기", "농구", "수영", "축구"],
+		"answer": "축구",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading358.jpg"
 	}
 ]
