@@ -5670,5 +5670,173 @@
 		"choices": ["걷기", "농구", "수영", "축구"],
 		"answer": "축구",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading358.jpg"
+	},
+	{
+		"id": 713,
+		"english": "Please select the one that correctly describes the location of 'Koryo Wedding Hall'.",
+		"question": "'고려예식장'의 위치를 바르게 설명한 것을 고르십시오.",
+		"choices": ["고려예식장은 고려병원과 백병원 사이에 있습니다", "고려예식장은 고려병원과 개금역 사이에 있습니다", "고려예식장은 동의대역과 개금역 사이에 있습니다", "고려예식장은 동의대역과 컴퓨터 상가 사이에 있습니다"],
+		"answer": "고려예식장은 동의대역과 개금역 사이에 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading359.jpg"
+	},
+	{
+		"id": 714,
+		"english": "Next is the Seoul Theater. On which floor can I buy movie tickets?",
+		"question": "다음은 서울극장입니다. 몇 층에서 영화표를 살 수 있습니까?",
+		"choices": ["5층", "3층", "1층", "지하 1층"],
+		"answer": "1층",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading360.png"
+	},
+	{
+		"id": 715,
+		"english": "I'm planning to buy a book. Which floor of this building should I go to?",
+		"question": "책을 사려고 합니다. 이 건물 몇 층에 가야 합니까?",
+		"choices": ["1층", "2층", "3층", "4층"],
+		"answer": "4층",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading361.jpg"
+	},
+	{
+		"id": 716,
+		"english": "I'm going to the police station. How should I get there?",
+		"question": "경찰서에 가려고 합니다. 어떻게 가야 합니까?",
+		"choices": ["사거리에서 유턴합니다", "사거리에서 왼쪽으로 갑니다", "사거리를 지나 똑바로 갑니다", "사거리에서 오른쪽으로 갑니다"],
+		"answer": "사거리에서 왼쪽으로 갑니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading362.jpg"
+	},
+	{
+		"id": 717,
+		"english": "I'm going to the fire station. How should I get there?",
+		"question": "소방서에 가려고 합니다. 어떻게 가야 합니까?",
+		"choices": ["사거리에서 유턴합니다", "사거리에서 왼쪽으로 갑니다", "사거리를 지나 똑바로 갑니다", "사거리에서 오른쪽으로 갑니다"],
+		"answer": "사거리에서 오른쪽으로 갑니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading362.jpg"
+	},
+	{
+		"id": 718,
+		"english": "Below is a signboard for a five-story building. Which floor should I go to learn English or Japanese?",
+		"question": "다음은 5층짜리 건물의 안내 간판입니다. 영어나 일본어를 배우려면 몇 층에 가야 합니까?\n제 일 빌 딩",
+		"choices": ["일 층", "삼 층", "사 층", "오 층"],
+		"answer": "오 층",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading363.png"
+	},
+	{
+		"id": 719,
+		"english": "Below is a signboard for a five-story building. Which floor should I go to buy bread and milk?",
+		"question": "다음은 5층짜리 건물의 안내 간판입니다. 빵과 우유를 사려면 몇 층에 가야 합니까?\n목 영 빌 딩\nINFORMATION",
+		"choices": ["지하 일 층", "일 층", "이 층", "삼 층"],
+		"answer": "일 층",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading364.png"
+	},
+	{
+		"id": 720,
+		"english": "What is missing from this building?",
+		"question": "이 건물에  없는  것은 무엇입니까?",
+		"choices": ["옷을 파는 곳", "약을 파는 곳", "술을 마시는 곳", "머리를 자르는 곳"],
+		"answer": "옷을 파는 곳",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading365.jpg"
+	},
+	{
+		"id": 721,
+		"english": "What's next to the hospital?",
+		"question": "병원 옆에 무엇이 있습니까?",
+		"choices": ["커피숍", "편의점", "미용실", "우체국"],
+		"answer": "우체국",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading366.jpg"
+	},
+	{
+		"id": 722,
+		"english": "Please choose something different from the information in the following instructions.",
+		"question": "다음 안내문의 내용과  다른  것을 고르십시오.",
+		"choices": ["오전 9시 30분에 진료를 시작합니다", "일요일에도 진료를 받을 수 있습니다", "평일은 오후 6시 30분까지 진료를 합니다", "토요일에는 4시 전에 병원에 가야 합니다"],
+		"answer": "일요일에도 진료를 받을 수 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading367.jpg"
+	},
+	{
+		"id": 723,
+		"english": "The following is a hospital notice. At which of the following times can you get medical care?",
+		"question": "다음은 병원 안내문입니다. 다음 중 진료를 받을 수 있는 시간은 언제입니까?",
+		"choices": ["월요일 오후 7시", "화요일 오후 1시", "토요일 오전 11시", "일요일 오전 10시"],
+		"answer": "토요일 오전 11시",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading368.jpg"
+	},
+	{
+		"id": 724,
+		"english": "Below is a signboard for a department store. Which floor should I go to buy my mother's clothes?",
+		"question": "다음은 어느 백화점의 안내판입니다. 어머니의 옷을 사려면 몇 층에 가야 합니까?",
+		"choices": ["1층", "2층", "3층", "4층"],
+		"answer": "2층",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading369.png"
+	},
+	{
+		"id": 725,
+		"english": "How many tickets are you selling now?",
+		"question": "지금 몇 회 표를 팔고 있습니까?",
+		"choices": ["1회", "2회", "3회", "4회"],
+		"answer": "4회",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading370.png"
+	},
+	{
+		"id": 726,
+		"english": "In which month did you spend the least on living expenses?",
+		"question": "생활비를 가장 적게 쓴 달은 언제입니까?",
+		"choices": ["1월", "2월", "3월", "4월"],
+		"answer": "1월",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading371.jpg"
+	},
+	{
+		"id": 727,
+		"english": "The following is a survey of people's New Year's wishes. What do people want most?",
+		"question": "다음은 사람들의 새해 소망을 조사한 것입니다. 사람들이 가장 바라는 것은 무엇입니까?",
+		"choices": ["자기 자신의 능력을 높이는 것", "아프지 않고 건강하게 사는 것", "돈을 많이 벌어 부자가 되는 것", "가족과 편안하고 행복하게 사는 것"],
+		"answer": "가족과 편안하고 행복하게 사는 것",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading372.jpg"
+	},
+	{
+		"id": 728,
+		"english": "I'm planning to go to a Gangnam restaurant. How should I get there?",
+		"question": "강남식당을 찾아 가려고 합니다. 어떻게 가야 합니까?",
+		"choices": ["논현역 사거리 5번 출구로 나와서 신사역 쪽으로 갑니다", "논현역 사거리 7번 출구로 나와서 강남역 쪽으로 갑니다", "논현역 사거리 1번 출구로 나와서 가구거리 쪽으로 갑니다", "논현역 사거리 5번 출구로 나와서 고속터미널 쪽으로 갑니다"],
+		"answer": "논현역 사거리 5번 출구로 나와서 고속터미널 쪽으로 갑니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading373.jpg"
+	},
+	{
+		"id": 729,
+		"english": "We investigated how office workers relieve stress. How many people relieve stress by reading books?",
+		"question": "직장인들이 어떻게 스트레스를 푸는지 조사했습니다. 책을 읽으면서 스트레스를 푸는 사람은 얼마나 됩니까?",
+		"choices": ["8%", "15%", "19%", "23%"],
+		"answer": "15%",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading374.jpg"
+	},
+	{
+		"id": 730,
+		"english": "The following is Mr. Wang Lihong's timetable. Choose the one that fits the description.",
+		"question": "다음은 왕리홍 씨의 시간표입니다. 맞게 설명한 것을 고르십시오.",
+		"choices": ["수요일마다 한국 영화를 봅니다", "일주일에 한 번 한국 영화를 봅니다", "한국어 수업은 오후 한 시에 끝납니다", "일주일에 다섯 번 한국말 수업을 받습니다"],
+		"answer": "한국어 수업은 오후 한 시에 끝납니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading375.png"
+	},
+	{
+		"id": 731,
+		"english": "Where is the ‘movie theater’?",
+		"question": "'영화관'은 어디에 있습니까?",
+		"choices": ["병원 옆에 있습니다", "약국 옆에 있습니다", "서점 옆에 있습니다", "식당 옆에 있습니다"],
+		"answer": "서점 옆에 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading376.jpg"
+	},
+	{
+		"id": 732,
+		"english": "I plan to watch a movie after 6 PM. How many tickets should I buy?",
+		"question": "오후 6시 이후에 영화를 보려고 합니다. 몇 회 표를 사야 합니까?",
+		"choices": ["2회", "4회", "5회", "6회"],
+		"answer": "6회",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading377.png"
+	},
+	{
+		"id": 733,
+		"english": "This is the subway City Hall Station. Which exit should I take to get to Seoul City Hall?",
+		"question": "여기는 지하철 시청역입니다. 서울시청에 가려면 몇 번 출구로 나가야 합니까?",
+		"choices": ["1번 출구", "2번 출구", "3번 출구", "4번 출구"],
+		"answer": "2번 출구",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading378.jpg"
 	}
 ]
