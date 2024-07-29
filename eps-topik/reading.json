@@ -5838,5 +5838,229 @@
 		"choices": ["1번 출구", "2번 출구", "3번 출구", "4번 출구"],
 		"answer": "2번 출구",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading378.jpg"
+	},
+	{
+		"id": 734,
+		"english": "Here is a map of Korea. Where is this person from?",
+		"question": "다음은 한국 지도입니다. 이 사람의 고향은 어디입니까?\n제 고향은 한국의 제일 남쪽에 있습니다. 그래서 겨울에도 별로 춥지 않습니다. 동서남북이 모두 바다이고, 경치가 매우 아름답습니다. 제 고향에 오려면 비행기나 배를 타야 합니다.",
+		"choices": ["울릉도", "제주도", "전라남도", "경상남도"],
+		"answer": "제주도",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading379.jpg"
+	},
+	{
+		"id": 735,
+		"english": "Select the incorrect description of this dormitory facility.",
+		"question": "이 기숙사 시설에 대한 설명으로 맞지  않는  것을 고르십시오.",
+		"choices": ["컴퓨터실에서는 음식을 먹으면 안 됩니다", "휴게실 안에서 텔레비전을 볼 수 있습니다", "세탁기를 사용할 때마다 돈을 내야 합니다", "이 기숙사에는 공동 샤워실이 하나 있습니다"],
+		"answer": "이 기숙사에는 공동 샤워실이 하나 있습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading380.png"
+	},
+	{
+		"id": 736,
+		"english": "Below is a table showing the number of people who visited the museum from January to June. In which month did the most people visit the museum?",
+		"question": "다음은 1월부터 6월까지 박물관을 관람한 사람의 수를 나타낸 표입니다. 사람들이 박물관을 가장 많이 방문한 달은 언제입니까?",
+		"choices": ["3월", "4월", "5월", "6월"],
+		"answer": "5월",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading381.jpg"
+	},
+	{
+		"id": 737,
+		"english": "Here is the pay stub I received this month. How much did I actually receive?",
+		"question": "다음은 제가 이번 달에 받은 월급 명세표입니다. 제가 실제로 받은 돈은 얼마입니까?",
+		"choices": ["124,385원", "900,000원", "1,375,615원", "1,500,000원"],
+		"answer": "1,375,615원",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading382.png"
+	},
+	{
+		"id": 738,
+		"english": "Here is a packet of medicine. How many times a day should Kim Ji-soo take her medicine?",
+		"question": "다음은 약 봉투입니다. 김지수 씨는 하루에 약을 몇 번 먹어야 합니까?",
+		"choices": ["한 번", "두 번", "세 번", "네 번"],
+		"answer": "세 번",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading383.png"
+	},
+	{
+		"id": 739,
+		"english": "How much is a bowl of bibimbap?",
+		"question": "비빔밥은 한 그릇에 얼마입니까?",
+		"choices": ["1,000원", "5,000원", "10,000원", "11,000원"],
+		"answer": "5,000원",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading384.jpg"
+	},
+	{
+		"id": 740,
+		"english": "Select the statement in the table below that is misunderstood.",
+		"question": "다음 표의 내용을  잘못  이해한 것을 고르십시오.",
+		"choices": ["이 열차의 요금은 33,300원입니다", "이 열차로 목적지까지 14시간 걸립니다", "이 열차는 오전 11시에 용산역을 떠납니다", "이 열차는 오후 2시에 광주역에 도착합니다"],
+		"answer": "이 열차로 목적지까지 14시간 걸립니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading385.jpg"
+	},
+	{
+		"id": 741,
+		"english": "The following table shows the alien registration procedures that foreigners must complete after arriving in Korea. Select the statement that incorrectly describes the contents of the table.",
+		"question": "다음은 외국인이 한국에 온 후에 해야 하는 외국인 등록 절차를 나타낸 표입니다. 표의 내용을  잘못  설명한 것을 고르십시오.",
+		"choices": ["등록할 때는 돈이 들지 않습니다. 무료입니다", "출입국관리사무소나 출장소에 가서 등록합니다", "등록할 때 컬러 사진 두 장과 여권이 필요합니다", "한국에 도착한 날로부터 90일 안에 등록해야 합니다"],
+		"answer": "등록할 때는 돈이 들지 않습니다. 무료입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading386.jpg"
+	},
+	{
+		"id": 742,
+		"english": "Who among the following can buy something at a Korean department store with this gift certificate?",
+		"question": "다음 중 이 상품권 한 장으로 한국백화점에서 물건을 살 수 있는 사람은 누구입니까?",
+		"choices": ["영수：2007년 8월에 7만 원짜리 구두를 삽니다", "미희：2007년 8월에 8만 원짜리 치마를 삽니다", "철수：2007년 9월에 7만 원짜리 바지를 삽니다", "미영：2007년 9월에 8만 원짜리 가방을 삽니다"],
+		"answer": "영수：2007년 8월에 7만 원짜리 구두를 삽니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading387.jpg"
+	},
+	{
+		"id": 743,
+		"english": "There was a sign on an item I bought at the market that said this. What does this sign mean?",
+		"question": "시장에서 산 물건에 다음과 같은 표지가 붙어 있었습니다. 이 표지가 나타내는 뜻은 무엇입니까?",
+		"choices": ["이것은 깨지기 쉬운 물건입니다", "이것은 외국에서 수입한 물건입니다", "이것은 검사에서 합격한 품질이 좋은 물건입니다", "이것은 백화점에서만 살 수 있는 비싼 물건입니다"],
+		"answer": "이것은 검사에서 합격한 품질이 좋은 물건입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading388.jpg"
+	},
+	{
+		"id": 744,
+		"english": "What does this sign mean?",
+		"question": "이 표지가 나타내는 뜻은 무엇입니까?",
+		"choices": ["물세탁을 하지 말고 드라이클리닝을 해야 합니다", "깨지기 쉬운 물건이므로 주의해서 다루어야 합니다", "외국에서 만들어서 한국으로 수입된 좋은 물건입니다", "한국 정부에서 정한 표준 규격을 지킨 우수한 제품입니다"],
+		"answer": "한국 정부에서 정한 표준 규격을 지킨 우수한 제품입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading389.gif"
+	},
+	{
+		"id": 745,
+		"english": "Here is a plane ticket. Where does this plane go?",
+		"question": "다음은 비행기 표입니다. 이 비행기는 어디까지 갑니까?",
+		"choices": ["김포", "인천", "부산", "제주"],
+		"answer": "제주",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading390.jpg"
+	},
+	{
+		"id": 746,
+		"english": "Where does this train depart from?",
+		"question": "이 기차는 어디에서 출발합니까?",
+		"choices": ["춘천", "순천", "익산", "용산"],
+		"answer": "용산",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading391.jpg"
+	},
+	{
+		"id": 747,
+		"english": "How much did all the things this person buy cost?",
+		"question": "이 사람이 산 물건의 값은 모두 얼마입니까?",
+		"choices": ["3,000원", "35,000원", "37,000원", "40,000원"],
+		"answer": "37,000원",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading392.jpg"
+	},
+	{
+		"id": 748,
+		"english": "Here is the receipt. How much change did this person receive?",
+		"question": "다음은 영수증입니다. 이 사람은 거스름돈을 얼마 받았습니까?",
+		"choices": ["1,800원", "4,300원", "5,700원", "10,000원"],
+		"answer": "5,700원",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading393.png"
+	},
+	{
+		"id": 749,
+		"english": "Choose the one that does not match the description below.",
+		"question": "다음을 설명한 것으로 맞지  않는  것을 고르십시오.",
+		"choices": ["이 사람은 만 원짜리 한 장을 냈습니다", "이 사람이 물건을 산 날은 10월 1일입니다", "이 사람은 치약과 비누와 라면을 샀습니다", "이 사람은 4,500원어치의 물건을 샀습니다"],
+		"answer": "이 사람은 4,500원어치의 물건을 샀습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading394.png"
+	},
+	{
+		"id": 750,
+		"english": "Where does this person get off?",
+		"question": "이 사람은 어디에서 내립니까?",
+		"choices": ["서울", "부산", "대구", "동대구"],
+		"answer": "서울",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading395.png"
+	},
+	{
+		"id": 751,
+		"english": "Choose the one that does not match the information in the table below.",
+		"question": "다음 표의 내용과 맞지  않는  것을 고르십시오.",
+		"choices": ["압둘 씨는 일반석 표를 샀습니다", "압둘 씨는 표를 한 장 예매했습니다", "압둘 씨는 비행기로 대구까지 갑니다", "압둘 씨는 3월 26일에 서울에서 출발합니다"],
+		"answer": "압둘 씨는 표를 한 장 예매했습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading396.jpg"
+	},
+	{
+		"id": 752,
+		"english": "Here is the train schedule. How many hours does it take to get from Cheongnyangni to Andong by this train?",
+		"question": "다음은 기차표입니다. 이 기차로 가면 청량리에서 안동까지 몇 시간쯤 걸립니까?",
+		"choices": ["두 시간쯤", "세 시간쯤", "네 시간쯤", "다섯 시간쯤"],
+		"answer": "네 시간쯤",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading397.png"
+	},
+	{
+		"id": 753,
+		"english": "Which of the following statements about the table below is correct?",
+		"question": "다음 표에 대한 설명으로 맞는 것은 무엇입니까?",
+		"choices": ["시덴 씨는 일반석 표를 샀습니다", "시덴 씨는 표를 세 장 예매했습니다", "시덴 씨는 부산에서 서울까지 갑니다", "시덴 씨는 7월 30일에 서울에서 출발합니다"],
+		"answer": "시덴 씨는 부산에서 서울까지 갑니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading398.jpg"
+	},
+	{
+		"id": 754,
+		"english": "Below is a table showing flight reservation status. Choose the correct explanation for the table.",
+		"question": "다음은 비행기 예약 상황을 나타낸 표입니다. 표에 대한 설명으로 바른 것을 고르십시오.",
+		"choices": ["6월 19일에 서울에서 출발합니다", "6월 14일 일반석 두 자리를 예약했습니다", "6월 19일 1시 20분에 도쿄에 도착합니다", "서울-도쿄 간의 왕복 비행기 표를 예약했습니다"],
+		"answer": "서울-도쿄 간의 왕복 비행기 표를 예약했습니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading399.png"
+	},
+	{
+		"id": 755,
+		"english": "Choose the correct explanation for the table below.",
+		"question": "다음 표에 대한 설명으로 바른 것을 고르십시오.",
+		"choices": ["지하철 이용 요금표입니다", "어른은 1,200원을 내야 합니다", "아이와 어른의 요금은 같습니다", "13세 이상의 학생은 2,500원을 내야 합니다"],
+		"answer": "13세 이상의 학생은 2,500원을 내야 합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading400.jpg"
+	},
+	{
+		"id": 756,
+		"english": "Choose the correct description for the following schedule.",
+		"question": "다음 운행표에 대한 설명으로 맞는 것을 고르십시오.",
+		"choices": ["부산에서 밤 10시 반에 출발합니다", "후쿠오카에는 다음 날 저녁 6시에 도착합니다", "부산에서 후쿠오카까지의 요금은 18만 원입니다", "이것은 부산에서 후쿠오카까지 가는 기차 시간표입니다"],
+		"answer": "부산에서 밤 10시 반에 출발합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading401.jpg"
+	},
+	{
+		"id": 757,
+		"english": "Below is the dormitory menu. Choose the incorrect description.",
+		"question": "다음은 기숙사 식단표입니다. 바른 설명이  아닌  것을 고르십시오.",
+		"choices": ["일주일에 6일만 식사를 제공합니다", "일요일 아침에는 양식을 제공합니다", "주 메뉴는 밥과 여러 가지 반찬입니다", "기숙사에서 하루에 두 끼만 제공합니다"],
+		"answer": "일주일에 6일만 식사를 제공합니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading402.png"
+	},
+	{
+		"id": 758,
+		"english": "Choose the incorrect description of the following pay stub.",
+		"question": "다음 월급 명세서에 대한 설명으로 맞지  않는  것을 고르십시오.",
+		"choices": ["이 사람이 낸 세금은 모두 692,800원입니다", "이 사람은 소득세, 주민세, 건강보험료를 냅니다", "이 사람이 실제로 받은 돈은 1,076,060원입니다", "이 사람은 월급을 2005년 11월 20일에 받았습니다"],
+		"answer": "이 사람이 낸 세금은 모두 692,800원입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading403.jpg"
+	},
+	{
+		"id": 759,
+		"english": "Choose the correct description of the following schedule.",
+		"question": "다음 일과표에 대한 설명으로 맞는 것을 고르십시오.",
+		"choices": ["이 사람은 하루에 7시간 잡니다", "이 사람은 하루에 10시간 이상 공부합니다", "이 사람은 쉴 틈 없이 하루 종일 일합니다", "이 사람은 하루의 대부분을 봉사하는 데 씁니다"],
+		"answer": "이 사람은 하루에 7시간 잡니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading404.png"
+	},
+	{
+		"id": 760,
+		"english": "Choose the statement that does not match the description in the table below.",
+		"question": "다음 표에 대한 설명으로 맞지  않는  것을 고르십시오.",
+		"choices": ["이 옷은 면 100%로 만든 옷입니다", "이 옷은 30℃ 물에서 손으로 세탁해야 합니다", "이 옷은 키가 110cm인 사람이 입는 옷입니다", "이 옷은 세탁 후 옷걸이에 걸어서 그늘에서 말려야 합니다"],
+		"answer": "이 옷은 키가 110cm인 사람이 입는 옷입니다",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading405.jpg"
+	},
+	{
+		"id": 761,
+		"english": "What sign is related to the following text?",
+		"question": "다음 글과 관계 있는 표지판은 무엇입니까?\n여기는 아무나 들어올 수 없습니다. 이곳에서 일하는 직원만 들어올 수 있습니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading406.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading407.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading408.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading409.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading408.jpg",
+		"image": ""
 	}
 ]
