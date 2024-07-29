@@ -6062,5 +6062,13 @@
 		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading406.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading407.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading408.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading409.jpg"],
 		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading408.jpg",
 		"image": ""
+	},
+	{
+		"id": 762,
+		"english": "Which sign is related to the following text?",
+		"question": "다음 글과 관계가 있는 표지판은 무엇입니까?\n전기 작업을 할 때 몸이나 손이 물에 젖어 있으면 아주 위험합니다. 젖은 손으로 전기 기구나 기계를 만지면 감전 사고가 날 수 있으므로 주의해야 합니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading410.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading411.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading412.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading413.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading413.jpg",
+		"image": ""
 	}
 ]
