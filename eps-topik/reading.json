@@ -6290,7 +6290,7 @@
 	{
 		"id": 790,
 		"english": "The following are the actions to take when using an indoor fire extinguisher in the event of a fire. Which of the following pictures is in the correct order?",
-		"question": "다음은 화재 발생 시 옥내 소화전을 사용하는 행동 요령입니다. 그림을 순서대로 바르게 나열한 것은 무엇입니까?",
+		"question": "다음은 화재 발생 시 옥내 소화전을 사용하는 행동 요령입니다. 그림을 순서대로 바르게 나열한 것은 무엇입니까?\n1. 호스를 꺼냅니다. ⇒  2. 밸브를 엽니다. ⇒  3. 불이 난 곳으로 갑니다.  ⇒  4. 물을 뿌립니다.",
 		"choices": ["가 ⇒ 나 ⇒ 다 ⇒ 라", "가 ⇒ 라 ⇒ 다 ⇒ 나", "가 ⇒ 다 ⇒ 라 ⇒ 나", "가 ⇒ 라 ⇒ 나 ⇒ 다"],
 		"answer": "가 ⇒ 다 ⇒ 라 ⇒ 나",
 		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading596.png"
@@ -6302,5 +6302,61 @@
 		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading597.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading598.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading599.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading600.jpg"],
 		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading599.jpg",
 		"image": ""
+	},
+	{
+		"id": 792,
+		"english": "Choose the picture that best matches the text below.",
+		"question": "다음 글과 관계가 있는 그림을 고르십시오.\n시너, 솔벤트 등의 유기용제를 사용해 페인트칠 등의 작업을 할 경우에는 강한 냄새에 중독될 수 있습니다. 그러므로 반드시 마스크를 쓰고 작업해야 하며 자주 환기를 해 주어야 합니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading601.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading602.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading603.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading604.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading604.jpg",
+		"image": ""
+	},
+	{
+		"id": 793,
+		"english": "Which of the following signs is not related to the content?",
+		"question": "다음 내용과 관계가  없는  표지판은 무엇입니까?\n우리 공장에서는 기계에 손을 다치는 일이 자주 발생합니다. 회전체, 프레스, 동력 전달부 등에 손이 끼이는 일이 없도록 특별히 조심해야 합니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading605.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading606.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading607.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading608.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading606.jpg",
+		"image": ""
+	},
+	{
+		"id": 794,
+		"english": "Which sign is related to the following content?",
+		"question": "다음 내용과 관계가 있는 표지판은 무엇입니까?\n우리 공장은 바닥이 미끄럽습니다. 그러므로 바닥 청소를 잘 하고, 미끄럼 방지용 신발을 신어야 합니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading609.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading610.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading611.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading612.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading611.jpg",
+		"image": ""
+	},
+	{
+		"id": 795,
+		"english": "Which sign is related to the following text?",
+		"question": "다음 글과 관계가 있는 표지판은 무엇입니까?\n이 기계는 고장입니다. 관리자가 올 때까지 만지지 마십시오.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading613.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading614.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading615.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading616.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading615.jpg",
+		"image": ""
+	},
+	{
+		"id": 796,
+		"english": "Which sign is related to the following text?",
+		"question": "다음 글과 관계가 있는 표지판은 무엇입니까?\n이곳은 지게차가 자주 지나다니는 곳입니다. 지게차에 부딪치지 않도록 조심하시기 바랍니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading617.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading618.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading619.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading620.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading620.jpg",
+		"image": ""
+	},
+	{
+		"id": 797,
+		"english": "Which picture is related to the following text?",
+		"question": "다음 글과 관계가 있는 그림은 무엇입니까?\n안전사고에는 여러 가지가 있습니다. 지게차와 같은 운반 기계를 많이 사용하는 우리 작업장에서는 운반 기계와 고정물 사이에 끼어 다치는 일이 생길 수 있습니다. 그러므로 항상 주의해야 합니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading621.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading622.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading623.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading624.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading624.jpg",
+		"image": ""
+	},
+	{
+		"id": 798,
+		"english": "Choose the picture that best matches the text below.",
+		"question": "다음 글과 관계가 있는 그림을 고르십시오.\n건축, 건설 현장에서는 추락 사고가 많이 발생합니다. 아래 그림과 같은 안전대를 반드시 착용하여 떨어지는 사고를 막아야 합니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading626.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading627.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading628.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading629.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading628.jpg",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading625.jpg"
 	}
 ]
