@@ -6254,5 +6254,53 @@
 		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading579.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading580.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading581.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading582.jpg"],
 		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading582.jpg",
 		"image": ""
+	},
+	{
+		"id": 786,
+		"english": "Choose the picture that best matches the text below.",
+		"question": "다음 글과 관계가 있는 그림을 고르십시오.\n높은 곳에서 일을 할 때는 추락(아래로 떨어짐)의 위험이 있습니다. 그러므로 몸을 보호하는 안전대를 반드시 착용해야 합니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading583.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading584.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading585.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading586.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading583.jpg",
+		"image": ""
+	},
+	{
+		"id": 787,
+		"english": "Choose the picture that best matches the text below.",
+		"question": "다음 글과 관계가 있는 그림을 고르십시오.\n긴 철근을 운반할 때는 두 사람이 함께, 같은 쪽의 어깨에 철근을 메고 운반해야 합니다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading587.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading588.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading589.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading590.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading589.jpg",
+		"image": ""
+	},
+	{
+		"id": 788,
+		"english": "What is the following guide about?",
+		"question": "다음은 무엇에 대한 안내문입니까?\n·황색 신호는 정지 신호입니다.\n·음주 운전을 절대 하지 맙시다.\n·작업장 내에서는 안전 속도를 지킵시다.\n·앞차와 3m 정도의 안전거리를 두고 운행합시다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading591.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading592.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading593.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading594.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading594.jpg",
+		"image": ""
+	},
+	{
+		"id": 789,
+		"english": "What is the following guide about?",
+		"question": "다음은 무엇에 대한 안내문입니까?\n1. 안전핀을 뽑습니다.\n2. 호스를 잡고 불이 난 곳을 향합니다.\n3. 손잡이를 세게 움켜쥐고 불 주위에서부터 뿌립니다.",
+		"choices": ["컴퓨터 사용 방법", "세탁기 사용 방법", "복사기 사용 방법", "소화기 사용 방법"],
+		"answer": "소화기 사용 방법",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading595.jpg"
+	},
+	{
+		"id": 790,
+		"english": "The following are the actions to take when using an indoor fire extinguisher in the event of a fire. Which of the following pictures is in the correct order?",
+		"question": "다음은 화재 발생 시 옥내 소화전을 사용하는 행동 요령입니다. 그림을 순서대로 바르게 나열한 것은 무엇입니까?",
+		"choices": ["가 ⇒ 나 ⇒ 다 ⇒ 라", "가 ⇒ 라 ⇒ 다 ⇒ 나", "가 ⇒ 다 ⇒ 라 ⇒ 나", "가 ⇒ 라 ⇒ 나 ⇒ 다"],
+		"answer": "가 ⇒ 다 ⇒ 라 ⇒ 나",
+		"image": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading596.png"
+	},
+	{
+		"id": 791,
+		"english": "Here is how to use a fire extinguisher in case of a fire. Which of the following pictures is related to the description of ㉯?",
+		"question": "다음은 불이 났을 때 소화기를 사용하는 방법입니다. 다음 중 ㉯의 설명과 관계있는 그림은 무엇입니까?\n㉮ 화재 시 소화기를 들고 불이 난 곳으로 간다.\n㉯  안전핀을 힘껏 뽑는다 .\n㉰ 손잡이를 세게 잡는다.\n㉱ 불이 난 곳을 향해 골고루 뿌린다.",
+		"choices": ["https://soulinmaikadua.github.io/beyou/eps-topik-images/reading597.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading598.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading599.jpg", "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading600.jpg"],
+		"answer": "https://soulinmaikadua.github.io/beyou/eps-topik-images/reading599.jpg",
+		"image": ""
 	}
 ]
